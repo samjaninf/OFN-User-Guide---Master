@@ -1,5 +1,4 @@
-plugins: [
-  "accordion",
-  "collapsible-menu",
-  "videoclips"
-]
+{
+    "plugins": ["accordion", "collapsible-menu", "videoclips"],
+}
+
