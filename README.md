@@ -2,6 +2,10 @@
 
 This short video will give you a brief introduction to how the Open Food Network works, and what it can do for your food business.
 
+[https://youtu.be/eA3IcMUnU14](https://youtu.be/eA3IcMUnU14)
+
+&lt;iframe width="640" height="360" src="https://www.youtube.com/embed/eA3IcMUnU14" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
 ### Set up guides for producers and hubs:
 
 Learn how to get your business set-up on the OFN! These set-up guides will walk you through the steps involved in setting up a profile or online shop on your local OFN platform.
