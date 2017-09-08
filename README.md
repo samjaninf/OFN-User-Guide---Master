@@ -6,6 +6,9 @@ This short video will give you a brief introduction to how the Open Food Network
 
 &lt;iframe width="640" height="360" src="https://www.youtube.com/embed/eA3IcMUnU14" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
+{% youtube %}https://youtu.be/eA3IcMUnU14{% endyoutube %}
+{% youtube %}&lt;iframe width="640" height="360" src="https://www.youtube.com/embed/eA3IcMUnU14" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;{% endyoutube %}
+
 ### Set up guides for producers and hubs:
 
 Learn how to get your business set-up on the OFN! These set-up guides will walk you through the steps involved in setting up a profile or online shop on your local OFN platform.
