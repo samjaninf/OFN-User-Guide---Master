@@ -2,6 +2,9 @@
 
 * [User Guide](README.md)
 * [FAQs](chapter1.md)
+  * [Customer FAQ's TEST](chapter1/customer-faqs-test.md)
+  * [Producer FAQs TEST](chapter1/producer-faqs-test.md)
+  * [Hub FAQ's TEST](chapter1/hub-faqs-test.md)
 * [Customer FAQs](customer-faqs.md)
 * [Producer FAQs](producer-faqs.md)
 * [Hub FAQs](hub-faqs.md)

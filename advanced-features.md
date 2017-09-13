@@ -32,10 +32,10 @@ The producer and hub set-up guides will walk you through the Open Food Network�
   [Read more](/private-shopfront.md)
 * Apply ‘tags’ to your customers and customise their shopping experience with tag rules. Includes restricting availability of shipping and payment methods, products and order cycles.
   [Read more](/customer-accounts-and-tagging.md)
-* Do you want to embed your shop into your own external website? You can do this with embedded shops.
-  Read more
+* Do you want to embed your shop into your own external website? You can do this with embedded shops.  
+  [Read more](/embedded-shopfronts.md)
 
-*  Get setup to print thermally printed receipts \(only available in some countries\).  
+* Get setup to print thermally printed receipts \(only available in some countries\).  
   Read more
 
 ### Collaborating with other enterprises
