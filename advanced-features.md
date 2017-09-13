@@ -1,6 +1,8 @@
-# Advanced Features
+```
+Advanced Features
+```
 
-The [producer](/producer-set-up-guide.md) and [hub](/hubs-set-up-guide.md) set-up guides will walk you through the Open Food Network’s basic features for enterprise users. Once you have familiarised yourself with these basic functionalities you can explore some of the more advanced features here.
+The producer and hub set-up guides will walk you through the Open Food Network’s basic features for enterprise users. Once you have familiarised yourself with these basic functionalities you can explore some of the more advanced features here.
 
 ### Your Profile
 
@@ -30,6 +32,11 @@ The [producer](/producer-set-up-guide.md) and [hub](/hubs-set-up-guide.md) set-u
   [Read more](/private-shopfront.md)
 * Apply ‘tags’ to your customers and customise their shopping experience with tag rules. Includes restricting availability of shipping and payment methods, products and order cycles.
   [Read more](/customer-accounts-and-tagging.md)
+* Do you want to embed your shop into your own external website? You can do this with embedded shops.
+  Read more
+
+*  Get setup to print thermally printed receipts \(only available in some countries\).  
+  Read more
 
 ### Collaborating with other enterprises
 

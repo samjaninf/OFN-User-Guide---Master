@@ -57,4 +57,5 @@
 * [Group Pages](group-pages.md)
 * [Putting your farm on Facebook](putting-your-farm-on-facebook.md)
 * [Facebook Tips](facebook-tips.md)
+* [Embedded Shopfronts](embedded-shopfronts.md)
 
