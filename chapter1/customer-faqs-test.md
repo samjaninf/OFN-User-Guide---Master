@@ -1,7 +1,6 @@
 # Customer FAQs
 
-### What Open Food Network does 
-
+### About Open Food Network
 %accordion%Is the OFN a fruit and vegetable box delivery service?%accordion%
 
 Not exactly. The OFN itself is a website which provides an online directory and ecommerce software to food enterprises. All of the shops on the OFN are independently owned and operated and offer unique products and services to customers. While, some shops might offer mixed fruit and vegetable box deliveries, others might take custom orders, or ask that you collect your purchase from their farm, or market. To find details of how a specific shop operates and what products/services they offer, check out their profile. 
