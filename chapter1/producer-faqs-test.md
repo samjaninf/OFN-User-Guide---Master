@@ -134,6 +134,10 @@ The OFN is operational in Australia and the UK. We have partner organisations ge
 
 Yes, you can select the order that each category of food is displayed in your shop, then within each category the products are displayed alphabetically. For instance, if Meat and Fish are your most important products, you can select to have them show up first, with your secondary Oil and Spreads products below. You can do this in  your profile settings, under‘shopfront category ordering’.
 
+%/accordion%
+
+
+
 %accordion%Why can't I see all of my products in my shopfront?%accordion%
 
 Here’s a few things to check:
@@ -144,18 +148,35 @@ Here’s a few things to check:
   Inventory Hidden
   list?
 
+%/accordion%
+
+
 %accordion%I only want my existing customers to see and be able to shop in my shop, can I make my shop 'member only'?%accordion%
 
 Yes, you can restrict access to your shop to approved customers only. Checkout instructionshere.
+
+%/accordion%
+
 
 %accordion%Why doesn't my profile show up when I filter for producers of meat on the producer listing page?%accordion%
 
 The filter tool on theproducer listing pagehere, allows customers to search for producers of certain product categories \(ie Fruit, or Meat\). The filter tool works by looking at the products that are assigned to each producer’s profile. If a producer has an online shop, their products will already be in the system. But if you only have a profile, this filter tool won’t capture you, until you add some dummy products. Instructions for doing this can be found. Once you have dummy products set up for the product categories that you produce, you’ll be captured by this filter tool.
 
+%/accordion%
+
+
+
 %accordion%How can I tell my customers about how my shop works? Including my delivery terms and conditions etc?%accordion%
 
 There is the option of adding a ‘shopfront message’ to your shop. This message is clearly visible to customers when they visit your shop and you can add as much or as little detail here as you like. Instructions for inserting a ‘shopfront message’ can be found here.
 
+%/accordion%
+
+
+
 %accordion%Can I set a minimum spend amount in my shopfront?%accordion%
 
 OFN doesn’t currently have the option of blocking checkout until a customer’s order reaches a defined threshold. An alternative option is to add a shipping fee with the ‘price sac’ fee calculator. This calculator will apply one fee value if the total is below a given level, and another fee value \(possibly $0\) if the order is over that level.See here.
+
+%/accordion%
+
