@@ -24,9 +24,7 @@ The OFN makes producers visible again, giving them recognition and a fair price,
 
 %accordion%How is the OFN different to other online food delivery services?%accordion%
 
-The OFN is not for profit and committed to building a better and fairer food system. Some online stores still source through conventional supply chains which are shrouded in mystery, but on the OFN you can always see where your food has come from.  The OFN is also contributing to something bigger. The code for the OFN software is free for others to use, so is contributing improving food systems all over the world.
-
-%/accordion%
+The OFN is not for profit and committed to building a better and fairer food system. Some online stores still source through conventional supply chains which are shrouded in mystery, but on the OFN you can always see where your food has come from.  The OFN is also contributing to something bigger. The code for the OFN software is free for others to use, so is contributing improving food systems all over the world. %/accordion%
 ### Placing orders
 
 %accordion%What are order cycles?%accordion%
