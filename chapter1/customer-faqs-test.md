@@ -21,6 +21,12 @@ The OFN makes producers visible again, giving them recognition and a fair price,
 
 %/accordion%
 
+%accordion%Is the OFN affordable?%accordion%
+
+The OFN strives to make good food accessible and affordable to all. By shortening supply chains and bringing transparency back to the table, customers can see where their food is coming from and know they’re getting value for money.
+
+%/accordion%
+
 %accordion%How is the OFN different to other online food delivery services?%accordion%
 
 The OFN is not for profit and committed to building a better and fairer food system. Some online stores still source through conventional supply chains which are shrouded in mystery, but on the OFN you can always see where your food has come from.  The OFN is also contributing to something bigger. The code for the OFN software is free for others to use, so is contributing improving food systems all over the world. 
@@ -71,13 +77,6 @@ The OFN shops are wonderfully diverse, which means that you’re sure to find on
 
 %/accordion%
 ### Other
-
-%accordion%Is the OFN affordable?%accordion%
-
-The OFN strives to make good food accessible and affordable to all. By shortening supply chains and bringing transparency back to the table, customers can see where their food is coming from and know they’re getting value for money.
-
-%/accordion%
-
 %accordion%What are buying groups and how can I join or establish one?%accordion%
 
 A buying group is a collective of customers, who place a bulk order through a shop, then receive and distribute the order amongst members. This might take place in someone’s back shed, or local community space. Buying groups are often not for profit and run by members. By ordering in bulk, and taking on the task of packing and distributing individual orders, members of a buying group can access great produce at lower prices. Joining or starting a buying group with your neighbours or community group can be a great way to access affordable produce and also build  sense of community.
