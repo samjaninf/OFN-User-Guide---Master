@@ -1,6 +1,6 @@
 # Customer FAQs
 
-## What Open Food Network does 
+### What Open Food Network does 
 
 %accordion%Is the OFN a fruit and vegetable box delivery service?%accordion%
 
@@ -27,8 +27,7 @@ The OFN makes producers visible again, giving them recognition and a fair price,
 The OFN is not for profit and committed to building a better and fairer food system. Some online stores still source through conventional supply chains which are shrouded in mystery, but on the OFN you can always see where your food has come from.  The OFN is also contributing to something bigger. The code for the OFN software is free for others to use, so is contributing improving food systems all over the world.
 
 %/accordion%
-
-## Placing orders
+### Placing orders
 
 %accordion%What are order cycles?%accordion%
 
@@ -57,8 +56,7 @@ All online shops on the OFN are independently operated and have different paymen
 You can view your past orders by logging in at the homepage, clicking the cog in the top right hand corner and selecting Account. Here you will see a summary of your orders at each shop and be able to view details of each unique order.
 
 %/accordion%
-
-## The best way to use OFN
+### The best way to use OFN
 
 %accordion%How can customers make the OFN convenient to them%accordion%
 
@@ -73,8 +71,7 @@ Many of us who have grown used to shopping in supermarkets can find shopping at 
 The OFN shops are wonderfully diverse, which means that you’re sure to find one which suits your needs. You can use the OFN map feature on your local OFN site to find enterprises located near to you. Then, check out the profiles of shops to see if the product range and the payment and shipping methods meet your needs. Each shop has links to the profiles of supplying producers, so you can learn about where the food is coming from, and how it was produced. If production characteristics such as organic certification, or free range is important to you, you can choose see which products and shops meet these standards. The OFN is transparent in pricing as well, so you can see how your food dollar is distributed.
 
 %/accordion%
-
-## Other
+### Other
 
 %accordion%Is the OFN affordable?%accordion%
 
@@ -89,8 +86,4 @@ A buying group is a collective of customers, who place a bulk order through a sh
 If a shop delivers to a buying group, ask them about how you can join. Or if you want to start a new buying group, get in touch with a shop to see if it can be accommodated, and talk with your community to get others involved.
 
 %/accordion%
-
-
-
-
 
