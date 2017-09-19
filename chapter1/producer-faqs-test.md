@@ -1,13 +1,7 @@
 # Producer FAQs
 
 ### Our model and what's in it for you?
-%accordion%How can farmers make use of the OFN?%accordion%
-
-The OFN can help farmers access a greater diversity of markets. This can be through direct sales, or through intermediary hubs or retailers, who perform the sales and logistics functions. The OFN enables transparency in the supply chain. Because all food traded on the OFN must be linked to the farmer who produced it, customers can see where their food originated from and how it was produced. In OFN shopfronts, the pricing is also transparent, so customers can see what cut of the sale price went to the producer. Our ultimate goal is fair price to farmers and affordable, good food for eaters.
-
-%/accordion%
-
-%accordion%What's the difference between the OFN and other online store / ecommerce options?%accordion%
+%accordion%Why choose OFN? What's the difference with other online store?%accordion%
 
 We think the OFN is pretty great, and unique to other options out there!
 
@@ -26,36 +20,28 @@ We think the OFN is pretty great, and unique to other options out there!
   
 %/accordion%
 
-%accordion%There's no OFN in out country yet, are we able to get involved with the OFN?%accordion%
+%accordion%How can producers make use of the OFN?%accordion%
+
+The OFN can help producers access a greater diversity of markets. This can be through direct sales, or through intermediary hubs or retailers, who perform the sales and logistics functions. The OFN enables transparency in the supply chain. Because all food traded on the OFN must be linked to the farmer who produced it, customers can see where their food originated from and how it was produced. In OFN shopfronts, the pricing is also transparent, so customers can see what cut of the sale price went to the producer. Our ultimate goal is fair price to farmers and affordable, good food for eaters.
+
+%/accordion%
+
+%accordion%New: How much does OFN costs?%accordion%
+
+%accordion%There's no OFN in our country yet, are we able to get involved with the OFN?%accordion%
 
 The OFN is operational in Australia and the UK. We have partner organisations getting local OFN’s set-up in Norway, South Africa, Germany, France, Canada, India and Brazil. We’re always looking for likeminded and capable international partner organisations to help spread the OFN to more users around the world. If you’re a producer, talk to your local food movement about the OFN to see if it could be a solution for producers in your region.
 
 %/accordion%
 
-
-
-
-
-
-
 ### Is the OFN suitable for you?
-%accordion%I'm a producer and I would like to start selling directly to customers. How can I use the OFN?%accordion%
+%accordion%I'm a producer and I would like to start selling directly to customers.%accordion%
 
 Producers can create a professional and affordable online shop on the OFN, and begin trading direct with customers. An online store is simple to set up, taking just a few hours \(check out theset-up guidefeature list\). As well as the shopfront, an online shop also comes with handy tools which streamline the administration side of operating an online store. Click here for a full.
 
 %/accordion%
 
-
-
-%accordion%I'm thinking of setting up an online store to sell my products which I usually sell through farmers markets, would the OFN be suitable?%accordion%
-
-An OFN online store is a good addition for producers who are already doing direct sales through farmer’s markets. The online store enables customers to order in advance, for a quick pick up at the market, and to access your products outside of market times. Some producers also find that the online store is preferable for hospitality customers who cannot attend markets.
-
-%/accordion%
-
-
-
-%accordion%I'm a producer and I want to sell my products through a hub, how can I go about this?%accordion%
+%accordion%I'm a producer and I want to sell my products through a hub.%accordion%
 
 The OFN aims to facilitate producers and hubs working together and forming networks of food movement and trade. We encourage producers to search for hubs in their area \(on the OFN map\) who could be compatible trading partners \(check out their profiles\). However, the OFN doesn’t play an active role in partnering producers and hubs.
 
@@ -63,35 +49,13 @@ To supply a hub, the producer must have a profile on the OFN and add their produ
 
 %/accordion%
 
+%accordion%I sell through farmers markets and want an online store in addition to this.%accordion%
 
-
-%accordion%I'm already selling my products directly to customers via an online shop, how can I get involved with the OFN?%accordion%
-
-You can create a profile on the OFN which links to your existing store. This will raise the visibility of your farm and allows you to connect with the audience on the OFN.
-
-Check out our feature list page, which describes the full functionalities of an OFN shopfront. Our functions and pricing are competitive, so perhaps you’d consider switching to an OFN store, and being part of the OFN movement.
+An OFN online store is a good addition for producers who are already doing direct sales through farmer’s markets. The online store enables customers to order in advance, for a quick pick up at the market, and to access your products outside of market times. Some producers also find that the online store is preferable for hospitality customers who cannot attend markets.
 
 %/accordion%
 
-
-
-%accordion%We have infrequent and unpredictable surplus stock which we'd like to sell, how could we do this through the OFN%accordion%
-
-Producers with an OFN profile can add products, which hubs can then sell through their OFN shopfronts. If you have irregular surplus stock, you can talk to hubs to arrange for them to stock your produce when you have it on hand.
-
-%/accordion%
-
-
-
-%accordion%We deliver weekly vegie boxes to customers and our orders are currently placed by email. Would the OFN be suitable for us?%accordion%
-
-Yes! With an online store, customers can place their order for your veggie box online. This makes it easier for the customer, and also for you. The reporting functionality of the OFN makes the administration tasks of running a store straightforward, by helping you to track orders, payment and inventory. You can easily view reports summarising the total orders, individual orders and the payment status of each order.
-
-%/accordion%
-
-
-
-%accordion%Our farmer's market is considering setting up an online platform , to allow our customers to shop from our producers outside of market day. How could we use the OFN to do this?%accordion%
+%accordion%Our farmer's market considers an online platform , to allow customers to shop from our producers outside of market day.%accordion%
 
 There are a number of potential paths you could take:
 
@@ -100,6 +64,35 @@ There are a number of potential paths you could take:
    **group page**
    on the OFN. This is an umbrella profile, which can house the profiles and stores of member producers. With a unique URL and landing page, this group site allows for collective marketing and promotions.
 3. Farmer’s market groups who are willing to cooperate and work together can establish a hub. This hub has a single shopfront offering the entire product range of participating producers. Finding a way to coordinate the logistics of incoming and outgoing products can require some creative thinking, but using the farmer’s market days as a chance to aggregate and pack orders is one simple option.
+
+%/accordion%
+
+
+
+
+
+
+%accordion%I already sell my products to customers via an online shop, how can I get involved with the OFN?%accordion%
+
+You can create a profile on the OFN which links to your existing store. This will raise the visibility of your farm and allows you to connect with the audience on the OFN.
+
+Check out our feature list page, which describes the full functionalities of an OFN shopfront. Our functions and pricing are competitive, so perhaps you’d consider switching to an OFN store, and being part of the OFN movement.
+
+**Add embedded shops**
+
+%/accordion%
+
+
+%accordion%We have infrequent and unpredictable surplus stock which we'd like to sell.%accordion%
+
+Producers with an OFN profile can add products, which hubs can then sell through their OFN shopfronts. If you have irregular surplus stock, you can talk to hubs to arrange for them to stock your produce when you have it on hand.
+
+%/accordion%
+
+
+%accordion%We deliver weekly veggie boxes to customers and our orders are currently placed by email.%accordion%
+
+Yes! With an online store, customers can place their order for your veggie box online. This makes it easier for the customer, and also for you. The reporting functionality of the OFN makes the administration tasks of running a store straightforward, by helping you to track orders, payment and inventory. You can easily view reports summarising the total orders, individual orders and the payment status of each order.
 
 %/accordion%
 
@@ -118,15 +111,15 @@ An OFN shop, is like a profile, but it also includes all the functions needed fo
 
 %/accordion%
 
+%accordion%New: How do I create a profile?%accordion%
+%accordion%New: How do I create a shopfront?%accordion%
 
 ###Your product offer and shop
-%accordion%Can I control the order that products are displayed in my shopfront?%accordion%
+%accordion%How do I control the order of products displayed in my shopfront?%accordion%
 
 Yes, you can select the order that each category of food is displayed in your shop, then within each category the products are displayed alphabetically. For instance, if Meat and Fish are your most important products, you can select to have them show up first, with your secondary Oil and Spreads products below. You can do this in  your profile settings, under‘shopfront category ordering’.
 
 %/accordion%
-
-
 
 %accordion%Why can't I see all of my products in my shopfront?%accordion%
 
@@ -141,14 +134,14 @@ Here’s a few things to check:
 %/accordion%
 
 
-%accordion%I only want my existing customers to see and be able to shop in my shop, can I make my shop 'member only'?%accordion%
+%accordion%I only want existing customers to see and to shop in my shop, can I make it 'member only'?%accordion%
 
 Yes, you can restrict access to your shop to approved customers only. Checkout instructionshere.
 
 %/accordion%
 
 
-%accordion%How can I tell my customers about how my shop works? Including my delivery terms and conditions etc?%accordion%
+%accordion%How can I tell my customers about how my shop works and the terms and conditions?%accordion%
 
 There is the option of adding a ‘shopfront message’ to your shop. This message is clearly visible to customers when they visit your shop and you can add as much or as little detail here as you like. Instructions for inserting a ‘shopfront message’ can be found here.
 
@@ -169,7 +162,8 @@ The filter tool on theproducer listing pagehere, allows customers to search for 
 %/accordion%
 
 ###Delivery and payment
-%accordion%How is payment received in an OFN online shop?%accordion%
+%accordion%New: How do I add and delete products?%accordion%
+%accordion%How do payments work?%accordion%
 
 An online store allows producers to sell their produce to customers and collect payment via a number of options. The OFN doesn’t dictate a payment method, and you can use any arrangement that works for you. Current payment options which are integrated into the checkout process include Paypal, Pin Payments and EFTPOS \(through a payment gateway\). Enterprises can also use manual methods including invoicing, cash on collection and direct deposit.
 
@@ -182,7 +176,7 @@ OFN doesn’t currently have the option of blocking checkout until a customer’
 %/accordion%
 
 
-%accordion%Does the OFN provide stores with data about their sales and orders?%accordion%
+%accordion%Can I get data about my shops' sales and orders?%accordion%
 
 Yes, OFN store operators will receive an email each time an order is placed. Additionally, a number of different reports regarding sales are downloadable from your store. This includes reports on unique orders, reports summarising a collection of orders, reports on inventory levels and  customer relationship management reports. Check out our set-up guide for more info onreports.
 
