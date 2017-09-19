@@ -27,6 +27,10 @@ The OFN can help producers access a greater diversity of markets. This can be th
 %/accordion%
 
 %accordion%New: How much does OFN costs?%accordion%
+blabla
+
+%/accordion%
+
 
 %accordion%There's no OFN in our country yet, are we able to get involved with the OFN?%accordion%
 
@@ -112,7 +116,15 @@ An OFN shop, is like a profile, but it also includes all the functions needed fo
 %/accordion%
 
 %accordion%New: How do I create a profile?%accordion%
+blabla
+
+%/accordion%
+
+
 %accordion%New: How do I create a shopfront?%accordion%
+blabla
+%/accordion%
+
 
 ###Your product offer and shop
 %accordion%How do I control the order of products displayed in my shopfront?%accordion%
@@ -163,6 +175,10 @@ The filter tool on theproducer listing pagehere, allows customers to search for 
 
 ###Delivery and payment
 %accordion%New: How do I add and delete products?%accordion%
+blabla
+
+%/accordion%
+
 %accordion%How do payments work?%accordion%
 
 An online store allows producers to sell their produce to customers and collect payment via a number of options. The OFN doesn’t dictate a payment method, and you can use any arrangement that works for you. Current payment options which are integrated into the checkout process include Paypal, Pin Payments and EFTPOS \(through a payment gateway\). Enterprises can also use manual methods including invoicing, cash on collection and direct deposit.
