@@ -4,7 +4,7 @@ Browse these FAQs to find answers to some commonly asked questions from customer
 
 [CUSTOMER FAQS](/customer-faqs-test.md)
 
-[PRODUCER FAQS](producer-faqs-test.md)
+[PRODUCER FAQS](/producer-faqs-test.md)
 
 [HUB FAQS](/hub-faqs-test.md)
 
