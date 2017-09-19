@@ -117,13 +117,16 @@ An OFN shop, is like a profile, but it also includes all the functions needed fo
 %/accordion%
 
 %accordion%New: How do I create a profile?%accordion%
+
 blabla
 
 %/accordion%
 
 
 %accordion%New: How do I create a shopfront?%accordion%
+
 blabla
+
 %/accordion%
 
 
@@ -176,6 +179,7 @@ The filter tool on theproducer listing pagehere, allows customers to search for 
 
 ###Delivery and payment
 %accordion%New: How do I add and delete products?%accordion%
+
 blabla
 
 %/accordion%
