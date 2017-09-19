@@ -1,7 +1,7 @@
 # Producer FAQs
 
 ### Our model and what's in it for you?
-%accordion%Why choose OFN? What's the difference with other online store?%accordion%
+%accordion%Why choose OFN? What's the difference with other online stores?%accordion%
 
 We think the OFN is pretty great, and unique to other options out there!
 
