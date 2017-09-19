@@ -131,6 +131,13 @@ blabla
 
 
 ###Your product offer and shop
+%accordion%New: How do I add and delete products?%accordion%
+
+blabla
+
+%/accordion%
+
+
 %accordion%How do I control the order of products displayed in my shopfront?%accordion%
 
 Yes, you can select the order that each category of food is displayed in your shop, then within each category the products are displayed alphabetically. For instance, if Meat and Fish are your most important products, you can select to have them show up first, with your secondary Oil and Spreads products below. You can do this in  your profile settings, under‘shopfront category ordering’.
@@ -178,11 +185,6 @@ The filter tool on theproducer listing pagehere, allows customers to search for 
 %/accordion%
 
 ###Delivery and payment
-%accordion%New: How do I add and delete products?%accordion%
-
-blabla
-
-%/accordion%
 
 %accordion%How do payments work?%accordion%
 
