@@ -27,6 +27,7 @@ The OFN can help producers access a greater diversity of markets. This can be th
 %/accordion%
 
 %accordion%New: How much does OFN costs?%accordion%
+
 blabla
 
 %/accordion%
