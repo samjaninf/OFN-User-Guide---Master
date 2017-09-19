@@ -2,9 +2,9 @@
 
 * [User Guide](README.md)
 * [FAQs](chapter1.md)
-  * [Customer FAQs](chapter1/customer-faqs-test.md)
-  * [Producer FAQs](chapter1/producer-faqs-test.md)
-  * [Hub FAQs](chapter1/hub-faqs-test.md)
+  * [Customer FAQs](chapter1/customer-faqs.md)
+  * [Producer FAQs](chapter1/producer-faqs.md)
+  * [Hub FAQs](chapter1/hub-faqs.md)
 * [Hubs Set-Up Guide](hubs-set-up-guide.md)
 * [Producer set-up guide](producer-set-up-guide.md)
 * [Advanced Features](advanced-features.md)
