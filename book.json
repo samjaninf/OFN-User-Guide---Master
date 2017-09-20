@@ -1,5 +1,3 @@
 {
     "plugins": ["accordion", "collapsible-menu", "videoclips", "youtube", "expandable-chapters"] 
 }
-
-$ gitbook install
