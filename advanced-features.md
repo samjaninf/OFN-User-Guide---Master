@@ -4,14 +4,14 @@ Advanced Features
 
 The producer and hub set-up guides will walk you through the Open Food Network’s basic features for enterprise users. Once you have familiarised yourself with these basic functionalities you can explore some of the more advanced features here.
 
-### Your Profile
+### [Your Profile](/your-profile-adv.md)
 
 * Make producer profiles searchable by product category in the OFN directories.
   [Read more](/making-a-producer-profile-searchable-by-product-category.md)
 * Transferring ownership of a profile from one user to another.
   [Read more](/transferring-ownership-of-a-profile.md)
 
-### Products
+### [Products](/products-adv.md)
 
 * Create ‘product variants’ to make your shopfront less cluttered and easier to navigate.
   [Read more ](/product-variants.md)
