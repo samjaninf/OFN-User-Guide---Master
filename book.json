@@ -1,4 +1,5 @@
 {
-    "plugins": ["accordion", "collapsible-menu", "videoclips", "youtube"] 
+    "plugins": ["accordion", "collapsible-menu", "videoclips", "youtube", "expandable-chapters"] 
 }
 
+$ gitbook install
