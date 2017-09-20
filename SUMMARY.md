@@ -8,6 +8,8 @@
 * [Hubs Set-Up Guide](hubs-set-up-guide.md)
 * [Producer set-up guide](producer-set-up-guide.md)
 * [Advanced Features](advanced-features.md)
+  * [Putting your farm on Facebook](putting-your-farm-on-facebook.md)
+  * [Facebook tips](facebook-tips.md)
 * [Case studies](case-studies.md)
 * [Farmers’ Markets](farmers-markets.md)
 * [Buying Group](buying-group.md)
@@ -54,8 +56,6 @@
 * [Buying Group – OFN Setup Process](buying-group-ofn-setup-process.md)
 * [Opening more than one order cycle](opening-more-than-one-order-cycle.md)
 * [Creating ‘display only’ order cycles](creating-display-only-order-cycles.md)
-* [Group Pages](group-pages.md)
 * [Putting your farm on Facebook](putting-your-farm-on-facebook.md)
-* [Facebook Tips](facebook-tips.md)
 * [Embedded Shopfronts](embedded-shopfronts.md)
 
