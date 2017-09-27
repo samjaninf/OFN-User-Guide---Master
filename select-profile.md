@@ -2,9 +2,13 @@
 
 _Time: 10 min_
 
-When you first create your profile, you’ll be prompted to select the ‘type’ of profile you want. Your selection here dictates the functionality that your profile will have.
+_Making your enterprise visible_
 
-Depending on weather you are a producer or something else, you get different options.
+You have received a confirmation link in your email. Click on this to continue setting up your profile.
+
+You’ll be prompted to select the ‘type’ of profile you want. Each one has different functionalities.
+
+Depending on wether you are a producer or something else, you get different options.
 
 %accordion%For producers%accordion%
 
@@ -35,9 +39,7 @@ _\* Note: The above relates to Australian users only. Local instances may vary._
    
 %/accordion%
 
-### Change account type
+#### Change account type
 
-You can change your account type at any time in the future. This can be done by clicking the ‘**Change package**‘ button on [the dashboard](/the-dashboard.md). Or you can change your producer/non producer status and and profile/shop package by selecting **Enterprise **on the blue horizontal banner, and then editing your enterprise’s settings \(see below\).
-
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Change-package.png "Change package")
+You can change your account type at any time in the future. Read _here_ how to do this.
 

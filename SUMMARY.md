@@ -6,7 +6,8 @@
 * [Getting started](getting-started.md)
   * [Create account](create-an-account.md)
   * [Select profile](select-profile.md)
-  * Your dashboard
+    * [Change account](select-profile/change-account.md)
+  * [Your dashboard](your-dashboard.md)
   * Personalize profile
 * [Hubs Set-Up Guide](hubs-set-up-guide.md)
 * [Producer set-up guide](producer-set-up-guide.md)
