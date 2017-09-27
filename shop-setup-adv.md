@@ -8,7 +8,6 @@
   [Read more](/customer-accounts-and-tagging.md)
 * Do you want to embed your shop into your own external website? You can do this with embedded shops.  
   [Read more](/embedded-shopfronts.md)
-
 * Get setup to print thermally printed receipts \(only available in some countries\).  
   Read more
 

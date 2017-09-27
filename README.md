@@ -1,9 +1,17 @@
 # [**User Guide**](https://openfoodnetwork.org/user-guide/)
 
+## What is OFN
+
+| _Benefits, story of OFN, How is OFN different to other platforms?_ |
+
 This short video will give you a brief introduction to how the Open Food Network works, and what it can do for your food business.
 
 <iframe width="669" height="376" src="https://www.youtube.com/embed/eA3IcMUnU14" frameborder="0" allowfullscreen></iframe> 
 
+## How to use this guide
+| _Explanation of the guide and how you can use it_ |
+
+## Table of contents
 
 ### Set up guides for producers and hubs:
 
