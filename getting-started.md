@@ -5,7 +5,7 @@
 Take these 4 steps to create your personalized profile and get started on the Open Food Network. 
 
 Time: 30 minutes
-## Steps for creating and editing a hub profile:
+## Steps for creating and editing a profile:
 
 1. [Create an account.](/create-an-account.md)
 2. [Select the ‘type’ of profile you’d like.](/hub-profile-types.md)

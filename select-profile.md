@@ -4,7 +4,9 @@ _Time: 10 min_
 
 When you first create your profile, you’ll be prompted to select the ‘type’ of profile you want. Your selection here dictates the functionality that your profile will have.
 
-%accordion%For producers these are your options%accordion%
+Depending on weather you are a producer or something else, you get different options.
+
+%accordion%For producers%accordion%
 
 1. **Producer profile – connect through OFN: **
 This option allows you to create a profile on the OFN. Your profile is a way for you to share your story with others and makes you visible and contactable to customers and other enterprises who may wish to trade with you. A producer with a profile can also add products, which may be stocked in other OFN shopfronts.
@@ -20,7 +22,7 @@ _\* Note: The above relates to Australian users only. Local instances may vary._
 
 %/accordion%
 
-%accordion%For non-producers these are your options%accordion%
+%accordion%For non-producers%accordion%
 
 1. **Profile Only:**
     This option allows you to create a profile on the OFN. Your profile is a way for you to share your story with others and makes you visible and contactable to customers and other enterprises who may wish to trade with you.
