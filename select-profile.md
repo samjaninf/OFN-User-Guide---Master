@@ -49,7 +49,7 @@ _\* Note: The above relates to Australian users only. Local instances may vary._
    
 %/accordion%
 
-##### I want to change my profile or account type
+##### _I want to change my profile or account type_
 
 %accordion%Change profile%accordion%
 
