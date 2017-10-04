@@ -6,11 +6,13 @@
 * [Getting started](getting-started.md)
   * [Create account](create-an-account.md)
   * [Select profile](select-profile.md)
-    * [Change account](select-profile/change-account.md)
-  * [Your dashboard](your-dashboard.md)
-  * Personalize profile
+  * [Personalize profile](personalize-profile.md)
+    * For producers
+    * For hubs
+    * [Profile info sections explained](your-profile.md)
 * [Hubs Set-Up Guide](hubs-set-up-guide.md)
 * [Producer set-up guide](producer-set-up-guide.md)
+* [Change account](select-profile/change-account.md)
 * [Advanced Features](advanced-features.md)
   * [Your Profile](your-profile-adv.md)
     * [Searchable profile](making-a-producer-profile-searchable-by-product-category.md)
@@ -55,7 +57,6 @@
 * [Create an account](create-an-account.md)
 * [Hub profile types](hub-profile-types.md)
 * [The dashboard](the-dashboard.md)
-* [Your profile](your-profile.md)
 * [Create or connect with your supplying producers](create-or-connect-with-your-supplying-producers.md)
 * [Products](products.md)
 * [Payment methods](payment-methods.md)

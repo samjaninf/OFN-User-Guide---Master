@@ -9,10 +9,12 @@ Time: 30 minutes
 
 1. [Create an account.](/create-an-account.md)
 2. [Select the ‘type’ of profile you’d like.](/hub-profile-types.md)
-3. [Head to your ‘Dashboard’](/the-dashboard.md)
-    \(the administration side of your new account\).
 4. [Update your hub’s profile](/your-profile.md)
     on the OFN with your basic information, contact details and pictures.
+    
+3. [Head to your ‘Dashboard’](/the-dashboard.md)
+    \(the administration side of your new account\).
+
 
 **You're set up!**
 You will now have a space to tell the story of your enterprise and to help drive connections to your social and online presence.

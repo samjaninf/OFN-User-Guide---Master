@@ -1,10 +1,19 @@
 # Your profile
 
-Whether you are a profile only user, or you intend to have an online shop, you’ll need to populate your profile. You may have already added information to your profile during the registration process, however this page will show you how to access and edit your profile at any time, and also add additional information if you have a shopfront.  To access your profile information, click on**Enterprises** in the blue horizontal banner, and then select**Manage ** \(See below\).
+Whether you are a profile only user, or you intend to have an online shop, you’ll need to populate your profile. You can do this via your personal profile page. 
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Access-Profile-Edit-Hub.png "Access Profile Edit Hub")
+%accordion%How to go to your profile page%accordion%
 
-Remember to click Update within each section to save your changes. ![](http://openfoodfoundation.org/sites/default/files/Update_0.png)
+1. Go to your administration panel
+2. Click on "Manage 'Your Shop' ->"
+![](/assets/Step 3 Your Profile - access profile information.jpg)
+3. You are now looking at your profile information. Go through different sections via the left chapter bar. 
+
+%/accordion%
+
+This page explains each section of the left chapter bar.
+
+_Reminder: when editing, click the Update button **within each section** to save your changes. It’s on the bottom of the page. _
 
 #### Primary Details
 
