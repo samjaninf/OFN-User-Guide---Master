@@ -15,7 +15,7 @@ Here you can select the ‘type’ of profile you want, based on the functions i
 **2.** Select the type of profile you want and click the 'start' button
 
 
-If you are a producer, these are your options:
+If you are **a producer**, these are your options:
 
 %accordion%Producer profiles%accordion%
 
@@ -33,7 +33,9 @@ _\* Note: The above relates to Australian users only. Local instances may vary._
 
 %/accordion%
 
-If you are not a producer, you are called a hub. These are your options:
+
+If you are **not a producer**, you are called a hub. These are your options:
+
 %accordion%Hub profiles%accordion%
 
 1. **Profile Only:**
