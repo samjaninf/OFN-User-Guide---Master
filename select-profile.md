@@ -58,6 +58,7 @@ _\* Note: The above relates to Australian users only. Local instances may vary._
 1. Go to your [administration page](https://openfoodnetwork.org.au/admin)
 1. Click the ‘**Change package**‘ button on the top right of [the dashboard](/the-dashboard.md) (see image below). 
 2. Choose the account you'd like and click 'change now'
+
 ![](/assets/Step 2 Choose profile - change package.jpg)
 
 **Change profile: producer/non producer status and profile/shop package**
