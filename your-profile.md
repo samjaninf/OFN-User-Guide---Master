@@ -11,7 +11,7 @@ Whether you are a profile only user, or you intend to have an online shop, youâ€
 
 %/accordion%
 
-This page explains each section of the left chapter bar.
+This page explains each section of the side bar.
 
 _Reminder: when editing, click the Update button **within each section** to save your changes. Itâ€™s on the bottom of the page. _
 
