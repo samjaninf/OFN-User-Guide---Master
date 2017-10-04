@@ -14,7 +14,7 @@ Time: 30 minutes
 4. [Update your hub’s profile](/your-profile.md)
     on the OFN with your basic information, contact details and pictures.
 
-**After this**
+**You're set up!**
 You will now have a space to tell the story of your enterprise and to help drive connections to your social and online presence.
 
 It's also the first step towards trading on the Open Food Network, or opening an online store.

@@ -1,16 +1,23 @@
-# Profile types
+# 2. Choose profile type
 
-_Time: 10 min_
+_Time_: 5 min
 
-_Making your enterprise visible_
+Here you can select the ‘type’ of profile you want, based on the functions it needs to have.  
 
-You have received a confirmation link in your email. Click on this to continue setting up your profile.
+**Your starting point**
+- I didn’t do anything yet, except from reading this userguide → go to step 1
+- I have clicked the ‘confirm email address’ link, directing me to the profile types page → go to step 2
+- I want to change my profile or account type → go ~~here~~
 
-You’ll be prompted to select the ‘type’ of profile you want. Each one has different functionalities.
 
-Depending on wether you are a producer or something else, you get different options.
+**1.** Log into the [Administration Panel](https://openfoodnetwork.org.au/admin) **OR** Click on the cog in the top right hand side of the homepage and select ‘Administration’.
 
-%accordion%For producers%accordion%
+**2.** Select the type of profile you want and click the 'start' button
+
+
+If you are a producer, these are your options:
+
+%accordion%Producer profiles%accordion%
 
 1. **Producer profile – connect through OFN: **
 This option allows you to create a profile on the OFN. Your profile is a way for you to share your story with others and makes you visible and contactable to customers and other enterprises who may wish to trade with you. A producer with a profile can also add products, which may be stocked in other OFN shopfronts.
@@ -26,7 +33,8 @@ _\* Note: The above relates to Australian users only. Local instances may vary._
 
 %/accordion%
 
-%accordion%For non-producers%accordion%
+If you are not a producer, you are called a hub. These are your options:
+%accordion%Hub profiles%accordion%
 
 1. **Profile Only:**
     This option allows you to create a profile on the OFN. Your profile is a way for you to share your story with others and makes you visible and contactable to customers and other enterprises who may wish to trade with you.
@@ -39,7 +47,29 @@ _\* Note: The above relates to Australian users only. Local instances may vary._
    
 %/accordion%
 
-#### Change account type
+##### I want to change my profile or account type
+%accordion%Change profile%accordion%
+**Change account type**
 
-You can change your account type at any time in the future. Read _here_ how to do this.
+1. Go to your [administration page](https://openfoodnetwork.org.au/admin)
+1. Click the ‘**Change package**‘ button on the top right of [the dashboard](/the-dashboard.md) (see image below). 
+2. Choose the account you'd like and click 'change now'
+![](/assets/Step 2 Choose profile - change package.jpg)
+
+**Change profile: producer/non producer status and profile/shop package**
+1. Go to your [administration page](https://openfoodnetwork.org.au/admin) 
+2. Select **Enterprise **on the blue horizontal banner 
+3. Edit your enterprise’s settings \(see image below\).
+
+
+![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Change-package.png "Change package")
+
+%/accordion%
+
+##### _Questions_
+- What is the difference between profile only or a shop?
+
+
+
+
 
