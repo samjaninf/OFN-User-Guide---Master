@@ -50,7 +50,9 @@ _\* Note: The above relates to Australian users only. Local instances may vary._
 %/accordion%
 
 ##### I want to change my profile or account type
+
 %accordion%Change profile%accordion%
+
 **Change account type**
 
 1. Go to your [administration page](https://openfoodnetwork.org.au/admin)
@@ -67,6 +69,7 @@ _\* Note: The above relates to Australian users only. Local instances may vary._
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Change-package.png "Change package")
 
 %/accordion%
+
 
 ##### _Questions_
 - What is the difference between profile only or a shop?
