@@ -4,12 +4,12 @@ _Time_: 5 min
 
 Here you can select the ‘type’ of profile you want, based on the functions it needs to have.  
 
-**Your starting point**
+### **Your starting point**
 - I didn’t do anything yet, except from reading this userguide → go to step 1
 - I have clicked the ‘confirm email address’ link, directing me to the profile types page → go to step 2
 - I want to change my profile or account type → go ~~here~~
 
-
+### **Steps**
 **1.** Log into the [Administration Panel](https://openfoodnetwork.org.au/admin) **OR** Click on the cog in the top right hand side of the homepage and select ‘Administration’.
 
 **2.** Select the type of profile you want and click the 'start' button
