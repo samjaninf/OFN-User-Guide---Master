@@ -4,9 +4,9 @@
 * [How to use this guide](README.md)
   * [Frequently Used Terms](frequently-used-terms.md)
 * [Getting started](getting-started.md)
-  * [Create account](create-an-account.md)
-  * [Select profile](select-profile.md)
-  * [Personalize profile](personalize-profile.md)
+  * [1. Create account](create-an-account.md)
+  * [2. Select profile](select-profile.md)
+  * [3. Personalize profile](personalize-profile.md)
     * For producers
     * For hubs
     * [Profile info sections explained](your-profile.md)
