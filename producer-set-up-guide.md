@@ -1,14 +1,5 @@
 # Producer set-up guide
 
-### Steps for creating and editing a producer profile:
-
-1. [Create an account.](/create-an-account.md)
-2. [Select the ‘type’ of profile you’d like.](/producer-profile-types.md)
-3. [Head to your ‘Dashboard’](/the-dashboard.md)
-    \(the administration side of your new account\).
-4. [Update your profile](/your-profile.md)
-    on the OFN with your basic information, contact details and pictures.
-
 ### Steps for producers selling on the OFN, either as a supplier, or through an online shopfront.
 
 If you have selected to have a profile only account and don’t wish to trade on the OFN you can stop at step 4. If you wish to sell your products as a supplier to other OFN shops, continue to step 5 to add your products, and then you are ready. Producers who have selected to operate their own OFN shopfront should continue with steps 5-11.
