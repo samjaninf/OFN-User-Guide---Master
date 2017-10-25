@@ -17,4 +17,4 @@ You will now have a space to tell the story of your enterprise and to help drive
 #### Continue on
 ##### _Trading and selling on the Open Food Network_
 
-By creating this profile you also have the first step in the pocket towards **trading** on the Open Food Network or **opening an online store**. Just continue on to the next page for the set-up guide on this. 
+By creating this profile you also have the first step in the pocket towards **trading** on the Open Food Network or **opening an online store**. Just [continue on to the set-up guide on this](/continue-create-online-shop.md). 

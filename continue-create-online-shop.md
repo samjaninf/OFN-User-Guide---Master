@@ -2,6 +2,23 @@
 
 The following steps are relevant to users who wish to establish an online shop. If you wish to have an online profile only, you don't have to follow these steps.
 
+Now, let's see which steps you have to take. **I am: **
+####** A producer**
+   -  wishing to operate my personal online shop
+   
+   --> follow steps 2-8.
+   - wishing to only supply products to other OFN shops.
+   
+   --> continue to step 2 to add your products, and then you are ready.
+   
+#### **A hub ** 
+
+  -  wishing to establish an online shop. 
+  
+  --> follow steps 1-8.
+   
+### Set-up steps
+
 1. [Create profiles for, or connect with your supplying producers.](/create-or-connect-with-your-supplying-producers.md)
    You need to do this before you can add your products.
 2. [Add products](/products.md)
