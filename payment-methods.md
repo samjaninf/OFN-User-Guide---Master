@@ -3,12 +3,12 @@
 If you want to open an order cycle you must first set up payment methods.
 
 This page shows you: 
-1. [how to set up your payment methods](#Setting-up-payment-method) 
-2. [info on different payment platforms](#Payment-providers:)
-3. [how to calculate payment fees](#Fees-on-Payment-Methods)
+1. [how to set up your payment methods](##Setting-up-payment-method) 
+2. [info on different payment platforms](####payment-providers:)
+3. [how to calculate payment fees](##fees-on-payment-methods)
 
 
-## Setting up payment method
+##Setting up payment method
 1. Go to the payment methods page. 
 
 %accordion%Accessing payment methods%accordion%
