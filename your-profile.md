@@ -86,6 +86,8 @@ This information is used to map your enterprise the OFN map.
 
 **Promo image: **This image will run horizontally along the top of your profile page. It should be 1200 x 260 pixels in size.
 
+An example profile is shown below.![](/assets/Demo profile.png)
+
 ---
 
 #### Properties \(visible to producers only\)
