@@ -10,10 +10,11 @@
     * [For producers](for-producers.md)
     * For hubs
 * [Continue: create online shop](continue-create-online-shop.md)
-  * [Producer shop set-up](producer-set-up-guide.md)
   * [Hub set-up guide](hubs-set-up-guide.md)
   * [Package Types](hub-profile-types.md)
   * [The dashboard](the-dashboard.md)
+  * [Products](products.md)
+  * [Create or connect with your supplying producers](create-or-connect-with-your-supplying-producers.md)
   * [Payment methods](payment-methods.md)
   * [Shipping methods](shipping-methods.md)
   * [Enterprise fees](enterprise-fees.md)
@@ -24,7 +25,7 @@
   * [Change profile](select-profile/change-account.md)
 * [Advanced Features](advanced-features.md)
   * [Your Profile](your-profile-adv.md)
-    * [Searchable profile](making-a-producer-profile-searchable-by-product-category.md)
+    * [Making a producer profile searchable by product category](making-a-producer-profile-searchable-by-product-category.md)
     * [Transfer ownership](transferring-ownership-of-a-profile.md)
   * [Products](products-adv.md)
     * [Product variants](product-variants.md)
@@ -63,8 +64,6 @@
   * [Farm Foodstore](farm-foodstore.md)
   * [Bondi Food Collective](bondi-food-collective.md)
   * [Westies Dry Goods Buying Group](westies-dry-goods-buying-group.md)
-* [Create or connect with your supplying producers](create-or-connect-with-your-supplying-producers.md)
-* [Products](products.md)
 * [Models](models.md)
   * Consumer
   * [Farmers’ Market2](farmers-market.md)
@@ -73,7 +72,7 @@
   * [Farm Shop \(on-farm / on roadside / online\)](farm-shop-on-farm-on-roadside-online.md)
   * [Multi-Farm Shop](multi-farm-shop.md)
   * [Consumer Buying Groups](consumer-buying-groups.md)
-* [Making a producer profile searchable by product category](making-a-producer-profile-searchable-by-product-category.md)
-* [Buying Group – OFN Setup Process](buying-group-ofn-setup-process.md)
-* [Putting your farm on Facebook](putting-your-farm-on-facebook.md)
+* Model Specific Setup Instructions
+  * [Buying Group](buying-group.md)
+* [Producer shop set-up](producer-set-up-guide.md)
 
