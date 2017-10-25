@@ -1,17 +1,15 @@
-```
-Advanced Features
-```
+# Advanced Features
 
 The producer and hub set-up guides will walk you through the Open Food Networkâ€™s basic features for enterprise users. Once you have familiarised yourself with these basic functionalities you can explore some of the more advanced features here.
 
-### [Your Profile](/your-profile-adv.md)
+## Your Profile
 
 * Make producer profiles searchable by product category in the OFN directories.
   [Read more](/making-a-producer-profile-searchable-by-product-category.md)
 * Transferring ownership of a profile from one user to another.
   [Read more](/transferring-ownership-of-a-profile.md)
 
-### [Products](/products-adv.md)
+## Products
 
 * Create â€˜product variantsâ€™ to make your shopfront less cluttered and easier to navigate.
   [Read more ](/product-variants.md)
@@ -24,7 +22,7 @@ The producer and hub set-up guides will walk you through the Open Food Networkâ€
 * Use the group buy feature to aid in the administration of products which are purchased in bulk.
   [Read more](/group-buy.md)
 
-### Shop Setup
+## Shop Setup
 
 * Charging different prices to different customers.
   [Read more](/charging-different-prices-to-different-customers.md)
@@ -38,7 +36,7 @@ The producer and hub set-up guides will walk you through the Open Food Networkâ€
 * Get setup to print thermally printed receipts \(only available in some countries\).  
   Read more
 
-### Collaborating with other enterprises
+## Collaborating with other enterprises
 
 * Understand how Enterprise to Enterprise permissions \(E2Es\) are used to enable different forms of collaboration between enterprises and how they might apply to you.
   [Read more](/enterprise-to-enterprise-permissions-e2es.md)
@@ -47,7 +45,7 @@ The producer and hub set-up guides will walk you through the Open Food Networkâ€
 * Buying groups can function as an extension of a hubâ€™s distribution network.
   [Read more](/buying-group-ofn-setup-process.md)
 
-### Order Cycles
+## Order Cycles
 
 * Opening more than one order cycle at the same time. 
   [Read more](/opening-more-than-one-order-cycle.md)
@@ -56,12 +54,13 @@ The producer and hub set-up guides will walk you through the Open Food Networkâ€
 * Create orders manually for your customers.
   [Read more](/create-an-order.md)
 
-### Groups
+## Groups
 
 * Create and manage a group page, which acts as a sub directory within the OFN for regional producer groups, certification bodies, markets etc.
   [Read more](/group-pages.md)
+* Embed your Group Page in your own, external website. Read more
 
-### Social
+## Social
 
 * Put your farm on Facebook.
   [Read more](/putting-your-farm-on-facebook.md)
