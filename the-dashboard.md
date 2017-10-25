@@ -20,25 +20,15 @@ The screenshots below show the dashboard view for different types of users.
 
 %/accordion%
 
-
-
 %accordion%Hub- Profile only%accordion%
 
-
-
-![](/assets/Hub profile only dashboard)
-
-
+![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Hub-dashboard-profile-only.png)
 
 %/accordion%
 
-
-
 %accordion%Hub- Profile and Shop%accordion%
 
-
-
-![](/assets/Hub shop dashboard)
+![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Hub-dashboard-shopfront.png)
 
 %/accordion%
 
