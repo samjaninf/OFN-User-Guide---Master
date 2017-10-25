@@ -16,7 +16,7 @@ Below are some platform specific resources:
 
 Because OFN is an eCommerce platform, and handles monetary transactions, it has a higher security requirement than text only websites. Therefore, you’ll need to setup SSL/TLS on the website you want to embed your group page into if you haven’t already.
 
-You can get such a security certificate for free from[Let’s Encrypt](https://letsencrypt.org/)or for around $10-$30 for a paid service.
+You can get such a security certificate for free from [Let’s Encrypt](https://letsencrypt.org/) for around $10-$30 for a paid service.
 
 ### OFN Group page
 
@@ -26,7 +26,7 @@ Of course, the last requirement is that you have a group page setup on OFN. You�
 
 **1\) Contact your local OFN team**
 
-First of all, you’ll need to contact[your local OFN team](https://openfoodnetwork.org/ofn-local/), and let them know that you want to embed your OFN group page in your own website. You’ll need to provide them with your external domain. E.g. freerange.com.au so they can grant permission for your website to communicate with OFN.
+First of all, you’ll need to contact [your local OFN team](https://openfoodnetwork.org/ofn-local/), and let them know that you want to embed your OFN group page in your own website. You’ll need to provide them with your external domain. E.g. freerange.com.au so they can grant permission for your website to communicate with OFN.
 
 **2\) Adding Custom HTML to your website**
 
@@ -44,7 +44,7 @@ Depending on the styling of your website you may need to add some CSS tweaks. Th
 
 ### **Example**
 
-We have setup an[example of an embedded group page](https://openfoodnetwork.org/user-guide/advanced-features/demo-embedded-group/)**,**using Flavour Crusader for you to look at and play with. It’s been embedded into OFN’s global website openfoodnetwork.org, which is a wordpress site.
+We have setup an [example of an embedded group page](https://openfoodnetwork.org/user-guide/advanced-features/demo-embedded-group/)**, **using Flavour Crusader for you to look at and play with. It’s been embedded into OFN’s global website openfoodnetwork.org, which is a wordpress site.
 
 ## Instructions for Visitors
 
