@@ -3,9 +3,9 @@
 If you want to open an order cycle you must first set up payment methods.
 
 This page shows you: 
-1. [how to set up your payment methods](#<Setting-up-payment-method>) 
-2. [info on different payment platforms](#<Payment-providers:>)
-3. [how to calculate payment fees](#<Fees-on-Payment-Methods>)
+1. [how to set up your payment methods](#Setting-up-payment-method) 
+2. [info on different payment platforms](#Payment-providers:)
+3. [how to calculate payment fees](#Fees-on-Payment-Methods)
 
 
 ## Setting up payment method
@@ -170,7 +170,7 @@ For Pin Payments you only require your API key. You need to set up an account wi
 
 %/accordion%
 
-## Fees on Payment Methods
+##Fees on Payment Methods
 
 [![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Calculator.png "Calculator")](https://openfoodnetwork.org/wp-content/uploads/2015/05/Calculator.png)
 
