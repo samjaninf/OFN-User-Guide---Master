@@ -67,5 +67,9 @@ The producer and hub set-up guides will walk you through the Open Food Networkâ€
 * Facebook tips for producers.
   [Read more](/facebook-tips.md)
 
+# Orders
+
+* Create an order manually for your customer from the back end. [Read more](/create-orders.md)
+
 
 
