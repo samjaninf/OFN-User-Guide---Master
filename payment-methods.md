@@ -92,7 +92,57 @@ Set up of this service needs to be done through your bank. So far it has been te
 
 %/accordion%
 
+### Stripe
 
+%accordion%Stripe%accordion%
+
+[Stripe ](https://stripe.com/au)is an online payment platform similar to Paypal. It will allow you to accept credit card payments from your customers. Stripe is a global platform, but is only available on certain OFN instances. Contact your [local OFN team](https://openfoodnetwork.org/ofn-local/) to see whether it’s available on your OFN.
+
+#### Why use Stripe?
+
+Stripe is simple to setup for shop owners, and is reasonably priced. The fees charged by Stripe vary in each country; Australia, USA, Canada, France, UK.
+
+Stripe is also easy for customers to use. Unlike Paypal, when the customer checks out, they don’t need to login with Paypal to place their order, rather they just need to enter their card details and then complete their order.
+
+Stripe is the recommended payment method for shops who wish to use **subscriptions **on OFN, as Stripe allows customers to give permission to a shop to automatically bill their credit card for future subscription orders. This isn’t offered by Paypal, Pin or MIGS payment platforms.
+
+#### Setup
+
+##### Connect with Stripe
+
+Before you can setup a payment method that uses Stripe, you’ll need to Connect with Stripe. To do this, click on the ‘Connect with Stripe’ button.![](https://openfoodnetwork.org/wp-content/uploads/2017/08/Connect-with-Stripe.png "Connect with Stripe")
+
+You’ll be taken to a form to fill in your details. If you already have an account with Stripe, you can login, if not, fill in the form to create a Stripe account.
+
+The information you’ll be asked for includes: country, a description of your business, your Business address and ABN, your personal details and your bank account \(where received payments will be deposited\).
+
+##### Create a New Payment Method
+
+Once you’ve connected with Stripe, you can then create a payment method which will work with your connected account.
+
+Treat the **Name**, **Description**, **Active **and **Tags **fields as you would with any payment method. 
+
+**Provider: **Select Stripe.
+
+Once you select Stripe, ‘Provider Settings’ will be shown.
+
+**Stripe Account Owner:**
+
+Select the enterprise that has a Stripe account connected.
+
+If you select an enterprise that is not Connected to Stripe \(see above\), you will get the error shown below.  Either click ‘Connect One’ or return to your Payment Methods tab to Connect with Stripe. See instructions above.![](https://openfoodnetwork.org/wp-content/uploads/2017/08/Stripe-connect.png "Stripe connect error message")
+
+#### Stripe Payments for Customers
+
+When customers checkout in a shop and pay with a Stripe payment method, they’ll have the options of selecting a tickbox allowing their credit card details to be stored against their account \(if they are logged in\).
+
+Customer can also save a credit card in their Account, or delete saved ones.
+
+![](https://openfoodnetwork.org/wp-content/uploads/2017/08/Add-card.png "Add saved credit card")
+
+When the customer next shops with an OFN shop offering Stripe as a payment method, they’ll be able to select from their saved credit cards.
+
+%/accordion%
 
 ### Pin Payments
 
@@ -109,7 +159,6 @@ For Pin Payments you only require your API key. You need to set up an account wi
 **Server:**Type ‘live’ – this is case sensitive.
 
 %/accordion%
-
 
 ## Fees on Payment Methods
 
