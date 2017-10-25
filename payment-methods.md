@@ -8,7 +8,9 @@ You must set up payment methods before you can open an order cycle.
 
 Click **Enterprises **in the blue horizontal menu, and then click **Manage **next to your enterprise. Then, click Payment methods in the menu on the left hand side.
 
-[![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Access-demo-hub-profile-edit.png "Access demo hub profile edit")](https://openfoodnetwork.org/wp-content/uploads/2015/05/Access-demo-hub-profile-edit.png)%/accordion%
+[![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Access-demo-hub-profile-edit.png "Access demo hub profile edit")](https://openfoodnetwork.org/wp-content/uploads/2015/05/Access-demo-hub-profile-edit.png)
+
+%/accordion%
 
 ## Creating a new payment method
 
