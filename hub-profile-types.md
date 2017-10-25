@@ -19,19 +19,9 @@ _\* Note: The above is an example only, fees vary between OFN instances/countrie
 
 %/accordion%
 
-
-
-
-
-
-
 ## For Non-Producers \(Hubs\)
 
-
-
 %accordion%Hub packages%accordion%
-
-
 
 ## ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Two-hub-types.png "Two hub type options")
 
@@ -42,15 +32,11 @@ _\* Note: The above is an example only, fees vary between OFN instances/countrie
 2. **Hub Shop**
    : This option provides you with a complete online store for your hub, in addition to the profile.
 
-
-
 %/accordion%
-
-
 
 ## Changing Package
 
-You can change your account type at any time in the future. This can be done by clicking the ‘**Change package**‘ button on [the dashboard](/the-dashboard.md). Or you can change your producer/non producer status and package by selecting **Enterprise **on the blue horizontal banner, and then editing your enterprise’s settings \(see below\).
+You can change your package at any time in the future. This can be done by clicking the ‘**Change package**‘ button on [the dashboard](/the-dashboard.md). Or you can change your producer/non producer status and package by selecting **Enterprise **on the blue horizontal banner, and then editing your enterprise’s settings \(see below\).
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Change-package.png "Change package")
 
