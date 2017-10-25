@@ -40,6 +40,8 @@ For MasterCard, Paypal and Pin Payments additional instructions are below.
 
 ### PayPal
 
+%accordion%Paypal%accordion%
+
 To setup a PayPal payment method, you need a PayPal business or merchant account. You can create one [here](https://www.paypal.com/au/webapps/mpp/merchant). Once you have that, you can set up ‘API access’ within PayPal, which will enable OFN to connect customers directly with your PayPal account.
 
 1. Login to your PayPal Account
@@ -80,11 +82,21 @@ You can select which page to show customers once they’re redirected to PayPal.
 
 Type “Login” to direct customer to the login form for PayPal \(if you selected “Mark” above\). Or type “Billing” to show show customers a form where they can enter their credit card data and possibly sign up for a PayPal account \(if you selected “Sole” above\).
 
+%/accordion%
+
 ### MasterCard Internet Gateway Service \(MIGS\)
+
+%accordion%MIGS%accordion%
 
 Set up of this service needs to be done through your bank. So far it has been tested with Bendigo Bank.
 
+%/accordion%
+
+
+
 ### Pin Payments
+
+%accordion%Pin Payments%accordion%
 
 For Pin Payments you only require your API key. You need to set up an account with Pin Payments first, and can get a discount by signing up as an OFN member \([https://pin.net.au/partners/open-food-network/signup](https://pin.net.au/partners/open-food-network/signup)\)
 
@@ -95,6 +107,9 @@ For Pin Payments you only require your API key. You need to set up an account wi
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/API-2.png "API Key")
 
 **Server:**Type ‘live’ – this is case sensitive.
+
+%/accordion%
+
 
 ## Fees on Payment Methods
 
