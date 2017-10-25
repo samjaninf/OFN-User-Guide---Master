@@ -10,7 +10,6 @@
     * [For producers](for-producers.md)
     * For hubs
 * [Continue: create online shop](continue-create-online-shop.md)
-  * [Hub set-up guide](hubs-set-up-guide.md)
   * [Package Types](hub-profile-types.md)
   * [The dashboard](the-dashboard.md)
   * [Products](products.md)
@@ -74,5 +73,7 @@
   * [Consumer Buying Groups](consumer-buying-groups.md)
 * Model Specific Setup Instructions
   * [Buying Group](buying-group.md)
-* [Producer shop set-up](producer-set-up-guide.md)
+  * [Farmer's Market ](farmers-market.md)
+  * [Hub set-up guide](hubs-set-up-guide.md)
+  * [Producer shop set-up](producer-set-up-guide.md)
 
