@@ -56,7 +56,6 @@
   * [Farm Foodstore](farm-foodstore.md)
   * [Bondi Food Collective](bondi-food-collective.md)
   * [Westies Dry Goods Buying Group](westies-dry-goods-buying-group.md)
-* [Payment methods](payment-methods.md)
 * [Buying Group](buying-group.md)
 * [Multi-Farm Shop](multi-farm-shop.md)
 * [Create an account](create-an-account.md)
