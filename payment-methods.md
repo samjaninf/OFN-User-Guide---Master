@@ -1,6 +1,15 @@
 # Payment methods
 
-You must set up payment methods before you can open an order cycle.
+If you want to open an order cycle you must first set up payment methods.
+
+This page shows you: 
+1. [how to set up your payment methods](#<Setting-up-payment-method>) 
+2. [info on different payment platforms](#<Payment-providers:>)
+3. [how to calculate payment fees](#<Fees-on-Payment-Methods>)
+
+
+## Setting up payment method
+1. Go to the payment methods page. 
 
 %accordion%Accessing payment methods%accordion%
 
@@ -26,7 +35,8 @@ Then, the first step in setting up a Payment Method is to tick your enterprise, 
 
 **Tags:** You can use tag rules to make certain payment methods available/unavailable for specific customers \(e.g. wholesale vs retail\). See [here](/customer-accounts-and-tagging.md) for details.
 
-**Provider: **You can accept payment via 5 payment platforms. Select the one which is relevant to the payment method you are creating.
+##### Payment providers:
+You can accept payment via 5 payment platforms. Select the one which is relevant to the payment method you are creating.
 
 1. MasterCard Internet Gateway Service \(MIGS\)
 2. PayPal Express
