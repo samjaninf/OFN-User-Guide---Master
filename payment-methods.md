@@ -2,8 +2,6 @@
 
 You must set up payment methods before you can open an order cycle.
 
-## Accessing payment methods
-
 ## %accordion%Accessing payment methods%accordion%
 
 Click **Enterprises **in the blue horizontal menu, and then click **Manage **next to your enterprise. Then, click Payment methods in the menu on the left hand side.
