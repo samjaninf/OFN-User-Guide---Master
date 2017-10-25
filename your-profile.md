@@ -102,6 +102,8 @@ _\* Note: The following fields are only visible to users who’ve opted to have 
 
 #### Inventory Settings
 
+_\* not visible to profile-only users_
+
 Simple users can use the recommended setting. Advanced users who need greater flexibility with product management should consult the [Inventory](/inventory.md) page of this guide before changing the settings.
 
 ---
