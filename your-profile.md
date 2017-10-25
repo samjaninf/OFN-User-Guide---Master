@@ -18,7 +18,7 @@ _Reminder: when editing, click the Update button **within each section** to save
 
 **Name: **This is the name of your enterprise. It will be the title of your profile and store.
 
-**Primary Producer: **Select the producer box if you are a producer. If your organisation is involved in the local food movement in another capacity, don't select this box \(e.g. food hub, coop, farmer's market, advocacy group\). 
+**Primary Producer: **Select the producer box if you are a producer. If your organisation is involved in the local food movement in another capacity, don't select this box \(e.g. food hub, coop, farmer's market, advocacy group\).
 
 \*_Note: only enterprises marked as producers can add products to OFN. Hubs only need to select this option when they sell mixed boxes which they pack, that include items from multiple producers._
 
@@ -26,7 +26,7 @@ _Reminder: when editing, click the Update button **within each section** to save
 
 **Permalink: **You can customise part of the web address which will host to your shop.
 
-**Link to Shop Front: **This is the web address of your shop on the OFN \(only visible if you've chosen a package with shopfront\). You can customise the URL above. 
+**Link to Shop Front: **This is the web address of your shop on the OFN \(only visible if you've chosen a package with shopfront\). You can customise the URL above.
 
 #### Users
 
@@ -38,17 +38,17 @@ _Reminder: when editing, click the Update button **within each section** to save
 
 #### Address
 
-This information will be available to the public, as your enterprise will be mapped on the OFN map.
+This information is used to map your enterprise the OFN map.
 
 #### Contact
 
-**Contact Name: **We ask for a contact name for the OFN’s records. This name will not be displayed on your profile, but will be included in order confirmation emails.
+**Contact Name: **We ask for a contact name for the OFN’s records. This name will not be displayed on your profile, but will be included in order confirmation emails if you're running a shop.
 
-**Email and Phone and Website: **These will be listed on your OFN profile, as a means for others to make contact with you.
+**Email and Phone and Website: **These contact points will be listed on your OFN profile and shopfront, as a means for others to make contact with you.
 
 #### Social
 
-**Facebook address, Instagram, LinkedIn, Twitter: **Links to these pages will be created on your profile.
+**Facebook address, Instagram, LinkedIn, Twitter: **Links to these pages will be created on your profile and shopfront.
 
 #### About
 
@@ -56,7 +56,7 @@ This information will be available to the public, as your enterprise will be map
 
 **About Us: **This is a longer description of your enterprise. It will be shown when your profile is viewed in full. It should be half to one page long.
 
-#### Business Details
+#### Business Details 
 
 **ABN:**  this will not be displayed publicly.
 
@@ -70,13 +70,17 @@ This information will be available to the public, as your enterprise will be map
 
 **Promo image: **This image will run horizontally along the top of your profile page. It should be 1200 x 260 pixels in size.
 
-_\* Note: The following fields are only visible to users who’ve opted to have an online shop._
+#### Properties \(visible to producers only\)
+
+You can apply properties \(such as free range or certified organic\) to your enterprise. These properties will then be automatically applied to all of your products. For an in depth discussion of properties click [here](/product-properties.md).
+
+_\* Note: The following fields are only visible to users who’ve opted to have an online shop. This includes producer run shops, and hub run shops._
 
 #### Inventory Settings
 
-Simple users can use the recommended setting. Advanced users who need greater flexibility with product management should consult the [Inventory](/inventory.md) page of this guide before changing the setting.
+Simple users can use the recommended setting. Advanced users who need greater flexibility with product management should consult the [Inventory](/inventory.md) page of this guide before changing the settings.
 
-#### Shipping Methods, Payment Methods and Enterprise Fees
+#### Shipping Methods, Payment Methods and Enterprise Fees 
 
 _\* not visible to profile-only users_
 
