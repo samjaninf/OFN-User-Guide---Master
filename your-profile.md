@@ -1,18 +1,16 @@
-# Your profile
+# Your profile \(we want to rename this to Enterprise Configuration\)
 
-Whether you are a profile only user, or you intend to have an online shop, you’ll need to populate your profile. You can do this via your personal profile page. 
+Enterprise Configuration is where you can manage details relating to your profile and shopfront.
 
-%accordion%How to go to your profile page%accordion%
+%accordion%Accessing your Enterprise Configuration%accordion%
 
-1. Go to your administration panel
-2. Click on "Manage 'Your Shop' ->"
-![](/assets/Step 3 Your Profile - access profile information.jpg)
-3. You are now looking at your profile information. Go through different sections via the left chapter bar. 
+1. Go to your dashboard
+2. Click on "Manage 'Your Shop' ![](/assets/Step 3 Your Profile - access profile information.jpg)
+3. You are now looking at your profile information. You can work through the different sections via the lefthand menu.
 
 %/accordion%
 
-
-This page explains each section of the side bar.
+This page explains each section of the Enterprise Configuration menu.
 
 _Reminder: when editing, click the Update button **within each section** to save your changes. It’s on the bottom of the page. _
 
@@ -20,13 +18,15 @@ _Reminder: when editing, click the Update button **within each section** to save
 
 **Name: **This is the name of your enterprise. It will be the title of your profile and store.
 
-**Primary Producer: **Select the producer box if your hub needs to add products which are ‘produced’ by your hub. If you do not select this option you’ll only be able to sell products that are produced by others. Hubs most commonly need to select this option when selling mixed boxes which they pack, that include items from multiple producers.
+**Primary Producer: **Select the producer box if you are a producer. If your organisation is involved in the local food movement in another capacity, don't select this box \(e.g. food hub, coop, farmer's market, advocacy group\). 
 
-**Visible in Search: **If your profile is ready to go public, select visible. If you’re still making adjustments, select not visible, until you are ready.
+\*_Note: only enterprises marked as producers can add products to OFN. Hubs only need to select this option when they sell mixed boxes which they pack, that include items from multiple producers._
 
-**Permalink:**You can customise part of the web address which will host to your shop.
+**Visible in Search: **If your profile is ready to go public, select visible, and it will show in the OFN's directory and map. If you’re still making adjustments, select not visible, until you are ready.
 
-**Link to Shop Front: **This is the web address of your shop on the OFN. You can customise it. It will give you a preview of how the profile is looking.
+**Permalink: **You can customise part of the web address which will host to your shop.
+
+**Link to Shop Front: **This is the web address of your shop on the OFN \(only visible if you've chosen a package with shopfront\). You can customise the URL above. 
 
 #### Users
 
@@ -34,7 +34,7 @@ _Reminder: when editing, click the Update button **within each section** to save
 
 **Notifications:** This is the email address where OFN system correspondence will be directed, i.e. order confirmations etc. If this email differs from your login email, you will need to confirm the email address. Upon confirmation this email will be added as a manager \(see below\).
 
-**Manager:**Other OFN users who have been granted permission to manage this account. If they don’t already have an OFN account, you can type in the new manager’s email as the notification email \(see above\), this will prompt them to get a confirmation email, and upon confirmation they will become a manager. If they’re already a OFN user, type their full email in the manager field.
+**Manager: **Other OFN users who have been granted permission to manage this account. If they don’t already have an OFN account, you can type in the new manager’s email as the notification email \(see above\), this will prompt them to get a confirmation email, and upon confirmation they will become a manager. If they’re already a OFN user, type their full email in the manager field, and select them from the dropdown list.
 
 #### Address
 
