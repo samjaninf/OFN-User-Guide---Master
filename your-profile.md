@@ -94,6 +94,8 @@ An example profile is shown below.![](/assets/Demo profile.png)
 
 You can apply properties \(such as free range or certified organic\) to your enterprise. These properties will then be automatically applied to all of your products. For an in depth discussion of properties click [here](/product-properties.md).
 
+---
+
 _\* Note: The following fields are only visible to users who’ve opted to have an online shop. This includes producer run shops, and hub run shops._
 
 ---
