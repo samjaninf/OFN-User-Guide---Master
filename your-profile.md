@@ -72,7 +72,7 @@ This information is used to map your enterprise the OFN map.
 
 #### Business Details
 
-**ABN:**  this will not be displayed publicly.
+**ABN:**  this will not be displayed publicly. It is required for shop users who want to print invoices.
 
 **ACN:** this will not be displayed publicly.
 
