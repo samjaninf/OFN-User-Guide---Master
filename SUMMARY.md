@@ -39,7 +39,8 @@
     * [Display only Cycle](creating-display-only-order-cycles.md)
     * [Manual orders](create-an-order.md)
   * [Groups](groups-adv.md)
-    * [Create grouppage](group-pages.md)
+    * [Create Group Page](group-pages.md)
+    * [Embed a Group Page](embed-a-group-page.md)
   * [Social ADV](social-adv.md)
     * [Facebook tips](facebook-tips.md)
     * [Your farm on Facebook](putting-your-farm-on-facebook.md)
@@ -87,5 +88,4 @@
 * [Opening more than one order cycle](opening-more-than-one-order-cycle.md)
 * [Creating ‘display only’ order cycles](creating-display-only-order-cycles.md)
 * [Putting your farm on Facebook](putting-your-farm-on-facebook.md)
-* [Embed a Group Page](embed-a-group-page.md)
 
