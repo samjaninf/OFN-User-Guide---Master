@@ -1,4 +1,4 @@
-# Payment methods
+# Payment methods- This page is a duplicate \(was from producer setup guide\) and can be deleted.
 
 You must set up payment methods before you can open an order cycle.
 
