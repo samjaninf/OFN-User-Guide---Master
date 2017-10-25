@@ -8,25 +8,29 @@ From the dashboard you can edit the ‘[type](/producer-profile-types.md)’ of 
 
 The screenshots below show the dashboard view for different types of users.
 
+
+
 %accordion%Producer - Profile only%accordion%
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Dashboard-Profile-Only.png "Dashboard \(Profile Only\)")%/accordion%
+
+
+![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Dashboard-Profile-Only.png "Dashboard \(Profile Only\)")
+
+%/accordion%
 
 
 
 %accordion%Producer - Profile and Shop%accordion%
 
+
+
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Dashboard-Shop.png "Dashboard \(Shop\)")%/accordion%
-
-
 
 %accordion%Hub- Profile only%accordion%
 
 ![](/assets/Hub profile only dashboard)
 
 %/accordion%
-
-
 
 %accordion%Hub- Profile and Shop%accordion%
 
