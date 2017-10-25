@@ -87,4 +87,5 @@
 * [Opening more than one order cycle](opening-more-than-one-order-cycle.md)
 * [Creating ‘display only’ order cycles](creating-display-only-order-cycles.md)
 * [Putting your farm on Facebook](putting-your-farm-on-facebook.md)
+* [Embed a Group Page](embed-a-group-page.md)
 
