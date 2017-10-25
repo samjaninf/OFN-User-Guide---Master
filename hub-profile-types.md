@@ -4,11 +4,7 @@ When you first create your profile, you’ll be prompted to select a package. Yo
 
 ## For Producers
 
-
-
 %accordion%Producer packages%accordion%
-
-
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Three-producer-types.png)
 
@@ -21,13 +17,21 @@ _\* Note: The above is an example only, fees vary between OFN instances/countrie
 3. **Producer Hub- sell produce from self and others:  **
    This option is for producers who wish to sell their own produce, as well and products created by other producers.
 
-
-
 %/accordion%
 
 
 
+
+
+
+
 ## For Non-Producers \(Hubs\)
+
+
+
+%accordion%Hub packages%accordion%
+
+
 
 ## ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Two-hub-types.png "Two hub type options")
 
@@ -37,6 +41,12 @@ _\* Note: The above is an example only, fees vary between OFN instances/countrie
     This option allows you to create a profile on the OFN. Your profile is a way for you to share your story with others and makes you visible and contactable to customers and other enterprises who may wish to trade with you.
 2. **Hub Shop**
    : This option provides you with a complete online store for your hub, in addition to the profile.
+
+
+
+%/accordion%
+
+
 
 ## Changing Package
 
