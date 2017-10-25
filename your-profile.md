@@ -14,6 +14,8 @@ This page explains each section of the Enterprise Configuration menu.
 
 _Reminder: when editing, click the Update button **within each section** to save your changes. It’s on the bottom of the page. _
 
+---
+
 #### Primary Details
 
 **Name: **This is the name of your enterprise. It will be the title of your profile and store.
@@ -28,6 +30,8 @@ _Reminder: when editing, click the Update button **within each section** to save
 
 **Link to Shop Front: **This is the web address of your shop on the OFN \(only visible if you've chosen a package with shopfront\). You can customise the URL above.
 
+---
+
 #### Users
 
 **Owner: **This is the primary user responsible for this enterprise.
@@ -36,9 +40,13 @@ _Reminder: when editing, click the Update button **within each section** to save
 
 **Manager: **Other OFN users who have been granted permission to manage this account. If they don’t already have an OFN account, you can type in the new manager’s email as the notification email \(see above\), this will prompt them to get a confirmation email, and upon confirmation they will become a manager. If they’re already a OFN user, type their full email in the manager field, and select them from the dropdown list.
 
+---
+
 #### Address
 
 This information is used to map your enterprise the OFN map.
+
+---
 
 #### Contact
 
@@ -46,9 +54,13 @@ This information is used to map your enterprise the OFN map.
 
 **Email and Phone and Website: **These contact points will be listed on your OFN profile and shopfront, as a means for others to make contact with you.
 
+---
+
 #### Social
 
 **Facebook address, Instagram, LinkedIn, Twitter: **Links to these pages will be created on your profile and shopfront.
+
+---
 
 #### About
 
@@ -56,7 +68,9 @@ This information is used to map your enterprise the OFN map.
 
 **About Us: **This is a longer description of your enterprise. It will be shown when your profile is viewed in full. It should be half to one page long.
 
-#### Business Details 
+---
+
+#### Business Details
 
 **ABN:**  this will not be displayed publicly.
 
@@ -64,11 +78,15 @@ This information is used to map your enterprise the OFN map.
 
 **Charge GST?**– If you wish to charge GST for your products select ‘yes’.
 
+---
+
 #### Images
 
 **Logo image: **This will be visible when your profile is viewed in brief, as a pop up window. It will also show on your profile. This image must be square, or it will be cropped/warped.
 
 **Promo image: **This image will run horizontally along the top of your profile page. It should be 1200 x 260 pixels in size.
+
+---
 
 #### Properties \(visible to producers only\)
 
@@ -76,21 +94,29 @@ You can apply properties \(such as free range or certified organic\) to your ent
 
 _\* Note: The following fields are only visible to users who’ve opted to have an online shop. This includes producer run shops, and hub run shops._
 
+---
+
 #### Inventory Settings
 
 Simple users can use the recommended setting. Advanced users who need greater flexibility with product management should consult the [Inventory](/inventory.md) page of this guide before changing the settings.
 
-#### Shipping Methods, Payment Methods and Enterprise Fees 
+---
+
+#### Shipping Methods, Payment Methods and Enterprise Fees
 
 _\* not visible to profile-only users_
 
 The [Shipping](/shipping-methods.md) and [Payment Methods](/payment-methods-2.md) and [Enterprise Fees](/enterprise-fees.md) are covered in greater detail in later chapters in this user manual.
+
+---
 
 #### Tag Rules
 
 _\* not visible to profile-only users_
 
 You can control the setting for customer tags by creating tag rules. For more information about this see [customer accounts and tagging](/customer-accounts-and-tagging.md).
+
+---
 
 #### Shop Preferences
 
