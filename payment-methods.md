@@ -1,10 +1,8 @@
-# Payment methodssssssss
+# Payment methodssss
 
 You must set up payment methods before you can open an order cycle.
 
-## Accessing payment methods
-
-%accordion%Accessing payment methods%accordion%
+## %accordion%Accessing payment methods%accordion%
 
 Click **Enterprises **in the blue horizontal menu, and then click **Manage **next to your enterprise. Then, click Payment methods in the menu on the left hand side.
 
@@ -14,26 +12,27 @@ Click **Enterprises **in the blue horizontal menu, and then click **Manage **nex
 
 ## Creating a new payment method
 
-Click on the**create new payment method**button.
+Click on the **create new payment method **button.
 
 Then, the first step in setting up a Payment Method is to tick your enterprise, in the box on the right hand side of the page titled Hubs.  This indicates that the payment method you are about to create will apply to your enterprise.
 
-**Name:** Choose a name for this payment method. \(i.e. Paypal, Cash on delivery, Bank Transfer, EFTPOS, etc\). It will be displayed at check out and on order confirmation emails.
+**Name:** Choose a name for this payment method. \(i.e. Pay with credit card using Paypal, Cash on delivery or Bank Transfer etc\). It will be displayed at checkout and on customers' order confirmation emails.
 
-**Description:** Here you can provide further details of the payment method. For instance, for a bank transfer, you would need to provide details of the bank account and request that customers provide you with the receipt number following payment. This description will be displayed at checkout and in order confirmation emails. An example of a description message displayed at checkout is shown below. The customer has selected ‘cash on collection/delivery’ and the ‘correct change…’ note is displayed.
+**Description:** Here you can provide further details about the payment method. For example, for a bank transfer, you would provide details of the bank account. This description will be displayed at checkout and in order confirmation emails. An screenshot showing how a payment method displays at checkout is shown below. The customer has selected ‘cash on collection/delivery’ and the ‘correct change…’ description is displayed.
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Payment-at-checkout.png "Payment message displayed at checkout")
 
-**Active: **This field allows you to select whether this payment method will be currently visible and available.
+**Active: **Select whether this payment method is currently visible and available, or not.
 
-**Tags:** Using tag rules you can make certain payment methods available for specific cusotmers. See [here](/customer-accounts-and-tagging.md) for detail.
+**Tags:** You can use tag rules to make certain payment methods available/unavailable for specific customers \(e.g. wholesale vs retail\). See [here](/customer-accounts-and-tagging.md) for details.
 
-**Provider: **There are four provider options. Select the one which is relevant to the payment method you are creating.
+**Provider: **There are five provider options. Select the one which is relevant to the payment method you are creating.
 
 1. MasterCard Internet Gateway Service \(MIGS\)
 2. PayPal Express
 3. [Pin Payments](https://pin.net.au/)
 4. Cash/EFT/etc. \(this is for payments which do not require automatic validation\)
+5. Stripe
 
 If you have selected ‘Cash/EFT/etc..’ as the provider, click **Create** to end the process.
 
