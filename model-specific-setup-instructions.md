@@ -5,28 +5,27 @@ To help you navigate this user guide, we've created setup guides based on who yo
 
 ## I'm a producer
 and want to:
+- only **be visible** and present myself. 
+I do not (yet) wish to sell my produce via OFN.
+--> Create a [Producer Profile](/getting-started.md).
 
-%accordion%Only  **be visible**  and present myself here. I do not (yet) wish to sell my produce via OFN.%accordion%
+- **sell my own goods** I grow/raise/brew/create/bake.
+--> Create a **Producer Shop**.
 
-Create a [Producer Profile](/getting-started.md). 
+* **sell my own & other** producers' goods. 
+--> Create a Producer Hub
+
+%accordion%What is a Producer Profile?%accordion%
 
 A producer profile is the simplest option, and offers a way to market yourself, without selling via OFN. The profile can be used to promote your products and services, share your story and provide contact details. It makes you visible and contactable to customers and other enterprises who might wish to trade with you. You can also add products, which hub enterprises can then stock in their stores.
 
 %/accordion%
 
-* **Sell my own goods** I grow/raise/brew/create/bake 
-
---> You suit a Producer Shop
-
 %accordion%What is a Producer Shop?%accordion%
-
-An OFN shop, is like a profile, but it also includes all the functions needed for producers to sell directly to customers online. This includes the online shopfront with full checkout capabilities as well as behind the scenes tools to aid in administration, such as reporting of payments and inventory. The OFN is a network, so it allows shops to be connected with other shops. This way a producer can be stocking their products in their own independent store, as well as through a number of hub shops.
+A Producer Shop, is like a profile, but it also includes all the functions needed to sell directly to customers online. This includes the online shopfront with full checkout capabilities as well as behind the scenes tools to aid in administration, such as reporting of payments and inventory. 
+The OFN is a network, so you are able to connect with other shops. This way you can stock your products in your own independent store, as well as through a number of hub shops.
 
 %/accordion%
-
-* **Sell my own & other** producers' goods 
-
---> You suit a Producer Hub
 
 %accordion%What is a Producer Hub?%accordion%
 
