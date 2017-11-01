@@ -1,4 +1,4 @@
-# Step 1. Create an Enterprise Account
+# Step 1. Create a Profile
 
 _Time:_ 5 - 10 min   
 _Needed:_ Contact details, images, 'About Us' text

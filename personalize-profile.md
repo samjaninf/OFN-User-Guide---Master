@@ -1,4 +1,4 @@
-# Your profile
+# Enterprise Settings
 
 
 This page will show you how to access, edit and add information to your profile at any time. 
