@@ -27,9 +27,7 @@ You've now completed your basic profile details.
 
 1. You will have received an email asking to ‘Please confirm the email address’. Open the email and click the link to confirm your email is correct. 
 
-2. When you first login to OFN you'll be asked to select which package you want.
-
-More about packages
+2. When you first login to OFN you'll be asked to select which package you want. [Learn more about packages here.](/hub-profile-types.md)
 
 Your profile will not be visible on OFN until you confirm your email and select a package.
 

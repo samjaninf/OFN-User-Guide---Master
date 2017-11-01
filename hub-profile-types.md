@@ -1,6 +1,6 @@
 # Package types
 
-When you first create your profile, you’ll be prompted to select a package. Your selection here dictates the functionality that your profile will have i.e. whether you'll just have a profile, or also a shop. Different packages may also have different fee structures, depending on how your local instance charges. The different packages are described below for Producers and Non-Producers \(hubs\).
+OFN offers 5 packages, which differ according to the type of enterprise (producer or hub) and whether they want to have an online shop. When you first create your profile and login, you’ll be prompted to select a package. Your selection here dictates the functionality that your profile will have i.e. whether you'll just have a profile, or also a shop. Different packages may also have different fee structures, depending on how your local instance charges. The different packages are described below for Producers and Non-Producers \(hubs\).
 
 ## For Producers
 
