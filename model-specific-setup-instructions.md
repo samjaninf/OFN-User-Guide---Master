@@ -6,13 +6,15 @@ To help you navigate this user guide, we've created setup guides based on who yo
 ## I'm a producer
 and want to:
 
-* Only **be visible** and present myself here. I do not (yet) wish to sell my produce via OFN.
+* %accordion%Only **be visible** and present myself here. I do not (yet) wish to sell my produce via OFN.%accordion%
 
 -->  You suit a Producer Profile: 
 
 %accordion%What is a Producer Profile?%accordion%
 
 A profile on the OFN is the simplest option, and offers a way for producers to market themselves. The profile can be used to promote your products and services, share your story and provide contact details. A profile makes you visible and contactable to customers and other enterprises who might wish to trade with you. Producers with a profile can also add products, which hub enterprises can then stock in their stores.
+
+%/accordion%
 
 %/accordion%
 
