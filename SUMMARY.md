@@ -3,7 +3,7 @@
 * [Open Food Network userguide](open-food-network-userguide.md)
 * [How to use this guide](README.md)
   * [Frequently Used Terms \(glossary?\)](frequently-used-terms.md)
-* Model Specific Setup Instructions
+* [Model Specific Setup Instructions](model-specific-setup-instructions.md)
   * [Hub set-up guide](hubs-set-up-guide.md)
   * [Producer shop set-up](producer-set-up-guide.md)
   * [Farmer's Market ](farmers-market.md)

@@ -1,4 +1,4 @@
-# [ ](https://openfoodnetwork.org/about/organisation/)Hub set-up guide
+# Hub set-up guide
 
 ## Steps for creating and editing a hub profile:
 
