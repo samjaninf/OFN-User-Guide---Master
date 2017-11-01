@@ -1,6 +1,6 @@
 # Summary
 
-* [Open Food Network userguide](open-food-network-userguide.md)
+* [Open Food Network User Guide](open-food-network-userguide.md)
 * [Model Specific Setup Instructions](model-specific-setup-instructions.md)
   * [Hub set-up guide](hubs-set-up-guide.md)
   * [Producer shop set-up](producer-set-up-guide.md)
