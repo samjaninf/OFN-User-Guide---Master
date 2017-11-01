@@ -6,7 +6,7 @@ This short video will give you a brief introduction to how the Open Food Network
 
 ## How to use this guide
 
-**Model Specific Guides **
+**User Help Sheets**
 This guide is structured into 'Model Specific Guides' which will point you in the right direction, depending on how you want to use the OFN. 
 
 **Advanced features **
