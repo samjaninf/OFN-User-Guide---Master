@@ -15,3 +15,7 @@ Already set-up? Check out some of the OFN’s more advanced features and learn h
 **Frequently Asked Questions \(FAQs\)**
 
 Browse these FAQs to find answers to some commonly asked questions from customers, producers and hubs.
+
+**Search**
+
+All user guide material is fully searchable. Use the search bar at the top to search for specific material.
