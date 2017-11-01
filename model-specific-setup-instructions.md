@@ -31,20 +31,14 @@ Your enterprise is the backbone of your local food system. You can sell your own
 
 ### I'm not a producer - I  only source and sell to my community (I'm a Hub)
 and want to:
-- Only **be visible** and present myself here. I do not (yet) wish to sell via OFN.
-
---> You suit a Hub Profile
+- Only **be visible** and present myself here. I do not (yet) wish to sell via OFN. --> Create a Hub Profile
+- **Sell** goods --> Create a Hub Shop
 
 %accordion%What is a Hub Profile?%accordion%
 
 A profile on the OFN is the simplest option, and offers a way for enterprises to market themselves. The profile can be used to promote products and services, share your story and provide contact details. A profile makes you visible and contactable to customers and other enterprises who might wish to trade with you.
 
 %/accordion%
-
-
-- **Sell** goods 
-
---> You suit a Hub Shop
 
 %accordion%What is a Hub Shop?%accordion%
 
