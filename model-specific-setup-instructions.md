@@ -3,7 +3,7 @@
 
 To help you navigate this user guide, we've created setup guides based on who you are and what you want to do with the Open Food Network. Find that guide that best suits your needs:
 
-## I'm a producer
+### I'm a producer
 and want to:
 - only **be visible** and present myself. I do not (yet) wish to sell my produce via OFN. --> Create a [Producer Profile](/getting-started.md).
 - **sell my own goods** I grow/raise/brew/create/bake. --> Create a Producer Shop.
@@ -29,7 +29,7 @@ Your enterprise is the backbone of your local food system. You can sell your own
 
 %/accordion%
 
-## I'm not a producer - I  only source and sell to my community (I'm a Hub)
+### I'm not a producer - I  only source and sell to my community (I'm a Hub)
 and want to:
 - Only **be visible** and present myself here. I do not (yet) wish to sell via OFN.
 
@@ -52,7 +52,7 @@ You have the option of adding an OFN shop onto your profile, giving you all the 
 
 %/accordion%
 
-## I'm a farmer's market
+### I'm a farmer's market
 and want to:
 - let each farmer have their own profile and/or shop
 
@@ -84,7 +84,7 @@ Farmer’s market groups who are willing to cooperate and work together can esta
 
 %/accordion%
 
-## I'm a buying group
+### I'm a buying group
 and want to:
 - have an online shop to stock items from my various suppliers
 
