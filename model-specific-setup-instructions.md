@@ -9,14 +9,14 @@ I'm a producer
 * Producer hub \(selling my goods, and goods from other producer\)
 
 I'm not a producer
-
-
+- Hub profile
+- Hub shop
 
 I'm a farmer's market
-
-
+- Group page
 
 I'm a buying group
+- Hub shop
 
 
 
