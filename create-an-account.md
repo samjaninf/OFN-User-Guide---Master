@@ -8,40 +8,37 @@ _Needed:_ Contact details, images, 'About Us' text
 1. Go to your local Open Food Network and add /register \(e.g. [www.openfoodnetwork.org.au**/register**](/www.openfoodnetwork.org.au/register)\)
 2. Enter your email address and choose a password
 
-   → You receive an email ‘Welcome to Open Food Network’ showing your login details
+   → You will receive an email ‘Welcome to Open Food Network’ showing your login details
 
 #### Create your profile for your Producer or Hub
 
 1. Tick the ‘Agree to Terms of Service’ box and click ‘Let’s Get Started!’
 2. Fill in your enterprise and contact details
-3. Choose if you’re ‘a producer’ \(e.g. farmer\) or ‘not a producer’ \(We call these hubs which includes: a seller and/or distributor of food: coop, food hub, wholesaler etc.\).
+3. Choose if you’re ‘a producer’ \(e.g. farmer\) or ‘not a producer’ \(We call non-producers hubs, which includes: a seller and/or distributor of food: coop, food hub, wholesaler etc.\).
 4. Click the ‘create profile’ button.
 
-→ You will receive an email asking to ‘Please confirm the email address’
-
-You can continue filling in further details \(go to step 1.7\) or leave the wizard and come back later \(start at step 1.8\)
 
 #### Fill in further details
 
-1. Fill in your profile enterprise description, images, website/social media and bank details
+1. Fill in your profile enterprise description, images, website/social media and ABN details
+
+You've now completed your basic profile details.
 
 #### Activate your account
 
-1. Open the ‘Please confirm the email address’ email and click the link. 
+→ You will have received an email asking to ‘Please confirm the email address’
 
-You will either
+1. Open the ‘Please confirm the email address’ email and click the link to confirm your email is correct. 
 
-* Start with step 1.7, filling in further enterprise details,
+2. When you first login to OFN you'll be asked to select which package you want.
 
-or
-
-* Continue [setting up the type of profile you need](select-profile.md)
+Your profile will not be visible on OFN until you confirm your email and select a package.
 
 ##### _Questions you  might have:_
 
 * What is the difference between a profile and a shopfront on the OFN?
 * Can I let someone else \(co-\) manage my profile?
-* How do I change or update my enterprise details
+* How do I change or update my enterprise details?
 
-\| _accordion content here or link to this alinea in FAQ?_\| - I think link to the right page in the guide...
+\| _accordion content here or link to this alinea in FAQ?_\| - I think link to the right page in the guide...Yes agreed.
 
