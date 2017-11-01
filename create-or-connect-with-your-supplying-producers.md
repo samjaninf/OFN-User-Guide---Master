@@ -14,7 +14,7 @@ How do you know if you supplying producer has an OFN profile? Go to www.openfood
 
 ## 1\) Supplying producer does not have an OFN profile.
 
-If a supplying producer does not have a profile on the OFN, you can create one on their behalf. You’ll be the ‘owner’ of this profile and be able to add the producer’s products and then stock them in your shop. The new producer enterprise will be visible on your dashboard when you login to your existing account. Should the producer ever wish to take ownership of their profile, [[ownership can be easily transferred.](/transferring-ownership-of-a-profile.md)](/transferring-ownership-of-a-profile.md)
+If a supplying producer does not have a profile on the OFN, you can create one on their behalf. You’ll be the ‘owner’ of this profile and be able to add the producer’s products and then stock them in your shop. The new producer enterprise will be visible on your dashboard when you login to your existing account. Should the producer ever wish to take ownership of their profile, [ownership can be easily transferred](/transferring-ownership-of-a-profile.md).
 
 ### Things to consider before creating a producer profile:
 
