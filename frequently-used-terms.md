@@ -1,5 +1,6 @@
-# Frequently Used Terms
+# Glossary
 
-Order Cycle
-Hub
-etc. 
+Order Cycle  
+Hub  
+etc.
+

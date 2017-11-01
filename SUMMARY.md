@@ -1,8 +1,6 @@
 # Summary
 
 * [Open Food Network userguide](open-food-network-userguide.md)
-* [How to use this guide](README.md)
-  * [Frequently Used Terms \(glossary?\)](frequently-used-terms.md)
 * [Model Specific Setup Instructions](model-specific-setup-instructions.md)
   * [Hub set-up guide](hubs-set-up-guide.md)
   * [Producer shop set-up](producer-set-up-guide.md)
@@ -66,4 +64,6 @@
   * [Farm Foodstore](farm-foodstore.md)
   * [Bondi Food Collective](bondi-food-collective.md)
   * [Westies Dry Goods Buying Group](westies-dry-goods-buying-group.md)
+* [How to use this guide](README.md)
+  * [Glossary](frequently-used-terms.md)
 
