@@ -1,6 +1,8 @@
 # Create or connect with your supplying producers
 
-This step is a necessary precursor to adding your products to your shop.
+This page is only relevant to users who are not producers, or producers who want to sell products that come from other producers in their shop.
+
+For such users, this step is a necessary precursor to adding your product range to your shop.
 
 All products on the OFN must ‘belong’ to an OFN producer profile. This is an important feature on the OFN, as it enables customers to trace the origin of products. An example of how this displays in the shopfront is shown below.
 
@@ -8,11 +10,11 @@ All products on the OFN must ‘belong’ to an OFN producer profile. This is an
 
 So as a hub, what do you need to do before adding your products? Well, there are two possibilities, depending on whether or not your supplying producer already has an OFN profile.
 
-How do I know if my producer has an OFN profile? Go to www.openfoodnetwork.org.au/producers and search for them.
+How do you know if you supplying producer has an OFN profile? Go to www.openfoodnetwork.org.au/producers and search for them.
 
 ## 1\) Supplying producer does not have an OFN profile.
 
-If a supplying producer does not have a profile on the OFN, you can create one on their behalf. You’ll be the ‘owner’ of this profile and be able to add the producer’s products and then stock them in your shop. The new producer enterprise will be visible on your dashboard when you login to your existing account. Should the producer ever wish to take ownership of their profile, [ownership can be easily transferred.](/transferring-ownership-of-a-profile.md)
+If a supplying producer does not have a profile on the OFN, you can create one on their behalf. You’ll be the ‘owner’ of this profile and be able to add the producer’s products and then stock them in your shop. The new producer enterprise will be visible on your dashboard when you login to your existing account. Should the producer ever wish to take ownership of their profile, [[ownership can be easily transferred.](/transferring-ownership-of-a-profile.md)](/transferring-ownership-of-a-profile.md)
 
 ### Things to consider before creating a producer profile:
 
