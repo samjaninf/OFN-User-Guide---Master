@@ -6,7 +6,7 @@ To help you navigate this user guide, we've created setup guides based on who yo
 ## I'm a producer
 and want to:
 
-* %accordion%Only **be visible** and present myself here. I do not (yet) wish to sell my produce via OFN.%accordion%
+%accordion%Only **be visible** and present myself here. I do not (yet) wish to sell my produce via OFN.%accordion%
 
 -->  You suit a Producer Profile: 
 
