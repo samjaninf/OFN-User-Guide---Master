@@ -69,21 +69,39 @@ and want to:
 
 Each farmer within the farmers market can establish their own profile and online shop on the OFN. The farmers market’s website could then promote links to these independently run shops.
 
+%/accordion%
 
 - house the personal producer profiles and shops together on one group page 
 
 --> get a group page
 
-What is a group page?
+%accordion%What is a group page?%accordion%
+
+This is an umbrella profile, which can house the profiles and stores of member producers. With a unique URL and landing page, this group site allows for collective marketing and promotions.
+
+%/accordion%
 
 - sell the entire product range of all our producers together via a single online shop.
 
---> establish a hub
+--> establish a Farmer's market Hub
 
-What is a farmers' market hub?
+%accordion%What is a Farmers' market Hub?%accordion%
 
-I'm a buying group
-- Hub shop
+Farmer’s market groups who are willing to cooperate and work together can establish a hub. This hub has a single shopfront offering the entire product range of participating producers. Finding a way to coordinate the logistics of incoming and outgoing products can require some creative thinking, but using the farmer’s market days as a chance to aggregate and pack orders is one simple option.
+
+%/accordion%
+
+## I'm a buying group
+and want to:
+- have an online shop to stock items from my various suppliers
+
+--> You suit a Hub Shop
+
+%accordion%How does this work?%accordion%
+
+[Buying groups](/consumer-buying-groups.md) can use the OFN to setup an online shopfront, which can be stocked with items from their various suppliers. Each supplier has a corresponding profile, so as customers are shopping, they can learn about how their food was produced and where it’s come from. Different elements of the buying group’s shop can be configured, including whether it is member-only, what kind of markup is applied, how often its order cycles repeat and what shipping methods and payment terms are offered. Using the OFN within a buying group is a great way to streamline your administration tasks and to provide a more enjoyable shopping experience.
+
+%/accordion%
 
 
 
