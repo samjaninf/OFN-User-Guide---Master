@@ -5,13 +5,8 @@ To help you navigate this user guide, we've created setup guides based on who yo
 
 ## I'm a producer
 and want to:
-- only **be visible** and present myself. 
-I do not (yet) wish to sell my produce via OFN.
---> Create a [Producer Profile](/getting-started.md).
-
-- **sell my own goods** I grow/raise/brew/create/bake.
---> Create a **Producer Shop**.
-
+- only **be visible** and present myself. I do not (yet) wish to sell my produce via OFN. --> Create a [Producer Profile](/getting-started.md).
+- **sell my own goods** I grow/raise/brew/create/bake. --> Create a Producer Shop.
 * **sell my own & other** producers' goods. 
 --> Create a Producer Hub
 
@@ -22,6 +17,7 @@ A producer profile is the simplest option, and offers a way to market yourself, 
 %/accordion%
 
 %accordion%What is a Producer Shop?%accordion%
+
 A Producer Shop, is like a profile, but it also includes all the functions needed to sell directly to customers online. This includes the online shopfront with full checkout capabilities as well as behind the scenes tools to aid in administration, such as reporting of payments and inventory. 
 The OFN is a network, so you are able to connect with other shops. This way you can stock your products in your own independent store, as well as through a number of hub shops.
 
