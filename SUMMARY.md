@@ -15,7 +15,7 @@
   * [Dashboard](the-dashboard.md)
 * [Continue: create online shop](continue-create-online-shop.md)
   * [Create or connect with your supplying producers](create-or-connect-with-your-supplying-producers.md)
-  * [Products](products.md)
+  * [Productsss](products.md)
   * [Payment methods](payment-methods.md)
   * [Shipping methods](shipping-methods.md)
   * [Enterprise fees](enterprise-fees.md)

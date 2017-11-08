@@ -30,7 +30,17 @@ Yada
 
 7) [Create profiles for, or connect with your supplying producers](/create-or-connect-with-your-supplying-producers.md). You need to do this before you can add your product range.
 
-8) [Manage products](/products.md).
+8) Manage your products
+
+The following instructions for managing products are broken down according to what you setup in step 7 above, either a) created a profile for your supplying producer; or b) connected with a pre-existing supplying producer profile.
+
+**a) I created a profile for my supplying producer**
+If in the previous step you created a profile for your supplier (because they were not on the OFN), you’ll need to also [add their products](/products.md) to that profile, before you can stock them in your store.
+
+**b) I connected with a pre-existing supplying producer profile.**
+If your supplying producer already had a profile, you may or may not need to add their product range. If that producer has already added their products, you don’t need to add them again, instead you just need to get their permission to stock their products in your shop (see previous step 7). They’ll then be visible to your when you go to stock your shop (in order cycles).
+
+If your supplying producer has a profile, but hasn’t added their product range, you’ll need to first get their permission to manage their products and stock them in your shop. Then, the you can [add their proudcts](/products.md).
 
 **Shipping and payment methods, and added your products, you can open your shopfront
 **
