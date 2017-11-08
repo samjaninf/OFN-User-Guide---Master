@@ -1,7 +1,7 @@
 # Model Specific Setup Instructions
 
 
-To help you navigate this user guide, we've created setup guides based on who you are and what you want to do with the Open Food Network. Find that guide that best suits your needs:
+To help you navigate this user guide, we've created setup guides based on who you are and what you want to do with the Open Food Network. Find that guide that best suits your needs below.
 
 ### I'm a producer
 and want to:
