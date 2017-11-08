@@ -23,7 +23,8 @@ You can add your products, and sell them how you like. You can chose the orderin
 
 **Once you've defined your shipping and payment methods, and added your products, you can open your shopfront
 **
-7) [Open an order cycle](/order-cycles-adv.md).
+
+7) [Open your shop by opening an order cycle](/order-cycles-adv.md).
 
 **Once you've received orders in your shop, you can see orders and use the reports.
 **
