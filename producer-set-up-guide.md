@@ -1,4 +1,35 @@
-# Producer set-up guide
+# Producer Shop
+
+
+## What is a producer shop?
+A producer shop lets you sell your produce through your own online shop on OFN.
+
+## What does it do?
+**Sell your food your way**
+You can add your products, and sell them how you like. You can chose the ordering routine. You choose the how the food is distributed. You choose how customer pay.
+
+## Steps for setting up a Producer Shop
+
+1) [Register your profile](/create-an-account.md) on Open Food Network. This setup tool will ask for basic information about your enterprise to create your profile. You'll be prompted to confirm your email address.
+
+2) Select the 'producer shop' [package type](/hub-profile-types.md).
+
+3) If you want to edit your profile, or add further detail you can modify your [Enterprise Settings](/your-profile.md).
+
+4) Define and setup your [shipping methods](/shipping-methods.md).
+
+5) Define and [setup your payment methods](/payment-methods.md).
+
+6) [Add your product range](/products.md).
+
+Once you've defined your shipping and payment methods, and added your products, you can open your shopfront
+
+7) [Open an order cycle](/order-cycles-adv.md).
+
+
+
+
+
 
 ### Steps for producers selling on the OFN, either as a supplier, or through an online shopfront.
 
