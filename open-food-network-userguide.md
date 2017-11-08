@@ -9,6 +9,14 @@ This short video will give you a brief introduction to how the Open Food Network
 **User Help Sheets**
 This guide is structured into 'Model Specific Guides' which will point you in the right direction, depending on who you are (producer, co-op, farmer's market etc.) and how you want to use the OFN (visibility, selling or trading). 
 
+**Structure**
+The order of the steps are:
+- Choose which 'Model Specific Guide' you need
+- Create a profile
+- Set up an online shop
+- When selling: view orders and reports
+- Customize to your needs: Advanced Features
+
 **Advanced features **
 Already set-up? Check out some of the OFN’s more advanced features and learn how to make your OFN account work best for you.
 
