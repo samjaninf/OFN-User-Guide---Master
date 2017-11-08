@@ -3,7 +3,7 @@
 _*Note, order cycles behave slightly differently for producers selling their own products, and hub shops who sell produce from multiple suppliers. [See Order Cycles for producers](/order-cycles-for-producers.md) if you are a producer.
 
 
-In the OFN, you create an active online store within the ‘order cycle’ functionality. An order cycle is a duration of time when an online store is visible, open and can accept orders. Each time an order cycle is created, the owner of the store can select which products will be stocked in the store.
+
 
 Some hubs may wish to have an online store which is perpetually open, and to fulfill orders on a one by one basis, as they are received. However, many hubs operate on a periodic ordering system, which allows them to process orders in bulk, making their packing and distribution activities more efficient. Let’s use an example to illustrate a common periodic ordering cycle structure.
 
