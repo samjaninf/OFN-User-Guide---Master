@@ -1,5 +1,6 @@
 # Summary
 
+* [Introduction](README.md)
 * [Open Food Network User Guide](open-food-network-userguide.md)
 * [Before you start](model-specific-setup-instructions.md)
   * [Producer \(Profile Only\)](producer-profile-only.md)
@@ -22,6 +23,7 @@
     * [Hub Order Cycles](order-cycles.md)
     * [Producer Order Cycles](order-cycles-for-producers.md)
 * [View orders](view-orders.md)
+* [Get reports](get-reports.md)
 * [Advanced Features](advanced-features.md)
   * [Your Profile](your-profile-adv.md)
     * [Making a producer profile searchable by product category](making-a-producer-profile-searchable-by-product-category.md)
@@ -63,6 +65,4 @@
   * [Farm Foodstore](farm-foodstore.md)
   * [Bondi Food Collective](bondi-food-collective.md)
   * [Westies Dry Goods Buying Group](westies-dry-goods-buying-group.md)
-* [How to use this guide](README.md)
-  * [Glossary](frequently-used-terms.md)
 
