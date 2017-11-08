@@ -62,6 +62,7 @@ When you click **create**,  you will be taken to your **Bulk Edit Product **page
 * [Product variants](/product-variants.md)
 * [Pricing irregular, indivisible meat items](/pricing-irregular-indivisible-meat-items.md)
 * [Product properties \(i.e. certified organic, free range, etc\)](/product-properties.md)
+- [Group buy](/group-buy.md) for items stocked in bulk sizes.
 
 
 
