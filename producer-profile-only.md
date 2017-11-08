@@ -27,13 +27,7 @@ If you want to supply a shop on the Open Food Network, you can create your profi
 **If you want to supply a shop on OFN**
 4) [Add your product range](/products.md).
 
-5) Grant the shop you want to supply with permission to stock your products.
-
-
-
-
-
-
+5) Grant the shop you want to supply with [permission to stock your products](/enterprise-to-enterprise-permissions-e2es.md).
 
 ## Advanced features that you may be interested in
 - Adding dummy products.
