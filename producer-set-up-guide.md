@@ -1,6 +1,5 @@
 # Producer Shop
 
-
 ## What is a producer shop?
 A producer shop lets you sell your produce through your own online shop on OFN.
 
@@ -32,28 +31,7 @@ You can add your products, and sell them how you like. You can chose the orderin
 
 9) [View reports](/reports.md). You may use the reports to generate packing sheets, invoices and or mailing lists.
 
-
-### Steps for producers selling on the OFN, either as a supplier, or through an online shopfront.
-
-If you have selected to have a profile only account and don’t wish to trade on the OFN you can stop at step 4. If you wish to sell your products as a supplier to other OFN shops, continue to step 5 to add your products, and then you are ready. Producers who have selected to operate their own OFN shopfront should continue with steps 5-11.
-
-1. [Add products](/products.md)
-   .
-2. [Define and set up your payment methods](/payment-methods-2.md)
-   .
-3. [Define your shipping methods](/shipping-methods.md)
-   .
-4. [Add enterprise fees](/enterprise-fees.md)
-   .
-5. [Create an order cycle](/order-cycles.md)
-   .
-
-You’re now ready to open the doors to your store, and start accepting orders!
-
-1. [View orders that have been placed in your shop](/create-or-connect-with-your-supplying-producers.md)
-   .
-2. [View and use the OFN generated reports](/reports.md)
-    to track orders, view accounts payable and receivable and more!
-
-Well done, you’re all set-up! Now take a look at the [advanced features](/advanced-features.md) to see how you can use the OFN to cater to the unique needs of your business.
-
+## Advanced features that are helpful for producers with shops.
+- [Embedding your shop](/embedded-shopfronts.md) into your own website.
+- [Pricing irregular items such as meat](/pricing-irregular-indivisible-meat-items.md)
+- [Opening more than one order cycle](/opening-more-than-one-order-cycle.md).
