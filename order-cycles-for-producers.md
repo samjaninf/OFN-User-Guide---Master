@@ -1,5 +1,7 @@
-# Order cycles
+# Order cycles (for Producers)
 
+_*Note, order cycles behave slightly differently for producers selling their own products, and hub shops who sell produce from multiple suppliers. [See Order Cycles for hubs if you are not a producer.](/order-cycles.md)
+_
 In the OFN, you create an active online store within the ‘order cycle’ functionality. An order cycle is a duration of time when an online store is visible, open and can accept orders. Each time an order cycle is created, the owner of the store can select which products will be stocked in the store.
 
 Many producers, who are selling small quantities of products, may find it useful to have an order cycle that is perpetually open, and to fulfill orders individually, as they are placed. Other producers, who sell large quantities of products, to multiple customers, find it useful to establish periodic order cycles, which are collectively fulfilled at the end of a period. For instance, a farmer may have an order cycle which is open (accepting orders) for two weeks. At the end of this order cycle, all of the orders are packed, sorted and distributed at the same time. Once this batch of orders has been fulfilled, a new order cycle is opened. Structuring order cycles in this way can make the tasks of packing and delivering orders more efficient.
