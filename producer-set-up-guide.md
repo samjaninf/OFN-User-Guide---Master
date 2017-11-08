@@ -21,18 +21,18 @@ You can add your products, and sell them how you like. You can chose the orderin
 
 6) [Add your product range](/products.md).
 
-**Once you've defined your shipping and payment methods, and added your products, you can open your shopfront
-**
+#### **Open your shop!**
 
 7) [Open your shop by opening an order cycle](/order-cycles-adv.md).
 
-**Once you've received orders in your shop, you can see orders and use the reports.
-**
-8) [View and edit orders](/view-orders.md).
+#### **Great! You're open and ready to sell!**
 
-9) [View reports](/reports.md). You may use the reports to generate packing sheets, invoices and or mailing lists.
+You can now [view your orders](/view-orders.md), [get detailed reports](/reports.md) and explore the advanced features to tailor your shop to your needs.
 
-## Advanced features that are helpful for producers with shops.
+
+%accordion%Advanced features that are helpful for producers with shops%accordion%
 - [Embedding your shop](/embedded-shopfronts.md) into your own website.
 - [Pricing irregular items such as meat](/pricing-irregular-indivisible-meat-items.md)
 - [Opening more than one order cycle](/opening-more-than-one-order-cycle.md).
+
+%/accordion%

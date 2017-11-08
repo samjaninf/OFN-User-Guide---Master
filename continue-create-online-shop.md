@@ -2,20 +2,6 @@
 
 The following steps are relevant to users who wish to establish an online shop. If you wish to have an online profile only, you don't have to follow these steps.
 
-Now, let's see which steps you have to take. **I am: **
-####** A producer**
-   -  wishing to operate my personal online shop
-   
-   --> follow steps 2-8.
-   - wishing to only supply products to other OFN shops.
-   
-   --> continue to step 2 to add your products, and then you are ready.
-   
-#### **A hub ** 
-
-  -  wishing to establish an online shop. 
-  
-  --> follow steps 1-8.
    
 ### Set-up steps
 
@@ -35,6 +21,8 @@ Now, let's see which steps you have to take. **I am: **
 Well done, you’re all set-up!
 
 You can now [view your orders](/view-orders.md), [get detailed reports](/reports.md) and explore the [advanced features](/advanced-features.md) to see how you can use the OFN to cater to the unique needs of your business.
+
+---
 
 We are always trying to improve our systems – if you have suggestions, need additional features, etc. please let us know via an email or join the conversation on our community forum.
 

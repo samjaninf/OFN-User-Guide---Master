@@ -40,7 +40,7 @@ If in the previous step you created a profile for your supplier (because they we
 b) I connected with a pre-existing supplying producer profile.
 If your supplying producer already had a profile, you may or may not need to add their product range. If that producer has already added their products, you don’t need to add them again, instead you just need to get their permission to stock their products in your shop (see previous step 7). They’ll then be visible to your when you go to stock your shop (in order cycles).
 
-If your supplying producer has a profile, but hasn’t added their product range, you’ll need to first get their permission to manage their products and stock them in your shop. Then, the you can [add their proudcts](/products.md).
+If your supplying producer has a profile, but hasn’t added their product range, you’ll need to first get their permission to manage their products and stock them in your shop. Then, you can [add their proudcts](/products.md).
 
 **Shipping and payment methods, and added your products, you can open your shopfront
 **
@@ -53,7 +53,9 @@ If your supplying producer has a profile, but hasn’t added their product range
 
 10) [View reports](/reports.md). You may use the reports to generate packing sheets, invoices and or mailing lists.
 
-## Advanced features that are helpful for producers with shops.
+%accordion%Advanced features that are helpful for producers with shops.%accordion%
 - [Embedding your shop](/embedded-shopfronts.md) into your own website.
 - [Pricing irregular items such as meat](/pricing-irregular-indivisible-meat-items.md)
 - [Opening more than one order cycle](/opening-more-than-one-order-cycle.md).
+
+%/accordion%

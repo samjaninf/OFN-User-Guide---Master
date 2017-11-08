@@ -6,9 +6,9 @@ To help you navigate this user guide, we've created setup guides based on who yo
 ### I'm a producer
 and want to:
 - only **be visible** and present myself. I do not (yet) wish to sell my produce via OFN. --> Create a [Producer Profile](/getting-started.md).
-- **sell my own goods** I grow/raise/brew/create/bake. --> Create a Producer Shop.
+- **sell my own goods** I grow/raise/brew/create/bake. --> Create a [Producer Shop](/producer-set-up-guide.md).
 * **sell my own & other** producers' goods. 
---> Create a Producer Hub
+--> Create a [Producer Hub](/hubs-set-up-guide.md).
 
 %accordion%What is a Producer Profile?%accordion%
 
@@ -32,7 +32,7 @@ Your enterprise is the backbone of your local food system. You can sell your own
 ### I'm not a producer - I  only source and sell to my community (I'm a Hub)
 and want to:
 - Only **be visible** and present myself here. I do not (yet) wish to sell via OFN. --> Create a Hub Profile
-- **Sell** goods --> Create a Hub Shop
+- **Sell** goods --> Create a [Hub Shop](/hubs-set-up-guide.md)
 
 %accordion%What is a Hub Profile?%accordion%
 
@@ -60,7 +60,7 @@ Each farmer within the farmers market can establish their own profile and online
 
 - house the personal producer profiles and shops together on one group page 
 
---> get a group page
+--> get a [group page](/farmers-market.md)
 
 %accordion%What is a group page?%accordion%
 
@@ -70,7 +70,7 @@ This is an umbrella profile, which can house the profiles and stores of member p
 
 - sell the entire product range of all our producers together via a single online shop.
 
---> establish a Farmer's market Hub
+--> establish a [Farmer's market Hub](/farmers-market.md)
 
 %accordion%What is a Farmers' market Hub?%accordion%
 
@@ -82,7 +82,7 @@ Farmer’s market groups who are willing to cooperate and work together can esta
 and want to:
 - have an online shop to stock items from my various suppliers
 
---> You suit a Hub Shop
+--> You suit a [Hub Shop](/buying-group.md)
 
 %accordion%How does this work?%accordion%
 
