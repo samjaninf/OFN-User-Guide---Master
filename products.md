@@ -1,18 +1,5 @@
 # Products
 
-You need to create or connect with supplying producer profiles before you can add products.
-
-The following instructions for managing products are broken down according to whether you have: 1\) created a profile for your supplying producer; or 2\) connected with a pre-existing supplying producer profile.
-
-### 1\) I created a profile for my supplying producer
-
-If in the previous step you created a profile for your supplier \(because they were not on the OFN\), you’ll need to also add their products to that profile, before you can stock them in your store. Instructions for doing this are below, under ‘Adding products’.
-
-### 2\) I connected with a pre-existing supplying producer profile.
-
-If your supplying producer already had a profile, you may or may not need to add their product range. If that producer has already added their products, you don’t need to add them again, instead you just need to get their permission to stock their products in your shop \(see previous step\). They’ll then be visible to your when you go to stock your shop \(in [order cycles](/order-cycles.md)\)
-
-If your supplying producer has a profile, but hasn’t added their product range, you’ll need to first get their permission to manage their products and stock them in your shop. Then, the you can add their products according to process below.
 
 ## Adding products
 
@@ -24,7 +11,7 @@ This will take you to the New Product page.
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/New-Product2.png "New product page")
 
-**Supplier:**Select the enterprise who produces and supplies the product. Remember you’ll only be able to add products to producer profiles which you have created, or if you have been granted permission to manage the products of a pre-existing producer profile.
+**Supplier:**Select the enterprise who produces and supplies the product. If you are a producer, this will be you. If you're a hub, remember you’ll only be able to add products to producer profiles which you have created, or if you have been granted permission to manage the products of a producer profile.
 
 **Product name: **This is the title of the product which will be displayed in the store.
 
