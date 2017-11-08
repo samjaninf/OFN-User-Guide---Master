@@ -6,6 +6,7 @@
   * [Producer shop set-up](producer-set-up-guide.md)
   * [Farmer's Market ](farmers-market.md)
   * [Buying Group](buying-group.md)
+  * [Producer Profile Only](producer-profile-only.md)
 * [Getting started: create profile](getting-started.md)
   * [1. Create your profile](create-an-account.md)
   * [2. Package types](hub-profile-types.md)

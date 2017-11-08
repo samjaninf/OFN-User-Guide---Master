@@ -4,6 +4,8 @@ OFN offers 5 packages, which differ according to the type of enterprise (produce
 
 If you only want a profile on the OFN, once you've created your account, confirmed your email, and selected a profile-only package, your profile will be live on OFN. If you want to change or add any details to your profile, continue to [Enterprise Settings](/your-profile-adv.md), if not, you're all done.
 
+If you also want to setup an online shop, continue working
+
 ## For Producers
 
 %accordion%Producer packages%accordion%
