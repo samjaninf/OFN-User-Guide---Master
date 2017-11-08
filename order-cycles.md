@@ -1,15 +1,12 @@
 # Order Cycles for Hubs
 
-_*Note, order cycles behave slightly differently for producers selling their own products, and hub shops who sell produce from multiple suppliers. [See Order Cycles for producers](/order-cycles-for-producers.md) if you are a producer.
-
-
-
+_*Not a Hub, but a producer? See [Order Cycles for producers](/order-cycles-for-producers.md)._
 
 Some hubs may wish to have an online store which is perpetually open, and to fulfill orders on a one by one basis, as they are received. However, many hubs operate on a periodic ordering system, which allows them to process orders in bulk, making their packing and distribution activities more efficient. Let’s use an example to illustrate a common periodic ordering cycle structure.
 
 For instance, each Monday morning a hub might assess the availability of their stock for the week. Based on this information they will create an order cycle by Monday afternoon and open their store. Customers can then place orders in their store, until the order cycle closes on Wednesday at midnight. On Thursday all of the orders can be packed by the hub and prepared for delivery on Friday. The following week the cycle will begin again, and with the creation of a new order cycle. By structuring order cycles in this way, and dealing with orders in bulk, hubs can make their ordering, sorting, packing and transport activities much more efficient than if they process orders individually as they are placed.
 
-## Accessing Order Cycles
+## 1. Access Order Cycles
 
 You can create an order cycle, and view previous order cycles by clicking on **Manage Order Cycles **on your dashboard.
 
@@ -19,7 +16,7 @@ Or from the horizontal menu at the top of the page.
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Access-order-cycle.png "Access order cycle")
 
-## Creating a New Order Cycle
+## 2. Create a New Order Cycle
 
 Below is the first stage in creating an order cycle.
 
@@ -39,7 +36,7 @@ Select the coordinator of the order cycle. The enterprise which coordinates an o
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/New-order-cycle-3.png "New order cycle fields")
 
-### Incoming
+### Incoming: select producer and produce
 
 The incoming section is where you can select the producers, and their produce, which will be available in this order cycle. In the dropdown menu you will see all producers who have granted you permission to add their produce to your order cycle \(See _Relationships with Producers_ section for details\). After selecting a supplier and clicking **Add Supplier** all of the products associated with that supplier will be visible. Check those products you wish to add to the store, or click **select all. **Note: Products which have an ‘on hand’ value of zero \(no stock available\) will still be visible, so be careful to check that you have adequate on hand inventory for the products selected.
 
@@ -53,7 +50,7 @@ This fee will be applied to all of the Producer of Fruit’s products which are 
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Enterprise-Fee.png "Apply enterprise fee to incoming supplier")
 
-### Outgoing
+### 4. Outgoing: select distributor
 
 The distributor\(s\) selected in the outgoing section, will have a shopfront created from this order cycle. In simple hub models, there is only one distributor, the hub. So select the hub in the distributor column, and then select all products that should be visible in the online store during this order cycle. More complex hubs might have buying groups, in which case each is selected as a distributor, and will consequently have their own shopfront created. You then have the capacity to select specific products to be available in each buying group’s shop.
 
@@ -73,7 +70,7 @@ The **Pick-Up Instructions **message will be included in the customer’s order 
 
 **Add Fee: **Again, a previously created enterprise fee can be assigned to this distributor.
 
-### Create the order cycle, opening the shopfront
+### 5. Open the shopfront
 
 Click Create to save this order cycle.![](http://openfoodfoundation.org/sites/default/files/create.png).
 

@@ -32,16 +32,11 @@ Now, let's see which steps you have to take. **I am: **
 6. [Create an order cycle](/order-cycles.md)
    .
 
-You’re now ready to open the doors to your shop, and start trading!
+Well done, you’re all set-up!
 
-1. [View orders that have been placed in your shop](/view-orders.md)
-   .
-2. [View and use the OFN generated reports](/reports.md)
-   to track orders, view accounts payable and receivable and more!
+You can now [view your orders](/view-orders.md), [get detailed reports](/reports.md) and explore the [advanced features](/advanced-features.md) to see how you can use the OFN to cater to the unique needs of your business.
 
-Well done, you’re all set-up! Now take a look at the [advanced features](/advanced-features.md) to see how you can use the OFN to cater to the unique needs of your business.
-
-Have a suggestion for how we could improve this feature? Send us an email or join the conversation on our community forum.
+We are always trying to improve our systems – if you have suggestions, need additional features, etc. please let us know via an email or join the conversation on our community forum.
 
 
 

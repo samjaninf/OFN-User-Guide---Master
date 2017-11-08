@@ -4,8 +4,12 @@ The last step is to open your shop. You do this by setting a duration of time wh
 
 Each time an order cycle is created, you can select which products to stock in the store.
 
-#### Different order cycles
-order cycles behave slightly differently for producers selling their own products, and hub shops who sell produce from multiple suppliers. [See Order Cycles for producers](/order-cycles-for-producers.md) if you are a producer.
+#### Create order cycles
+Order cycles behave slightly differently for producers selling their own products, and hub shops who sell produce from multiple suppliers. Go to:
+
+[Order Cycles for producers](/order-cycles-for-producers.md) if you are a producer.
+[Order Cycles for hubs](/order-cycles.md) if you are **not** a producer.
+
 
 
 
