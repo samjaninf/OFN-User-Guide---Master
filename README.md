@@ -1,55 +1,12 @@
-# [**User Guide**](https://openfoodnetwork.org/user-guide/)
 
-## What is OFN
 
-| _Benefits, story of OFN, How is OFN different to other platforms?_ |
+# Open Food Network Userguide
 
-This short video will give you a brief introduction to how the Open Food Network works, and what it can do for your food business.
+---
 
-<iframe width="669" height="376" src="https://www.youtube.com/embed/eA3IcMUnU14" frameborder="0" allowfullscreen></iframe> 
+![](/assets/ofn-global-colorx1.png)
 
-## How to use this guide
-| _Explanation of the guide and how you can use it_ |
-
-## Table of contents
-
-### Set up guides for producers and hubs:
-
-Learn how to get your business set-up on the OFN! These set-up guides will walk you through the steps involved in setting up a profile or online shop on your local OFN platform.
-
-[HUBS SET-UP GUIDE](/hubs-set-up-guide.md)
-
-[PRODUCERS SET-UP GUIDE](/producer-set-up-guide.md)
-
-### Advanced features:
-
-Already set-up? Check out some of the OFN’s more advanced features and learn how to make your OFN account work for you.
-
-[ADVANCED FEATURES](/advanced-features.md)
-
-### Frequently Asked Questions \(FAQs\):
-
-Browse these FAQs to find answers to some commonly asked questions from customers, producers and hubs .
-
-[CUSTOMER FAQS](/customer-faqs.md)
-
-[PRODUCER FAQS](/producer-faqs.md)
-
-[HUB FAQS](/hub-faqs.md)
-
-### Case studies:
-
-Take a look at these case studies to hear about how different food enterprises are utilising the OFN as part of their operations.
-
-[CASE STUDIES](/case-studies.md)
-
-### Model Specific Instructions:
-
-These pages detail the setup process for different community food enterprise models.
-
-[FARMERS’ MARKET](/farmers-markets.md)
-
-[BUYING GROUP](/buying-group.md)
-
-[MULTI-FARM SHOP](/multi-farm-shop.md)
-
+---
+![](/assets/OFN sometimes the best way to fix the system good.jpg)
+![](/assets/Food, unincorporated webimage.jpg)
+![](/assets/helpusbuild.jpg)

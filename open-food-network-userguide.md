@@ -1,4 +1,9 @@
-# Open Food Network User Guide
+![](/assets/youworkwithfoodweworkwithyou.jpg)
+####The Open Food Network is an open marketplace that makes it easy to find, buy, sell and move sustainable local food.
+
+It started as a little experiment with a van, some farmers and some friends. Since then it has grown to become an open source platform collaboratively nurtured by like-minded people around the world.
+
+## New to the Open Food Network?
 
 This short video will give you a brief introduction to how the Open Food Network works, and what it can do for your food business.
 
@@ -7,13 +12,13 @@ This short video will give you a brief introduction to how the Open Food Network
 ## How to use this guide
 
 **User Help Sheets**
-This guide is structured into 'Model Specific Guides' which will point you in the right direction, depending on who you are (producer, co-op, farmer's market etc.) and how you want to use the OFN (visibility, selling or trading). 
+This guide is structured into 'Model Specific Guides' which will point you in the right direction, depending on _who you are_: a producer, co-op, farmer's market, etc.  and _how you want to use_ the OFN: for visibility, selling or trading. 
 
-**Structure**
-The order of the steps are:
-- Choose which 'Model Specific Guide' you need
-- Create a profile
-- Set up an online shop
+**Structure of this guide**
+The chapters are structured as steps:
+- Before you start: Choose which 'Model Specific Guide' you need
+- Getting started: Create a profile
+- Continue: Set up an online shop
 - When selling: view orders and reports
 - Customize to your needs: Advanced Features
 

@@ -1,7 +1,7 @@
 # Summary
 
-* [Introduction](README.md)
-* [Open Food Network User Guide](open-food-network-userguide.md)
+* [Open Food Network User Guide](README.md)
+* [Introduction](open-food-network-userguide.md)
 * [Before you start](model-specific-setup-instructions.md)
   * [Producer \(Profile Only\)](producer-profile-only.md)
   * [Producer \(Shop\)](producer-set-up-guide.md)
