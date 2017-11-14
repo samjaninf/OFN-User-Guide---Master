@@ -1,7 +1,9 @@
 # Model Specific Setup Instructions
-
-
 To help you navigate this user guide, we've created setup guides based on who you are and what you want to do with the Open Food Network. Find that guide that best suits your needs below.
+
+
+
+![](/assets/foodproducersandhubs.jpg)
 
 ### I'm a producer
 and want to:
@@ -29,7 +31,7 @@ Your enterprise is the backbone of your local food system. You can sell your own
 
 %/accordion%
 
-### I'm not a producer - I  only source and sell to my community (I'm a Hub)
+### I'm a Hub
 and want to:
 - Only **be visible** and present myself here. I do not (yet) wish to sell via OFN. --> Create a Hub Profile
 - **Sell** goods --> Create a [Hub Shop](/hubs-set-up-guide.md)
