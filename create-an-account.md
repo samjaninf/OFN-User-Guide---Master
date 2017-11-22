@@ -1,14 +1,18 @@
 # Step 1. Create a Profile
 
 > 5 minutes   
-Needed: Contact details, images, 'About Us' text
+Needed: contact details, images, 'about us' text
 
-## Register
+#### Following along as we introduce you to the basics
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Isuk7JjtkYY" frameborder="0" allowfullscreen></iframe>
+
+#### Written steps:
+#### Register
 
 1. Go to your local Open Food Network and add /register to the end of the URL \(e.g. [www.openfoodnetwork.org.au**/register**](/www.openfoodnetwork.org.au/register)\)
 2. Enter your email address and choose a password
 
-   → You will receive an email ‘Welcome to Open Food Network’ showing your login details
+>You will receive an email ‘Welcome to Open Food Network’ showing your login details
 
 #### Create your profile for your Enterprise
 
@@ -20,6 +24,7 @@ Needed: Contact details, images, 'About Us' text
 #### Fill in further details
 
 1. Fill in your profile enterprise description, images, website/social media and business details
+> if you do not have any pictures yet, you can skip the step and add those later.
 
 You've now completed your basic profile details.
 
