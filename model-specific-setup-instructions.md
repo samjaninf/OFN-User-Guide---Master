@@ -5,7 +5,13 @@ To help you navigate this user guide, we've created setup guides based on who yo
 
 ![](/assets/foodproducersandhubs.jpg)
 
-### I'm a producer
+###I'm a 
+- [Producer](#<Producer>)
+- [Hub](#<Hub>)
+- [Farmer's market](#<Farmers-market>)
+- [Buying group](#<Buying-group>)
+
+###Producer
 and want to:
 - only **be visible** and present myself. I do not (yet) wish to sell my produce via OFN. --> Create a [Producer Profile](/getting-started.md).
 - **sell my own goods** I grow/raise/brew/create/bake. --> Create a [Producer Shop](/producer-set-up-guide.md).
@@ -31,7 +37,7 @@ Your enterprise is the backbone of your local food system. You can sell your own
 
 %/accordion%
 
-### I'm a Hub
+###Hub
 and want to:
 - Only **be visible** and present myself here. I do not (yet) wish to sell via OFN. --> Create a Hub Profile
 - **Sell** goods --> Create a [Hub Shop](/hubs-set-up-guide.md)
@@ -48,7 +54,7 @@ You have the option of adding an OFN shop onto your profile, giving you all the 
 
 %/accordion%
 
-### I'm a farmer's market
+###Farmers market
 and want to:
 - let each farmer have their own profile and/or shop
 
@@ -80,7 +86,7 @@ Farmer’s market groups who are willing to cooperate and work together can esta
 
 %/accordion%
 
-### I'm a buying group
+###Buying group
 and want to:
 - have an online shop to stock items from my various suppliers
 

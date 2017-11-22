@@ -2,13 +2,14 @@
 
 * [Open Food Network User Guide](README.md)
 * [Introduction](open-food-network-userguide.md)
+* [How to use this guide](how-to-use-this-guide.md)
 * [Before you start](model-specific-setup-instructions.md)
   * [Producer \(Profile Only\)](producer-profile-only.md)
   * [Producer \(Shop\)](producer-set-up-guide.md)
   * [Hub \(Shop\)](hubs-set-up-guide.md)
   * [Farmer's Market ](farmers-market.md)
   * [Buying Group](buying-group.md)
-* [Getting started: create profile](getting-started.md)
+* [Get started: create profile](getting-started.md)
   * [1. Create your profile](create-an-account.md)
   * [2. Choose a package](hub-profile-types.md)
   * [3. Edit your profile](your-profile.md)
@@ -60,9 +61,5 @@
   * [Customer FAQs](chapter1/customer-faqs.md)
   * [Producer FAQs](chapter1/producer-faqs.md)
   * [Hub FAQs](chapter1/hub-faqs.md)
-* [Case studies](case-studies.md)
-  * [Baw Baw Food Hub](case-study-baw-baw-food-hub.md)
-  * [Farm Foodstore](farm-foodstore.md)
-  * [Bondi Food Collective](bondi-food-collective.md)
-  * [Westies Dry Goods Buying Group](westies-dry-goods-buying-group.md)
+* How to use this guide
 
