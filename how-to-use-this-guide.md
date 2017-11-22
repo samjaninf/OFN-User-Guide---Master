@@ -14,12 +14,12 @@ The chapters are structured as steps:
 4. When selling: view orders and reports
 5. Customize to your needs: Advanced Features
 
-### Already set-up? **Advanced features **
+### Already set-up? **Advanced features**
 Check out some of the OFN’s more advanced features and learn how to make your OFN account work best for you.
 
 ### **Frequently Asked Questions \(FAQs\)**
 
-Browse these FAQs to find answers to some commonly asked questions from customers, producers and hubs.
+Browse FAQs to find answers to some commonly asked questions from customers, producers and hubs.
 
 ### **Search**
 

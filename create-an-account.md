@@ -1,9 +1,9 @@
-# Step 1. Create a Profile
+# Step 1. Register and create
 
 > 5 minutes   
 Needed: contact details, images, 'about us' text
 
-#### Following along as we introduce you to the basics
+#### Follow along as we introduce you to the basics
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Isuk7JjtkYY" frameborder="0" allowfullscreen></iframe>
 
 #### Written steps:
