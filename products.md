@@ -2,7 +2,7 @@
 
 ## Adding products
 
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/VFdcutYAhBQ" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VFdcutYAhBQ" frameborder="0" allowfullscreen></iframe>
 
 ### Written steps
 
