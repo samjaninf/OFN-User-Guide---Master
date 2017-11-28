@@ -17,7 +17,7 @@
 * [Continue: create online shop](continue-create-online-shop.md)
   * [Create or connect with your supplying producers](create-or-connect-with-your-supplying-producers.md)
   * [Add Products](products.md)
-  * [Choose a Payment Methods](payment-methods.md)
+  * [Choose a Payment Method](payment-methods.md)
   * [Choose how to Distribute](shipping-methods.md)
   * [Set Enterprise fees](enterprise-fees.md)
   * [Open your Shop! ](open-your-shop.md)
