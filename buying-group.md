@@ -1,4 +1,4 @@
-# Buying Group – OFN Setup Process
+# Buying Group
 
 [Buying groups](/consumer-buying-groups.md) can use the OFN to setup an online shopfront, which can be stocked with items from their various suppliers. Each supplier has a corresponding profile, so as customers are shopping, they can learn about how their food was produced and where it’s come from. Different elements of the buying group’s shop can be configured, including whether it is member-only, what kind of markup is applied, how often its order cycles repeat and what shipping methods and payment terms are offered. Using the OFN within a buying group is a great way to streamline your administration tasks and to provide a more enjoyable shopping experience.
 

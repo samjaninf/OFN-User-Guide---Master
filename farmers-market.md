@@ -1,5 +1,9 @@
 # Farmers’ Markets – OFN Setup
 
+# 
+
+
+
 # Process
 
 _Setting up a _[_farmer’s market_](/farmers-market.md) _on the OFN is a three part process:_
@@ -69,8 +73,6 @@ OFN allows for piloting of different models easily and quickly, talk to us if yo
 * Splitting payments between farmers, according to which items of theirs were sold in a collective shop is a feature that’s COMING SOON
 
 ##### [Ask us](mailto:hello@openfoodnetwork.org) about embedding your Farmers’ Market group directory into your own website.
-
-
 
 
 
