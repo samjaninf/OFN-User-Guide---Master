@@ -1,34 +1,21 @@
-# Edit your profile \(we want to rename this to Enterprise Configuration\)
+# Enterprise Settings
 
-Enterprise Configuration is where you can manage details relating to your profile and shopfront.
+Enterprise Setting is where you can manage details relating to your profile and shopfront.
 
 This video will show you how to access, edit and add information to your profile at any time. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bCxfNiLxwDk" frameborder="0" allowfullscreen></iframe>
 
-## Written steps
 
-### View and edit profile information
-1. Go to your administration panel
-2. Click on 'Manage Your Shop'
-![](/assets/Step 3 Your Profile - access profile information.jpg)
-3. You are now looking at your profile information. Go through different sections via the left chapter bar.
+### Access your Enterprise Settings
+1. Click on 'Enterprise' in the blue horizontal menu
+2. Click on 'Manage' next to your enterprise
 
 Each section of the Enterprise Configuration menu is explained below. 
 
 >_Reminder: when editing, click the Update button **within each section** to save your changes. It’s on the bottom of the page. _
 
-#### **You're set up!**
-You will now have a space to tell the story of your enterprise and to help drive connections to your social and online presence.
-
-#### Continue on
-##### _Trading and selling on the Open Food Network_
-
-By creating this profile you also have the first step in the pocket towards **trading** on the Open Food Network or **opening an online store**. Just [continue on to the set-up guide on this](/continue-create-online-shop.md). 
-
 ---
-### Enterprise configurations explained: 
-
 #### Primary Details
 
 **Name: **This is the name of your enterprise. It will be the title of your profile and store.

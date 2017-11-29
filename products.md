@@ -4,8 +4,6 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VFdcutYAhBQ" frameborder="0" allowfullscreen></iframe>
 
-### Written steps & sections explained
-
 1. Click on **Products **on the horizontal blue menu, and then click **+ New Product**.
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Add-new-product.png "Add new product")

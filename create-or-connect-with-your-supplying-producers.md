@@ -1,6 +1,6 @@
 # Create or connect with your supplying producers
 
-_This page is only relevant to users who are not producers, or producers who want to sell products that come from other producers in their shop._
+>_This page is only relevant to users who are not producers, or producers who want to sell products that come from other producers in their shop._
 
 For such users, this step is a necessary precursor to adding your product range to your shop.
 

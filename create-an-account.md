@@ -1,4 +1,4 @@
-# Step 1. Register and create
+# Register and create your profile
 
 > 5 minutes   
 Needed: contact details, images, 'about us' text
