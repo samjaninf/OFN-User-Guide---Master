@@ -4,12 +4,8 @@ To help you navigate this user guide, we've created setup guides based on who yo
 
 ![](/assets/foodproducersandhubs.jpg)
 
-### I'm a
+### I'm a...
 
-* [Producer](#<Producer>)
-* [Hub](#<Hub>)
-* [Farmer's market](#<Farmers-market>)
-* [Buying group](#<Buying-group>)
 
 ### Producer
 
@@ -34,6 +30,7 @@ Your enterprise is the backbone of your local food system. You can sell your own
 %/accordion%
 
 ### Hub
+A Hub is anyone who aggregates and sells food that's produced by others, E.g. retailers, distributors, hubs, coops.
 
 and want to:
 
