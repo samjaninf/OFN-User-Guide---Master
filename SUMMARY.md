@@ -24,8 +24,6 @@
   * [Order Cycles \(for Producers\)](order-cycles-for-producers.md)
   * [View Orders](view-orders.md)
   * [Reports](get-reports.md)
-* [Set up a shop](continue-create-online-shop.md)
-  * [Open your Shop! ](open-your-shop.md)
 * [Advanced Features](advanced-features.md)
   * [Your Profile](your-profile-adv.md)
     * [Making a producer profile searchable by product category](making-a-producer-profile-searchable-by-product-category.md)
@@ -62,5 +60,4 @@
   * [Customer FAQs](chapter1/customer-faqs.md)
   * [Producer FAQs](chapter1/producer-faqs.md)
   * [Hub FAQs](chapter1/hub-faqs.md)
-* Basic Features
 
