@@ -20,11 +20,10 @@
   * [Payment Methods](payment-methods.md)
   * [Shipping Methods](shipping-methods.md)
   * [Enterprise Fees](enterprise-fees.md)
-  * [Hub Order Cycles](order-cycles.md)
-  * [Producer Order Cycles](order-cycles-for-producers.md)
+  * [Order Cycles \(for Hubs\)](order-cycles.md)
+  * [Order Cycles \(for Producers\)](order-cycles-for-producers.md)
   * [View Orders](view-orders.md)
   * [Reports](get-reports.md)
-  * x
 * [Create a profile](getting-started.md)
 * [Set up a shop](continue-create-online-shop.md)
   * [Open your Shop! ](open-your-shop.md)

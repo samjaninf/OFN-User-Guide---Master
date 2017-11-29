@@ -1,6 +1,6 @@
 # Orders
 
-You can interact with orders via two pages within the OFN, the Lisitng Orders page, and the Bulk Order Managment page. The features of these two views will be discussed below.
+You can interact with orders via two pages within the OFN, the Lisitng Orders page, and the Bulk Order Managment page. The features of these two pages will be discussed below.
 
 ## Listing orders
 
