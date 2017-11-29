@@ -7,7 +7,7 @@ Welcome the Open Food Network's user guide. This guide provides information for 
 
 This short video will give you a brief introduction to how the Open Food Network works, and what it can do for your food business, or organisation.
 
-## Model Specific Setup Guides
+## Setup Guides
 We have put together unique setup guides which provide specific setup guidance depending on who you are and how you want to use the Open Food Network. Have a look at our Model Specific Setup Guides to find the one that's right for you. 
 
 ## Search
