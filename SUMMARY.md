@@ -24,7 +24,6 @@
   * [Order Cycles \(for Producers\)](order-cycles-for-producers.md)
   * [View Orders](view-orders.md)
   * [Reports](get-reports.md)
-* [Create a profile](getting-started.md)
 * [Set up a shop](continue-create-online-shop.md)
   * [Open your Shop! ](open-your-shop.md)
 * [Advanced Features](advanced-features.md)

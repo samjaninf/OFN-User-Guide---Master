@@ -28,7 +28,7 @@ The OFN is a network, so you are able to connect with other shops. This way you 
 
 #### **Open your shop!**
 
-7\) [Open your shop by opening an order cycle](/order-cycles-adv.md).
+7\) [Open your shop by opening an order cycle](/order-cycles-adv.md). When you create an Order Cycle  you set the time when you want your shop to open as well as when it will close. This process will then repeat itself. We call this an order cycle. Each time an order cycle is created, you can select which products to stock in the store.
 
 #### **Great! You're open and ready to sell!**
 
