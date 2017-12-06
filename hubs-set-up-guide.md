@@ -2,23 +2,23 @@
 
 ## What is a hub shop?
 
-A hub shop lets you create an online shop which stocks products supplied by multiple producers.
+Hub shops can take many different forms, but at their essence, they are an online shopfront which stock products from multiple supplying producers. With a hub shop customers can see profiles of the producers who grew/raised/baked their food. 
 
 ## What does it do?
+**Streamline your admin tasks**  
+Unlike taking orders with emails, texts or phone messages, taking orders online is simple and time saving. Use OFN's reports to understand your stock levels, your sales, your orders and your packing sheets, all at a glance.
 
-**Collaborate**  
-yada
+**A shopping experience customers will enjoy**  
+With a hub shop customers can see profiles of the producers who grew/raised/baked their food, giving them a virtual farmer's market experience.
+
+**Take orders periodically**  
+You can choose when your shop opens and closes, and run your shop in cycles.
 
 **Involve your suppliers**
+Your suppliers can login directly to OFN to update their product availability and prices, minimising some administration tasks for you.
 
-Yada
-
-**Streamline your admin tasks**  
-Yada
-
-
-
-_You have the option of adding an OFN shop onto your profile, giving you all the functions needed to run an online store. This includes the online shopfront with full checkout capabilities as well as behind the scenes tools to aid in administration, such as reporting of payments and inventory. The OFN works as a network, so all hubs are connected to the profiles of their supplying producers. It’s also designed to accommodate all different hub models, from the small and simple, to the large and complex_
+**Be flexible**
+Our software is designed to be flexible and to accommodate models of all different shapes and forms. You can use our flexibility to experiment with new ways of doing things. If you want to experiment supplying to hospitality customers, you can setup 'hospitality only' shops. Want to experiment with a new delivery location, add a drop-off point. Want to experiment with adding a second delivery date, you can do that.
 
 ## Steps for setting up a Hub Shop
 
@@ -40,15 +40,15 @@ _You have the option of adding an OFN shop onto your profile, giving you all the
 
 The following instructions for managing products are broken down according to what you setup in step 7 above, either a\) created a profile for your supplying producer; or b\) connected with a pre-existing supplying producer profile.
 
-a\) I created a profile for my supplying producer  
+8a\) I created a profile for my supplying producer  
 If in the previous step you created a profile for your supplier \(because they were not on the OFN\), you’ll need to also [add their products](/products.md) to that profile, before you can stock them in your store.
 
-b\) I connected with a pre-existing supplying producer profile.  
+8b\) I connected with a pre-existing supplying producer profile.  
 If your supplying producer already had a profile, you may or may not need to add their product range. If that producer has already added their products, you don’t need to add them again, instead you just need to get their permission to stock their products in your shop \(see previous step 7\). They’ll then be visible to your when you go to stock your shop \(in order cycles\).
 
 If your supplying producer has a profile, but hasn’t added their product range, you’ll need to first get their permission to manage their products and stock them in your shop. Then, you can [add their proudcts](/products.md).
 
-**Shipping and payment methods, and added your products, you can open your shopfront  
+**Once you've setup your shipping and payment methods, and added your products, you can open your shopfront
 **
 
 8\) [Open your shop by opening an order cycle](/order-cycles-adv.md).
