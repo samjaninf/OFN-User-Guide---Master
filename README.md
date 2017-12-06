@@ -2,7 +2,6 @@
 
 This user guide provides information for organisation's and enterprises who wish to use Open Food Network's tools and functionality.
 
-
 <iframe width="669" height="376" src="https://www.youtube.com/embed/eA3IcMUnU14" frameborder="0" allowfullscreen></iframe> 
 
 This short video will give you a brief introduction to how the Open Food Network works, and what it can do for your food business, or organisation.
