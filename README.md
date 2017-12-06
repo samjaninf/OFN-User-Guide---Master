@@ -1,6 +1,6 @@
 # Open Food Network Userguide
 
-Welcome the Open Food Network's user guide. This guide provides information for organisation's and enterprises who wish to use Open Food Network's tools and functionality. 
+This user guide provides information for organisation's and enterprises who wish to use Open Food Network's tools and functionality.
 
 
 <iframe width="669" height="376" src="https://www.youtube.com/embed/eA3IcMUnU14" frameborder="0" allowfullscreen></iframe> 
