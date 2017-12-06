@@ -32,7 +32,7 @@ Your enterprise is the backbone of your local food system. You can sell your own
 
 %/accordion%
 
-### Hub
+### I'm a Hub
 A Hub is anyone who aggregates and sells food that's produced by others, E.g. retailers, distributors, hubs, coops.
 
 and want to:
@@ -48,11 +48,11 @@ A profile on the OFN is the simplest option, and offers a way for enterprises to
 
 %/accordion%
 
-### Farmers market
+### I'm a Farmers market
 
-and want to:
+and I want to:
 
-* let each farmer have their own profile and/or shop
+* help my stallholders to create profiles and setup shops on OFN
 
   > choose one of the Producer options for each farm
 
