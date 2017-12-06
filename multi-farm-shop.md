@@ -49,12 +49,11 @@ Once you've setup your producer profiles, shipping and payment methods, and adde
 11) View reports. [This page](/get-reports.md) offers a broad description of OFN's reports.
 
 **Which reports are useful to multifarm shops?
-**Generally,at the close of an order cycle the central coordinator will need to be responsible for letting each producer know how much stock has been ordered by them, and by which customer. Then each producer can pack the stock ready for delivery.
+**Generally, at the close of an order cycle the central coordinator will need to be responsible for letting each producer know how much stock has been ordered by them, and by which customer. Then each producer can pack the stock ready for delivery.
 
-The order cycle supplier total report tells each supplier the total quantity of their products that was ordered. 
+The order cycle customer total report lists each customer's order, with each item they ordered. The report should be filtered by producer and downloaded as a CSV. This will tell the producer which items were ordered by which customer.
 
-
-
+This report can also be used to calculate the total value of goods ordered from that supplier. If your shop takes payment at checkout (with Paypal or Stripe), then the central coordinator can use this report to calculate how much money needs to be paid to each supplier.
 
 Once you have completed your basic setup, check out the advanced features below which are particularly relevant to Multi-Farm shops:
 
