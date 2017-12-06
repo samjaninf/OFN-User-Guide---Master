@@ -3,8 +3,6 @@
 
 A Multi-farm shop is particular model of selling food direct from farmer to consumer. It involves a collective of producers who are working together to sell their produce in the same online shop. By working together customers can access a greater variety of food in the one place, making it convenient. The producers will also work together to bring the food to customers at the same time.
 
-Multi-farm shops may start from a single producer who may have had their own online shop, and then decided to expand their offering by linking up with other producers to sell their goods.
-
 ## What does it do?
 
 **A single shop, with food from many producers
