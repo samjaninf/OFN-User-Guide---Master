@@ -4,22 +4,25 @@ To help you navigate this user guide, we've created setup guides based on who yo
 
 ![](/assets/foodproducersandhubs.jpg)
 
-### I'm a...
+Firstly, are you a producer? Do you make, brew, grow, bake or raise food? If yes, see the Producer Section. If no, follow on to the 'Hub' section. This is a general term for fair food enterprises who aren't directly creating food, but may be selling, distributing or aggregating food.
 
 
-### Producer
+### I'm a Producer
 
-and want to:
+I want to...
 
-* only **be visible** and present myself. I do not \(yet\) wish to sell my produce via OFN.
+* **be visible** in the OFN's directory and present myself. I do not \(yet\) wish to sell my produce via an OFN online shop.
 
   > Get a [Producer Profile](/getting-started.md).
+  
+* **supply my produce **to a shop on the OFN that's operated by someone else (I'm a supplier).
+  > Get a [Producer Profile](/getting-started.md).
 
-* **sell my own goods** I grow/raise/brew/create/bake.
+* **sell my own goods** with an online shop on OFN.
 
   > Get a [Producer Shop](/producer-set-up-guide.md).
 
-* **sell my own & other** producers' goods.
+* **sell my own & other** producers' goods with an online shop.
 
   > Get a [Producer Hub](/hubs-set-up-guide.md).
 
