@@ -8,7 +8,8 @@ Firstly, are you a producer? Do you make, brew, grow, bake or raise food? If yes
 
 
 ### I'm a Producer
-
+_A producer is anyone who makes, brews, grows, bakes or raises food.
+_
 I want to...
 
 * **be visible** in the OFN's directory and present myself. I do not \(yet\) wish to sell my produce via an OFN online shop.
@@ -33,16 +34,19 @@ Your enterprise is the backbone of your local food system. You can sell your own
 %/accordion%
 
 ### I'm a Hub
-A Hub is anyone who aggregates and sells food that's produced by others, E.g. retailers, distributors, hubs, coops.
+_A Hub is anyone who aggregates and sells food that's produced by others, E.g. retailers, distributors, hubs, coops.
+_
 
-and want to:
+**Hub (Profile only)
+**A profile on the OFN is the simplest option, and offers a way for enterprises to market themselves. The profile can be used to promote products and services, share your story and provide contact details. A profile makes you visible and contactable to customers and other enterprises who might wish to trade with you.
 
-* Only **be visible** and present myself here. I do not \(yet\) wish to sell via OFN. 
+
+
+* Only **be visible** in the OFN's directory. I do not \(yet\) wish to sell via OFN. 
   > Get a Hub Profile
-* **Sell** goods 
+* **Sell** goods with an online shop on OFN
   > Get a [Hub Shop](/hubs-set-up-guide.md)
 
-%accordion%What is a Hub Profile?%accordion%
 
 A profile on the OFN is the simplest option, and offers a way for enterprises to market themselves. The profile can be used to promote products and services, share your story and provide contact details. A profile makes you visible and contactable to customers and other enterprises who might wish to trade with you.
 
