@@ -1,56 +1,63 @@
-# Multi-Farm Pre-Orders – OFN Setup Process
+# Multi-Farm Shop – OFN Setup Process
+## What is a multi-farm shop
 
-The Prom Coast Food Collective is a group of farmers who are using a unique model to collectively market their produce. Head to Learn to read more about the strengths of this model, and it’s being used by the Prom Coast Food Collective in Victoria, Australia. This page details how they setup this model on the OFN and also some of the ongoing steps to administering their ordering system.
+A Multi-farm shop is particular model of selling food direct from farmer to consumer. It involves a collective of producers who are working together to sell their produce in the same online shop. By working together customers can access a greater variety of food in the one place, making it convenient. The producers will also work together to bring the food to customers at the same time.
 
-## How does the model work?
+Multi-farm shops may start from a single producer who may have had their own online shop, and then decided to expand their offering by linking up with other producers to sell their goods.
 
-Each month the Collective opens their online shop on the OFN which stocks produce from over 20 producers, encompassing an impressive range of produce, from dairy, to household cleaning products, meat and vegetables. Customers have 2 weeks to browse the shop and place their order, which they won’t collect until the collection date. The collective takes payment via bank transfer. They could also have used an automated tool like Paypal, however these carry fees.
+## What does it do?
 
-At the close of the ordering period, the shop closes and the group’s coordinator begins the task of administering the orders and payments. This involves downloading a report from OFN listing all order placed. The coordinator will check that bank transfers have been received from customers for each order placed. Once this has been confirmed, they will send each producer a list of the items that have been ordered from them, as well as transfer them the total value of sales they made. In the Prom Coast’s case, they have a $5 fee attached to each order, which covers some collective costs, such as this administration time.
+**A single shop, with food from many producers
+**You can stock food from lots of producers in the one place, giving customers convenience and variety.
 
-Once producers receive their order totals list from the coordinator, they start to prepare the produce for each customer. This may involve processing meat, harvesting vegetables, or bagging and labelling preserves. On a Sunday morning, one week after the shop closed and stopped accepting orders, all of the producers and customers converge at one of the farms. Customers will walk from producer to producer and collect the items they had pre-ordered. Producers will have the goods ready for each customer. Because orders are pre-paid, no money needs to changes hands on the day. Note, that alcohol sales cannot be pre-paid due to liquor licensing, so must be purchased on the day.
+**Minimal central administration
+**Producers who are participating in the shop can take on some of the admin tasks of the shop, including updating their product availability and prices. This reduces the tasks for the central administrator. Alternatively, suppliers can be hands off, and a coordinator can take on these tasks.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2017/08/Prommm.png "Prom pick up day")
+**Easily communicate with producres
+**Use our reports to let each producer know what's been ordered from them, and to calculate their sales total.
 
-After the collection day, the cycle repeats again. The first step for producers is to login to their OFN profiles and to update the availability and pricing of their products for the next month’s orders. Once they’ve had time to do this, the coordinator can open the shop and start receiving orders again.
+## Steps for setting up a Multi-Farm Shop
 
-## What’s the process for setting this up in OFN?
+Setting up this model on OFN is much like setting up a Hub Shop.
 
-Setting up this model requires firstly setting up a Hub Shop for the collective. Secondly, profiles need to be created for all participating producers. These steps, as well as configuration options are described below.
+1) Register a profile for your collective shop on Open Food Network (e.g. Green Valley Farmers Shop). This setup tool will ask for basic information about your enterprise to create your profile. You'll be prompted to confirm the email address.
 
-### 1\) Setting up the Hub Shop
+2) Select the 'hub shop' package type.
 
-A ‘hub’ profile needs to be created for the Collective.
+3) If you want to edit your profile, or add further detail you can modify your Enterprise Settings. Here you can also chose whether your shop is open to the public or private, and write a shopfront message.
 
-The[Hub Setup Guide](https://openfoodnetwork.org/user-guide/hubs-set-up-guide/)walks through the steps to get this setup. Note that you won’t be able to complete step 5, connecting with your suppliers, until your supplying producers have created their profiles and products \(see section below\).
+4) Define and setup your [shipping methods](/shipping-methods.md).
 
-When you setup the Hub, you will need to define how you’ll take payment, how often you’ll open your shop for orders, and whether there’ll be a fee or markup, so have a think through some of these things before getting started.
+5) Define and setup your [payment methods](/payment-methods.md).
 
-### 2\) Setting up producer profiles
+6) Define any enterprise fees you want to apply in your shop. For example if you have a central coordinator, you may wish to take a small fee to cover their time.
 
-There are two ways to setup the producer profiles, depending on how much control the central coordinator wants to maintain, and how much time they have to setup the profiles.
+7) Producer profiles. Before you can add in the shop's products, each participating producer needs to have a profile which the products can be tied to. There are different ways to setup the producer profiles, depending on how much control the central coordinator wants to maintain, and how much time they have to setup the profiles.
 
-#### Low Coordinator Involvement Option
 
-One of the strengths of this model is that the role of the coordinator can be kept to a minimum. With this option, the coordinator will email all producers who are participating in the group, with instructions about how to setup their OFN profile, and they will do this themselves. Producers will get familiar with the OFN during this setup task, making them more confident updating their products and profile when the hub is up and running as well.
+7a) If you have a central coordinator taking the role of setting up the shop, they can [create profiles on behalf of the producers](/create-or-connect-with-your-supplying-producers.md). This is more time consuming for the coordinator,  but it gives them control in making sure the profiles are setup correctly and in a visually appealing way. Before doing this the coordinator should let producers know, and get their profile information from them.  This option may also be necessary for producers who are not tech savvy and would struggle to be involved otherwise.
+7b) If your producers already have profiles, you need to [connect with them](/create-or-connect-with-your-supplying-producers.md). The producer can grant different levels of permission to the shop, you should let them know if you want access to stock their products in your shop, or if you also want to be able to edit their products, or add them to inventory.
+7c) If you want your producers to take responsibility for creating their profiles, you can instruct them to create their own profile and add in their products. They can follow the [Producer (Profile Only) guide,](/producer-profile-only.md) completing all 5 steps.
 
-##### Instructions
+8) Products. Setup of products will depend on which option was used in step 7 above.
+8a) If the central coordinator created profiles for producers they can also add in their product range on their behalf. They will first need to get product lists from each producer, with the required fields (name, price, category, properties etc). See [instructions for setting up products](/products.md).
+8b) You've connected with existing producer profiles. Remind these producers to update their products, or do it for them if you have permission.
+8c) Producers will setup their product ranges themselves in step 4 of the Producer profile setup process.
 
-Producers can follow steps 1-5 in the[Producer Setup Guide](https://openfoodnetwork.org/user-guide/producer-set-up-guide/). This will walk them through setting up their profile and adding in their product range.
+Once you've setup your producer profiles, shipping and payment methods, and added your products, you can open your shopfront by creating an order cycle.
 
-Once producers have done this they need to grant the hub permission to stock their products in the collective shop.  To do this they should go to Enterprise &gt; Enterprise Relationships.
+9) [Open your shop by opening an order cycle.](/order-cycles.md)
 
-![](https://openfoodnetwork.org/wp-content/uploads/2017/08/Granting-permission.png "Granting permission")Here they can grant permission from their profile \(the left hand dropdown\), to the hub’s profile \(the right hand dropdown\). They should grant permission ‘to add to order cycle’, which lets the coordinator add their products to the collective shop \(as above\).
+10) View and edit orders.
 
-### 
+11) View reports. [This page](/get-reports.md) offers a broad description of OFN's reports.
 
-#### High Coordinator Involvement Option
+**Which reports are useful to multifarm shops?
+**Generally, at the close of an order cycle the central coordinator will need to be responsible for letting each producer know how much stock has been ordered by them, and by which customer. Then each producer can pack the stock ready for delivery.
 
-In the case where the coordinator wants to have more control or where they want to take responsibility for the majority of administration tasks, they can create profiles for their producers and be the ‘owners’ of the profiles. This will mean that when the coordinator logs in, they can see and edit all producer profiles, including their ‘about us’ text, photos and their product list. This gives the coordinator control to setup profiles in a visually appealing way, which can be important from a marketing perspective.
+The order cycle customer total report lists each customer's order, with each item they ordered. The report should be filtered by producer and downloaded as a CSV. This will tell the producer which items were ordered by which customer.
 
-The coordinator will need to contact producers, and get a list of products from each of them, and then add their product range into the system. Again, they’ll have more control over making sure product look complete, with images and descriptions. This option can be necessary for producers who are not tech savvy and would struggle to be involved otherwise. It’s worth noting that a hub can choose to setup half of the profiles in a ‘low involvement’ fashion, and just setup some profiles on behalf of certain producers who need assistance.
-
-Instructions for creating profiles on behalf of producers can be found[here](https://openfoodnetwork.org/user-guide/hubs-set-up-guide/create-or-connect-with-supplying-producers/), in part 1.
+This report can also be used to calculate the total value of goods ordered from that supplier. If your shop takes payment at checkout (with Paypal or Stripe), then the central coordinator can use this report to calculate how much money needs to be paid to each supplier.
 
 ## What are the ongoing processes to run this kind of model?
 
@@ -60,47 +67,56 @@ Before each order cycle, the product availability and prices for each producer n
 
 Below are instructions for how producers can update products before an order cycle:
 
-Each cycle there are**3**things to update before the shop opens:
+Each cycle there are 3 things to update before the shop opens:
 
-1\) Mark any products that are**unavailable**with a zero in the ‘on hand’ field.
+1) Mark any products that are unavailable with a zero in the ‘on hand’ field.
 
-2\) For products that will be**available**in the coming week, do one of the following:
+2) For products that will be available in the coming week, do one of the following:
 
-i\) Either enter the amount that you have available in the**‘on hand’**field next to the product.
+i) Either enter the amount that you have available in the ‘on hand’ field next to the product.
 
-ii\) or, if you have an inexhaustible amount of a product available, select the**‘on demand’**tick box that corresponds with that product.
+ii) or, if you have an inexhaustible amount of a product available, select the ‘on demand’ tick box that corresponds with that product.
 
-3\) Update the**prices**
+3) Update the prices
 
-See here for details about [updating products](https://openfoodnetwork.org/user-guide/producer-set-up-guide/producer_products/).
+See here for details about updating products.
 
-Once all producer have done this, the coordinator creates an OC and selects all products for all  producers. This will put all available products into the shop at the correct prices, with the correct stock levels.
+Once all producer have done this, the coordinator creates an OC and selects all products for all  producers. This will put all available products into the shop at the correct prices, with the correct stock levels.
 
 ### Creating an Order Cycle
-
 It’s the coordinator’s role to make sure the order cycle is setup correctly. This involves setting the opening and closing dates, and selecting which producers are involved for that order cycle.
 
 A way to streamline this process is to duplicate the previous Order Cycle and then just make smaller amendments.
 
-### Downloading Sales Reports at the close of the Order Cycle
-
-The coordinator will need to pass information to each producer, telling them what has been ordered from them, and by whom. They also need to forward sales funds to each producer according to the sales they made. They can use the OFN’s reports to help with this.
-
-The order cycle customer totals report lists each customer’s order. When filtered by producer, it gives each producer a list of which items were ordered from them and by which customer. Tallying up the total value of these goods also tells the coordinator how much to transfer to the producer.
-
 ### Refunds
+The collective should define the refund policy. To reduce administration time, the hub may chose not to allow refunds. Or if they do allow refunds, you need to clarify which party is responsible for this. E.g. before the collective has paid producer’s for their orders, it would be the collective’s responsibility to administer refunds. Refunds requested after funds have been transferred to producers, or after the collection date, should go through producers for example.
 
-The collective should be sure to define what the refunds policy is. To reduce administration time, the hub may chose not to allow refunds. Or if they do allow refunds, you need to clarify which party is responsible for this. E.g. before the collective has paid producer’s for their orders, it would be the collective’s responsibility to administer refunds. Refunds requested after funds have been transferred to producers, or after the collection date, should go through producers for example.
+## Advanced Features
+Once you have completed your basic setup, check out the advanced features below which are particularly relevant to Multi-Farm shops:
+
+* [Enterprise Fees](/enterprise-fees.md)
+  – Multi-Farm Shops may wish to use this tool to allocate fees and charges to parties who provide a service \(such as packing or delivery\) that the other parties benefit from.
+  
+* Multiple managers – A Multi-farm shop might wish to have multiple managers who are able to login and edit the shop. This can be done by adding managers to the central producer’s profile. See ['users' in the Enterprise Settings](/your-profile.md).
+
+* [Pricing irregular, indivisible meat items](/pricing-irregular-indivisible-meat-items.md).
+  This page offers some strategies for pricing items like chickens or pumpkins, which are charged by the kg but which have an irregular weight.
+  
+* [Apply tags](/customer-accounts-and-tagging.md) to your customers and customise their shopping experience with tag rules. This can make it possible to restrict certain products and certain shipping or payment methods to particular customers, which becomes especially helpful if you have retail and wholesale customers.
+
+* [Make your shopfront private](/private-shopfront.md)
+  . If you prefer to check the suitability of customers before they can order through your shop, you can make your shopfront require login.
+  
+* [Charge different prices to different customers](/charging-different-prices-to-different-customers.md)
+  . There are a number of ways to configure a shop so that you charge different prices to different customers, such as your rural customers and your metropolitan customers.
+  
+* [Place orders manually](/create-an-order.md)
+  for customers who prefer to submit orders by text or over the phone.
 
 ## Features in the pipeline:
 
-* Splitting payments between farmers automatically \(COMING SOON\)
+* Splitting payment methods between farmers’ is a feature that’s COMING SOON
 * Granting discounts to certain customers such as members or volunteers \(COMING SOON\).
-* Creating recurring orders or subscriptions for customers \(COMING SOON\)
+* Creating standing, recurring orders \(COMING SOON\)
 
-##### [Ask us](mailto:hello@openfoodnetwork.org) about embedding your Multi-Farm shopfront into a website
-
-
-
-
-
+##### [Ask us](mailto:hello@openfoodnetwork.org) about embedding your Multi-Farm shopfront into a website.
