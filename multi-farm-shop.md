@@ -1,31 +1,79 @@
 # Multi-Farm Shop – OFN Setup Process
+## What is a multi-farm shop
 
-[Multi-farm shops](/multi-farm-shop.md) have a shopfront stocking products from multiple producers. Multi-farm shops will usually be administered by a central producer who may have operated a [Farm Direct shop](/farm-shop-on-farm-on-roadside-online.md) on the OFN previously, and then decided to expand their offering by linking up with other producers. They can do this by adding producer profiles for the additional producers and then adding their products into their shopfront.  The level of involvement that the other supplying producers have can vary from simply supplying produce, to taking a more active role in administering the shopfront by maintaining their products and profile.
+A Multi-farm shop is a collective of producers who are working together to sell their produce in the same online shop. By working together customers can access a greater variety of food in the one place, making it convenient. The producers will also work together to delivery the food to customers at the same time.
 
-## The nitty gritties…
+Multi-farm shops may start from a single producer who may have had their own online shop, and then decided to expand their offering by linking up with other producers to sell their goods.
 
-The central  managing producer of a multi-farm shop can setup the shop according to the [producer setup guide](/producer-set-up-guide.md).  At step 2, choose the third option, ‘Hub Shop’. This shop will be the Multi-Farm Shopfront. After the coordinating producer has created worked through the set-up guide for just their profile and products, they can create profiles for their additional suppliers, and to add their products into the system. Before creating the additional profiles, you’ll need to email us to request permission to create more than one profile \(this is a spam prevention measure\). The coordinating producer may setup the profile and products for everyone, or the other producers may wish to do this themselves. The two options are described below
+## What does it do?
 
-**Coordinating producer sets up profiles and products for supplying producers**
+**A single shop, with food from many producers
+**You can stock food from lots of producers in the one place, giving customers convenience and variety.
 
-After the coordinating producer has setup their own shopfront, it is then simple to create a profile for another producer, add their products and then start selling these items in their online shop. Because a producer is behaving more like a ‘hub’ when they stock others’ produce, refer to the [hub set-up guide](/hubs-set-up-guide.md) to see how to create profiles for additional ‘suppliers’. Note also that the order cycle interface will be different when you stock items from others, see the hub setup guide for an explanation [here](/order-cycles.md).
+**Minimal central administration
+**Producers who are participating in the shop can take on some of the admin tasks of the shop, including updating their product availability and prices. This reduces the tasks for the central administrator. Alternatively, suppliers can be hands off, and a coordinator can take on these tasks.
 
-**Supplying producers set up their profiles and add in their product range**
+**Easily communicate with producres
+**Use our reports to let each producer know what's been ordered from them, and to calculate their sales total.
 
-Supplying producers can create a producer profile, according to the [producer setup guide](/producer-set-up-guide.md). At [step 2](/producer-profile-types.md) they should select to have a ‘producer profile’. They won’t need their own shopfront as they’ll be selling through the coordinating producer’s shopfront. Next they should follow steps 3-5. Finally they should grant the coordinating supplier permission to stock their products, instructions for doing this can be found [here](/enterprise-to-enterprise-permissions-e2es.md).
+## Steps for setting up a Multi-Farm Shop
+
+1) Register a profile for your collective shop on Open Food Network (e.g. Green Valley Farmers Shop). This setup tool will ask for basic information about your enterprise to create your profile. You'll be prompted to confirm the email address.
+
+2) Select the 'hub shop' package type.
+
+3) If you want to edit your profile, or add further detail you can modify your Enterprise Settings. Here you can also chose whether your shop is open to the public or private, and write a shopfront message.
+
+4) Define and setup your [shipping methods](/shipping-methods.md).
+
+5) Define and setup your [payment methods](/payment-methods.md).
+
+6) Define any enterprise fees you want to apply in your shop.
+
+7) Producer profiles. Before you can add in the shop's products, each participating producer needs to have a profile which the products can be tied to.
+7a) If you have a central coordinator taking the role of setting up the shop, they can create profiles on behalf of the producers.
+7b) If your producers already have profiles, you need to connect with them.
+7c) If you want your producers to take responsibility for creating their profiles, you can instruct them to create their own profile and add in their products. They can follow the Producer (Profile Only) guide, completing all 5 steps.
+
+8) Products. Setup of products will depend on which option was used in step 7 above.
+8a) If the central coordinator created profiles for producers they can also add in their product range on their behalf. They will first need to get product lists from each producer, with the required fields (name, price, category, properties etc). See [instructions for setting up products](/products.md).
+8b) You've connected with existing producer profiles. Remind these producers to update their products.
+8c) Producers will setup their product range in step 4 of the Producer profile setup process.
+
+Once you've setup your producer profiles, shipping and payment methods, and added your products, you can open your shopfront by creating an order cycle.
+
+9) [Open your shop by opening an order cycle.](/order-cycles.md)
+
+10) View and edit orders.
+
+11) View reports. [This page](/get-reports.md) offers a broad description of OFN's reports.
+
+**Which reports are useful to multifarm shops?
+**Generally,at the close of an order cycle the central coordinator will need to be responsible for letting each producer know how much stock has been ordered by them, and by which customer. Then each producer can pack the stock ready for delivery.
+
+The order cycle supplier total report tells each supplier the total quantity of their products that was ordered. 
+
+
+
 
 Once you have completed your basic setup, check out the advanced features below which are particularly relevant to Multi-Farm shops:
 
 * [Enterprise Fees](/enterprise-fees.md)
   – Multi-Farm Shops may wish to use this tool to allocate fees and charges to parties who provide a service \(such as packing or delivery\) that the other parties benefit from.
-* Multiple managers – A Multi-farm shop might wish to have multiple managers who are able to login and edit the shop. This can be done by adding managers to the central producer’s profile.
+  
+* Multiple managers – A Multi-farm shop might wish to have multiple managers who are able to login and edit the shop. This can be done by adding managers to the central producer’s profile. See ['users' in the Enterprise Settings](/your-profile.md).
+
 * [Pricing irregular, indivisible meat items](/pricing-irregular-indivisible-meat-items.md).
   This page offers some strategies for pricing items like chickens or pumpkins, which are charged by the kg but which have an irregular weight.
+  
 * [Apply tags](/customer-accounts-and-tagging.md) to your customers and customise their shopping experience with tag rules. This can make it possible to restrict certain products and certain shipping or payment methods to particular customers, which becomes especially helpful if you have retail and wholesale customers.
+
 * [Make your shopfront private](/private-shopfront.md)
   . If you prefer to check the suitability of customers before they can order through your shop, you can make your shopfront require login.
+  
 * [Charge different prices to different customers](/charging-different-prices-to-different-customers.md)
   . There are a number of ways to configure a shop so that you charge different prices to different customers, such as your rural customers and your metropolitan customers.
+  
 * [Place orders manually](/create-an-order.md)
   for customers who prefer to submit orders by text or over the phone.
 
