@@ -4,6 +4,7 @@
 * [Setup Guides](model-specific-setup-instructions.md)
   * [Producer \(Profile Only\)](producer-profile-only.md)
   * [Producer \(Shop\)](producer-set-up-guide.md)
+  * [Hub \(Profile Only\)](hub-profile-only.md)
   * [Hub \(Shop\)](hubs-set-up-guide.md)
   * [Online Farmer's Market ](farmers-market.md)
   * [Buying Group](buying-group.md)

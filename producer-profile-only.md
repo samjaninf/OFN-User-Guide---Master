@@ -45,4 +45,4 @@ You will now have a space to tell the story of your enterprise and to help drive
 * [Making your profile searchable by product category](/making-a-producer-profile-searchable-by-product-category.md)
 
 **Want to setup an online shop?
-** Now that you have a profile on the OFN, with just a few more setup steps, you can open an online shop. See the [Producer Shop setup guide](/producer-set-up-guide.md). You've already completed step 1 when you created your profile, so start at step 2.
+** Now that you have a profile on the OFN, with just a few more setup steps, you can open an online shop. See the [Producer Shop setup guide](/producer-set-up-guide.md). You've already completed step 1 when you created your profile, so start at step 2 and change your package.
