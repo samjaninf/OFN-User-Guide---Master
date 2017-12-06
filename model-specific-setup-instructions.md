@@ -18,7 +18,7 @@ I want to...
 * **supply my produce **to a shop on the OFN that's operated by someone else (I'm a supplier).
   > Get a [Producer Profile](/getting-started.md).
 
-* **sell my own goods** with an online shop on OFN.
+* **sell my own goods** with my own online shop on OFN.
 
   > Get a [Producer Shop](/producer-set-up-guide.md).
 
