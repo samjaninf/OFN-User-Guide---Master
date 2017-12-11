@@ -1,4 +1,4 @@
-* ##### [heading](#test)
+##### [heading](#test)
 
 # Farmers’ Markets – OFN Setup
 
