@@ -4,7 +4,9 @@ To help you navigate this user guide, we've created setup guides based on who yo
 
 ![](/assets/foodproducersandhubs.jpg)
 
-Firstly, are you a producer? Do you make, brew, grow, bake or raise food? If yes, see the Producer Section. If no, follow on to the 'Hub' section. This is a general term for fair food enterprises who aren't directly creating food, but may be selling, distributing or aggregating food.
+Firstly, are you a producer? Do you make, brew, grow, bake or raise food? If yes, see the Producer Section. If no, follow on to:
+##### [hub](#hub)
+section. This is a general term for fair food enterprises who aren't directly creating food, but may be selling, distributing or aggregating food.
 
 
 ### I'm a Producer
@@ -33,7 +35,7 @@ Your enterprise is the backbone of your local food system. You can sell your own
 
 %/accordion%
 
-### I'm a Hub
+### Hub
 _A Hub is anyone who aggregates and sells food that's produced by others, E.g. retailers, distributors, hubs, coops.
 _
 
