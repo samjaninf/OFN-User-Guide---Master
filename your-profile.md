@@ -18,6 +18,20 @@ Each section of the Enterprise Configuration menu is explained below:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 * ##### [Primary Details](#primary-details)
 * ##### [Users](#users)
 * ##### [Address](#adress)
@@ -38,6 +52,23 @@ Shops only sections:
 >_Reminder: when editing, click the Update button **within each section** to save your changes. It’s on the bottom of the page. _
 
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #### Primary Details
 
 **Name: **This is the name of your enterprise. It will be the title of your profile and store.
