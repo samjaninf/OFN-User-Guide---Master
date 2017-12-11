@@ -30,6 +30,7 @@ Multiple managers – A Multi-farm shop might wish to have multiple managers who
 
 [Place orders manually ](/create-orders.md)for customers who prefer to submit orders by text or over the phone.
 
+---
 ### Features in the pipeline:
 Splitting payments between farmers automatically (COMING SOON)
 Granting discounts to certain customers such as members or volunteers (COMING SOON).

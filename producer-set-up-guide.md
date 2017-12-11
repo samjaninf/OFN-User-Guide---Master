@@ -34,11 +34,11 @@ The OFN is a network, so you are able to connect with other shops. This way you 
 
 You can now [view your orders](/view-orders.md), [get detailed reports](/reports.md) and explore the advanced features to tailor your shop to your needs.
 
-%accordion%Advanced features that are helpful for producers with shops%accordion%
+---
+
+## Advanced features that are helpful for producers with shops.
 
 * [Embedding your shop](/embedded-shopfronts.md) into your own website.
 * [Pricing irregular items such as meat](/pricing-irregular-indivisible-meat-items.md)
 * [Opening more than one order cycle](/opening-more-than-one-order-cycle.md).
-
-%/accordion%
 

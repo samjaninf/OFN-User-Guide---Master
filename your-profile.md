@@ -11,7 +11,23 @@ This video will show you how to access, edit and add information to your profile
 1. Click on 'Enterprise' in the blue horizontal menu
 2. Click on 'Manage' next to your enterprise
 
-Each section of the Enterprise Configuration menu is explained below. 
+Each section of the Enterprise Configuration menu is explained below:
+* ##### [Primary Details](#primary-details)
+* ##### [Users](#users)
+* ##### [Address](#adress)
+* ##### [Contact](#contact)
+* ##### [Social](#social)
+* ##### [About](#about)
+* ##### [Business details](#business-details)
+* ##### [Images](#images)
+* ##### [Properties](#properties) (producers only)
+
+Shops only sections:
+* ##### [Inventory Settings](#inventory-settings)
+* ##### [Shipping Methods, Payment Methods and Enterprise Fees](#Shipping-Methods,-Payment-Methods-and-Enterprise-Fees)
+* ##### [Tag Rules](#tag-rules)
+* ##### [Shop Preferences](#shop-preferences)
+ 
 
 >_Reminder: when editing, click the Update button **within each section** to save your changes. It’s on the bottom of the page. _
 

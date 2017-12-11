@@ -1,5 +1,3 @@
-##### [heading](#test)
-
 # Farmers’ Markets – OFN Setup
 
 # 
@@ -68,51 +66,9 @@ A representative of the farmers’ market may take responsibility for coordinati
 
 OFN allows for piloting of different models easily and quickly, talk to us if you have another idea.
 
+---
 ## Features in the pipeline
 
 * Splitting payments between farmers, according to which items of theirs were sold in a collective shop is a feature that’s COMING SOON
 
 ##### [Ask us](mailto:hello@openfoodnetwork.org) about embedding your Farmers’ Market group directory into your own website.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Test

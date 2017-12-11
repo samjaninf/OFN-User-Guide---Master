@@ -89,6 +89,7 @@ A way to streamline this process is to duplicate the previous Order Cycle and th
 ### Refunds
 The collective should define the refund policy. To reduce administration time, the hub may chose not to allow refunds. Or if they do allow refunds, you need to clarify which party is responsible for this. E.g. before the collective has paid producer’s for their orders, it would be the collective’s responsibility to administer refunds. Refunds requested after funds have been transferred to producers, or after the collection date, should go through producers for example.
 
+---
 ## Advanced Features
 Once you have completed your basic setup, check out the advanced features below which are particularly relevant to Multi-Farm shops:
 
@@ -110,7 +111,8 @@ Once you have completed your basic setup, check out the advanced features below 
   
 * [Place orders manually](/create-an-order.md)
   for customers who prefer to submit orders by text or over the phone.
-
+  
+---
 ## Features in the pipeline:
 
 * Splitting payment methods between farmers’ is a feature that’s COMING SOON

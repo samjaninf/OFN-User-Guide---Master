@@ -12,7 +12,8 @@ The [hub set-up guide](/hubs-set-up-guide.md) walks through the basic elements o
   so new members must be approved before they can shop with you.
 * Boost the transparency of your shopfront with 
   [product properties](/product-properties.md)
-  .
+
+---
 
 ## Features in the pipeline:
 

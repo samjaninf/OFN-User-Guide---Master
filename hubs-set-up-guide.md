@@ -59,11 +59,12 @@ If your supplying producer has a profile, but hasn’t added their product range
 
 10\) [View reports](/reports.md). You may use the reports to generate packing sheets, invoices and or mailing lists.
 
-%accordion%Advanced features that are helpful for producers with shops.%accordion%
+---
+
+## Advanced features that are helpful for hubs with shops.
+
 
 * [Embedding your shop](/embedded-shopfronts.md) into your own website.
 * [Pricing irregular items such as meat](/pricing-irregular-indivisible-meat-items.md)
 * [Opening more than one order cycle](/opening-more-than-one-order-cycle.md).
-
-%/accordion%
 
