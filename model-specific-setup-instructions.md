@@ -4,9 +4,10 @@ To help you navigate this user guide, we've created setup guides based on who yo
 
 ![](/assets/foodproducersandhubs.jpg)
 
-Firstly, are you a **producer**? Do you make, brew, grow, bake or raise food? If yes, see the Producer Section below. 
+Firstly, are you a **producer**? Do you make, brew, grow, bake or raise food? If yes, see the section:
+* ##### [Producers](#i-am-a-producer)
 
-If you aren't directly creating food, but may be selling, distributing or aggregating food, you are called a 'Hub'. Follow on to the section:
+If you aren't directly creating food, but may be selling, distributing or aggregating food, you are called a '**Hub**'. Follow on to the section:
 * ##### [Hubs](#i-am-a-hub)
 
 ### I am a Producer
