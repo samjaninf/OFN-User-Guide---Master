@@ -4,16 +4,12 @@ To help you navigate this user guide, we've created setup guides based on who yo
 
 ![](/assets/foodproducersandhubs.jpg)
 
-Firstly, are you a producer? Do you make, brew, grow, bake or raise food? If yes, see the Producer Section below. 
+Firstly, are you a **producer**? Do you make, brew, grow, bake or raise food? If yes, see the Producer Section below. 
 
-If you aren't directly creating food, but may be selling, distributing or aggregating food, you are a:
-* ##### [hub](#i-am-a-hub)
-* ##### [farmers market](#i-am-a-farmers-market)
+If you aren't directly creating food, but may be selling, distributing or aggregating food, you are called a 'Hub'. Follow on to the section:
+* ##### [Hubs](#i-am-a-hub)
 
-section. This is a general term for fair food enterprises who 
-
-
-### I'm a Producer
+### I am a Producer
 _A producer is anyone who makes, brews, grows, bakes or raises food.
 _
 I want to...
@@ -40,9 +36,19 @@ Your enterprise is the backbone of your local food system. You can sell your own
 %/accordion%
 
 ### I am a Hub
-_A Hub is anyone who aggregates and sells food that's produced by others, E.g. retailers, distributors, hubs, coops.
+_A Hub is anyone who aggregates and sells food that's produced by others, E.g. retailers, distributors, hubs, coops._ 
+
+See the Hub section below, 
+or get a more specific guide, if you are a:
+  * ##### [farmers market](#i-am-a-farmers-market)
+  * ##### [multi-farm shop](#i-am-a-farmers-market)
+  * ##### [pre-order only multi farm](#i-am-a-farmers-market)
+  * ##### [buying group](#i-am-a-buying-group)
+
+
 _
 
+#### Hub
 **Hub (Profile only)
 **A profile on the OFN is the simplest option, and offers a way for enterprises to market themselves. The profile can be used to promote products and services, share your story and provide contact details. A profile makes you visible and contactable to customers and other enterprises who might wish to trade with you.
 
@@ -74,7 +80,7 @@ and I want to:
 
   > Establish a [Farmer's market Hub](/farmers-market.md)
 
-### Buying group
+### I am a Buying group
 
 and want to:
 
