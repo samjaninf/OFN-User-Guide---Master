@@ -9,7 +9,7 @@ Some of the ways farmer's markets can reach beyond the physical market space:
 * Stallholders may wish to collaborate and open an collective shop, and use the market as an aggregation point for packing orders. They may also collaborate on delivery.
 *  The market may wish to coordinate an online shop, stocking products from all the stallholders, for customers who do not attend the market - for example hospitality, institutional or other customer who prefer home delivery.
 
-### Stallholders can run independent online shops
+### Stallholder run independent online shops
 Individual stallholders can open an online shopfront to receive orders. They may use their shop to take pre-sales which customers collect from the market. Another option is to take pre-sales for delivery to customers after the market -to capitalise on the trip into the city.
 
 Stallholders wishing to setup a shop like this should refer to the [Producer Shop manual](/producer-set-up-guide.md).
