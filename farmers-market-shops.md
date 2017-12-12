@@ -25,6 +25,9 @@ The OFN’s high degree of flexibility makes it possible for Farmer's Markets to
 
 A representative of the farmers’ market can take responsibility for coordinating an online shop, which sells items from multiple stallholders. Each week they’ll be tasked with checking availability of stock, opening the shop, packing the orders on market day and arranging delivery. This model is great for customers who cannot attend the market, such as local workplaces, cafes and restaurants. This model can benefit from some market facilities such as a cool room. The coordinator will also take responsibility for managing payments from customers and for paying the stallholders their share. Enterprise fees can be used to allocate a certain mark-up to the coordinator for their services.
 
-## Features in the pipeline
+### Relevant advanced features
+[Private shopfronts](/private-shopfront.md). If you're trading to hospitality customers you may wish to have a private shop, only visible to your known customers. This prevents retail customers from seeing wholesale pricing.
+
+### Features in the pipeline
 
 * Splitting payments between farmers, according to which items of theirs were sold in a collective shop is a feature that’s COMING SOON
