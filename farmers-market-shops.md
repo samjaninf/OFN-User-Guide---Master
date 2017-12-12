@@ -12,12 +12,12 @@ Some of the ways farmer's markets can reach beyond the physical market space:
 ### Stallholders can run independent online shops
 Individual stallholders can open an online shopfront to receive orders. They may use their shop to take pre-sales which customers collect from the market. Another option is to take pre-sales for delivery to customers after the market -to capitalise on the trip into the city.
 
-Stallholders wishing to setup a shop like this should refer to the [Producer Shop guide](/producer-set-up-guide.md).
+Stallholders wishing to setup a shop like this should refer to the [Producer Shop manual](/producer-set-up-guide.md).
 
 ### Stallholders can run collective online shops
 A group of stallholders can open a shopfront which stocks products from multiple producers. Here customers can place orders for items across multiple stallholders rather than needing to place orders with each stallholder separately. The participating stallholders will devise a means of coordinating the packing and delivery of these orders. It might be that each stallholder bags and labels their component of the orders, ready to pack into boxes on market day. Or perhaps they will alternate in the task of walking between stallholders at the end of the market at picking up the required items. Orders may be delivered by the stallholders after the market, back in their home locale, or around the market to cafes or retail customers. Or alternatively, a storage and collection agreement may be made with a nearby cafe or shop.
 
-Stallholders wishing to setup a shop like this should refer to the [Multi-Producer Shop guide](/multi-farm-shop.md).
+Stallholders wishing to setup a shop like this should refer to the [Multi-Producer Shop manual](/multi-farm-shop.md).
 
 ### Farmer's Market collective shop
 

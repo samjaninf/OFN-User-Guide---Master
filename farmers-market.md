@@ -25,13 +25,13 @@ Once we’ve created a group page for you, you can customise it with your own co
 
 ## Step 2: Add your stallholder’s profiles to the group page
 
-Once your page is setup the next step is to add profiles of your member enterprises to the group, this includes the market\(s\) itself and your stallholders. You can create a profile for your market\(s\) by following steps 1-4 in the [Hub setup guide](/hubs-set-up-guide.md) and then adding the profiles to the group. You can also add any stallholder profiles that are already on the OFN, just search for these in the group admin page. There are two options for setting up profiles for your members who don’t already have a profiles on the OFN.
+Once your page is setup the next step is to add profiles of your member enterprises to the group, this includes the market\(s\) itself and your stallholders. You can create a profile for your market\(s\) by following steps 1-4 in the [Hub setup manual](/hubs-set-up-guide.md) and then adding the profiles to the group. You can also add any stallholder profiles that are already on the OFN, just search for these in the group admin page. There are two options for setting up profiles for your members who don’t already have a profiles on the OFN.
 
 ### Option 1 – Create profiles for your members:
 
 The farmers’ market manager may choose to set up profiles for their stallholders on their behalf. This option is appealing as you’ll get your members setup quickly and have something to show them to help them visualise the new platform.
 
-Here is the [link](/create-or-connect-with-your-supplying-producers.md) to the relevant section of the hub user guide which describes how to create multiple profiles for producers.
+Here is the [link](/create-or-connect-with-your-supplying-producers.md) to the relevant section of the hub user manual which describes how to create multiple profiles for producers.
 
 If you chose this option, it’s a good idea to set these profiles to ‘invisible’ until you’re ready to launch the new group page. When markets launch they’ll often send out an email to members. Part of this process is to give members the options of taking ownership of their profiles, so that they can keep them up to date. This email is a good chance to explain the intention of the group and to invite participation.
 
@@ -39,7 +39,7 @@ To transfer ownership of a profile to the stallholder, edit that profile and typ
 
 ### Option 2 – Invite your members to create their own profiles:
 
-Alternatively, you can ask your stallholders to each setup their own profile. They can do this by following the steps in the [producer setup guide](/producer-set-up-guide.md). When their profile is setup, they’ll need to let you know so you can add them to your group page, in the group page admin.
+Alternatively, you can ask your stallholders to each setup their own profile. They can do this by following the steps in the [producer setup manual](/producer-set-up-guide.md). When their profile is setup, they’ll need to let you know so you can add them to your group page, in the group page admin.
 
 _Note: Asking members to place their preferences into a google form is a good way to efficiently capture their responses \(e.g. if they want to take ownership of a profile, or if they want to be added to your group\)._
 

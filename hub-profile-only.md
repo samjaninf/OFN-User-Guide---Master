@@ -32,4 +32,4 @@ You will now have a space to tell the story of your enterprise and to help drive
 ## Advanced features that are helpful for hubs with profiles.
 
 **Want to setup an online shop?
-** Now that you have a profile on the OFN, with just a few more setup steps, you can open an online shop. See the [hub shop setup guide](/hubs-set-up-guide.md). You've already completed step 1 when you created your profile, so start at step 2 and change your package.
+** Now that you have a profile on the OFN, with just a few more setup steps, you can open an online shop. See the [hub shop setup manual](/hubs-set-up-guide.md). You've already completed step 1 when you created your profile, so start at step 2 and change your package.

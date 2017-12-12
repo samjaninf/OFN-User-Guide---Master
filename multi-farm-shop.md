@@ -5,15 +5,15 @@ Multi-farm shops have a shopfront stocking products from multiple producers. Mul
 
 ## The nitty gritties…
 
-The central  managing producer of a multi-farm shop can setup the shop according to the producer setup guide.  At step 2, choose the third option, ‘Hub Shop’. This shop will be the Multi-Farm Shopfront. After the coordinating producer has created worked through the set-up guide for just their profile and products, they can create profiles for their additional suppliers, and to add their products into the system. Before creating the additional profiles, you’ll need to email us to request permission to create more than one profile (this is a spam prevention measure). The coordinating producer may setup the profile and products for everyone, or the other producers may wish to do this themselves. The two options are described below
+The central  managing producer of a multi-farm shop can setup the shop according to the producer setup manual.  At step 2, choose the third option, ‘Hub Shop’. This shop will be the Multi-Farm Shopfront. After the coordinating producer has created worked through the set-up manual for just their profile and products, they can create profiles for their additional suppliers, and to add their products into the system. Before creating the additional profiles, you’ll need to email us to request permission to create more than one profile (this is a spam prevention measure). The coordinating producer may setup the profile and products for everyone, or the other producers may wish to do this themselves. The two options are described below
 
 **Coordinating producer sets up profiles and products for supplying producers
 **
-After the coordinating producer has setup their own shopfront, it is then simple to create a profile for another producer, add their products and then start selling these items in their online shop. Because a producer is behaving more like a ‘hub’ when they stock others’ produce, refer to the hub set-up guide to see how to create profiles for additional ‘suppliers’. Note also that the order cycle interface will be different when you stock items from others, see the hub setup guide for an explanation here.
+After the coordinating producer has setup their own shopfront, it is then simple to create a profile for another producer, add their products and then start selling these items in their online shop. Because a producer is behaving more like a ‘hub’ when they stock others’ produce, refer to the hub set-up manual to see how to create profiles for additional ‘suppliers’. Note also that the order cycle interface will be different when you stock items from others, see the hub setup manual for an explanation here.
 
 **Supplying producers set up their profiles and add in their product range
 **
-Supplying producers can create a producer profile, according to the producer setup guide. At step 2 they should select to have a ‘producer profile’. They won’t need their own shopfront as they’ll be selling through the coordinating producer’s shopfront. Next they should follow steps 3-5. Finally they should grant the coordinating supplier permission to stock their products, instructions for doing this can be found here.
+Supplying producers can create a producer profile, according to the producer setup manual. At step 2 they should select to have a ‘producer profile’. They won’t need their own shopfront as they’ll be selling through the coordinating producer’s shopfront. Next they should follow steps 3-5. Finally they should grant the coordinating supplier permission to stock their products, instructions for doing this can be found here.
 
 Once you have completed your basic setup, check out the advanced features below which are particularly relevant to Multi-Farm shops:
 

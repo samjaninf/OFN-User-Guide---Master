@@ -56,7 +56,7 @@ If your producers already have profiles, you need to [connect with them](/create
 When the central coordinator creates profiles for producers they can also add in their product range on their behalf. They will first need to get product lists from each producer, with the required fields (name, price, category, properties etc). See [instructions for setting up products](/products.md). If you've connected to an existing profile, you should also have permission to edit their products.
 
 **Low coordinator involvement option** 
-If you want your producers to take responsibility for creating their profiles, you can instruct them to create their own profile and add in their products. They can follow the [Producer (Profile Only) guide,](/producer-profile-only.md) completing all 5 steps.
+If you want your producers to take responsibility for creating their profiles, you can instruct them to create their own profile and add in their products. They can follow the [Producer (Profile Only) manual,](/producer-profile-only.md) completing all 5 steps.
 
 You've connected with existing producer profiles. Remind these producers to update their products.
 
