@@ -2,7 +2,7 @@
 
 ## What is a producer profile?
 
-* It's a place to tell your story...
+* A profile gives you a place to tell your story...
 * You'll be visible on the OFN map.
 * You'll be visible in the producer directory.
 * You can add in your products and be stocked in a shop on OFN.
