@@ -3,6 +3,17 @@
 
 A Multi-farm shop is particular model of selling food direct from farmer to consumer. This model involves a collective of producers who are working together to sell their produce in the same online shop. By working together customers can access a greater variety of food in the one place, making it convenient. The producers will also work together to bring the food to customers at the same time, making pick-up convenient to the customer as well.
 
+## What does it do?
+
+**A single shop, with food from many producers
+**You can stock food from lots of producers in the one place, giving customers convenience and variety.
+
+**Minimal central administration
+**Producers who are participating in the shop can take on some of the admin tasks of the shop, including updating their product availability and prices. This reduces the tasks for the central administrator. Alternatively, suppliers can be hands off, and a coordinator can take on these tasks.
+
+**Easily communicate with producres
+**Use our reports to let each producer know what's been ordered from them, and to calculate their sales total.
+
 ## An example of this model in action
 
 The [Prom Coast Food Collective](https://www.promcoastfoodcollective.com.au/), in Victoria Australia is a group of farmers who are using a this model to collectively market their produce. So how does their model work?
@@ -16,17 +27,6 @@ Once producers receive their order totals list from the coordinator, they start 
 ![](/assets/Prommm.png)
 
 After the collection day, the cycle repeats again. The first step for producers is to login to their OFN profiles and to update the availability and pricing of their products for the next month’s orders. Once they’ve had time to do this, the coordinator can open the shop and start receiving orders again.
-
-## What does it do?
-
-**A single shop, with food from many producers
-**You can stock food from lots of producers in the one place, giving customers convenience and variety.
-
-**Minimal central administration
-**Producers who are participating in the shop can take on some of the admin tasks of the shop, including updating their product availability and prices. This reduces the tasks for the central administrator. Alternatively, suppliers can be hands off, and a coordinator can take on these tasks.
-
-**Easily communicate with producres
-**Use our reports to let each producer know what's been ordered from them, and to calculate their sales total.
 
 ## Steps for setting up a Multi-Farm Shop
 Setting up this model requires firstly setting up a Hub Shop for the collective shopfront. Secondly, profiles need to be created for all participating producers. These steps, as well as configuration options are described below.
@@ -135,5 +135,3 @@ Once you have completed your basic setup, check out the advanced features below 
 * Splitting payment methods between farmers’ is a feature that’s COMING SOON
 * Granting discounts to certain customers such as members or volunteers \(COMING SOON\).
 * Creating standing, recurring orders \(COMING SOON\)
-
-##### [Ask us](mailto:hello@openfoodnetwork.org) about embedding your Multi-Farm shopfront into a website.
