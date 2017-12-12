@@ -1,14 +1,19 @@
-# Farmers’ Markets – OFN Setup
+# Farmers’ Market Group Page
 
-# 
+## What is a farmers market group page?
+* It's a mini-directory of a market's stallholders
+* You has an interactive map and listing of all stallhodlers, with a unique profile for each
+* It allows each stallholder to setup and maintain their profile, reducing the need for central administration
 
-# Process
+## What does it do?
+** A place to tell stories 
+**A directory lets you share profiles of your members with your community. This includes their story, their location and contact details. It's an interactive place for customers to learn more about the producers who participate at their market, and where their food comes from. The directory can be embedded in your own website.
 
-_Setting up a _[_farmer’s market_](/farmers-market.md) _on the OFN is a three part process:_
+## Steps for setting up a Farmer's Market Group Page
 
+Setting up a Farmer's Market Group Page on the OFN is a two part process:
 1. Create a group page- this acts as a directory of all producers who participate in the market\(s\).
 2. Add your stallholder’s profiles to the group page- You may need to create profiles for stallholders, or they can do this themselves.
-3. Setup shopfronts –  Stallholders may wish to operate their own independent online shop from their profile. Alternatively stallholders may wish to collaborate with others and open a collective shopfront, which sells items from multiple stallholders in the one shop.
 
 ## Step 1:  Create a group page
 
@@ -17,8 +22,6 @@ If you manage or are involved in a farmers market and would like to create an OF
 ![](https://openfoodnetwork.org/wp-content/uploads/2016/08/MFM-Directory.png "MFM Directory")
 
 Once we’ve created a group page for you, you can customise it with your own content, including an about us blurb, logo and photos. For more details about managing content on your group page [click here](/group-pages.md). Adding ‘enterprises’, or your members’s profiles, to your group page is discussed below.
-
-##### [Ask us](mailto:hello@openfoodnetwork.org) about embedding your Farmers’ Market group directory into your own website.
 
 ## Step 2: Add your stallholder’s profiles to the group page
 
@@ -39,6 +42,10 @@ To transfer ownership of a profile to the stallholder, edit that profile and typ
 Alternatively, you can ask your stallholders to each setup their own profile. They can do this by following the steps in the [producer setup guide](/producer-set-up-guide.md). When their profile is setup, they’ll need to let you know so you can add them to your group page, in the group page admin.
 
 _Note: Asking members to place their preferences into a google form is a good way to efficiently capture their responses \(e.g. if they want to take ownership of a profile, or if they want to be added to your group\)._
+
+
+3. Setup shopfronts –  Stallholders may wish to operate their own independent online shop from their profile. Alternatively stallholders may wish to collaborate with others and open a collective shopfront, which sells items from multiple stallholders in the one shop.
+
 
 ## Step 3: Setup shopfronts
 
