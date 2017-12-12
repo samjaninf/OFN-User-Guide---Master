@@ -13,7 +13,7 @@
 **Makes you visible**  
 When you have a profile on the Open Food Network, you become visible in your local food movement. You become contactable to customers who want to access your products. And you become reachable to other enterprises who may want to collaborate or distribute with you.
 
-**Lets you supply others**  
+**Lets you supply other shops**  
 If you want to supply a shop on the Open Food Network, you can create your profile, and then upload your product range. The shop you supply can then see your products and add them to their OFN online shopfront.
 
 ## Steps for setting up a Producer Profile
@@ -45,4 +45,4 @@ You will now have a space to tell the story of your enterprise and to help drive
 * [Making your profile searchable by product category](/making-a-producer-profile-searchable-by-product-category.md)
 
 **Want to setup an online shop?
-** Now that you have a profile on the OFN, with just a few more setup steps, you can open an online shop. See the [Producer Shop setup guide](/producer-set-up-guide.md). You've already completed step 1 when you created your profile, so start at step 2 and change your package.
+** Now that you have a profile on the OFN, with just a few more setup steps, you can open an online shop. See the [Producer Shop setup manual](/producer-set-up-guide.md). You've already completed step 1 when you created your profile, so start at step 2 and change your package.

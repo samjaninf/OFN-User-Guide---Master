@@ -1,6 +1,5 @@
-# Choose your guide
-
-To help you navigate this user guide, we've created setup guides based on who you are and what you want to do with the Open Food Network. Find that guide that best suits your needs below.
+# Choose your Setup Manual
+To help you navigate the user guide, we've created setup manuals based on who you are and what you want to do with the Open Food Network. Find that manual that best suits your needs below.
 
 ![](/assets/foodproducersandhubs.jpg)
 
