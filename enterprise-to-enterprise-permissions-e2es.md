@@ -6,10 +6,9 @@ This article provides a description of the different types of E2E permissions.
 
 Users may also find it useful to look at the hub-specific, producer specific and buying-group specific examples provided"
 
-##### [Producers Perspective](#E2Es-from-a-producers-perspective)
+* #### [Hubs Perspective](#E2Es-from-a-hubs-perspective)
 
-[Producers](#i-am-a-producer)
-
+* #### [Producers Perspective](#E2Es-from-a-producers-perspective)
 
 
 ## Different kinds of E2E permission:
