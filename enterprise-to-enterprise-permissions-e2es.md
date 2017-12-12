@@ -6,7 +6,10 @@ This article provides a description of the different types of E2E permissions.
 
 Users may also find it useful to look at the hub-specific, producer specific and buying-group specific examples provided"
 
-[E2Es from a Producers Perspective](#E2Es-from-a-producer’s-perspective)
+[Producers Perspective](#E2Es-from-a-producers-perspective)
+
+[Producers](#i-am-a-producer)
+
 
 
 ## Different kinds of E2E permission:
@@ -84,7 +87,7 @@ Further, buying groups must have P-OC from all producers, of any products that w
 * If the user who owns the producers also owns the buying group, P-OC will automatically be granted to the buying group.
 * If the producers and buying group are owned by different users, the producer owner will need to manually grant P-OC to the buying group, allowing them to distribute their products.
 
-# E2Es from a producer’s perspective
+# E2Es from a producers perspective
 
 When a producer wants to start selling their products through other enterprises \(hubs or buying groups\) the must establish the appropriate E2E permissions. There are different levels of permission that a producer can grant, depending on how much power they want to give the hub to manage their products and profile \(see top of page\).
 
