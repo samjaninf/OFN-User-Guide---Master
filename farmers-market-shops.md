@@ -1,9 +1,13 @@
-3. Setup shopfronts –  Stallholders may wish to operate their own independent online shop from their profile. Alternatively stallholders may wish to collaborate with others and open a collective shopfront, which sells items from multiple stallholders in the one shop.
+# Farmer's Market Shops
 
+## How can a Farmer's Market sell online?
+Farmers markets have huge opportunity to not only act as a space for physical sales, but also as a node, or an aggregation point to reach customers who are ordering online. 
 
-## Step 3: Setup shopfronts
-
-Farmers’ Markets can take different approaches to using the the OFN. These configurations are described below.
+Some of the ways farmer's markets can reach beyond the physical market space:
+* Stallholders can offer online pre-ordering/pre-sales for products, for collection at the market
+* Stallholders can use their trip into town/the city as an opportunity to distribute online orders to customers.
+* Stallholders may wish to collaborate and open an collective shop, and use the market as an aggregation point for packing orders. They may also collaborate on delivery.
+*  The market may wish to coordinate an online shop, stocking products from all the stallholders, for customers who do not attend the market - for example hospitality, institutional or other customer who prefer home delivery.
 
 ### Group page with profiles
 

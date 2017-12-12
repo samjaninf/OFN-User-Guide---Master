@@ -1,7 +1,7 @@
-# Multi-Farm Shop – OFN Setup Process
-## What is a multi-farm shop?
+# Multi-Producer Pre-Orders
+## What is the multi-producer pre-orders model?
 
-A Multi-farm shop is particular model of selling food direct from farmer to consumer. This model involves a collective of producers who are working together to sell their produce in the same online shop. By working together customers can access a greater variety of food in the one place, making it convenient. The producers will also work together to bring the food to customers at the same time, making pick-up convenient to the customer as well.
+Multi-producer pre-orders is particular model of selling food direct from farmer to consumer. This model involves a collective of producers who are working together to sell their produce in the same online shop. By working together customers can access a greater variety of food in the one place, making it convenient. The producers will also work together to bring the food to customers at the same time, making pick-up convenient to the customer as well.
 
 ## What does it do?
 
