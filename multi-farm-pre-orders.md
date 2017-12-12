@@ -3,10 +3,7 @@
 
 A Multi-farm shop is particular model of selling food direct from farmer to consumer. This model involves a collective of producers who are working together to sell their produce in the same online shop. By working together customers can access a greater variety of food in the one place, making it convenient. The producers will also work together to bring the food to customers at the same time, making pick-up convenient to the customer as well.
 
-Checkout this [case study](https://openfoodnetwork.org/user-guide/model/multi-farm-pre-orders/) for a detailed example of this model in action.
-
-
-%accordion%An example of this model%accordion%
+## An example of this model in action
 
 The Prom Coast Food Collective, in Victoria Australia is a group of farmers who are using a this model to collectively market their produce.
 
@@ -18,10 +15,9 @@ At the close of the ordering period, the shop closes and the group’s coordinat
 
 Once producers receive their order totals list from the coordinator, they start to prepare the produce for each customer. This may involve processing meat, harvesting vegetables, or bagging and labelling preserves. On a Sunday morning, one week after the shop closed and stopped accepting orders, all of the producers and customers converge at one of the farms. Customers will walk from producer to producer and collect the items they had pre-ordered. Producers will have the goods ready for each customer. Because orders are pre-paid, no money needs to changes hands on the day. Note, that alcohol sales cannot be pre-paid due to liquor licensing, so must be purchased on the day.
 
+![](/assets/Prom pickup.png)
 
 After the collection day, the cycle repeats again. The first step for producers is to login to their OFN profiles and to update the availability and pricing of their products for the next month’s orders. Once they’ve had time to do this, the coordinator can open the shop and start receiving orders again.
-
-%/accordion%
 
 
 ## What does it do?
