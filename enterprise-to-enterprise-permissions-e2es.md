@@ -2,7 +2,12 @@
 
 Within the OFN there are rules which govern the trading relationships between enterprises, which we call Enterprise to Enterprise permissions \(E2E\). Certain ‘permissions’ must be granted before an enterprise can act as a supplier to another enterprise. Similarly, before an enterprise can distribute on behalf of an enterprise they must also grant the appropriate E2Es.
 
-This article provides a description of the different types of E2E permissions. Users may also find it useful to look at the hub-specific, producer specific and buying-group specific examples provided in the tabs, accessible at the top of the page.
+This article provides a description of the different types of E2E permissions. 
+
+Users may also find it useful to look at the hub-specific, producer specific and buying-group specific examples provided"
+
+[E2Es from a Producers Perspective](#E2Es-from-a-producer’s-perspective)
+
 
 ## Different kinds of E2E permission:
 

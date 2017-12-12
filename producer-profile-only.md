@@ -18,7 +18,7 @@ If you want to supply a shop on the Open Food Network, you can create your profi
 
 ## Steps for setting up a Producer Profile
 
-1\) [Register your profile](/create-an-account.md){:target="_blank"} on Open Food Network. This setup tool will ask for basic information about your enterprise to create your profile. You'll be prompted to confirm your email address.
+1\) [Register your profile](/create-an-account.md) on Open Food Network. This setup tool will ask for basic information about your enterprise to create your profile. You'll be prompted to confirm your email address.
 
 2\) Select the 'producer profile' [package type](/hub-profile-types.md).
 
