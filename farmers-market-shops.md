@@ -28,6 +28,8 @@ A representative of the farmers’ market can take responsibility for coordinati
 ### Relevant advanced features
 [Private shopfronts](/private-shopfront.md). If you're trading to hospitality customers you may wish to have a private shop, only visible to your known customers. This prevents retail customers from seeing wholesale pricing.
 
+Have you thought about setting up a [Farmer's Market group page](/farmers-market.md).
+
 ### Features in the pipeline
 
 * Splitting payments between farmers, according to which items of theirs were sold in a collective shop is a feature that’s COMING SOON
