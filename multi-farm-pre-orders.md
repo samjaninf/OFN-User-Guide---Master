@@ -51,7 +51,6 @@ You've connected with existing producer profiles. Remind these producers to upda
 9) [Open your shop by opening an order cycle.](/order-cycles.md) Once you've setup your producer profiles, shipping and payment methods, and added your products, you can open your shopfront by creating an order cycle.
 
 
-
 10) View and edit orders.
 
 11) View reports. [This page](/get-reports.md) offers a broad description of OFN's reports.
