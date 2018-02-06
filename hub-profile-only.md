@@ -4,7 +4,8 @@
 
 * It's a place to tell your story...
 * You'll be visible on the OFN map.
-* If you ever want to take sales online, you can create an online shop from your profile.
+* If you ever want to take sales online, you can add the shopfront functionality to your profile.
+
 
 ## What does it do?
 

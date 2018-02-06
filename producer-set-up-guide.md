@@ -2,15 +2,22 @@
 
 ## What is a producer shop?
 
-A producer shop lets you sell your produce through your own online shop on OFN.
+* A producer shop lets you sell your produce through your own online shop
+* When you have a shop, you also have a profile, which gives you a place to tell your story.
+* You'll be visible on the OFN map and the producer directory.
 
 ## What does it do?
 
 **Sell your food your way**  
 You can add your products, and sell them how you like. You can chose the ordering routine. You choose how the food is distributed. You choose how customer pay.
 
-_A Producer Shop, is like a profile, but it also includes all the functions needed to sell directly to customers online. This includes the online shopfront with full checkout capabilities as well as behind the scenes tools to aid in administration, such as reporting of payments and inventory.  
-The OFN is a network, so you are able to connect with other shops. This way you can stock your products in your own independent store, as well as through a number of hub shops._
+A Producer Shop, is like a profile, but it also includes all the functions needed to sell directly to customers online. This includes the online shopfront with full checkout capabilities as well as behind the scenes tools to aid in administration, such as reporting of payments and inventory.  
+
+The OFN is a network, so you are able to connect with other shops. This way you can stock your products in your own independent store, as well as supplying other shops on OFN.
+
+**Makes you visible
+**
+The first step to creating your online shop is to create your profile. When you have a profile on the Open Food Network, you become visible in your local food movement. You become contactable to customers who want to access your products. And you become reachable to other enterprises who may want to collaborate or distribute with you.
 
 ## Steps for setting up a Producer Shop
 
