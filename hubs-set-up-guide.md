@@ -2,14 +2,14 @@
 
 ## What is a hub shop?
 
-Hub shops can take many different forms, but at their essence, they are an online shopfront which stock products from multiple supplying producers. With a hub shop customers can see profiles of the producers who grew/raised/baked their food. 
+Hub shops can take many different forms, but at their essence, they are an online shop which stocks products from multiple source-identified supplying producers. With a hub shop customers can see profiles of the producers who grew/raised/baked their food. 
 
 ## What does it do?
-**Streamline your admin tasks**  
-Unlike taking orders with emails, texts or phone messages, taking orders online is simple and time saving. Use OFN's reports to understand your stock levels, your sales, your orders and your packing sheets, all at a glance.
-
 **A shopping experience customers will enjoy**  
 With a hub shop customers can see profiles of the producers who grew/raised/baked their food, giving them a virtual farmer's market experience.
+
+**Streamline your admin tasks**  
+Unlike taking orders with emails, texts or phone messages, taking orders online is simple and time saving. Use OFN's reports to understand your stock levels, your sales, your orders and your packing sheets, all at a glance.
 
 **Take orders periodically**  
 You can choose when your shop opens and closes, and run your shop in cycles.
@@ -18,7 +18,7 @@ You can choose when your shop opens and closes, and run your shop in cycles.
 Your suppliers can login directly to OFN to update their product availability and prices, minimising some administration tasks for you.
 
 **Be flexible**
-Our software is designed to be flexible and to accommodate models of all different shapes and forms. You can use our flexibility to experiment with new ways of doing things. If you want to experiment supplying to hospitality customers, you can setup 'hospitality only' shops. Want to experiment with a new delivery location, add a drop-off point. Want to experiment with adding a second delivery date, you can do that.
+Our software is designed to be flexible and to accommodate business models of all different shapes and forms. You can use our flexibility to experiment with new ways of doing things. If you want to experiment supplying to hospitality customers, you can setup 'hospitality only' shops. Want to experiment with a new delivery location, add a drop-off point. Want to experiment with adding a second delivery date, you can do that.
 
 ## Steps for setting up a Hub Shop
 
