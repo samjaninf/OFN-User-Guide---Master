@@ -110,6 +110,3 @@ The scenario described can be solved by granting P-I \([**Add to Inventory**](/i
 # E2Es from a buying group’s perspective
 
 Coming soon…
-
-_Have a suggestion for how we could improve this feature? Send us an email or join the conversation on our community forum._
-

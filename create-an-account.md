@@ -20,6 +20,9 @@
 
 **You've now created your profile and added your basic profile details.**
 
+To administer your profile head to your local OFN and login. Then click the cog symbol in the top right corner and select 'administration'.
+
 When you first login to OFN and go to administer your profile you'll be asked to select which package you want. Continue to learn about the [packages available](/hub-profile-types.md).
+
 
 
