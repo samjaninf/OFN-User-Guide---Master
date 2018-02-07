@@ -11,47 +11,12 @@ This video will show you how to access, edit and add information to your profile
 1. Click on 'Enterprise' in the blue horizontal menu
 2. Click on 'Manage' next to your enterprise
 
-Each section of the Enterprise Configuration menu is explained below:
-* ##### [Primary Details](#primary-details)
-* ##### [Users](#users)
-* ##### [Address](#adress)
-* ##### [Contact](#contact)
-* ##### [Social](#social)
-* ##### [About](#about)
-* ##### [Business details](#business-details)
-* ##### [Images](#images)
-* ##### [Properties](#properties) (producers only)
-
-Shops only sections:
-* ##### [Inventory Settings](#inventory-settings)
-* ##### [Shipping Methods, Payment Methods and Enterprise Fees](#Shipping-Methods,-Payment-Methods-and-Enterprise-Fees)
-* ##### [Tag Rules](#tag-rules)
-* ##### [Shop Preferences](#shop-preferences)
- 
-
->_Reminder: when editing, click the Update button **within each section** to save your changes. It’s on the bottom of the page. _
+>Reminder: when editing click the Uupdate **within each section** to save your changes. It’s at the bottom of the page.
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #### Primary Details
 
-**Name: **This is the name of your enterprise. It will be the title of your profile and store.
+**Name: **This is the name of your enterprise. It will be the title of your profile (and store).
 
 **Primary Producer: **Select the producer box if you are a producer. If your organisation is involved in the local food movement in another capacity, don't select this box \(e.g. food hub, coop, farmer's market, advocacy group\).
 
@@ -59,25 +24,15 @@ Shops only sections:
 
 **Visible in Search: **If your profile is ready to go public, select visible, and it will show in the OFN's directory and map. If you’re still making adjustments, select not visible, until you are ready.
 
-**Permalink: **You can customise part of the web address which will host to your shop.
+**Permalink: **You can customise part of the web address which will host to your shop. 
 
-**Link to Shop Front: **This is the web address of your shop on the OFN \(only visible if you've chosen a package with shopfront\). You can customise the URL above.
-
----
-
-#### Users
-
-**Owner: **This is the primary user responsible for this enterprise.
-
-**Notifications:** This is the email address where OFN system correspondence will be directed, i.e. order confirmations etc. If this email differs from your login email, you will need to confirm the email address. Upon confirmation this email will be added as a manager \(see below\).
-
-**Manager: **Other OFN users who have been granted permission to manage this account. If they don’t already have an OFN account, you can type in the new manager’s email as the notification email \(see above\), this will prompt them to get a confirmation email, and upon confirmation they will become a manager. If they’re already a OFN user, type their full email in the manager field, and select them from the dropdown list.
+**Link to Shop Front: **This is the web address of your shop on the OFN \(if you've chosen a package with shopfront\). You can customise the URL above.
 
 ---
 
 #### Address
 
-This information is used to map your enterprise the OFN map.
+This information is used to map your enterprise the OFN map. Your exact address won't show if you only have a profile, however if you have a shopfront, your address will show in text form in your shop's contact details tab.
 
 ---
 
@@ -126,6 +81,15 @@ An example profile is shown below.![](/assets/Demo profile.png)
 #### Properties \(visible to producers only\)
 
 You can apply properties \(such as free range or certified organic\) to your enterprise. These properties will then be automatically applied to all of your products. For an in depth discussion of properties click [here](/product-properties.md).
+
+---
+#### Users
+
+**Owner: **This is the primary user responsible for this enterprise.
+
+**Notifications:** This is the email address where OFN system correspondence will be directed, i.e. order confirmations etc. If this email differs from your login email, you will need to confirm the email address. Upon confirmation this email will be added as a manager \(see below\).
+
+**Manager: **Other OFN users who have been granted permission to manage this account. You can search for existing emails who have registered for an OFN account. 
 
 ---
 
