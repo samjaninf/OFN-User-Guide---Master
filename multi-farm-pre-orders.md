@@ -62,10 +62,9 @@ If you're connected with existing producer profiles. Remind these producers to u
 
 Once the producers have setup their profiles, you'll need to [connect with them](/create-or-connect-with-your-supplying-producers.md).
 
-9) [Open your shop by opening an order cycle.](/order-cycles.md) Once you've setup your producer profiles, shipping and payment methods, and added your products, you can open your shopfront by creating an order cycle.
+9) [Open your shop by opening an order cycle.](/order-cycles.md) Once your supplying producer profiles are setup, with their product ranges and once the shipping and payment methods are setup you can open your shopfront by creating an order cycle.
 
-
-10) View and edit orders.
+10) [View and edit orders](/view-orders.md).
 
 11) View reports. [This page](/get-reports.md) offers a broad description of OFN's reports.
 
@@ -130,10 +129,3 @@ Once you have completed your basic setup, check out the advanced features below 
   
 * [Place orders manually](/create-an-order.md)
   for customers who prefer to submit orders by text or over the phone.
-  
----
-## Features in the pipeline:
-
-* Splitting payment methods between farmers’ is a feature that’s COMING SOON
-* Granting discounts to certain customers such as members or volunteers \(COMING SOON\).
-* Creating standing, recurring orders \(COMING SOON\)
