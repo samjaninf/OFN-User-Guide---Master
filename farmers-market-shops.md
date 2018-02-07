@@ -1,8 +1,9 @@
 # Farmer's Market Shops
 
-## How can a Farmer's Market sell online?
+## What is a Farmer's Market Shop?
 Farmers markets have huge opportunity to not only act as a space for physical sales, but also as a node, or an aggregation point to reach customers who are ordering online. This can help boost producer sales, and give them access to markets beyond the market.
 
+## How does it work?
 Some of the ways farmer's markets can reach beyond the physical market space:
 * Stallholders can offer online pre-ordering/pre-sales for products, for collection at the market
 * Stallholders can use their trip into town/the city as an opportunity to distribute online orders to customers.
@@ -21,15 +22,13 @@ Stallholders wishing to setup a shop like this should refer to the [Multi-Produc
 
 ### Market run collective online shop
 
-The OFN’s high degree of flexibility makes it possible for Farmer's Markets to easily setup and pilot a great variety of collaborative sales arrangements. One possible configuration is covered below however if you have questions regarding any other models don’t hesitate to get in touch.
+The OFN’s high degree of flexibility makes it possible for Farmer's Markets to easily setup and pilot a great variety of collaborative sales arrangements. One possible configuration is covered below, however if you have questions regarding any other models don’t hesitate to get in touch.
 
-A representative of the farmers’ market can take responsibility for coordinating an online shop, which sells items from multiple stallholders. Each week they’ll be tasked with checking availability of stock, opening the shop, packing the orders on market day and arranging delivery. This model is great for customers who cannot attend the market, such as local workplaces, cafes and restaurants. This model can benefit from some market facilities such as a cool room. The coordinator will also take responsibility for managing payments from customers and for paying the stallholders their share. Enterprise fees can be used to allocate a certain mark-up to the coordinator for their services.
+A representative of the farmers’ market can take responsibility for coordinating an online shop, which stocks items from multiple stallholders. Each week they’ll be tasked with checking availability of stock, opening the shop, packing the orders on market day and arranging delivery. This model is great for customers who cannot attend the market, such as local workplaces, cafes and restaurants. This model can benefit from some market facilities such as a cool room or delivery van. The coordinator will also take responsibility for managing payments from customers and for paying the stallholders their share. Enterprise fees can be used to allocate a certain mark-up to the coordinator for their services.
 
-### Relevant advanced features
+To setup this model, refer to the [Hub Shop Setup Manual](/hubs-set-up-guide.md), or get in touch with us for help.
+
+### Advanced features that may be helpful to farmer's markets with shops
 [Private shopfronts](/private-shopfront.md). If you're trading to hospitality customers you may wish to have a private shop, only visible to your known customers. This prevents retail customers from seeing wholesale pricing.
 
-Have you thought about setting up a [Farmer's Market group page](/farmers-market.md).
-
-### Features in the pipeline
-
-* Splitting payments between farmers, according to which items of theirs were sold in a collective shop is a feature that’s COMING SOON
+Have you thought about setting up a [Farmer's Market group page](/farmers-market.md)?

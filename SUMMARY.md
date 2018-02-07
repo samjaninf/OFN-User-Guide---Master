@@ -8,7 +8,6 @@
   * [Hub \(Shop\)](hubs-set-up-guide.md)
   * [Multi-Producer Shop](multi-farm-shop.md)
   * [Multi-Producer Pre-orders](multi-farm-pre-orders.md)
-  * [Buying Group](buying-group.md)
   * [Farmer's Market \(Group Page\)](farmers-market.md)
   * [Farmer's Market \(Shops\)](farmers-market-shops.md)
 * [Basic Features](basic-features.md)
