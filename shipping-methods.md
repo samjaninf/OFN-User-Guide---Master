@@ -1,12 +1,19 @@
 # Shipping methods
 
-You must set up shipping methods before you can open an order cycle.
+You must create a shipping method before you can open your shop.
 
-## Accessing shipping methods
+## Setting up a shipping method
 
-Click **Enterprises **in the blue horizontal menu, and then click **Manage **next to your enterprise. Then, click Shipping methods in the menu on the left hand side.
+1) Go to the shipping methods page. 
+
+%accordion%Accessing shipping methods%accordion%
+
+Click **Enterprises **in the blue horizontal menu, and then click **Manage **next to your enterprise. Then, click Shipping Methods in the menu on the left hand side.
 
 [![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Access-demo-farm.png "Access demo farm")](https://openfoodnetwork.org/wp-content/uploads/2015/05/Access-demo-farm.png)
+
+%/accordion%
+
 
 ## Creating a new shipping method
 

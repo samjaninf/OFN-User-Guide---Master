@@ -2,7 +2,7 @@
 
 You must create a payment method before you can open your shop.
 
-## Setting up payment method
+## Setting up a payment method
 1) Go to the payment methods page. 
 
 %accordion%Accessing payment methods%accordion%
