@@ -1,12 +1,11 @@
 # Payment methods
 
-If you want to open an order cycle you must first set up payment methods.
+You must create a payment method before you can open your shop.
 
 This page shows you: 
-1. [how to set up your payment methods](#setting-up-payment-method)
-2. [info on different payment platforms](####payment-providers:)
-3. [how to calculate payment fees](##fees-on-payment-methods)
-
+1. [How to set up your payment methods](#setting-up-payment-method)
+2. [Info on the different payment platforms that OFN supports](####payment-providers:)
+3. [How to add payment fees](##fees-on-payment-methods)
 
 ## Setting up payment method
 1. Go to the payment methods page. 
