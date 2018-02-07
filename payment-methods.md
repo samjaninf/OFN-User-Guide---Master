@@ -176,11 +176,11 @@ _Note: Payment method fees do not include tax._
 
 #### Fee Calculators
 
-- **Flat Percent: ** This fee is charged as a percentage of the total amount charged in the order.
+**Flat Percent: ** This fee is charged as a percentage of the total amount charged in the order.
 
-- **Flat Rate \(per order\):** This fee is applied as standard fee to all orders, regardless of the size of the order.
+**Flat Rate \(per order\):** This fee is applied as standard fee to all orders, regardless of the size of the order.
 
-- **Flexible Rate:** This calculator is typically used for promotional discounts where you charge a reduced fee as the customer makes more purchases of that item. This fee applies to items and products listed per kg or L.
+**Flexible Rate:** This calculator is typically used for promotional discounts where you charge a reduced fee as the customer makes more purchases of that item. This fee applies to items and products listed per kg or L.
 
     * ‘First Item Cost’: The fee charged for the first item in the order.
     * ‘Additional Item Cost’: The fee charged for aditional items beyond the first.
@@ -188,9 +188,9 @@ _Note: Payment method fees do not include tax._
 
 > For example: If the first cost is $2, Additional Item Cost is $1 and the maximum items is three. If a customer orders 5 of the item, they will be charged $2 for the first item, $1 for the second and third, and no fee for the fourth and fifth.
 
-- **Flat Rate \(per item\):**  This fee is a constant fee, applied to products listed as ‘items’. \(it will not be applied to products listed as per kg, or per L\)
+**Flat Rate \(per item\):**  This fee is a constant fee, applied to products listed as ‘items’. \(it will not be applied to products listed as per kg, or per L\)
 
-- **Price Sack:** This fee is used to charge a discount on fees for orders which exceed a certain dollar amount.
+**Price Sack:** This fee is used to charge a discount on fees for orders which exceed a certain dollar amount.
 
     * ‘Minimum Amount’: If the order’s total is below this amount, they will be charged the ‘Normal Amount’.
     * ‘Discount Amount’: Orders which are equal to or greater than the minimum amount will be charged the ‘Discount Amount’.

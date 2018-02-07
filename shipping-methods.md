@@ -4,7 +4,7 @@ You must create a shipping method before you can open your shop.
 
 ## Setting up a shipping method
 
-1) Go to the shipping methods page. 
+**1)** Go to the shipping methods page. 
 
 %accordion%Accessing shipping methods%accordion%
 
@@ -14,24 +14,23 @@ Click **Enterprises **in the blue horizontal menu, and then click **Manage **nex
 
 %/accordion%
 
-
-## Creating a new shipping method
+**2)** Click the **create new shipping method** button.
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/New-Shipping-Method.png)
 
-The first step in setting up a Shipping Method is to tick your enterprise, in the box on the right hand side of the page titled Hubs.  This indicates that the shipping method you are about to create will apply to your enterprise.
+**3)** Tick your enterprise in the box on the right hand side of the page titled Hubs.  This indicates that the shipping method you are about to create will apply to your enterprise.
 
-**Name:** Choose a name for this shipping method. \(i.e. Delivery, pick-up from farmer’s market, or postal service\). It will be displayed at check out and on order confirmation emails.
+**4) Name:** Choose a name for this shipping method. \(i.e. Delivery, pick-up from farmer’s market, or postal service\). It will be displayed at check out and on order confirmation emails.
 
-**Description:** Here you can provide further details about the shipping method. This will be visible to the customer when they checkout. For instance, the screenshot below shows that when this customer selects ‘collection from farm’, the grey box on the right hand side shows the description ‘We are happy for you to collect direct from the farm…’
+**5) Description:** Here you can provide further details about the shipping method. This will be visible to the customer when they checkout. For instance, the screenshot below shows that when this customer selects ‘collection from farm’, the grey box on the right hand side shows the description ‘We are happy for you to collect direct from the farm…’
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Shipping-view-at-checkout.png "Shipping view at checkout")
 
-**Zone: **Select the appropriate zone.
+**6) Zone: **Select the appropriate zone.
 
-**Category: **Is this method a delivery or pick-up?
+**7) Category: **Is this method a delivery or pick-up?
 
-**Calculator: **Select the way that shipping fees will be applied to this shipping method. Note that a shipping fee can be zero.
+**8) Calculator: **Select the way that shipping fees will be applied to this shipping method. Note that a shipping fee can be zero.
 
 By clicking **Create, **the shipping method will be created, and you will then be provided with new fields, to add details of the shipping method charges. The fields presented will depend upon which shipping fee calculator you have selected. As indicated, if you are changing the calculator type, you must save first before you can edit the calculator settings.
 
