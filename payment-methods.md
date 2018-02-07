@@ -2,11 +2,6 @@
 
 You must create a payment method before you can open your shop.
 
-This page shows you: 
-1. [How to set up your payment methods](#setting-up-payment-method)
-2. [Info on the different payment platforms that OFN supports](####payment-providers:)
-3. [How to add payment fees](##fees-on-payment-methods)
-
 ## Setting up payment method
 1. Go to the payment methods page. 
 
@@ -17,32 +12,35 @@ Click **Enterprises **in the blue horizontal menu, and then click **Manage **nex
 [![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Access-demo-hub-profile-edit.png "Access demo hub profile edit")](https://openfoodnetwork.org/wp-content/uploads/2015/05/Access-demo-hub-profile-edit.png)
 
 %/accordion%
-2. Click on the **create new payment method **button.
-3. Tick your enterprise, in the box on the right hand side of the page titled Hubs.  
---> This indicates which enterprise the payment method you are about to create will apply to. You can select more than one enterprise.
-4. **Name:** Choose a **name** for this payment method. 
-\(i.e. Pay with credit card using Paypal, Cash on delivery or Bank Transfer etc\). It will be displayed at checkout and on customers' order confirmation emails.
-5. **Description:** provide further details about the payment method. 
---> For example, for a bank transfer, you would provide details of the bank account. This description will be displayed at checkout and in order confirmation emails. 
+
+2.Click on the **create new payment method **button.
+
+3.Tick your enterprise, in the box on the right hand side of the page titled Hubs. This indicates which enterprise the payment method you are about to create will apply to. You can select more than one enterprise.
+
+4.**Name:** Choose a name for this payment method. \(i.e. Pay with credit card using Paypal, Cash on delivery or Bank Transfer etc\). It will be displayed at checkout and on customers' order confirmation emails.
+
+5.**Description:** provide further details about the payment method. For example, for a bank transfer, you would provide details of the bank account. This description will be displayed at checkout and in order confirmation emails. 
+
 The screenshot below shows a payment methods display at checkout. The customer has selected ‘cash on collection/delivery’ and the ‘correct change…’ description is displayed.
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Payment-at-checkout.png "Payment message displayed at checkout")
 6. **Active: **Select whether this payment method is currently visible and available, or not.
-7. **Tags:** Use tag rules if you want to make certain payment methods available/unavailable for specific customers \(e.g. wholesale vs retail\). See [here](/customer-accounts-and-tagging.md) for details on tag rules.
 
-#### Payment providers:
-You can accept payment via 5 payment platforms:
+7.**Tags:** Use tag rules if you want to make certain payment methods available/unavailable for specific customers \(e.g. wholesale vs retail\). See [here](/customer-accounts-and-tagging.md) for details on tag rules.
 
-1. MasterCard Internet Gateway Service \(MIGS\)
-2. PayPal Express
-3. [Pin Payments](https://pin.net.au/)
-4. Cash/EFT/etc. \(this is for payments which occur after checkout, external to OFN such as cash or bank transfers\)
-5. Stripe
+8.**Payment providers**: Select the one which is relevant to the payment method you are creating.
 
-8.Select the one which is relevant to the payment method you are creating.
+You can accept payment via 5 payment options:
 
-- If you have selected ‘Cash/EFT/etc..’ as the provider, click **Create** to end the process.
-- For MasterCard, Paypal and Pin Payments additional instructions are below.
+- Cash/EFT/etc. (Use this for payments which occur after checkout, externally to OFN such as cash or bank transfers)
+- MasterCard Internet Gateway Service \(MIGS\)
+- PayPal Express
+- [Pin Payments](https://pin.net.au/)
+- Stripe
+
+If you have selected ‘Cash/EFT/etc..’ as the provider, click **Create** to end the process.
+
+For MasterCard, Paypal and Pin Payments additional instructions are below.
 
 ### PayPal
 
