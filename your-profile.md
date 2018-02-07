@@ -1,6 +1,6 @@
 # Enterprise Settings
 
-Enterprise Setting is where you can manage details relating to your profile and shopfront.
+Enterprise Setting is where you can manage details relating to your profile and/or shopfront.
 
 This video will show you how to access, edit and add information to your profile at any time. 
 
@@ -12,26 +12,6 @@ This video will show you how to access, edit and add information to your profile
 2. Click on 'Manage' next to your enterprise
 
 Each section of the Enterprise Configuration menu is explained below:
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 * ##### [Primary Details](#primary-details)
 * ##### [Users](#users)
 * ##### [Address](#adress)
