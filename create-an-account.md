@@ -14,9 +14,7 @@
 
 6. Choose if you’re ‘a producer’ \(e.g. farmer, baker, etc\) or ‘not a producer’ \(We call non-producers hubs, which includes: a seller and/or distributor of food: coop, food hub, wholesaler etc.\).
 
-7. Click the ‘create profile’ button.
-
-> You'll receive a confirmation email when the profile is created. If you close the registration window now, you can continue to add information to your profile later.
+7. Click the ‘create profile’ button. You'll receive a confirmation email when the profile is created. If you close the registration window now, you can continue to add information to your profile later.
 
 8. Fill in your profile enterprise description, images, website/social media and business details.
 
