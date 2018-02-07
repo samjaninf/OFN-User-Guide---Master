@@ -13,7 +13,7 @@ _\* Note: The above is an example only, fees vary between OFN instances/countrie
 1. **Producer profile – connect through OFN: **
    This option allows you to create a profile on the OFN. Your profile is a way for you to share your story with others and makes you visible and contactable to customers and other enterprises who may wish to trade with you. A producer with a profile can also add products, which may be stocked in OFN shopfronts that are coordinated by others.
 2. **Producer Shop- sell your own produce: **
-   This option allows producers to create their own OFN shopfront through which to sell their produce. Note that producers can conduct sales through their own shopfront and simultaneously act as a supplier to another shopfront.
+   This option allows producers to create their own OFN shopfront through which to sell their produce. Note that producers can conduct sales through their own shopfront and/or act as a supplier to another shopfront.
 3. **Producer Hub- sell produce from self and others:  **
    This option is for producers who wish to sell their own produce, as well and products created by other producers.
 
