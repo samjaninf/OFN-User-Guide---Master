@@ -3,7 +3,7 @@
 You must create a payment method before you can open your shop.
 
 ## Setting up payment method
-1. Go to the payment methods page. 
+1) Go to the payment methods page. 
 
 %accordion%Accessing payment methods%accordion%
 
@@ -13,22 +13,22 @@ Click **Enterprises **in the blue horizontal menu, and then click **Manage **nex
 
 %/accordion%
 
-2.Click on the **create new payment method **button.
+2) Click on the **create new payment method **button.
 
-3.Tick your enterprise, in the box on the right hand side of the page titled Hubs. This indicates which enterprise the payment method you are about to create will apply to. You can select more than one enterprise.
+3) Tick your enterprise, in the box on the right hand side of the page titled Hubs. This indicates which enterprise the payment method you are about to create will apply to. You can select more than one enterprise.
 
-4.**Name:** Choose a name for this payment method. \(i.e. Pay with credit card using Paypal, Cash on delivery or Bank Transfer etc\). It will be displayed at checkout and on customers' order confirmation emails.
+4) **Name:** Choose a name for this payment method. \(i.e. Pay with credit card using Paypal, Cash on delivery or Bank Transfer etc\). It will be displayed at checkout and on customers' order confirmation emails.
 
-5.**Description:** provide further details about the payment method. For example, for a bank transfer, you would provide details of the bank account. This description will be displayed at checkout and in order confirmation emails. 
+5) **Description:** provide further details about the payment method. For example, for a bank transfer, you would provide details of the bank account. This description will be displayed at checkout and in order confirmation emails. 
 
 The screenshot below shows a payment methods display at checkout. The customer has selected ‘cash on collection/delivery’ and the ‘correct change…’ description is displayed.
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Payment-at-checkout.png "Payment message displayed at checkout")
-6.**Active: **Select whether this payment method is currently visible and available, or not.
+6) **Active: **Select whether this payment method is currently visible and available, or not.
 
-7.**Tags:** Use tag rules if you want to make certain payment methods available/unavailable for specific customers \(e.g. wholesale vs retail\). See [here](/customer-accounts-and-tagging.md) for details on tag rules.
+7) **Tags:** Use tag rules if you want to make certain payment methods available/unavailable for specific customers \(e.g. wholesale vs retail\). See [here](/customer-accounts-and-tagging.md) for details on tag rules.
 
-8.**Payment providers**: Select the one which is relevant to the payment method you are creating.
+8) **Payment providers**: Select the one which is relevant to the payment method you are creating.
 
 You can accept payment via 5 payment options:
 
