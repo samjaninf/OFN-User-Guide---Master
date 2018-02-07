@@ -24,7 +24,7 @@ Click **Enterprises **in the blue horizontal menu, and then click **Manage **nex
 The screenshot below shows a payment methods display at checkout. The customer has selected ‘cash on collection/delivery’ and the ‘correct change…’ description is displayed.
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Payment-at-checkout.png "Payment message displayed at checkout")
-6. **Active: **Select whether this payment method is currently visible and available, or not.
+6.**Active: **Select whether this payment method is currently visible and available, or not.
 
 7.**Tags:** Use tag rules if you want to make certain payment methods available/unavailable for specific customers \(e.g. wholesale vs retail\). See [here](/customer-accounts-and-tagging.md) for details on tag rules.
 
