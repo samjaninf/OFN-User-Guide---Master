@@ -31,8 +31,10 @@ Supplying producers can create a producer profile, according to the [producer pr
 
 ## Advanced features that are helpful for Multi-Producer shops.
 
-[Enterprise Fees](/enterprise-fees.md) – Multi-Farm Shops may wish to use this tool to allocate fees and charges to parties who provide a service (such as packing or delivery) that the other parties benefit from.
-Multiple managers – A Multi-farm shop might wish to have multiple managers who are able to login and edit the shop. This can be done by adding managers to the central producer’s profile.
+[Enterprise Fees](/enterprise-fees.md)
+Multi-Farm Shops may wish to use this tool to allocate fees and charges to parties who provide a service (such as packing or delivery) that the other parties benefit from.
+
+Multiple managers. A Multi-farm shop might wish to have multiple managers who are able to login and edit the shop. This can be done by adding managers to the central producer’s profile.
 
 [Pricing irregular, indivisible meat items.](/pricing-irregular-indivisible-meat-items.md) This page offers some strategies for pricing items like chickens or pumpkins, which are charged by the kg but which have an irregular weight.
 
