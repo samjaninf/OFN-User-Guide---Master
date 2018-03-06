@@ -1,6 +1,6 @@
 # Setup Manuals
 
-Testing link in new tab [google](/www.google.com)
+Testing link in new tab google
 
 The Open Food Network works as both a directory of local food enterprises and an ecommerce software that you can use to sell online.
 
