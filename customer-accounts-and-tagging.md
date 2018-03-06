@@ -14,8 +14,6 @@ If a customer changes address, they can also update their default address record
 
 ## [![](https://openfoodnetwork.org/wp-content/uploads/2015/10/save.png "Save details")](https://openfoodnetwork.org/wp-content/uploads/2015/10/save.png)
 
-## 
-
 ## Customer Tagging
 
 Customer tagging is a way to control the shopfront settings for different customers. Currently this includes:
@@ -30,12 +28,11 @@ Most often this feature is required by enterprises who have different shop setup
 Using the tagging feature involves two main steps:
 
 1. Tagging your customers
-2. Setting up a
-   **tag rule**
+2. Setting up a **tag rule**
 
 ### Tagging Customers
 
-Any customer’s who have placed an order in your shop will be listed on the C**ustomers **page \([https://www.openfoodnetwork.org.au/admin/customers](https://www.openfoodnetwork.org.au/admin/customers)\). Each unique email address used, will be listed as a unique customer.
+Any customer’s who have placed an order in your shop will be listed on the **Customers **page \([https://www.openfoodnetwork.org.au/admin/customers](https://www.openfoodnetwork.org.au/admin/customers)\). Each unique email address used, will be listed as a unique customer.
 
 You can create a tag for groups of customers, such as your members or your wholesale customers, for whom you will set up tag rules \(which carry a discount, or special shipping methods\). To create a tag, type the tag in the **tag** column next to a customer and hit the enter button when you’re done. You should do this for all customers in the group \(this could just be one, or many customers\). You can add multiple tags to a single customer also. Remember to type the tag with identical characters each time \(tags are case sensitive\).
 

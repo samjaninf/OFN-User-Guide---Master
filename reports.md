@@ -118,6 +118,3 @@ This is an example where the bulk order quantity has not been reached:
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Bok-Choy.png "Bok Choy")
 
 * _Note the ‘Bulk Co-op Allocations’ report is similar in function to this report, but shows each customer’s order individually, rather than the cumulative total across all customers._
-
-
-
