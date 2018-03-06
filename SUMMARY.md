@@ -41,7 +41,7 @@
     * [Embedded Shopfront](embedded-shopfronts.md)
     * [Thermally printed receipts](thermally-printed-receipts.md)
   * [Collaboration with other enterprises](collaboration-with-other-enterprises-adv.md)
-    * [E2E Permissions](enterprise-to-enterprise-permissions-e2es.md)
+    * [Enterprise to Enterprise permissions \(E2Es\)](enterprise-to-enterprise-permissions-e2es.md)
     * [E2E powers in multi-enterprise OCs](permissions-in-multi-enterprise-order-cycles.md)
   * [Order Cycles](order-cycles-adv.md)
     * [Display only Order Cycles](creating-display-only-order-cycles.md)

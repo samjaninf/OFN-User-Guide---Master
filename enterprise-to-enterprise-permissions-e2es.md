@@ -2,14 +2,9 @@
 
 Within the OFN there are rules which govern the trading relationships between enterprises, which we call Enterprise to Enterprise permissions \(E2E\). Certain ‘permissions’ must be granted before an enterprise can act as a supplier to another enterprise. Similarly, before an enterprise can distribute on behalf of an enterprise they must also grant the appropriate E2Es.
 
-This article provides a description of the different types of E2E permissions. 
+This article provides a description of the different types of E2E permissions.
 
-Users may also find it useful to look at the hub-specific, producer specific and buying-group specific examples provided"
-
-* #### [Hubs Perspective](#E2Es-from-a-hubs-perspective)
-
-* #### [Producers Perspective](#E2Es-from-a-producers-perspective)
-
+Users may also find it useful to look at the hub-specific, producer specific and buying-group specific examples provided.
 
 ## Different kinds of E2E permission:
 
@@ -33,9 +28,9 @@ There are four different kinds of E2E permissions. Applying these E2Es in differ
 
 ## Granting and Managing E2Es {#grantingandmanagingE2Es}
 
-To grant, view and delete your E2E permissions, click on **Enterprises**in the blue horizontal menu, and then **Enterprise Relationships **in the green horizontal menu \(below\). Here you can view any E2E permissions that you have established previously, grant new ones or delete them.
+To grant, view and delete your E2E permissions, click on **Enterprises **in the blue horizontal menu, and then **Enterprise Relationships **in the green horizontal menu \(below\). Here you can view any E2E permissions that you have established previously, grant new ones or delete them.
 
-If you need another enterprise to grant you and E2E permission, you must contact them \(via email or phone\) and request for them to grant you permission through their account. There is no way of requesting permission from within the OFN, and you cannot grant E2Es from an enterprise if you are not the owner/manager.
+If you need another enterprise to grant you an E2E permission, you must contact them \(via email or phone\) and request for them to grant you permission through their account. There is no way of requesting permission from within the OFN, and you cannot grant E2Es from an enterprise if you are not the owner/manager.
 
 **Granting E2E permissions**
 
@@ -110,3 +105,4 @@ The scenario described can be solved by granting P-I \([**Add to Inventory**](/i
 # E2Es from a buying group’s perspective
 
 Coming soon…
+
