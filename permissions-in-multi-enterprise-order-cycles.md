@@ -1,6 +1,6 @@
 # Permissions in multi-enterprise order cycles
 
-This page will outline the varying powers each player has in an order cycle which involves multiple enterprises. Click [here](/order-cycles.md) for content relating to order cycles involving a sole enterprise \(producer shop\).
+This page will outline the varying powers each player has in an order cycle which involves multiple enterprises. Click [here](/order-cycles.md) for content relating to order cycles involving a single producer selling their own stock \(producer shop\).
 
 The coordinator has the highest degree of control over an order cycle. Other players \(suppliers and distributors\) can view the order cycles they are involved in, and edit the setting which affect them, but have restricted power to change broader setting of an order cycle.
 
@@ -16,11 +16,7 @@ _When the Coordinator of an order cycle is a hub, the full OC interface is loade
 
 ##### **Incoming**
 
-* The coordinator can add enterprises as suppliers. However, to do this the supplying enterprise must be:
-
-* valid \(have verified their confirmation email\)IS THIS TRU?
-
-* have granted P-OC to the coordinator.
+* The coordinator can add enterprises as suppliers. However, to do this the supplying enterprise must be a\) valid \(have verified their confirmation email\) and b\) have granted P-OC to the coordinator \([see here](/enterprise-to-enterprise-permissions-e2es.md)\).
 
 * They can select products from these suppliers to include in the order cycle.
 
@@ -32,12 +28,12 @@ _When the Coordinator of an order cycle is a hub, the full OC interface is loade
 
 To do this the distributor must be:
 
-1. valid \(have verified their confirmation email, as this is where order confirmations will be sent from and to\). \(a warning message will show if this condition is not met\)
-2. be a hub \(type ‘any’\)
-3. have granted the coordinator P-OC
-4. have at least one active shipping and payment method. \(a warning message will show if this condition is not met\)
+1. Valid \(have verified their confirmation email\). Note: a warning message will show if this condition is not met.
+2. Have selected the Hub Shop [package type](/package-types.md).
+3. Have granted the coordinator P-OC \([see here](/enterprise-to-enterprise-permissions-e2es.md)\)
+4. Have at least one active shipping and payment method. \(a warning message will show if this condition is not met\)
 
-5. The coordinator can select products for distributor to distribute.  For a distributor to distribute the products of an incoming supplier, the supplier must have granted the distributing enterprise P-OC.
+5. The coordinator can select products for each distributor to distribute.  For a distributor to distribute the products of an incoming supplier, the supplier must have granted the distributing enterprise P-OC.
 
 6. The coordinator can apply enterprise fees to an incoming supplier.
 

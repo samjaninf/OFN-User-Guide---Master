@@ -1,6 +1,6 @@
 # Orders
 
-* Create an order manually for your customer from the back end. [Read more](/create-orders.md)
+* Create orders manually for your customers. [Read more](/create-an-order.md)
 
 
 
