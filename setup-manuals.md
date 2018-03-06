@@ -1,5 +1,7 @@
 # Setup Manuals
 
+Testing link in new tab [google](/www.google.com)
+
 The Open Food Network works as both a directory of local food enterprises and an ecommerce software that you can use to sell online.
 
 The OFN is flexible and can be used by different people in different ways.
@@ -8,7 +10,7 @@ We have put together unique setup manuals which provide specific setup guidance 
 
 ## Find the setup manual that's right for you
 
-Are you a producer \(someone who grows, raises, bakes or brews\)? 
+Are you a producer \(someone who grows, raises, bakes or brews\)?
 
 * ### Producer \(Profile Only\)
 * ### Producer \(Shop\)
@@ -26,7 +28,6 @@ Are you a farmer's market?
 Are you looking to setup one of these particular multi-party cooperative models?
 
 * ### Multi-Producer Shop
-
 * ### Multi-Producer Pre-Orders
 
 
