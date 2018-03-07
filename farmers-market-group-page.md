@@ -27,7 +27,7 @@ Once we’ve created a group page for you, you can customise it with your own co
 
 ## Step 2: Add your stallholder’s profiles to the group page
 
-Once your group page is setup the next step is to add profiles of your member enterprises to the group, this includes the market\(s\) itself and your stallholders. You can create a profile for your market\(s\) by following steps 1-4 in the [Hub setup manual](/hubs-set-up-guide.md) and then adding the profiles to the group. You can also add any stallholder profiles that are already on the OFN, just search for these in the group admin page. There are two options for setting up profiles for your members who don’t already have a profiles on the OFN.
+Once your group page is setup the next step is to add profiles of your member enterprises to the group, this includes the market\(s\) itself and your stallholders. You can create a profile for your market\(s\) by following steps 1-4 in the [Hub setup manual](/hub-shop.md) and then adding the profiles to the group. You can also add any stallholder profiles that are already on the OFN, just search for these in the group admin page. There are two options for setting up profiles for your members who don’t already have a profiles on the OFN.
 
 ### Option 1 – Create profiles for your members:
 
@@ -41,7 +41,7 @@ To transfer ownership of a profile to the stallholder, edit that profile and typ
 
 ### Option 2 – Invite your members to create their own profiles:
 
-Alternatively, you can ask your stallholders to each setup their own profile. They can do this by following the steps in the [producer profile setup manual](/producer-set-up-guide.md). When their profile is setup, they’ll need to let you know so you can add them to your group page, via the group page admin.
+Alternatively, you can ask your stallholders to each setup their own profile. They can do this by following the steps in the [producer profile setup manual](/producer-profile.md). When their profile is setup, they’ll need to let you know so you can add them to your group page, via the group page admin.
 
 _Note: Asking members to place their preferences into a google form is a good way to efficiently capture their responses \(e.g. if they want to take ownership of a profile, or if they want to be added to your group\)._
 
