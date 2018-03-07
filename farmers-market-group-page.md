@@ -27,7 +27,7 @@ Once we’ve created a group page for you, you can customise it with your own co
 
 ## Step 2: Add your stallholder’s profiles to the group page
 
-Once your group page is setup the next step is to add profiles of your member enterprises to the group, this includes the market\(s\) itself and your stallholders. You can create a profile for your market\(s\) by following steps 1-4 in the [Hub setup manual](/hub-shop.md) and then adding the profiles to the group. You can also add any stallholder profiles that are already on the OFN, just search for these in the group admin page. There are two options for setting up profiles for your members who don’t already have a profiles on the OFN.
+Once your group page is setup the next step is to add profiles of your member enterprises to the group, this includes the market\(s\) itself and your stallholders. You can create a profile for your market\(s\) by following steps 1-4 in the [hub shop setup manual](/hub-shop.md) and then adding the profiles to the group. You can also add any stallholder profiles that are already on the OFN, just search for these in the group admin page. There are two options for setting up profiles for your members who don’t already have a profiles on the OFN.
 
 ### Option 1 – Create profiles for your members:
 
