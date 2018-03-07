@@ -1,6 +1,6 @@
 # Package types
 
-OFN offers 5 packages, which differ according to the type of enterprise \(producer or hub\) and whether they want to have an online shop. When you first create your profile and login, you’ll be prompted to select a package. Your selection here dictates the functionality that your profile will have i.e. whether you'll just have a profile, or also a shop. Different packages may also have different fee structures, depending on how your local instance charges. The different packages are described below for Producers and Non-Producers \(hubs\).
+There are five different packages available, with each one differing according to the type of enterprise \(producer or hub\) and whether it has an online shop associated with the profile or not. When you first create your profile and login, you’ll be prompted to select a package. Your selection here dictates the functionality that your profile will have i.e. whether you'll just have a profile, or also a shop. Different packages may also have different fee structures, depending on how your local instance charges. The different packages are described below for Producers and Hubs \(non-producers\)
 
 ## For Producers
 
@@ -40,7 +40,7 @@ If you only want a profile on the OFN, once you've created your account, confirm
 
 ### Changing Package
 
-You can change your package at any time in the future. This can be done by clicking the ‘**Change package**‘ button on [the dashboard](/the-dashboard.md). Or you can change your producer/non producer status and package by selecting **Enterprise **on the blue horizontal banner, and then editing your enterprise’s settings \(see below\).
+You can change your package at any time in the future. This can be done by clicking the ‘**Change package**‘ button on the [dashboard](/dashboard.md). Or you can change your producer/non producer status and package by selecting **Enterprise **on the blue horizontal banner, and then editing your enterprise’s settings \(see below\).
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Change-package.png "Change package")
 

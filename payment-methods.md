@@ -3,7 +3,8 @@
 You must create a payment method before you can open your shop.
 
 ## Setting up a payment method
-1) Go to the payment methods page. 
+
+1\) Go to the payment methods page.
 
 %accordion%Accessing payment methods%accordion%
 
@@ -13,30 +14,30 @@ Click **Enterprises **in the blue horizontal menu, and then click **Manage **nex
 
 %/accordion%
 
-2) Click on the **create new payment method **button.
+2\) Click on the **create new payment method **button.
 
-3) Tick your enterprise, in the box on the right hand side of the page titled Hubs. This indicates which enterprise the payment method you are about to create will apply to. You can select more than one enterprise.
+3\) Tick your enterprise, in the box on the right hand side of the page titled Hubs. This indicates which enterprise the payment method you are about to create will apply to. You can select more than one enterprise.
 
-4) **Name:** Choose a name for this payment method. \(i.e. Pay with credit card using Paypal, Cash on delivery or Bank Transfer etc\). It will be displayed at checkout and on customers' order confirmation emails.
+4\) **Name:** Choose a name for this payment method. \(i.e. Pay with credit card using Paypal, Cash on delivery or Bank Transfer etc\). It will be displayed at checkout and on customers' order confirmation emails.
 
-5) **Description:** provide further details about the payment method. For example, for a bank transfer, you would provide details of the bank account. This description will be displayed at checkout and in order confirmation emails. 
+5\) **Description:** provide further details about the payment method. For example, for a bank transfer, you would provide details of the bank account. This description will be displayed at checkout and in order confirmation emails.
 
 The screenshot below shows a payment methods display at checkout. The customer has selected ‘cash on collection/delivery’ and the ‘correct change…’ description is displayed.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Payment-at-checkout.png "Payment message displayed at checkout")
-6) **Active: **Select whether this payment method is currently visible and available, or not.
+![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Payment-at-checkout.png "Payment message displayed at checkout")  
+6\) **Active: **Select whether this payment method is currently visible and available, or not.
 
-7) **Tags:** Use tag rules if you want to make certain payment methods available/unavailable for specific customers \(e.g. wholesale vs retail\). See [here](/customer-accounts-and-tagging.md) for details on tag rules.
+7\) **Tags:** Use tag rules if you want to make certain payment methods available/unavailable for specific customers \(e.g. wholesale vs retail\). See [here](/customer-accounts-and-tagging.md) for details on tag rules.
 
-8) **Payment providers**: Select the one which is relevant to the payment method you are creating.
+8\) **Payment providers**: Select the one which is relevant to the payment method you are creating.
 
 You can accept payment via 5 payment options:
 
-- Cash/EFT/etc. (Use this for payments which occur after checkout, externally to OFN such as cash or bank transfers)
-- MasterCard Internet Gateway Service \(MIGS\)
-- PayPal Express
-- [Pin Payments](https://pin.net.au/)
-- Stripe
+* Cash/EFT/etc. \(Use this for payments which occur after checkout, externally to OFN such as cash or bank transfers\)
+* MasterCard Internet Gateway Service \(MIGS\)
+* PayPal Express
+* [Pin Payments](https://pin.net.au/)
+* Stripe
 
 If you have selected ‘Cash/EFT/etc..’ as the provider, click **Create** to end the process.
 
@@ -104,7 +105,7 @@ Set up of this service needs to be done through your bank. So far it has been te
 
 #### Why use Stripe?
 
-Stripe is simple to setup for shop owners, and is reasonably priced. The fees charged by Stripe vary in each country; Australia, USA, Canada, France, UK.
+Stripe is simple to setup for shop owners, and is reasonably priced. The fees charged by Stripe vary in each country; [Australia](https://stripe.com/au/pricing), [Canada](https://stripe.com/ca/pricing), [France](https://stripe.com/fr/pricing), [UK](https://stripe.com/gb/pricing), [USA](https://stripe.com/us/pricing).
 
 Stripe is also easy for customers to use. Unlike Paypal, when the customer checks out, they don’t need to login with Paypal to place their order, rather they just need to enter their card details and then complete their order.
 
@@ -114,7 +115,9 @@ Stripe is the recommended payment method for shops who wish to use **subscriptio
 
 ##### Connect with Stripe
 
-Before you can setup a payment method that uses Stripe, you’ll need to Connect with Stripe. To do this, click on the ‘Connect with Stripe’ button.![](https://openfoodnetwork.org/wp-content/uploads/2017/08/Connect-with-Stripe.png "Connect with Stripe")
+Before you can setup a payment method that uses Stripe, you’ll need to Connect with Stripe. To do this, click on the ‘Connect with Stripe’ button.
+
+![](https://openfoodnetwork.org/wp-content/uploads/2017/08/Connect-with-Stripe.png "Connect with Stripe")
 
 You’ll be taken to a form to fill in your details. If you already have an account with Stripe, you can login, if not, fill in the form to create a Stripe account.
 
@@ -124,19 +127,19 @@ The information you’ll be asked for includes: country, a description of your b
 
 Once you’ve connected with Stripe, you can then create a payment method which will work with your connected account.
 
-Treat the **Name**, **Description**, **Active **and **Tags **fields as you would with any payment method. 
+Treat the **Name**, **Description**, **Active **and **Tags **fields as you would with any payment method.
 
-**Provider: **Select Stripe.
+**Provider: **Select Stripe.
 
-Once you select Stripe, ‘Provider Settings’ will be shown.
+Once you select Stripe, ‘Provider Settings’ will be shown.
 
 **Stripe Account Owner:**
 
 Select the enterprise that has a Stripe account connected.
 
-If you select an enterprise that is not Connected to Stripe \(see above\), you will get the error shown below.  Either click ‘Connect One’ or return to your Payment Methods tab to Connect with Stripe. See instructions above.![](https://openfoodnetwork.org/wp-content/uploads/2017/08/Stripe-connect.png "Stripe connect error message")
+If you select an enterprise that is not Connected to Stripe \(see above\), you will get the error shown below.  Either click ‘Connect One’ or return to your Payment Methods tab to Connect with Stripe. See instructions above.![](https://openfoodnetwork.org/wp-content/uploads/2017/08/Stripe-connect.png "Stripe connect error message")
 
-#### Stripe Payments for Customers
+#### Stripe Payments for Customers
 
 When customers checkout in a shop and pay with a Stripe payment method, they’ll have the options of selecting a tickbox allowing their credit card details to be stored against their account \(if they are logged in\).
 
@@ -164,13 +167,13 @@ For Pin Payments you only require your API key. You need to set up an account wi
 
 %/accordion%
 
-##Fees on Payment Methods
+## Fees on Payment Methods
 
 [![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Calculator.png "Calculator")](https://openfoodnetwork.org/wp-content/uploads/2015/05/Calculator.png)
 
-You can attach a fee to payment methods. Most commonly this is used to pass on a platform's fees to the customer, such as Paypal fees. 
-1. Select a fee calculator (full descriptions below)
-2. Enter the value. 
+You can attach a fee to payment methods. Most commonly this is used to pass on a platform's fees to the customer, such as Paypal fees.  
+1. Select a fee calculator \(full descriptions below\)  
+2. Enter the value.
 
 _Note: Payment method fees do not include tax._
 
@@ -182,9 +185,9 @@ _Note: Payment method fees do not include tax._
 
 **Flexible Rate:** This calculator is typically used for promotional discounts where you charge a reduced fee as the customer makes more purchases of that item. This fee applies to items and products listed per kg or L.
 
-    * ‘First Item Cost’: The fee charged for the first item in the order.
-    * ‘Additional Item Cost’: The fee charged for aditional items beyond the first.
-    * ‘Max Items’: The maximum number of items on which the fee will be applied. Items purchased beyond this amount will be not be charged the fee.
+* ‘First Item Cost’: The fee charged for the first item in the order.
+* ‘Additional Item Cost’: The fee charged for aditional items beyond the first.
+* ‘Max Items’: The maximum number of items on which the fee will be applied. Items purchased beyond this amount will be not be charged the fee.
 
 > For example: If the first cost is $2, Additional Item Cost is $1 and the maximum items is three. If a customer orders 5 of the item, they will be charged $2 for the first item, $1 for the second and third, and no fee for the fourth and fifth.
 
@@ -192,6 +195,8 @@ _Note: Payment method fees do not include tax._
 
 **Price Sack:** This fee is used to charge a discount on fees for orders which exceed a certain dollar amount.
 
-    * ‘Minimum Amount’: If the order’s total is below this amount, they will be charged the ‘Normal Amount’.
-    * ‘Discount Amount’: Orders which are equal to or greater than the minimum amount will be charged the ‘Discount Amount’.
+* ‘Minimum Amount’: If the order’s total is below this amount, they will be charged the ‘Normal Amount’.
+* ‘Discount Amount’: Orders which are equal to or greater than the minimum amount will be charged the ‘Discount Amount’.
+
+
 

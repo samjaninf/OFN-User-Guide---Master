@@ -14,9 +14,9 @@ This will take you to the New Product page.
 
 Select the enterprise who produces and supplies the product. 
 
-> If you are a producer, this will be you. If you're a hub, remember you’ll only be able to add products to producer profiles which you have created, or if you have been granted permission to manage the products of a producer profile.
+> If you are a producer, this will be you. If you're a hub, remember you’ll only be able to add products to producer profiles which you have created, or if you have been granted permission to manage the products of a producer profile. See [here](/create-or-connect-with-your-supplying-producers.md) for more info.
 
-**Product name: ** dd a title. This is how the product will be displayed in the store.
+**Product name: ** A************dd a title. This is how the product will be displayed in the store.
 
 **Units: **Choose what unit the product is sold in? \(g, kg, L… or itme \(bunch, bag, packet\)\)
 
@@ -44,7 +44,7 @@ Select the enterprise who produces and supplies the product.
 
 > We strongly recommend to use clear, accurate and beautiful images of your products. It will make the product more appealing to customers.
 
-**Tax category:** If you would like the price of this product to include GST, select **GST **from the drop-down menu. The producer enterprise must be set to charge GST in the profile settings to do this. If you leave this field blank, or select **none**, or not set the enterprise as being GST registered, the price will not include GST.
+**Tax category:** If you would like the price of this product to include GST, select **GST **from the drop-down menu. The producer and shop enterprise must be set to charge GST in the [Enterprise Settings](/Enterprise-settings.md) to do this. If you leave this field blank, or select **none**, or not set the enterprise as being GST registered, the price will not include GST.
 
 ### Listing similar products
 
@@ -60,7 +60,7 @@ When you click **create**,  you will be taken to your **Bulk Edit Product **page
 
 Some examples of how to list different types of products, and how these listing will present in your online store are provided below.
 
-> Note: For products usually sold by the kg, it’s best to list the product for sale in increments, of 100g or higher, depending on the product. This makes it easier to list and prepare the order.
+> Note: For products usually sold by the kg, it’s best to list the product for sale in increments, of 100g or higher. The customer can't order .3 kilograms to get 300g because you can only order in whole numbers, so instead list the item in 100g increments and they can order 3. The size will depend on the product (e.g. most customers won't purchase 1kg or garlic). This makes it easier to list and prepare the order. 
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Green-Beans1.png "Green Beans example")
 
@@ -71,9 +71,6 @@ Some examples of how to list different types of products, and how these listing 
 #### Related advanced features:
 
 * [Product variants](/product-variants.md)
-* [Pricing irregular, indivisible meat items](/pricing-irregular-indivisible-meat-items.md)
+* [Pricing irregular, indivisible meat items](/pricing-irregular-items.md)
 * [Product properties \(i.e. certified organic, free range, etc\)](/product-properties.md)
 * [Group buy](/group-buy.md) for items stocked in bulk sizes.
-
-
-

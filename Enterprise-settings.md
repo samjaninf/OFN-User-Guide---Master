@@ -11,9 +11,6 @@ This video will show you how to access, edit and add information to your profile
 1. Click on 'Enterprise' in the blue horizontal menu
 2. Click on 'Manage' next to your enterprise
 
->Reminder: when editing click the Uupdate **within each section** to save your changes. It’s at the bottom of the page.
-
----
 #### Primary Details
 
 **Name: **This is the name of your enterprise. It will be the title of your profile (and store).
@@ -109,7 +106,7 @@ Simple users can use the recommended setting. Advanced users who need greater fl
 
 _\* not visible to profile-only users_
 
-The [Shipping](/shipping-methods.md) and [Payment Methods](/payment-methods-2.md) and [Enterprise Fees](/enterprise-fees.md) are covered in greater detail in later chapters in this user manual.
+The [Shipping](/shipping-methods.md) and [Payment Methods](/payment-methods.md) and [Enterprise Fees](/enterprise-fees.md) are covered in greater detail in later chapters in this user manual.
 
 ---
 

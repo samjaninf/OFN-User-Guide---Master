@@ -1,6 +1,6 @@
 # Create or connect with your supplying producers
 
->_This page is only relevant to users who are not producers, or producers who want to sell products that come from other producers in their shop._
+> _This page is only relevant to users who are not producers, or producers who want to sell products that come from other producers in their shop._
 
 For such users, this step is a necessary precursor to adding your product range to your shop.
 
@@ -10,7 +10,7 @@ All products on the OFN must ‘belong’ to an OFN producer profile. This is an
 
 So as a hub, what do you need to do before adding your products? Well, there are two possibilities, depending on whether or not your supplying producer already has an OFN profile.
 
-How do you know if you supplying producer has an OFN profile? Go to www.openfoodnetwork.org.au/producers and search for them.
+How do you know if you supplying producer has an OFN profile? Go to [www.openfoodnetwork.org.au/producers](https://openfoodnetwork.org.au/producers) \(or your local OFN\) and search for them.
 
 ## 1\) Supplying producer does not have an OFN profile.
 
@@ -54,6 +54,4 @@ If a supplying producer already has an OFN profile, you will need to get their p
 Within the OFN, [Enterprise to Enterprise Permissions \(E2E\)](/enterprise-to-enterprise-permissions-e2es.md) are used to control the nature of trading agreements between producers and hubs. Producers can grant hubs different kinds of E2E permissions, in different combinations, to specify exactly which elements of their account the hub can interact with. At the simplest level a producer can grant a hub permission to stock their products in the hub’s shop. They may also be happy to allow the hub to create and modify their products, or edit their profile.
 
 [This page](/enterprise-to-enterprise-permissions-e2es.md) covers all of the details of the different E2E permissions available. Discuss with the producer which permissions you require. Instruction for how the producer can then then grant the agreed upon E2E permissions can be found [here](/enterprise-to-enterprise-permissions-e2es.md).
-
-Have a suggestion for how we could improve this feature? Send us an email or join the conversation on our community forum.
 

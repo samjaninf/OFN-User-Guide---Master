@@ -8,11 +8,11 @@
 
 3. You will need to confirm your email before you can continue. Check your inbox and click on the confirmation link.
 
-4. Login and return to /register. Click the ‘Agree to Terms of Service’ box and click ‘Let’s Get Started!’
+4. When you confirm your email you'll be redirected back to /register. Click the ‘Agree to Terms of Service’ box and click ‘Let’s Get Started!’
 
 5. Fill in your enterprise name and contact details
 
-6. Choose if you’re ‘a producer’ \(e.g. farmer, baker, etc\) or ‘not a producer’ \(We call non-producers hubs, which includes: a seller and/or distributor of food: coop, food hub, wholesaler etc.\).
+6. Choose if you are a ‘a producer’ \(e.g. farmer, baker, etc\) or ‘not a producer’ \(We call non-producers hubs, which includes: a seller and/or distributor of food: coop, food hub, wholesaler etc.\).
 
 7. Click the ‘create profile’ button. You'll receive a confirmation email when the profile is created. If you close the registration window now, you can continue to add information to your profile later.
 
@@ -22,7 +22,7 @@
 
 To administer your profile head to your local OFN and login. Then click the cog symbol in the top right corner and select 'administration'.
 
-When you first login to OFN and go to administer your profile you'll be asked to select which package you want. Continue to learn about the [packages available](/hub-profile-types.md).
+When you first login to OFN and go to administer your profile you'll be asked to select which package you want. Continue to learn about the [packages available](/package-types.md).
 
 
 
