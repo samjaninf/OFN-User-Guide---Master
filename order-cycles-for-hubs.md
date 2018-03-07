@@ -4,7 +4,7 @@ _\*Not a Hub, but a producer? See _[_Order Cycles for producers_](/order-cycles-
 
 You open you shop by creating an Order Cycle. When you make an order cycle you select when you shop is open \(from and until\), which products will go into the shop, and any fees that you'll apply.
 
-**Why Order Cycles?  
+**Why Order Cycles?    
 **Some hubs may wish to have an online store which is perpetually open, and to fulfill orders on a one by one basis, as they are received. However, many hubs operate on a periodic ordering system, which allows them to process orders in bulk, making their packing and distribution activities more efficient. Let’s use an example to illustrate a common periodic ordering cycle structure.
 
 **Order Cycle Example**
@@ -118,7 +118,7 @@ _**&lt;Hub Name, address, phone number, email&gt;**_
 Related advanced features:
 
 * The [inventory ](/inventory.md)tool allows a shop to 'override' the inherent price and stock level of a product. You can use this tool if you want to track stock levels seperately across two shops, or have different prices for the same product in different shops.
-* [Creating ‘display only’ order cycles](/creating-display-only-order-cycles.md)
+* [Creating ‘display only’ order cycles](/display-only-order-cycles.md)
 * [Permissions in multi-enterprise order cycles](/permissions-in-multi-enterprise-order-cycles.md)
 
 

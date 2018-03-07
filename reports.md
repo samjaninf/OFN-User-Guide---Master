@@ -101,9 +101,7 @@ This report tells shop managers whether they have reached their bulk ordering th
 When their order cycle closes, this report can help the shop to answer the following questions:
 
 * Did customers order enough of this product to justify ordering the bulk size from the supplier?
-* If the
-  [Group Buy](https://openfoodnetwork.org/user-guide/advanced-features/group-buy/)
-  tool is enabled, how much extra product are my customers willing to purchase to help the group reach the bulk size threshold?
+* If the [Group Buy](/group-buy.md) tool is enabled, how much extra product are my customers willing to purchase to help the group reach the bulk size threshold?
 * How many bulk sizes should the shop order to meet the customer demand?
 * If the shop orders the bulk size, how much stock will be left over? Or alternatively, how many customers will be disappointed if this product isn’t ordered?
 
@@ -118,3 +116,6 @@ This is an example where the bulk order quantity has not been reached:
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Bok-Choy.png "Bok Choy")
 
 * _Note the ‘Bulk Co-op Allocations’ report is similar in function to this report, but shows each customer’s order individually, rather than the cumulative total across all customers._
+
+
+

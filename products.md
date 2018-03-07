@@ -30,7 +30,7 @@ Select the enterprise who produces and supplies the product.
 
 **Price:** Enter the price for the value noted above. 
 
-> Note, this is the base price charged by the producer. Mark-ups and fees are added in Enterprise Fees, Shipping Fees and Payment Methods.
+> Note, this is the base price charged by the producer. Mark-ups and fees are added in Enterprise Fees, Shipping Fees and Payment Methods. In Australia, if you select that this product carries tax, the price you put here will _include _GST. If you select that this product is GST free, the price you enter will be the GST free price.
 
 **On hand:** State how much/many of this product you have available and ready for sale. 
 

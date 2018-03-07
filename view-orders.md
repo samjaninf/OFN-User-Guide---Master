@@ -1,20 +1,20 @@
 # Orders
 
-You can interact with orders via two pages within the OFN, the Lisitng Orders page, and the Bulk Order Managment page. The features of these two pages will be discussed below.
+You can interact with orders via two pages within the OFN, the Lisitng Orders page, and the Bulk Order Managment page. The features of these two pages are discussed below.
 
 ## Listing orders
 
-The listing order page shows a list view of all orders placed through your shop\(s\). From here you can access details of individual orders, edit orders and track the status of their payment and shipping. For details of how to create a new order see [here](/create-an-order.md).
+The listing order page shows a list view of all orders placed through your shop\(s\). From here you can access details of individual orders, edit orders and track the status of their payment and shipping. For details of how to create a new order manually for your customer see [here](/create-orders-manually.md).
 
 The page has filters which allow you to select which orders you want to view. You can filter by date, status or the email and name of the customer.
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Listing-Orders1.png "Listing orders page")
 
-**Distributor:**This is the enterprise whose shop the order was placed through
+**Distributor: **This is the enterprise whose shop the order was placed through
 
-**Completed at:**This is the date that the order was placed.
+**Completed at: **This is the date that the order was placed.
 
-**Number:**This is an arbitrarily assigned order number. An exclamation mark symbol will show if the customer included a note with their order at checkout. Hover you mouse above the exclamation mark to view the note.
+**Number: **This is an arbitrarily assigned order number. An exclamation mark symbol will show if the customer included a note with their order at checkout. Hover you mouse above the exclamation mark to view the note.
 
 **State:**
 
@@ -74,11 +74,11 @@ Clicking this will give you the option to print an invoice as a PDF or by sendin
 
 To send an invoice to the customer, click the ‘send invoice’ button. This will email the customer with an attached PDF file. Invoice layout shown below.
 
+![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Invoice-example.png "Invoice example")
+
 **Cancel an order**
 
 Click the cancel button to cancel an order.
-
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Invoice-example.png "Invoice example")
 
 **Mark an order as paid**
 
@@ -108,7 +108,7 @@ Here your customers will be able to see the past orders and payments as well as 
 
 ## Bulk order management
 
-While the listing view shows you orders, and details about who the customer is and when the order was placed etc, the bulk order management page shows you all items that were purchased in your orders. In bulk order management you can view all items ordered and make changes to the quantities of products ordered, or to delete certain products from orders. This functionality is useful for adjusting orders when there are stock shortages and you need to allocate a limited amount of stock.
+We have learned above that the L**isting View** tab shows you orders, and details about who the customer is and when the order was placed etc. On the other hand the **bulk order management** page shows you all items that were purchased in your orders. In bulk order management you can view all items ordered and make changes to the quantities of products ordered, or to delete certain products from multiple orders at the same time. This functionality is useful for adjusting orders when there are stock shortages and you need to allocate a limited amount of stock across all of your orders.
 
 Access Bulk Oder Management by clicking **Orders **in the blue horizontal menu, and **Bulk Order Management **in the horizontal green menu.
 
@@ -155,7 +155,9 @@ This can be done in bulk order management, as follows:
 
 You can then adjust the quantity of each unique order in the Quantity column. The Total Quantitiy Ordered in the box at the top will update automatically as you adjust orders, in this case going down, as you reduce each order for the tomatoes.
 
-You could also then see the emails of these customers, and send them an alert._An alert is not automatically generated when adjustments are made in bulk order management._
+You could also then see the emails of these customers, and send them an alert. 
+
+> _An alert to customers is not automatically generated when adjustments are made in bulk order management._
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/BOM-2.png "Bulk Order Management")
 
@@ -184,6 +186,4 @@ We’ll use an example of a leg of lamb to illustrate. In this case the producer
 5. Click update.
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Meat-BOMM.png "Bulk Order Management example")
-
-_Have a suggestion for how we could improve this feature? Send us an email or join the conversation on our community forum._
 
