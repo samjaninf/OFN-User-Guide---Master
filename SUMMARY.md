@@ -7,7 +7,7 @@
   * [Hub \(Profile Only\)](hub-profile-only.md)
   * [Hub \(Shop\)](hub-shop.md)
   * [Multi-Producer Shop](multi-producer-shop.md)
-  * [Multi-Producer Pre-orders](multi-producer-pre-orders)
+  * [Multi-Producer Pre-orders](multi-producer-pre-orders.md)
   * [Farmer's Market \(Group Page\)](farmers-market-group-page.md)
   * [Farmer's Market \(Shops\)](farmers-market-shops.md)
 * [Basic Features](basic-features.md)
