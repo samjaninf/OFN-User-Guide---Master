@@ -1,23 +1,25 @@
 # Farmers’ Market Group Page
 
 ## What is a farmers market group page?
+
 * It's a mini-directory of a market's stallholders
 * It has an interactive map and listing of all stallholders, with a unique profile for each
 * It allows each stallholder to setup and maintain their profile, reducing the need for central administration
 
 ## What does it do?
-** A place to tell stories 
+
+** A place to tell stories   
 **A directory lets you share profiles of your members with your community. This includes their story, their location and contact details. It's an interactive place for customers to learn more about the producers who participate at their market, and where their food comes from. The directory can be embedded in your own website.
 
 ## Steps for setting up a Farmer's Market Group Page
 
-Setting up a Farmer's Market Group Page on the OFN is a two part process:
-1. Create a group page- this acts as a directory of all producers who participate in the market\(s\).
+Setting up a Farmer's Market Group Page on the OFN is a two part process:  
+1. Create a group page- this acts as a directory of all producers who participate in the market\(s\).  
 2. Add your stallholder’s profiles to the group page- You may need to create profiles for stallholders, or they can do this themselves.
 
 ## Step 1:  Create a group page
 
-If you manage or are involved in a farmers market and would like to create an OFN group page for it, the first thing to do is to contact us and we’ll setup the page for you. Your market group page will be a personalised directory of enterprises who participate in your markets. For an example checkout the [Melbourne Farmer’s Markets group page](/melbourne-farmers-markets.md) below.
+If you manage or are involved in a farmers market and would like to create an OFN group page for it, the first thing to do is to contact us and we’ll setup the page for you. Your market group page will be a personalised directory of enterprises who participate in your markets. For an example checkout the <a href="https://openfoodnetwork.org.au/groups/melbourne-farmers-markets#/map" target="_blank">Melbourne Farmer’s Markets</a> group page below.
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2016/08/MFM-Directory.png "MFM Directory")
 
@@ -45,5 +47,6 @@ _Note: Asking members to place their preferences into a google form is a good wa
 
 ## Advanced features that may be helpful to a Farmer's Market with a Group Page.
 
-**Embed your group page in your own website**
+**Embed your group page in your own website**  
 Instruction are available for [how to embed your group page into your website](/embed-a-group-page.md).
+
