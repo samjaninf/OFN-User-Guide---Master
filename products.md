@@ -1,8 +1,11 @@
 # Products
 
-## Adding products
+An introductory video showing how to add products.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VFdcutYAhBQ" frameborder="0" allowfullscreen></iframe>
+
+## Adding products
+
 
 Click on **Products **on the horizontal blue menu, and then click **+ New Product**.
 
