@@ -8,6 +8,8 @@
 * You can add in your products and be stocked others' shops on OFN.
 * If you ever want to run your own shop, you can add the shopfront functionality to your profile.
 
+![](/assets/Profile Example.png)
+
 ## What does it do?
 
 **Makes you visible**  
@@ -18,15 +20,15 @@ If you want to supply a shop on the Open Food Network, you can create your profi
 
 ## Steps for setting up a Producer Profile
 
-1\) [Register your profile](/create-an-account.md) on Open Food Network. This setup tool will ask for basic information about your enterprise to create your profile. You'll be prompted to confirm your email address.
+1\) [Register your profile](/Register-and-create-your-profile.md) on Open Food Network. This setup tool will ask for basic information about your enterprise to create your profile. You'll be prompted to confirm your email address.
 
-2\) Select the 'producer profile' [package type](/hub-profile-types.md).
+2\) Select the 'producer profile' [package type](/package-types.md).
 
 #### **Your basic profile is now complete!**
 
 **If you want to edit your profile, or add further detail you can**
 
-3\) modify your [Enterprise Settings](/your-profile.md). It's a good idea to add your Properties here e.g. free range, organic.
+3\) modify your [Enterprise Settings](/Enterprise-settings.md). It's a good idea to add your Properties here e.g. free range, organic.
 
 #### Well done, you're set up!
 
@@ -34,7 +36,7 @@ You will now have a space to tell the story of your enterprise and to help drive
 
 **If you want to supply a shop on OFN with your produce:**
 
-4\) [Add your product range](/products.md).
+4\) Add your[ product range](/products.md).
 
 5\) Grant the shop you want to supply with [permission to stock your products](/enterprise-to-enterprise-permissions-e2es.md).
 
@@ -42,7 +44,8 @@ You will now have a space to tell the story of your enterprise and to help drive
 
 ## Advanced features that are helpful for producers with profiles.
 
-* [Making your profile searchable by product category](/making-a-producer-profile-searchable-by-product-category.md)
+* Making your profile [searchable by product category](/making-a-producer-profile-searchable-by-product-category.md)
 
-**Want to setup an online shop?
-** Now that you have a profile on the OFN, with just a few more setup steps, you can open an online shop. See the [Producer Shop setup manual](/producer-set-up-guide.md). You've already completed step 1 when you created your profile, so start at step 2 and change your package.
+**Want to setup an online shop?  
+** Now that you have a profile on the OFN, with just a few more setup steps, you can open an online shop. See the [Producer Shop setup manual](//producer-shop.md#producer-shop). You've already completed step 1 when you created your profile, so start at step 2 and change your package.
+
