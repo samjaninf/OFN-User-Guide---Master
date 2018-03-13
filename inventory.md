@@ -1,23 +1,16 @@
 # Inventory
 
-_Note: This page and feature was previously called ‘Variant Overrides’. Variant overrides are now managed in Inventory. The same functionality has been kept, with some additions._
-
 ## Introduction to Inventory
 
 The inventory page gives enterprises increased control and flexibility with their product management, if they require it. This includes being able to override certain product details, define regular stock levels and hide certain products from view. Not all enterprises will need to use this feature and it is most relevant to enterprises with relatively complex configurations. Read on for an explanation of the utility of the Inventory pages and how to use them to achieve different outcomes.
 
 The inventory pages are used for three primary functions:
 
-1. **Overriding product details. **
-   The
-   **products page**
-   contains the ‘master list’ of products that a producer has on offer. Sometimes, a shopfront might need to vary product details, such as price, on hand stock levels and the SKU code from this master list. The
-   **inventory page**
-   allows enterprises to change some product details just for their shopfront. Any product details changed in the inventory page will over-ride the master product details. However, if other enterprises are also stocking these products, the changes made in the inventory list will not affect them.
-2. **Hiding products and assessing new products.**
-    In the inventory list enterprises can hide products that they may not want to see, making the task of filtering which products go into the shopfront quicker when dealing with large amounts of products. There is also the option to have new products added by producers hidden by default, until they have been approved by you.
-3. **Resting stock ‘on hand’ levels. **
-   Enterprises who have stock that is regularly  restocked to a certain quantity can define this recurring on hand stock level for each product, and reset levels quickly en mass.
+1. **Overriding product details. **The **products page **contains the ‘master list’ of products that a producer has on offer. Sometimes, a shopfront might need to vary product details, such as price, on hand stock levels and the SKU code from this master list. The **inventory page **allows enterprises to change some product details just for their shopfront. Any product details changed in the inventory page will over-ride the master product details. However, if other enterprises are also stocking these products, the changes made in the inventory list will not affect them.
+2. **Hiding products and assessing new products.** In the inventory list enterprises can hide products that they may not want to see, making the task of filtering which products go into the shopfront quicker when dealing with large amounts of products. There is also the option to have new products added by producers hidden by default, until they have been approved by you.
+3. **Resting stock ‘on hand’ levels. **Enterprises who have stock that is regularly  restocked to a certain quantity can define this recurring on hand stock level for each product, and reset levels quickly en mass.
+
+> Note: Use of the inventory tool can be complex, so we encourage you to [contact your local OFN](https://openfoodnetwork.org/contact/) to get configuration advice for your specific setup.
 
 ### Permissions Requirements
 
@@ -46,7 +39,7 @@ When you first visit the Inventory page, you will see an alert that you have ‘
 
 [![](https://openfoodnetwork.org/wp-content/uploads/2015/06/New-products-alert.png "New products alert")](https://openfoodnetwork.org/wp-content/uploads/2015/06/New-products-alert.png)
 
-Clicking on**Review Now**will take you to your**New Products **list.
+Clicking on **Review Now **will take you to your **New Products **list.
 
 ## New Products
 
@@ -68,14 +61,10 @@ Your inventory products list is where you can override product details, set up s
 
 You can change product details in the Inventory Page. Any changes you make will over-ride the master product details, and your shopfront and reports will reflect these over-ridden values you have set. You can override the **SKU**,**Price**,**On Hand **value, and on hand/**on demand **setting. You can’t over-ride the product’s name, units, description or photograph.
 
-* **SKU **
-  – if you wish to use an alternative SKU for a product, you can over-ride the producer’s SKU here by typing in an alternative.
-* **Price**
-  – You can set a different price to show in your shop. Keep in mind the units of the product will remain the same.
-* **On hand**
-  – You can set a different on hand value. Your shopfront will stockout when this On Hand value reaches zero.
-* **On demand**
-  – You can select whether to have a product set to ‘on hand’ or ‘on demand’.
+* **SKU **– if you wish to use an alternative SKU for a product, you can over-ride the producer’s SKU here by typing in an alternative.
+* **Price **– You can set a different price to show in your shop. Keep in mind the units of the product will remain the same.
+* **On hand **– You can set a different on hand value. Your shopfront will stockout when this On Hand value reaches zero.
+* **On demand **– You can select whether to have a product set to ‘on hand’ or ‘on demand’.
 
 ### Stock Level Reset
 
