@@ -4,10 +4,8 @@ The [Basic Features](/basic-features.md) chapter steps through the fundamental f
 
 ## Your Profile
 
-* Make producer profiles searchable by product category in the OFN directories.
-  [Read more](/making-a-producer-profile-searchable-by-product-category.md)
-* Transferring ownership of a profile from one user to another.
-  [Read more](/transferring-ownership-of-a-profile.md)
+* Make producer profiles searchable by product category in the OFN directories. [Read more](/making-a-producer-profile-searchable-by-product-category.md)
+* Transferring ownership of a profile from one user to another. [Read more](/transferring-ownership-of-a-profile.md)
 
 ## Products
 

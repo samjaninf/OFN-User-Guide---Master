@@ -1,6 +1,6 @@
 # Making a producer profile searchable by product category
 
-When customers come to the Open Food Network, they are able to search for producers by name or location. They are also able to filter the producer profiles according to what kinds of products the producers stock \(see below\).
+When customers come to the Open Food Network they are able to search for producers by name or location. They are also able to filter the producer profiles according to what kinds of products the producers stock \(see below\).
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/08/Filter-by-product.png "Filter by product")
 
