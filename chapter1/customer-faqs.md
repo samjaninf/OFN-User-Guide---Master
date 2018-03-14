@@ -1,11 +1,6 @@
 # Customer FAQs
 
 ### About Open Food Network
-%accordion%Is the OFN a fruit and vegetable box delivery service?%accordion%
-
-Not exactly. The OFN itself is a website which provides an online directory and ecommerce software to food enterprises. All of the shops on the OFN are independently owned and operated and offer unique products and services to customers. While, some shops might offer mixed fruit and vegetable box deliveries, others might take custom orders, or ask that you collect your purchase from their farm, or market. To find details of how a specific shop operates and what products/services they offer, check out their profile. 
-
-%/accordion%
 
 %accordion%What are the OFN's transparency features?%accordion%
 
@@ -23,9 +18,10 @@ The OFN makes producers visible again, giving them recognition and a fair price,
 
 %accordion%How is the OFN different to other online food delivery services?%accordion%
 
-The OFN is not for profit and committed to building a better and fairer food system. Some online stores still source through conventional supply chains which are shrouded in mystery, but on the OFN you can always see where your food has come from.  The OFN is also contributing to something bigger. The code for the OFN software is free for others to use, so is contributing improving food systems all over the world. 
+The OFN is not for profit and committed to building a better and fairer food system. Some online stores still source through conventional supply chains which are shrouded in mystery, but on the OFN you can always see where your food has come from.  The OFN is also contributing to something bigger. The code for the OFN software is free for others to use, so is contributing improving food systems all over the world.
 
 %/accordion%
+
 ### Placing orders
 
 %accordion%What are order cycles?%accordion%
@@ -46,35 +42,13 @@ All online shops on the ONF are independently operated and offer different shipp
 
 %accordion%What are the payment options?%accordion%
 
-All online shops on the OFN are independently operated and have different payment methods available. Visit a shop to see what options are offered. Most shops with use a mixture of Paypal, EFTPOS, Pin Payments, banks transfer or cash on delivery.
+All online shops on the OFN are independently operated and have different payment methods available. Visit a shop to see what options are offered. Most shops with use a mixture of credit card, paypal, Pin Payments, banks transfer or cash.
 
 %/accordion%
 
 %accordion%Can I see a record of my past orders?%accordion%
 
 You can view your past orders by logging in at the homepage, clicking the cog in the top right hand corner and selecting Account. Here you will see a summary of your orders at each shop and be able to view details of each unique order.
-
-%/accordion%
-### The best way to use OFN
-
-%accordion%How can customers make the OFN convenient to them%accordion%
-
-The OFN hosts a diversity of different shops, offering different products and services. Check out the product ranges and shipping options of enterprises in your area- you’re bound to find one which fits with your budget, preferences and routine!
-
-Many of us who have grown used to shopping in supermarkets can find shopping at local markets, or shopping online a bit of an adjustment. But once you get into the swing of it and start enjoying all of the other benefits of buying through alternative, local food enterprises, you’ll soon find you don’t miss the weekly trip to the supermarket.
-
-%/accordion%
-
-%accordion%All of the shops on the OFN are different, how do I know which one is right for me?%accordion%
-
-The OFN shops are wonderfully diverse, which means that you’re sure to find one which suits your needs. You can use the OFN map feature on your local OFN site to find enterprises located near to you. Then, check out the profiles of shops to see if the product range and the payment and shipping methods meet your needs. Each shop has links to the profiles of supplying producers, so you can learn about where the food is coming from, and how it was produced. If production characteristics such as organic certification, or free range is important to you, you can choose see which products and shops meet these standards. The OFN is transparent in pricing as well, so you can see how your food dollar is distributed.
-
-%/accordion%
-### Other
-
-%accordion%Is the OFN affordable?%accordion%
-
-The OFN strives to make good food accessible and affordable to all. By shortening supply chains and bringing transparency back to the table, customers can see where their food is coming from and know they’re getting value for money.
 
 %/accordion%
 
