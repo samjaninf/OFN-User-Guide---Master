@@ -10,9 +10,9 @@ When the customer selects an order cycle, the shopfront will load with the speci
 
 Often, having two separate order cycles is not necessary, because different fees and delivery days can be applied in the shipping methods and shipping fees. However, it can be useful in some circumstance.
 
-Note: You can’t specify which shipping methods are available in an order cycle, so all order cycles will have all of your shipping methods available.
+> Note: You can’t specify which shipping methods are available in an order cycle, so all order cycles will have all of your shipping methods available.
 
 **Ordering your order cycles**
 
-You can choose whether you want your order cycles to be listed in the dropdown menu by closing date \(closing soonest first\) or by opening date \(opened earliest first\). This is setup in your enterprise settings, under ‘shop preferences’.
+You can choose whether you want your order cycles to be listed in the dropdown menu by closing date \(closing soonest first\) or by opening date \(opened earliest first\). This is setup in your [enterprise settings](/Enterprise-settings.md), under ‘shop preferences’.
 
