@@ -1,7 +1,5 @@
 # Customer FAQs
 
-### About Open Food Network
-
 %accordion%What are the OFN's transparency features?%accordion%
 
 Traditional grocery supply chains are shrouded in mystery, making it difficult for customers to know where their food is coming from, how it has been produced, and where their grocery dollar will end up. Transparency is central to the OFN, because we believe that visible supply chains are healthier than those which are hidden. On the OFN, customers can always see where their food has come from and what proportion of the price goes to the farmer.
