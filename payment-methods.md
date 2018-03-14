@@ -27,7 +27,7 @@ The screenshot below shows a payment methods display at checkout. The customer h
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Payment-at-checkout.png "Payment message displayed at checkout")  
 6\) **Active: **Select whether this payment method is currently visible and available, or not.
 
-7\) **Tags:** Use tag rules if you want to make certain payment methods available/unavailable for specific customers \(e.g. wholesale vs retail\). See [here](/customer-accounts-and-tagging.md) for details on tag rules.
+7\) **Tags:** Use tag rules if you want to make certain payment methods available/unavailable for specific customers \(e.g. wholesale vs retail\). See [tags and tag rules](/tags-and-tag-rules.md) for more information.
 
 8\) **Payment providers**: Select the one which is relevant to the payment method you are creating.
 

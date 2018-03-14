@@ -49,11 +49,11 @@ For periodic, repetitive order cycles, you can copy an existing order cycle and 
 
 ![](/assets/duplicate OC.png)
 
-It's better to create a new Order Cycle, or duplicate and update and OC each time you have a new OC. If you always use the same OC, but simply update the dates and products etc, you will find that you can't filter your reports by OC. This can limit how effectively you can use OFN reports.
+> Note: It might be tempting to use the same OC all the time, and simply update the dates each time you reopen it. However, it's better to create a new Order Cycle, or duplicate and update an OC each time you have a new OC. If you always use the same OC, you will find that you can't filter your reports by OC. This can limit how effectively you can use OFN reports.
 
 Order cycles will display as green when they are active, yellow when schedules for a future date, and grey when they have closed. When an order cycle close over one month ago, it will no longer display on this list. To view all of your past order cycles click ‘show more’ at the top of the list.
 
-**Advanced Settings  
+**Advanced Settings    
 **These settings are relevant for multi distributor order cycles. See [Inventory ](/inventory.md)for details of these settings.
 
 ### Related advanced features:

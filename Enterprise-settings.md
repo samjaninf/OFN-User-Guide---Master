@@ -114,7 +114,7 @@ The [Shipping](/shipping-methods.md) and [Payment Methods](/payment-methods.md) 
 
 _\* not visible to profile-only users_
 
-You can control the setting for customer tags by creating tag rules. For more information about this see [customer accounts and tagging](/customer-accounts-and-tagging.md).
+You can customise the shopping options for customer by creating tag rules. For more information about this see [tags and tag rules](/tags-and-tag-rules.md).
 
 ---
 

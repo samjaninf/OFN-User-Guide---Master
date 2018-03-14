@@ -4,7 +4,7 @@ _\*Not a Hub, but a producer? See _[_Order Cycles for producers_](/order-cycles-
 
 You open you shop by creating an Order Cycle. When you make an order cycle you select when you shop is open \(from and until\), which products will go into the shop, and any fees that you'll apply.
 
-**Why Order Cycles?    
+**Why Order Cycles?        
 **Some hubs may wish to have an online store which is perpetually open, and to fulfill orders on a one by one basis, as they are received. However, many hubs operate on a periodic ordering system, which allows them to process orders in bulk, making their packing and distribution activities more efficient. Let’s use an example to illustrate a common periodic ordering cycle structure.
 
 **Order Cycle Example**
@@ -41,7 +41,7 @@ Select the coordinator of the order cycle. The enterprise which coordinates an o
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/New-order-cycle-3.png "New order cycle fields")
 
-### Incoming: select producer and produce
+### 3. Incoming: select producer and produce
 
 The incoming section is where you can select the producers, and their produce, which will be available in this order cycle. In the dropdown menu you will see all producers who have granted you permission to add their produce to your order cycle \(See _Relationships with Producers_ section for details\). After selecting a supplier and clicking **Add Supplier** all of the products associated with that supplier will be visible. Check those products you wish to add to the store, or click **select all. **Note: Products which have an ‘on hand’ value of zero \(no stock available\) will still be visible, so be careful to check that you have adequate on hand inventory for the products selected.
 
@@ -61,7 +61,9 @@ The distributor\(s\) selected in the outgoing section, will have a shopfront ope
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Outoging-New.png "Outgoing Section")
 
-The **tags **column is where you can tag your order cycle \(see [Customer Accounts and Tagging](/customer-accounts-and-tagging.md)\).The **‘ready for \(ie Date/Time\)’ **box tells the customer when their order will be ready for either collection or delivery. If your order cycle is a perpetual one, which fulfills orders on an individual basis rather then in bulk, you should enter something like ‘Two days after order is received’. The example below shows how ‘Friday 9th’ is displayed in a store.
+The **tags **column is where you can tag your order cycles to customise whether they are visible/invisible to certain customers. See [tags and tag rules](/tags-and-tag-rules.md) for more information.
+
+The **‘ready for \(ie Date/Time\)’ **box tells the customer when their order will be ready for either collection or delivery. If your order cycle is a perpetual one, which fulfills orders on an individual basis rather then in bulk, you should enter something like ‘Two days after order is received’. The example below shows how ‘Friday 9th’ is displayed in a store.
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Ready-for.png "ready for field")
 
@@ -79,11 +81,13 @@ The **Pick-Up Instructions **message will be included in the customer’s order 
 
 Click Create to save this order cycle.
 
-**\*\* When you create an order cycle, and the opening and closing dates fall either side of the present, a shopfront will become live on the homepage. If you are not ready to have your store open, temporarily put the opening and closing dates in the past \(this can be edited when you are ready to open\).**
+> Note: When you create an order cycle, and the opening and closing dates fall either side of the present, a shopfront will become live on the homepage. If you are not ready to have your store open, temporarily put the opening and closing dates in the past \(this can be edited when you are ready to open\).
 
 For periodic, repetitive order cycles, you can copy an existing order cycle and change the dates, to make the process quicker. See below.
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/copy-order-cycle.png "duplicate an order cycle")
+
+> Note: It might be tempting to use the same OC all the time, and simply update the dates each time you reopen it. However, it's better to create a new Order Cycle, or duplicate and update an OC each time you have a new OC. If you always use the same OC, you will find that you can't filter your reports by OC. This can limit how effectively you can use OFN reports.
 
 Order cycles will display as green when they are active, yellow when schedules for a future date, and grey when they have closed. When an order cycle close over one month ago, it will no longer display on this list. To view all of your past order cycles click ‘show more’ at the top of the list.
 
