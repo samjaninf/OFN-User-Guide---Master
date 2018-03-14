@@ -7,9 +7,10 @@ Using tags and tag rules allows you to customise the shopping experience for cer
 * Making certain shipping methods visible/invisible
 
 * Making certain payment methods visible/invisible
+
 * Making order cycles visible/invisible
 
-Most often this feature is required by enterprises who have different shop setups for members Vs non-members or different groups of customers such as wholesale Vs retail customers.
+Most often this feature is required by enterprises who have different shop setups for members/non-members or different groups of customers such as wholesale/retail customers.
 
 Using the tagging feature involves two main steps:
 
@@ -18,13 +19,13 @@ Using the tagging feature involves two main steps:
 
 ### Tagging Customers
 
-Your Customers page lists all customers who have placed an order in your shop, as well as any customers you have manually added to your customer list.
+Your [Customers ](/customer-accounts-and-tagging.md)page lists all customers who have placed an order in your shop, as well as any customers you have manually added to your customer list.
 
 The first step to setting up a tag rule is to tag all of the customers who you want the rule to apply to.
 
 For example, if I want to create a rule which makes free delivery available to wholesale customers only, you'll need to tag all of your wholesale customer with the same tag.
 
-To create a tag, type the tag in the **tag** column next to a customer and hit the enter button when you’re done. The name of the tag is not important, so use something that makes sense. For this example you could use 'wholesale' or just 'ws'. Your customers cannot see the tags.
+To create a tag, type the tag in the **tag** column next to a customer and hit the enter button when you’re done. The name of the tag is not important, so use something that makes sense to you \(your customers can't see your tags\). For this example you could use 'wholesale' or just 'ws'.
 
 > Note: You must type the tag with identical characters each time - tags are case sensitive.
 
@@ -36,21 +37,22 @@ You can add multiple tags to a single customer \(e.g. you might have a rule for 
 
 Some users apply tags to customers without setting up any tag rules. This is because it helps them with reporting.
 
-Any tags that you apply to customers will also show up in your **Order cycle customer totals** [report](/reports.md), next to this customer’s order. If you export these reports as a CSV, in excel you can then filter your reports according to these tags, making it easy to sort your orders based on certain information. 
+Any tags that you apply to customers will also show up in your **Order cycle customer totals** [report](/reports.md), next to this customer’s order. If you export these reports as a CSV, in excel you can then filter your reports according to these tags, making it easy to sort your orders based on certain information.
 
-### Tag Rules
+## Tag Rules
 
 Once you have tagged your customers you can define how certain feature will apply to customers with different tags. Currently you can use tags to change four elements:
 
 * Making particular variants available/unavailable
 
 * Making certain shipping methods available/unavailable
+
 * Making certain payment methods available/unavailable
 * Making order cycles visible/invisible
 
 To set up your tags go to your Enterprise Settings and select **Tag Rules**.
 
-#### By Default
+### By Default
 
 By default, all items will be visible to all customers whether they are tagged or not. The general approach is to then create a rule dictating that certain elements \(variant, shipping/payment methods or order cycles\) will be invisible to certain customers who are tagged. However, if you wish to change this default, such that tagged items are ‘not visible’ until a rule is setup reversing this, you can do so by changing your ‘By Default’ rules.
 
@@ -58,7 +60,7 @@ The example below shows that my shipping methods tagged ‘wholesale’ will now
 
 [![](https://openfoodnetwork.org/wp-content/uploads/2015/10/Default-tags.png "Default tags")](https://openfoodnetwork.org/wp-content/uploads/2015/10/Default-tags.png)
 
-#### Tag Rules
+### Tag Rules
 
 Keeping in mind your default setting above, you can now apply rules to vary the default settings for certain customers.
 
