@@ -6,6 +6,8 @@ This article provides a description of the different types of E2E permissions.
 
 Users may also find it useful to look at the hub-specific, producer specific and buying-group specific examples provided.
 
+> Note: E2Es can be quite complex, so don't hesitate to [contact your local OFN](https://openfoodnetwork.org/contact/) for assistance.
+
 ## Different kinds of E2E permission:
 
 There are four different kinds of E2E permissions. Applying these E2Es in different combinations allows enterprises to specify exactly how much permission, and over what aspects of their account, they want to grant another enterprise.
@@ -14,7 +16,7 @@ There are four different kinds of E2E permissions. Applying these E2Es in differ
 
 [![](https://openfoodnetwork.org/wp-content/uploads/2015/05/P-OC-table.png "P-OC")](https://openfoodnetwork.org/wp-content/uploads/2015/05/P-OC-table.png)
 
-##### Permission to [Add to Inventory](/inventory.md) \(P-I\) \(previously P-VO\)
+##### Permission to Add to [Inventory](/inventory.md) \(P-I\)
 
 [![](https://openfoodnetwork.org/wp-content/uploads/2015/05/P-I-1.png "P-I")](https://openfoodnetwork.org/wp-content/uploads/2015/05/P-I-1.png)
 
