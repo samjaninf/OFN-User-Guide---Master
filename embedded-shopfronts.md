@@ -16,7 +16,7 @@ Squarespace lets you ‘add customer html’ via their “codeblocks” – see 
 
 Because OFN is an eCommerce platform, and handles monetary transactions, it has a higher security requirement than text only websites. Therefore, you’ll need to setup SSL/TLS on the website you want to embed your OFN shop into if you haven’t already.
 
-You can get such a security certificate for free from [Let’s Encrypt](https://letsencrypt.org/)or for around $10-$30 for a paid service.
+You can get such a security certificate for free from [Let’s Encrypt](https://letsencrypt.org/) or for around $10-$30 for a paid service.
 
 ### OFN Shop
 
@@ -26,7 +26,7 @@ Getting setup
 
 **1\) Contact your local OFN team**
 
-First of all, you’ll need to [contact your local OFN team](https://openfoodnetwork.org/ofn-local/) and let them know that you want to embed your OFN shop in your own website. You’ll need to provide them with your external domain. E.g. happyhenfarm.com.au so they can grant permission for your website to communicate with OFN.
+First of all, you’ll need to [contact your local OFN team](https://openfoodnetwork.org/contact/) and let them know that you want to embed your OFN shop in your own website. You’ll need to provide them with your external domain. E.g. happyhenfarm.com.au so they can grant permission for your website to communicate with OFN.
 
 **2\) Adding Custom HTML to your website**
 
@@ -53,8 +53,4 @@ We have setup an [example of an embedded shop](https://openfoodnetwork.org/user-
 ### Cookies
 
 Most people have cookies enabled on their web browsers. But if a customer doesn’t enable cookies they won’t be able to shop in the embedded shop. The error message they’ll see is shown below. Note that they can shop at the version of your shop hosted by OFN without needing cookies enabled.![](/assets/OFN Cookies Embedded Shopfront)
-
-
-
-
 

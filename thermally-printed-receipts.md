@@ -1,6 +1,6 @@
 ## Print receipts with a Thermal Printer
 
-_Note: This functionality is currently only available to OFN users in France. Contact your local OFN to for more details, or to request use of this feature._
+> _Note: This functionality is currently only available to OFN users in France. Contact your local OFN to for more details, or to request use of this feature._
 
 ## Printer
 
@@ -8,8 +8,8 @@ What printer do I need to print a “receipt”, like the one you usually get in
 
 For instance:
 
-Epson one \(most common in shops\). Available on Amazon for approx USD $135   
-Low cost no-name one \(USD $33\): Available on Amazon for approx USD $33 
+Epson one \(most common in shops\). Available on Amazon for approx USD $135  
+Low cost no-name one \(USD $33\): Available on Amazon for approx USD $33
 
 ## Setup
 
@@ -17,8 +17,8 @@ How do I setup my machine to be able to print receipts from the OFN?
 
 First you need to install the printer:
 
-Linux instructions   
-Windows instructions   
+Linux instructions  
+Windows instructions  
 OSX instructions  
 For USB printer you might not have to precise the URI, just make sure you use the relevant driver.
 
