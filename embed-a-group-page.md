@@ -32,7 +32,9 @@ First of all, you’ll need to contact [your local OFN team](https://openfoodnet
 
 Embedding your shop is as simple as inserting a line of code into your website. This is the line of html that you should insert into the page where you want the shop:
 
-![](/assets/Embedded group code.png)
+```
+<iframe src="/groups/flavour-crusader?embedded_shopfront=true"style="width:100%;min-height:35em"></iframe>
+```
 
 In the html above make sure to replace ‘flavour-crusader’ with your shop’s unique OFN permalink.
 

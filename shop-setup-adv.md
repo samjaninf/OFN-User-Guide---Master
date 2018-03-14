@@ -1,4 +1,4 @@
-### Shop Setup
+# Shop Setup
 
 * Charging different prices to different customers. [Read more](/Customer-specific-pricing.md)
 * Make your shopfront private. [Read more](/private-shopfront.md)

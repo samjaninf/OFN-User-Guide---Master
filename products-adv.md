@@ -1,4 +1,4 @@
-### Products
+# Products
 
 * Create ‘product variants’ to make your shopfront less cluttered and easier to navigate.
   [Read more ](/product-variants.md)

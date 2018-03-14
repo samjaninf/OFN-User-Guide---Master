@@ -34,22 +34,19 @@ The [Basic Features](/basic-features.md) chapter steps through the fundamental f
 * Opening more than one order cycle at the same time. [Read more](/opening-more-than-one-order-cycle.md)
 * Create a display only order cycle so visitors can see what’s in your shop even when your order cycle is closed. [Read more](/display-only-order-cycles.md)
 
+# Orders
+
+* Create an order manually for your customer from the back end. [Read more](/create-orders-manually.md)
+
 ## Groups
 
-* Create and manage a group page, which acts as a sub directory within the OFN for regional producer groups, certification bodies, markets etc.
-  [Read more](/group-pages.md)
-* Embed your Group Page in your own, external website. Read more
+* Create and manage a group page, which acts as a sub directory within the OFN for regional producer groups, certification bodies, markets etc. [Read more](/group-pages.md)
+* Embed your Group Page in your own, external website. [Read more](/embed-a-group-page.md)
 
 ## Social
 
-* Put your farm on Facebook.
-  [Read more](/putting-your-farm-on-facebook.md)
-* Facebook tips for producers.
-  [Read more](/facebook-tips.md)
-
-# Orders
-
-* Create an order manually for your customer from the back end. [Read more](/create-orders.md)
+* Put your farm on Facebook. [Read more](/putting-your-farm-on-facebook.md)
+* Facebook tips for producers. [Read more](/facebook-tips.md)
 
 
 
