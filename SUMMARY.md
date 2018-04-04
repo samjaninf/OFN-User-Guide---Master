@@ -37,7 +37,7 @@
   * [Shop Setup](shop-setup-adv.md)
     * [Customer specific pricing](Customer-specific-pricing.md)
     * [Private shopfront](private-shopfront.md)
-    * [Customers](customer-accounts-and-tagging.md)
+    * [Customers](customers.md)
     * [Tags and Tag Rules](tags-and-tag-rules.md)
     * [Embedded Shopfront](embedded-shopfronts.md)
     * [Thermally printed receipts](thermally-printed-receipts.md)
