@@ -58,9 +58,5 @@
   * [Social](social-adv.md)
     * [Facebook tips](facebook-tips.md)
     * [Your farm on Facebook](putting-your-farm-on-facebook.md)
-* [FAQs](FAQs.md)
-  * [Customer FAQs](chapter1/customer-faqs.md)
-  * [Producer FAQs](chapter1/producer-faqs.md)
-  * [Hub FAQs](chapter1/hub-faqs.md)
 * [Feedback](feedback.md)
 

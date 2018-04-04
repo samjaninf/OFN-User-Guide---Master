@@ -14,6 +14,3 @@ Looking for information on something specific? Use the search bar in the top lef
 
 ## Browse our Basic and Advanced features.
 The content of this guide is separated into the basic features, and advanced features. You can browse these chapters freely, to find what interests you.
-
-## FAQs
-We've put together some FAQs which might answer some questions you have.
