@@ -52,8 +52,6 @@
     * [Subscriptions- creating and managing orders](/subscriptions/subscriptions-creating-and-managing-orders.md)
   * [Orders](ordres-adv.md)
     * [Create orders manually](create-orders-manually.md)
-    * [Subscriptions - Configuration](subscriptions/subscriptions - configuration.md)
-    * [Subscriptions - Creating and managing orders](subscriptions/subscriptions-creating-and-managing-orders.md)
   * [Groups](groups-adv.md)
     * [Group Page](group-pages.md)
     * [Embed a Group Page](embed-a-group-page.md)
