@@ -9,9 +9,7 @@ You can apply product properties to your products, as a way of letting your cust
 * Preservative Free
 * Locally Grown
 * Low Food Miles
-
 * Naturally Ripened
-
 * No Preservatives
 * Organic- Certified
 * Organic- Not Certified

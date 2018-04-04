@@ -62,4 +62,5 @@
   * [Customer FAQs](chapter1/customer-faqs.md)
   * [Producer FAQs](chapter1/producer-faqs.md)
   * [Hub FAQs](chapter1/hub-faqs.md)
+* [Feedback](feedback.md)
 
