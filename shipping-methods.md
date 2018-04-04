@@ -44,13 +44,13 @@ By clicking **Create, **the shipping method will be created, and you will then b
 
 **Flat Rate \(per order\) **– This fee is applied as standard fee to all orders, regardless of the size of the order.
 
-**Flexible Rate** – This calculator is typically used for promotional discounts where you charge a reduced fee as the customer makes more purchases of that item.
+**Flexible Rate** – This calculator is typically used for promotional discounts where you charge a reduced fee as the customer makes more purchases.
 
 * ‘First Item Cost’: The fee charged for the first item in the order.
 * ‘Additional Item Cost’: The fee charged for items beyond the first item.
 * ‘Max Items’: The maximum number of items on which the fee will be applied. Items purchased beyond this amount will be not be charged the fee.
 
-For example: If the first cost is $2, Additional Item Cost is $1 and the maximum items is three. If a customer orders 5 of the item, they will be charged $2 for the first item, $1 for the second and third, and no fee for the fourht and fifth.
+For example: If the first cost is $2, Additional Item Cost is $1 and the maximum items is three. If a customer orders 5 items, they will be charged $2 for the first item, $1 for the second and third, and no fee for the fourth and fifth.
 
 **Flat Rate \(per item\)** –  This fee is a constant fee, applied to products listed as ‘items’. \(it will not be applied to products listed as per kg, or per L\)
 
