@@ -48,7 +48,7 @@
     * [Opening more than one order cycle](opening-more-than-one-order-cycle.md)
     * [Display only Order Cycles](display-only-order-cycles.md)
   * [Subscriptions](subscriptions-adv.md)
-    * [Subscriptions - configuration](subscriptions - configuration.md)
+    * [Subscriptions - configuration](subscriptions-configuration.md)
     * [Subscriptions- creating and managing orders](subscriptions-creating-and-managing-orders.md)
   * [Orders](ordres-adv.md)
     * [Create orders manually](create-orders-manually.md)

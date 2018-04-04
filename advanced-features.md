@@ -35,8 +35,8 @@ The [Basic Features](/basic-features.md) chapter steps through the fundamental f
 * Create a display only order cycle so visitors can see what’s in your shop even when your order cycle is closed. [Read more](/display-only-order-cycles.md)
 
 # Subscriptions
-* Setup your enterprise confguration to enable subscriptions. [Read more](/subscriptions - configuration.md)
-* Create and manage subscription orders for customers. [Read more](/subscriptions/subscriptions-creating-and-managing-orders.md)
+* Setup your enterprise confguration to enable subscriptions. [Read more](/subscriptions-configuration.md)
+* Create and manage subscription orders for customers. [Read more](/subscriptions-creating-and-managing-orders.md)
 
 # Orders
 * Create an order manually for your customer from the back end. [Read more](/create-orders-manually.md)
