@@ -2,39 +2,31 @@
 
 The ‘Dashboard’ is the behind the scenes control center of your account. From the dashboard you can manage your profile, and all elements of your online shop, if you have a shopfront.
 
-Access your dashboard from the homepage by first logging in 
-
-![Log in](https://openfoodnetwork.org/wp-content/uploads/2015/05/Log-In.png)
-
-, and then clicking on the cog
-
-![cog icon](https://openfoodnetwork.org/wp-content/uploads/2015/05/Cog.png)
-
- in the top right hand corner, and selecting ‘Administration’ from the dropdown menu.
+Access your dashboard from the homepage by first logging in and then clicking on the cog in the top right hand corner, and selecting ‘Administration’ from the dropdown menu.
 
 The screenshots below show the dashboard view for different types of users.
 
-%accordion%Producer - Profile only%accordion%
+### Producers
 
-![Dashboard \(Profile Only\)](https://openfoodnetwork.org/wp-content/uploads/2015/05/Dashboard-Profile-Only.png)
+{% tabs %}
+{% tab title="Producer Profile Only" %}
+![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Dashboard-Profile-Only.png)
+{% endtab %}
 
-%/accordion%
+{% tab title="Producer Profile and Shop" %}
+![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Dashboard-Shop.png)
+{% endtab %}
+{% endtabs %}
 
-%accordion%Producer - Profile and Shop%accordion%
+### Hubs
 
-![Dashboard \(Shop\)](https://openfoodnetwork.org/wp-content/uploads/2015/05/Dashboard-Shop.png)
-
-%/accordion%
-
-%accordion%Hub- Profile only%accordion%
-
+{% tabs %}
+{% tab title="Hub Profile Only" %}
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Hub-dashboard-profile-only.png)
+{% endtab %}
 
-%/accordion%
-
-%accordion%Hub- Profile and Shop%accordion%
-
+{% tab title="Hub Profile and Shop" %}
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Hub-dashboard-shopfront.png)
-
-%/accordion%
+{% endtab %}
+{% endtabs %}
 

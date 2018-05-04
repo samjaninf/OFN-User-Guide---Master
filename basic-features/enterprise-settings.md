@@ -2,9 +2,7 @@
 
 Enterprise Setting is where you can manage details relating to your profile and/or shopfront.
 
-This video will show you how to access, edit and add information to your profile at any time.
-
-## Access your Enterprise Settings
+### Access your Enterprise Settings
 
 1. Click on 'Enterprise' in the blue horizontal menu
 2. Click on 'Manage' next to your enterprise
@@ -99,11 +97,11 @@ _\* not visible to profile-only users_
 
 **Shopfront Message**: This message is optional. It will be displayed at the top of your online store, above the product listings. It’s an opportunity to provide basic information to the customer about how your store works. For example, you may explain how your order cycles are structured, or any membership requirements. It could also be a friendly greeting, or a chance to promote specials. An example is below:
 
-![Shopfront Message](https://openfoodnetwork.org/wp-content/uploads/2015/05/Shopfront-Message.png)
+![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Shopfront-Message.png)
 
 **Shopfront Closed Message**: This message will be displayed when your shopfront is closed \(no active order cycle\). It’s a chance to tell customers about how your ordering works, and when the shop will next be open and accepting orders.
 
-![store closed](https://openfoodnetwork.org/wp-content/uploads/2015/05/store-closed.png)
+![](https://openfoodnetwork.org/wp-content/uploads/2015/05/store-closed.png)
 
 **Publicly visible shopfront?**: If you select ‘public’, any shopper will be able to see your shopfront. If you select ‘visible to registered customers only’, shoppers who come to your shop will be prompted to login and only those users who are on your customers list will be given access to your shop.
 

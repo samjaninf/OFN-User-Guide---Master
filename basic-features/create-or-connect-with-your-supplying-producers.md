@@ -1,12 +1,14 @@
 # Create or connect with your supplying producers
 
-> _This page is only relevant to users who are not producers, or producers who want to sell products that come from other producers in their shop._
+{% hint style="info" %}
+ _This page is only relevant to users who are not producers, or producers who want to sell products that come from other producers in their shop._
+{% endhint %}
 
 For such users, this step is a necessary precursor to adding your product range to your shop.
 
 All products on the OFN must ‘belong’ to an OFN producer profile. This is an important feature on the OFN, as it enables customers to trace the origin of products. An example of how this displays in the shopfront is shown below.
 
-![Source Identified](https://openfoodnetwork.org/wp-content/uploads/2015/05/Source-Identified.png)
+![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Source-Identified.png)
 
 So as a hub, what do you need to do before adding your products? Well, there are two possibilities, depending on whether or not your supplying producer already has an OFN profile.
 
@@ -22,10 +24,16 @@ Before creating a profile for your supplying producers you should contact them a
 
 Be sure to ask the producer what information they would like shared on their profile. You can often take text and images from their existing websites or social media sites, however you should always ask permission before using any of their content. Once you have their information in front of you, a profile should take you no more than 10 minutes to create.
 
-_Before you can create a producer profile you’ll need to email us. This is a spam prevention method, but once we know you aren’t a robot, we’ll give you permission to make extra enterprise profiles_  
-_UK: hello@openfoodnetwork.org.uk_  
-_Canada: tschumilas@rogers.com_  
-_Austraila and other: hello@openfoodnetwork.org_
+{% hint style="info" %}
+Before you can create a producer profile you’ll need to email us. This is a spam prevention method, but once we know you aren’t a robot, we’ll give you permission to make extra enterprise profiles
+
+Contact details:  
+UK: hello@openfoodnetwork.org.uk  
+Canada: tschumilas@rogers.com  
+Austraila and other: hello@openfoodnetwork.org
+{% endhint %}
+
+
 
 ### Creating a producer profile:
 
