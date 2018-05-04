@@ -36,11 +36,11 @@ The first step to creating your online shop is to create your profile. When you 
 
 6\) Add your [product range](../basic-features/products.md).
 
-### **Open your shop!**
+#### **Open your shop!**
 
 7\) [Open your shop by opening an order cycle](../advanced-features/order-cycles/). When you create an Order Cycle you set the time when you want your shop to open as well as when it will close. This process will then repeat itself. We call this an order cycle. Each time an order cycle is created, you can select which products to stock in the store.
 
-### **Great! You're open and ready to sell!**
+#### **Great! You're open and ready to sell!**
 
 You can now [view your orders](../advanced-features/orders/), get detailed [reports](../basic-features/reports.md) and explore the [advanced features](../advanced-features/) to tailor your shop to your needs.
 
