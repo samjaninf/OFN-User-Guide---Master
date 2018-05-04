@@ -1,18 +1,14 @@
 # Shipping Methods
 
-You must create a shipping method before you can open your shop.
+{% hint style="info" %}
+ You must create a shipping method before you can open your shop.
+{% endhint %}
 
-## Setting up a shipping method
+### Setting up a shipping method
 
 **1\)** Go to the shipping methods page.
 
-%accordion%Accessing shipping methods%accordion%
-
-Click **Enterprises **in the blue horizontal menu, and then click **Manage **next to your enterprise. Then, click Shipping Methods in the menu on the left hand side.
-
-![Access demo farm](https://openfoodnetwork.org/wp-content/uploads/2015/05/Access-demo-farm.png)
-
-%/accordion%
+Click **Enterprises **in the blue horizontal menu, and then click **Manage **next to your enterprise. Then, click **Shipping Methods** in the menu on the left hand side.
 
 **2\)** Click the **create new shipping method** button.
 
@@ -24,7 +20,7 @@ Click **Enterprises **in the blue horizontal menu, and then click **Manage **nex
 
 **5\) Description:** Here you can provide further details about the shipping method. This will be visible to the customer when they checkout. For instance, the screenshot below shows that when this customer selects ‘collection from farm’, the grey box on the right hand side shows the description ‘We are happy for you to collect direct from the farm…’
 
-![Shipping view at checkout](https://openfoodnetwork.org/wp-content/uploads/2015/05/Shipping-view-at-checkout.png)
+![The customer&apos;s view of a shipping method at checkout](https://openfoodnetwork.org/wp-content/uploads/2015/05/Shipping-view-at-checkout.png)
 
 **6\) Zone: **Select the appropriate zone.
 

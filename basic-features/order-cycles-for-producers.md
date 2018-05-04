@@ -6,13 +6,15 @@ In Open Food Network, Order Cycles are where shop managers open their shop. This
 
 Many producers, who are selling small quantities of products, may find it useful to have an order cycle that is perpetually open, and to fulfill orders individually, as they are placed. Other producers, who sell large quantities of products, to multiple customers, find it useful to establish periodic order cycles, which are collectively fulfilled at the end of a period. For instance, a farmer may have an order cycle which is open \(accepting orders\) for two weeks. At the end of this order cycle, all of the orders are packed, sorted and distributed at the same time. Once this batch of orders has been fulfilled, a new order cycle is opened. Structuring order cycles in this way can make the tasks of packing and delivering orders more efficient.
 
-## 1. Access Order Cycles
+## Access Order Cycles
 
-Access Order Cycles from the horizontal menu at the top of the page.
+Access Order Cycles from the blue horizontal menu at the top of the page.
 
-## 2. Create a New Order Cycle
+{% hint style="info" %}
+Note you cannot create an order cycle until you have set up [shipping ](shipping-methods.md)and [payment methods](payment-methods.md).
+{% endhint %}
 
-* Note you cannot create an order cycle until you have set up [shipping ](shipping-methods.md)and [payment methods](payment-methods.md).
+### Create a New Order Cycle
 
 ![](../.gitbook/assets/producer-oc.png)
 
@@ -39,7 +41,7 @@ The note is also shown at check out, when the customer selects their shipping me
 
 **Fees:** There is the option of adding a coordinator fee. Here you can apply an enterprise fee that has been created for your enterprise. This function is most relevant to producers and hubs who are working in partnership. It allows an administration fee to be distributed to the party who is responsible for coordinating orders. Most often, this is not relevant to single producers selling their own products.
 
-## 3. Open the shopfront
+### Open the shopfront
 
 Click Create to save this order cycle.
 
@@ -49,7 +51,9 @@ For periodic, repetitive order cycles, you can copy an existing order cycle and 
 
 ![](../.gitbook/assets/duplicate-oc.png)
 
-> Note: It might be tempting to use the same OC all the time, and simply update the dates each time you reopen it. However, it's better to create a new Order Cycle, or duplicate and update an OC each time you have a new OC. If you always use the same OC, you will find that you can't filter your reports by OC. This can limit how effectively you can use OFN reports.
+{% hint style="info" %}
+ Note: It might be tempting to use the same OC all the time, and simply update the dates each time you reopen it. However, it's better to create a new Order Cycle, or duplicate and update an OC each time you have a new OC. If you always use the same OC, you will find that you can't filter your reports by OC. This can limit how effectively you can use OFN reports.
+{% endhint %}
 
 Order cycles will display as green when they are active, yellow when schedules for a future date, and grey when they have closed. When an order cycle close over one month ago, it will no longer display on this list. To view all of your past order cycles click ‘show more’ at the top of the list.
 

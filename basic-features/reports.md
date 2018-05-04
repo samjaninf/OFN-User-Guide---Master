@@ -2,11 +2,11 @@
 
 Access reports by clicking on **Reports **in the horizontal heading.
 
-![Access Reports](https://openfoodnetwork.org/wp-content/uploads/2015/05/Access-Reports.png)
+![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Access-Reports.png)
 
 This will take you to a table listing all of the reports available.
 
-![Reports table](https://openfoodnetwork.org/wp-content/uploads/2015/05/Reports-table.png)
+![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Reports-table.png)
 
 The two most useful and commonly used reports are the **Order Cycle Supplier Totals **and the **Order Cycle Customer Totals**. If you plan to fulfill orders on a indivdual basis, the Order Cycle Customer Totals report will be most relevant to you. If you intend to fulfill orders in batches corresponding to an order cycle routine, the Order Cycle Supplier Totals will also be useful. The **Mailing List **and **Addresses **reports are also helpful for managing your customer’s details. The **Sales Tax **report is useful for enterprises dealing with GST reporting. Finally, the **Bulk Co-op **report helps with bulk ordering decision making.
 

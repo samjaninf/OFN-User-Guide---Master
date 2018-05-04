@@ -1,7 +1,5 @@
 # Order Cycles \(for Hubs\)
 
-## Order Cycles for Hubs
-
 _\*Not a Hub, but a producer? See _[_Order Cycles for producers_](order-cycles-for-producers.md)_._
 
 You open you shop by creating an Order Cycle. When you make an order cycle you select when you shop is open \(from and until\), which products will go into the shop, and any fees that you'll apply.
@@ -13,7 +11,7 @@ You open you shop by creating an Order Cycle. When you make an order cycle you s
 
 For instance, each Monday morning a hub might assess the availability of their stock for the week. Based on this information they will create an order cycle by Monday afternoon and open their store. Customers can then place orders in their store, until the order cycle closes on Wednesday at midnight. On Thursday all of the orders can be packed by the hub and prepared for delivery on Friday. The following week the cycle will begin again, and with the creation of a new order cycle. By structuring order cycles in this way, and dealing with orders in bulk, hubs can make their ordering, sorting, packing and transport activities much more efficient than if they process orders individually as they are placed.
 
-### 1. Access Order Cycles
+### Access Order Cycles
 
 You can create an order cycle, and view previous order cycles by clicking on **Manage Order Cycles **on your dashboard.
 
@@ -23,7 +21,7 @@ Or from the horizontal menu at the top of the page.
 
 ![Access order cycle](https://openfoodnetwork.org/wp-content/uploads/2015/05/Access-order-cycle.png)
 
-### 2. Create a New Order Cycle
+### Create a New Order Cycle
 
 Below is the first stage in creating an order cycle.
 
@@ -43,7 +41,7 @@ Select the coordinator of the order cycle. The enterprise which coordinates an o
 
 ![New order cycle fields](https://openfoodnetwork.org/wp-content/uploads/2015/05/New-order-cycle-3.png)
 
-#### 3. Incoming: select producer and produce
+#### Incoming: select producer and produce
 
 The incoming section is where you can select the producers, and their produce, which will be available in this order cycle. In the dropdown menu you will see all producers who have granted you permission to add their produce to your order cycle \(See _Relationships with Producers_ section for details\). After selecting a supplier and clicking **Add Supplier** all of the products associated with that supplier will be visible. Check those products you wish to add to the store, or click **select all. **Note: Products which have an ‘on hand’ value of zero \(no stock available\) will still be visible, so be careful to check that you have adequate on hand inventory for the products selected.
 
@@ -57,7 +55,7 @@ This fee will be applied to all of the Producer of Fruit’s products which are 
 
 ![Apply enterprise fee to incoming supplier](https://openfoodnetwork.org/wp-content/uploads/2015/05/Enterprise-Fee.png)
 
-#### 4. Outgoing: select distributor
+#### Outgoing: select distributor
 
 The distributor\(s\) selected in the outgoing section, will have a shopfront opened from this order cycle. In simple hub models, there is only one distributor, the hub. So select the hub in the distributor column, and then select all products that should be visible in the online store during this order cycle. More complex hubs might have buying groups, in which case each is selected as a distributor, and will consequently have their own shopfront created. You then have the capacity to select specific products to be available in each buying group’s shop.
 
@@ -79,7 +77,7 @@ The **Pick-Up Instructions **message will be included in the customer’s order 
 
 **Add Fee: **Again, a previously created enterprise fee can be assigned to this distributor.
 
-#### 5. Open the shopfront
+#### Open the shopfront
 
 Click Create to save this order cycle.
 
@@ -103,7 +101,7 @@ _We now have all the consumer orders for next food drop._
 
 _Stock pickup/delivery instructions: **&lt;Receival instructions&gt;**._
 
-## _Orders summary_
+### Orders summary
 
 _Here is a summary of the orders for your products:_
 
