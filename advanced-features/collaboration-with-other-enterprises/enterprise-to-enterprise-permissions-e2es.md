@@ -16,19 +16,19 @@ There are four different kinds of E2E permissions. Applying these E2Es in differ
 
 **Permission to add to order cycle \(P-OC\)**
 
-![P-OC](https://openfoodnetwork.org/wp-content/uploads/2015/05/P-OC-table.png)
+![](https://openfoodnetwork.org/wp-content/uploads/2015/05/P-OC-table.png)
 
 **Permission to Add to Inventory \(P-I\)**
 
-![P-I](https://openfoodnetwork.org/wp-content/uploads/2015/05/P-I-1.png)
+![](https://openfoodnetwork.org/wp-content/uploads/2015/05/P-I-1.png)
 
 **Permission to manage products \(P-P\)**
 
-![P-P](https://openfoodnetwork.org/wp-content/uploads/2015/05/P-P.png)
+![](https://openfoodnetwork.org/wp-content/uploads/2015/05/P-P.png)
 
 **Permission to edit profile \(P-Profile\)**
 
-![P-Profile](https://openfoodnetwork.org/wp-content/uploads/2015/05/P-Profile.png)
+![](https://openfoodnetwork.org/wp-content/uploads/2015/05/P-Profile.png)
 
 ### Granting and Managing E2Es {#grantingandmanagingE2Es}
 
@@ -40,7 +40,7 @@ If you need another enterprise to grant you an E2E permission, you must contact 
 
 In the first column, select the enterprise name you want to grant the permission \(in this menu you’ll only see enterprises you own/manage\). Then in the third column select the enterprise that you wish to give permission to \(in this menu you will see all enterprises on the OFN\). Then click on the types of permission you wish to grant in the right hand column. You can select any combination, or ‘everything’ to select all. Then hit **create.** You can also delete permissions and replace them at any time.
 
-![Granting E2Es](https://openfoodnetwork.org/wp-content/uploads/2015/05/Granting-E2Es.png)
+![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Granting-E2Es.png)
 
 ### Automatically generated E2Es
 
@@ -107,8 +107,4 @@ Use the following examples to explore your options.
 #### 3\) I run my own shopfront and also stock through a hub. The hub wants me to give them P-P so they can change my stock levels and product prices. But this will impact on how I run my shop. What should I do?
 
 The scenario described can be solved by granting P-I \([**Add to Inventory**](../products/inventory-tool.md)\). This allows the hub to stock your products in their shop, but to set their own prices and inventory levels. When you stock your own shop with your products, they will continue to reflect the prices and stock levels that you have set.
-
-## E2Es from a buying group’s perspective
-
-Coming soon…
 

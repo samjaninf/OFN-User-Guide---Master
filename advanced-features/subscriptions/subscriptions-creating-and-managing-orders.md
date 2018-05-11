@@ -18,7 +18,9 @@ Subscriptions can only be setup to use manual payment methods \(such as cash, or
 
 Once you have configured the above, you’re ready to setup individual subscriptions for your customers.
 
-> Note: In this first version of the subscriptions feature, shops must setup subscriptions on behalf of their customers. There is no customer facing place where customers can setup their own subscription.
+{% hint style="info" %}
+ In this first version of the subscriptions feature, shops must setup subscriptions on behalf of their customers. There is no customer facing place where customers can setup their own subscription.
+{% endhint %}
 
 ## Create subscriptions
 
@@ -36,7 +38,9 @@ Select a customer from the drop-down list.
 
 **Schedule: **Select the schedule, or order cycle group, that this customer wants to subscribe to.
 
-> Note: you must have created a schedule of order cycles before you can create a subscription. Instructions [here](https://github.com/ofn-user-guide/ofn-user-guide-master/tree/d5a1113e673b0e22198ca207b1db61339799868a/subscriptions/subscriptions%20-%20configuration.md).
+{% hint style="info" %}
+you must have created a schedule of order cycles before you can create a subscription. Instructions [here](subscriptions-configuration.md).
+{% endhint %}
 
 **Payment method: **Select the customer’s preferred payment method. This must be either Stripe or a manual payment method such as cash. Paypal and Pin Payments are not supported for subscriptions. \(IS THIS CORRECT?\)
 
@@ -84,7 +88,9 @@ page, click on the
 
 From here you can edit which products are in the subscription, the preferred shipping and payment methods, the starting and ending dates and the customer’s details.
 
-> Note: You cannot change a subscription’s schedule. Instead the subscription must be recreated in the new preferred schedule.
+{% hint style="info" %}
+ You cannot change a subscription’s schedule. Instead the subscription must be recreated in the new preferred schedule.
+{% endhint %}
 
 Does changing customer details in Customer page update them in SO? \(?\)
 
@@ -100,7 +106,9 @@ This will reveal all upcoming orders in the schedule, and you can then edit a sp
 
 From the subscriptions page, click on the **pause **button next to the subscriptions you wish to pause. This will prevent all future orders in the subscription from being generated, until it is activated again. To un-pause a subscriptions, click on the play button.
 
-> Note: If you pause a subscription while an order cycle is still open, you'll be asked whether you'd like to keep the current order or not. If you un-pause a subscription while an OC is open an order will be generated for this customer if they're subscribed to that schedule.
+{% hint style="info" %}
+ If you pause a subscription while an order cycle is still open, you'll be asked whether you'd like to keep the current order or not. If you un-pause a subscription while an OC is open an order will be generated for this customer if they're subscribed to that schedule.
+{% endhint %}
 
 ![](../../.gitbook/assets/pause-subscription.bin)
 
@@ -110,5 +118,7 @@ From the **subscription **page, click the **cross **button next to the subscript
 
 ![Delete standing order](https://openfoodnetwork.org/wp-content/uploads/2017/03/Delete-standing-order.png)
 
-> Note: If you delete a subscription while there is an open order cycle you'll be asked whether you want to keep the customer's open order, or if they want to delete the current order.
+{% hint style="info" %}
+ If you delete a subscription while there is an open order cycle you'll be asked whether you want to keep the customer's open order, or if they want to delete the current order.
+{% endhint %}
 
