@@ -65,11 +65,13 @@ You can apply properties \(such as free range or certified organic\) to your ent
 
 ### Users
 
-**Owner: **This is the primary user responsible for this enterprise.
+**Owner: **This is the primary user responsible for this enterprise. They have the power to change all aspects of the profile.
 
-**Notifications:** This is the email address where OFN system correspondence will be directed, i.e. order confirmations etc. If this email differs from your login email, you will need to confirm the email address. Upon confirmation this email will be added as a manager \(see below\).
+**Notifications:** This is the email address where OFN system correspondence will be directed, i.e. order confirmations etc. If this email differs from your login email, you will need to confirm the email address. This user will have an envelope symbol next to their name in the mangers field.
 
-**Manager: **Other OFN users who have been granted permission to manage this account. You can search for existing emails who have registered for an OFN account.
+**Manager: **Other OFN users who have been granted permission to manage this account. Want to add a new manager? You can search for existing emails of users who have registered for an OFN account and add them as managers.
+
+**Invite manager:** This is for adding a manager who is not registered with OFN. When you add them, they'll be sent an email confirmation and when they confirm their email they'll be able to set a password, and login to administer this enterprise.
 
 _\* Note: The following fields are only visible to users who’ve opted to have an online shop. This includes producer run shops, and hub run shops._
 
