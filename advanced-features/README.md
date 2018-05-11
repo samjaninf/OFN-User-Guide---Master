@@ -1,7 +1,5 @@
 # Advanced Features
 
-## Advanced Features
-
 The [Basic Features](../basic-features/) chapter steps through the fundamental features required to setup a profile or shop on OFN. Once you have familiarised yourself with these basic functionalities you can explore some of the more advanced features here.
 
 ### Your Profile

@@ -2,7 +2,9 @@
 
 ## Print receipts with a Thermal Printer
 
-> _Note: This functionality is currently only available to OFN users in France. Contact your local OFN to for more details, or to request use of this feature._
+{% hint style="info" %}
+This functionality is currently only available to OFN users in France. Contact your local OFN to for more details, or to request use of this feature.
+{% endhint %}
 
 ## Printer
 

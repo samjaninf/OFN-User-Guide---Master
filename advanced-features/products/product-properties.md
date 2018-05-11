@@ -30,9 +30,11 @@ When you assign a property to an enterprise, all products belonging to that ente
 
 You can access enterprise properties in your [Enterprise Settings](../../basic-features/enterprise-settings.md), under Properties.
 
-![Access properties from profile edit](https://openfoodnetwork.org/wp-content/uploads/2015/05/access-properties-2.png)
+![](https://openfoodnetwork.org/wp-content/uploads/2015/05/access-properties-2.png)
 
-> Note: Properties only apply to producer profiles.
+{% hint style="info" %}
+ Properties only apply to producer profiles, not hub profiles.
+{% endhint %}
 
 Next, there are 2 fields when applying an enterprise property:
 
@@ -42,13 +44,13 @@ Next, there are 2 fields when applying an enterprise property:
 
 _\* You can apply multiple properties to your enterprise_
 
-![Enterprise properties fields](https://openfoodnetwork.org/wp-content/uploads/2015/05/ent-properties.png)
+![](https://openfoodnetwork.org/wp-content/uploads/2015/05/ent-properties.png)
 
 ## 2\) Assigning a property to a product
 
 To assign a property to a single product, rather than an enterprise’s entire product range, click on**Products**in the horizontal blue banner, and then edit an existing product \(you cannot apply a product property when you are first creating a product\).
 
-![Assigning a property to a product](https://openfoodnetwork.org/wp-content/uploads/2015/05/Property-to-product.png)
+![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Property-to-product.png)
 
 Once you are editing the product, click on the edit icon on the right hand side.
 
@@ -60,7 +62,7 @@ There are 2 fields when applying a product property:
 
 You can apply multiple product properties by clicking “**+ Add Product Properties**“
 
-![Add product property](https://openfoodnetwork.org/wp-content/uploads/2015/05/add-product-property.png)
+![](https://openfoodnetwork.org/wp-content/uploads/2015/05/add-product-property.png)
 
 Remember to click **update **when you are finished.
 
@@ -78,13 +80,13 @@ You can add properties to a product in addition to those inherited from the ente
 
 In the shopfront, customers can see product properties by clicking on the product information popout window.
 
-![Corn cob properties in shop](https://openfoodnetwork.org/wp-content/uploads/2015/05/corn-cob-properties.png)
+![](https://openfoodnetwork.org/wp-content/uploads/2015/05/corn-cob-properties.png)
 
 Properties which apply to the product are shown as an icon, next to the product category.
 
-![Corn cob pop up window](https://openfoodnetwork.org/wp-content/uploads/2015/05/Corn-cob-pop-out-window.png)
+![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Corn-cob-pop-out-window.png)
 
 Customers can also search according to product properties within a shop. This tool is placed in the top right hand corner of the store and allows customer to search for products according to their properties.
 
-![Filter by property in shop](https://openfoodnetwork.org/wp-content/uploads/2015/05/filter-by-property.png)
+![](https://openfoodnetwork.org/wp-content/uploads/2015/05/filter-by-property.png)
 

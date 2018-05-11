@@ -4,7 +4,7 @@ The Group Buy function is designed for enterprises who purchase some of their in
 
 When a product is allocated to group buy it will display differently in the shopfront \(see below\).
 
-![Group buy in shopfront](https://openfoodnetwork.org/wp-content/uploads/2015/06/Group-Buy.png)
+![](https://openfoodnetwork.org/wp-content/uploads/2015/06/Group-Buy.png)
 
 Customer are asked to indicate:
 
@@ -21,7 +21,7 @@ Let’s use an example of almonds to illustrate, whereby a total order quantity 
 
 To designate the group buy feature to a product, go to **Products **in the horizontal blue menu, and then click **edit **next to the corresponding product \(see below\).
 
-![Edit almonds for group buy](https://openfoodnetwork.org/wp-content/uploads/2015/06/Edit-almonds.png)
+![](https://openfoodnetwork.org/wp-content/uploads/2015/06/Edit-almonds.png)
 
 Then select **Group Buy Options** in the menu to the right.
 
@@ -49,7 +49,7 @@ In [bulk order management](../orders/) you can view and edit customer orders for
 5. Next, I can look at each customer’s max value, and raise their order **Quantity**, until the 5kg threshold is reached. Note: any changes to quantity will will be automatically captured in the price column.
 6. Click update to save changes to customer orders.
 
-![Bulk order management and group buy](https://openfoodnetwork.org/wp-content/uploads/2015/06/BOM-almonds.png)
+![](https://openfoodnetwork.org/wp-content/uploads/2015/06/BOM-almonds.png)
 
 _**What does Current Fulfilled Orders and Max Fulfilled Order tell me?**_
 

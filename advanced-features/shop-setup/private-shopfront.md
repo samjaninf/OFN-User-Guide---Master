@@ -8,7 +8,9 @@ In your [Enterprise Settings](../../basic-features/enterprise-settings.md), unde
 
 This can be a simple way to limit the number of new visitors who see, and place an order in your shop.
 
-> Note: A disadvantage to this approach is that you're no longer visible in the OFN directory, making you less visible in the local fair food movement.
+{% hint style="info" %}
+ A disadvantage to this approach is that you're no longer visible in the OFN directory, making you less visible in the local fair food movement. 
+{% endhint %}
 
 ## 2\) Visible to registered customers only
 
@@ -16,11 +18,11 @@ A stricter, but more time consuming approach is to set your shop to be only visi
 
 To set this up, you should first maintain your **Customer **list.
 
-![Customers](https://openfoodnetwork.org/wp-content/uploads/2015/10/Customerssssss.png)
+![](https://openfoodnetwork.org/wp-content/uploads/2015/10/Customerssssss.png)
 
 The list will include all customers who have previously placed an order in your shop. You can also add customers manually, at the bottom of the list. Then in future, if they come to shop with you, they’ll be permitted.
 
-![Add new customer](https://openfoodnetwork.org/wp-content/uploads/2016/04/Add-new-customer.png)
+![](https://openfoodnetwork.org/wp-content/uploads/2016/04/Add-new-customer.png)
 
 You can also delete customers who you no longer want to be able to see your shop.
 
@@ -30,5 +32,5 @@ After updating your customer list, you can set your shopfront to private. Go to 
 
 Now customers will be prompted to login before they can see your shop, and only those on your customer list will be permitted into the shop.
 
-![Login required message](https://openfoodnetwork.org/wp-content/uploads/2016/04/Demo-login-required.png)
+![](https://openfoodnetwork.org/wp-content/uploads/2016/04/Demo-login-required.png)
 

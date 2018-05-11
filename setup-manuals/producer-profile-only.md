@@ -24,13 +24,11 @@ If you want to supply a shop on the Open Food Network, you can create your profi
 
 2\) Select the 'producer profile' [package type](../basic-features/package-types.md).
 
-### **Your basic profile is now complete!**
+**Your basic profile is now complete!**
 
-**If you want to edit your profile, or add further detail you can**
+**If you want to edit your profile, or add further detail you can.**
 
-3\) modify your [Enterprise Settings](../basic-features/enterprise-settings.md). It's a good idea to add your Properties here e.g. free range, organic.
-
-### Well done, you're set up!
+3\) Modify your profile in your [Enterprise Settings](../basic-features/enterprise-settings.md). It's a good idea to add your Properties here e.g. free range, organic.
 
 You will now have a space to tell the story of your enterprise and to help drive connections to your social and online presence.
 
