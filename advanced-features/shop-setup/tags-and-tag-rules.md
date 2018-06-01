@@ -11,7 +11,7 @@ Most often this feature is required by enterprises who have different shop setup
 
 Using the tagging feature involves two main steps:
 
-1. Applying a **tag **your customers
+1. Applying a **tag** your customers
 2. Setting up a **tag rule**
 
 ### Tagging Customers
@@ -77,8 +77,8 @@ This rule lets you make particular variants visible/invisible to tagged customer
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/10/Inventory-tagged.png)
 
-* **Invisible: ** If by default your variants are visible, you can select to make them invisible for customers with a particular tag.
-* **Visible: ** If by default your variants are invisible, you can select to make them visible for customers with a particular tag.
+* **Invisible:**  If by default your variants are visible, you can select to make them invisible for customers with a particular tag.
+* **Visible:**  If by default your variants are invisible, you can select to make them visible for customers with a particular tag.
 
 The example below shows that my wholesale variants are invisible by default. A rule has been created so that variants tagged wholesale are made visible just for customers tagged ‘wholesale’.
 
@@ -86,7 +86,7 @@ The example below shows that my wholesale variants are invisible by default. A r
 
 **Show/Hide shipping methods**
 
-This rule lets you make particular shipping methods specifically available or unavailable to certain customers. For this rule to operate you need to have tagged the customer and the shipping method with the same tag. To tag a shipping method, go to **edit shipping method **and apply the relevant tag. E.g. the shipping method below has been tagged ‘wholesale’.
+This rule lets you make particular shipping methods specifically available or unavailable to certain customers. For this rule to operate you need to have tagged the customer and the shipping method with the same tag. To tag a shipping method, go to **edit shipping method** and apply the relevant tag. E.g. the shipping method below has been tagged ‘wholesale’.
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/10/Tagging-a-shipping-method.png)
 
@@ -100,7 +100,7 @@ This rule lets you make particular shipping methods specifically available or un
 
 **Show/Hide payment methods**
 
-This rule lets you make particular payment methods specifically available or unavailable to particular customers. For this rule to operate you first need to have tagged the customer and the payment method with the same tag. To tag a shipping method, go to **edit payment method **and apply the relevant tag. E.g. the payment method below has been tagged ‘wholesale’.
+This rule lets you make particular payment methods specifically available or unavailable to particular customers. For this rule to operate you first need to have tagged the customer and the payment method with the same tag. To tag a shipping method, go to **edit payment method** and apply the relevant tag. E.g. the payment method below has been tagged ‘wholesale’.
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/10/Tagged-payment.png)
 

@@ -8,8 +8,8 @@
 
 ## What does it do?
 
-** A place to tell stories    
-**A directory lets you share profiles of your members with your community. This includes their story, their location and contact details. It's an interactive place for customers to learn more about the producers who participate at their market, and where their food comes from. The directory can be embedded in your own website.
+ **A place to tell stories**    
+A directory lets you share profiles of your members with your community. This includes their story, their location and contact details. It's an interactive place for customers to learn more about the producers who participate at their market, and where their food comes from. The directory can be embedded in your own website.
 
 ## Steps for setting up a Farmer's Market Group Page
 

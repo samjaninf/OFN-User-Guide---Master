@@ -10,7 +10,7 @@ When you first create the product, fill out the details of one of your product v
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Corn-cobs.png)
 
-On the **Bulk Edit Products **page, you will see the previously created product ‘corn cobs’. By clicking on the plus symbol to the left of the product, a new variant will be created below. Because we will have two variants, we’ll need to click this button twice \(the original does not count once a variant is created\). You’ll now see two additional rows appear below the original product.
+On the **Bulk Edit Products** page, you will see the previously created product ‘corn cobs’. By clicking on the plus symbol to the left of the product, a new variant will be created below. Because we will have two variants, we’ll need to click this button twice \(the original does not count once a variant is created\). You’ll now see two additional rows appear below the original product.
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Add-variant.png)
 
@@ -18,13 +18,13 @@ The top row represents this collection of variants. The name in this row, Corn C
 
 The second row, will be the first variant \(1 Corn Cob, for 80c\).
 
-* The **name **column will be automatically filled, from the original product. However, we want to overwrite this to say
+* The **name** column will be automatically filled, from the original product. However, we want to overwrite this to say
 
   _Corn Cob_, instead of _Corn Cobs._
 
-* In the **unit/value **column, we type 1 because this variant is for an individual cob.
-* The **display as **column will automatically fill with ‘1 Corn Cobs’ in the store. This isn’t quite right, so we can overwrite this with _1 corn cob._
-* Enter the **price **for this 1 Corn Cob \(.80\)
+* In the **unit/value** column, we type 1 because this variant is for an individual cob.
+* The **display as** column will automatically fill with ‘1 Corn Cobs’ in the store. This isn’t quite right, so we can overwrite this with _1 corn cob._
+* Enter the **price** for this 1 Corn Cob \(.80\)
 * Lastly indicate what quantity of this product you have **on hand.**
 
 \*Note: If you leave the on hand field blank or as zero, the product will not be shown in your store, as it's out of stock.
@@ -33,11 +33,11 @@ The third row, will be for the second variant \(5 cobs for $3\).
 
 * Because we want this variant to display as ‘5 corn cobs’, we can accept the automatically filled
 
-  \_Corn Cobs \_in the **name **column.
+  \_Corn Cobs \_in the **name** column.
 
-* In the **unit/value **column, we type _5._
-* The **display as **column will automatically fill with _5 Corn Cobs _, which is correct.
-* Enter the **price **for 5 corn cobs \($3\)
+* In the **unit/value** column, we type _5._
+* The **display as** column will automatically fill with _5 Corn Cobs_ , which is correct.
+* Enter the **price** for 5 corn cobs \($3\)
 * Lastly indicate what quantity of this product you have on hand.
 
 Note: You can add as many variants as you like.

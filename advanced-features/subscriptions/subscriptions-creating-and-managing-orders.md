@@ -24,31 +24,31 @@ Once you have configured the above, you’re ready to setup individual subscript
 
 ## Create subscriptions
 
-Click on **Orders **in the blue horizontal menu and then select **Subscriptions** in the green sub-menu.
+Click on **Orders** in the blue horizontal menu and then select **Subscriptions** in the green sub-menu.
 
 Click **+ New Subscription** to setup a recurring order for your customer.
 
 ![](../../.gitbook/assets/new-subscription-basic-details.png)
 
-**Customer: **
+**Customer:** 
 
 Select a customer from the drop-down list.
 
 \* You can only create a subscription for a customer who is on your[Customer List](https://openfoodnetwork.org/user-guide/advanced-features/customer-accounts-and-tagging/).
 
-**Schedule: **Select the schedule, or order cycle group, that this customer wants to subscribe to.
+**Schedule:** Select the schedule, or order cycle group, that this customer wants to subscribe to.
 
 {% hint style="info" %}
 you must have created a schedule of order cycles before you can create a subscription. Instructions [here](subscriptions-configuration.md).
 {% endhint %}
 
-**Payment method: **Select the customer’s preferred payment method. This must be either Stripe or a manual payment method such as cash. Paypal and Pin Payments are not supported for subscriptions. \(IS THIS CORRECT?\)
+**Payment method:** Select the customer’s preferred payment method. This must be either Stripe or a manual payment method such as cash. Paypal and Pin Payments are not supported for subscriptions. \(IS THIS CORRECT?\)
 
-**Shipping method: **Select the customer’s preferred shipping method.
+**Shipping method:** Select the customer’s preferred shipping method.
 
-**Begins at: **This is the date that the customer’s subscription will start to be generated. \(WHAT IF THIS DATE FALLS MID WAY THROUGH AN OC?\)
+**Begins at:** This is the date that the customer’s subscription will start to be generated. \(WHAT IF THIS DATE FALLS MID WAY THROUGH AN OC?\)
 
-**Ends at: **After this date the customer’s standing orders will no longer be generated. This field is optional, if left blank the will continue to be generate indefinitely.
+**Ends at:** After this date the customer’s standing orders will no longer be generated. This field is optional, if left blank the will continue to be generate indefinitely.
 
 _**\(?\) clarification about what happens if a SO is created during an open OC etc. Exact function of starting and ending dates.**_
 
@@ -76,7 +76,7 @@ Check that details are correct and then click Create Subscription or Cancel.
 
 From the 
 
-**Subscriptions **
+**Subscriptions** 
 
 page, click on the 
 
@@ -104,7 +104,7 @@ This will reveal all upcoming orders in the schedule, and you can then edit a sp
 
 ### Pause a subscription
 
-From the subscriptions page, click on the **pause **button next to the subscriptions you wish to pause. This will prevent all future orders in the subscription from being generated, until it is activated again. To un-pause a subscriptions, click on the play button.
+From the subscriptions page, click on the **pause** button next to the subscriptions you wish to pause. This will prevent all future orders in the subscription from being generated, until it is activated again. To un-pause a subscriptions, click on the play button.
 
 {% hint style="info" %}
  If you pause a subscription while an order cycle is still open, you'll be asked whether you'd like to keep the current order or not. If you un-pause a subscription while an OC is open an order will be generated for this customer if they're subscribed to that schedule.
@@ -114,7 +114,7 @@ From the subscriptions page, click on the **pause **button next to the subscript
 
 ### Delete a subscription
 
-From the **subscription **page, click the **cross **button next to the subscription you wish to delete. This will prevent any future subscriptions from being generated and delete this subscription permanently.
+From the **subscription** page, click the **cross** button next to the subscription you wish to delete. This will prevent any future subscriptions from being generated and delete this subscription permanently.
 
 ![Delete standing order](https://openfoodnetwork.org/wp-content/uploads/2017/03/Delete-standing-order.png)
 

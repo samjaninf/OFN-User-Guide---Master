@@ -1,6 +1,6 @@
 # Reports
 
-Access reports by clicking on **Reports **in the horizontal heading.
+Access reports by clicking on **Reports** in the horizontal heading.
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Access-Reports.png)
 
@@ -8,17 +8,17 @@ This will take you to a table listing all of the reports available.
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Reports-table.png)
 
-The two most useful and commonly used reports are the **Order Cycle Supplier Totals **and the **Order Cycle Customer Totals**. If you plan to fulfill orders on a indivdual basis, the Order Cycle Customer Totals report will be most relevant to you. If you intend to fulfill orders in batches corresponding to an order cycle routine, the Order Cycle Supplier Totals will also be useful. The **Mailing List **and **Addresses **reports are also helpful for managing your customer’s details. The **Sales Tax **report is useful for enterprises dealing with GST reporting. Finally, the **Bulk Co-op **report helps with bulk ordering decision making.
+The two most useful and commonly used reports are the **Order Cycle Supplier Totals** and the **Order Cycle Customer Totals**. If you plan to fulfill orders on a indivdual basis, the Order Cycle Customer Totals report will be most relevant to you. If you intend to fulfill orders in batches corresponding to an order cycle routine, the Order Cycle Supplier Totals will also be useful. The **Mailing List** and **Addresses** reports are also helpful for managing your customer’s details. The **Sales Tax** report is useful for enterprises dealing with GST reporting. Finally, the **Bulk Co-op** report helps with bulk ordering decision making.
 
 ## Order Cycle Customer Totals
 
-The picture below shows the information contained in an Order Cycle Customer Totals report. This report can be generated to reflect a particular order cycle by selecting an order cycle from the dropdown menu. As you can see, you may also select to download a CSV copy of this report \(an excel file\). The report shows each customers order, including thier email and contact details, the **product **they ordered, the **amount,**the **item \($\) **and the TOTAL. Lastly it also shows the shipping method they have selected. If you are fulfilling orders on an individual basis, this report gives you all the information to pack the order, contact the customer and arrange for delviery or collection. If you are preparing orders in bulk at the closing of an order cycle, this report can be used to guide your packing and delivery.
+The picture below shows the information contained in an Order Cycle Customer Totals report. This report can be generated to reflect a particular order cycle by selecting an order cycle from the dropdown menu. As you can see, you may also select to download a CSV copy of this report \(an excel file\). The report shows each customers order, including thier email and contact details, the **product** they ordered, the **amount,**the **item \($\)** and the TOTAL. Lastly it also shows the shipping method they have selected. If you are fulfilling orders on an individual basis, this report gives you all the information to pack the order, contact the customer and arrange for delviery or collection. If you are preparing orders in bulk at the closing of an order cycle, this report can be used to guide your packing and delivery.
 
 ![Order Cycle Customer Totals report](https://openfoodnetwork.org/wp-content/uploads/2015/05/Order-Cycle-Customer-Totals.png)
 
 ## Order Cycle Supplier Totals
 
-The picture below shows the information contained in an Order Cycle Supplier Totals report. Like the above report, this report can also be generated to reflect a particular order cycle by selecting an order cycle from the dropdown menu. As you can see, you may also select to download a CSV copy of this report \(an excel file\). In the report, the supplier is listed on the left. Next is listed all of the **products **and their **variants**, and the **amount** of each that sold. At the closing of an order cycle, this report clearly shows you how much of each product you will need on hand to successfully pack and fulfill all of the orders placed.
+The picture below shows the information contained in an Order Cycle Supplier Totals report. Like the above report, this report can also be generated to reflect a particular order cycle by selecting an order cycle from the dropdown menu. As you can see, you may also select to download a CSV copy of this report \(an excel file\). In the report, the supplier is listed on the left. Next is listed all of the **products** and their **variants**, and the **amount** of each that sold. At the closing of an order cycle, this report clearly shows you how much of each product you will need on hand to successfully pack and fulfill all of the orders placed.
 
 ![Order Cycle Supplier Totals report](https://openfoodnetwork.org/wp-content/uploads/2015/05/Order-Cycle-Supplier-Totals.png)
 
@@ -44,7 +44,7 @@ The All Products and Inventory \(on hand\) reports can be used as a paper copy o
 
 Some enterprises use their order confirmation emails as packing sheets, and others will create their own by modifying the Order Cycle Customer Totals report \(above\) to suit their desired format. These packing reports offer two additional options for packing slips.
 
-**Pack by Customer **
+**Pack by Customer** 
 
 This report lists each customer who placed an order. It included each item ordered by the customers, along with the quantity ordered. It’s useful for shops who pack orders customer by customer.
 
@@ -66,13 +66,13 @@ This report creates CSV files which can be imported into the accounting package 
 
 ![Xero Report fields](https://openfoodnetwork.org/wp-content/uploads/2015/05/Xero-Report.png)
 
-**Date range: **You can filter orders by the date placed.
+**Date range:** You can filter orders by the date placed.
 
 **Report type:**You can select to download a ‘detailed’ report, which includes a line item for each item the customer purchased, including any fees and adjustments to their order.
 
-**Hub and order cycle: **As with all reports, the data can be filtered by the Hub when orders were placed and the order cycle they were in.
+**Hub and order cycle:** As with all reports, the data can be filtered by the Hub when orders were placed and the order cycle they were in.
 
-**Initial invoice number: **You want these new invoices to be numbered according to where you Xero invoice numbering system is at. So check in invoice what the last invoice number was and then type the next number into this field. This will mean that subsequent invoices will be numbered from this point.
+**Initial invoice number:** You want these new invoices to be numbered according to where you Xero invoice numbering system is at. So check in invoice what the last invoice number was and then type the next number into this field. This will mean that subsequent invoices will be numbered from this point.
 
 **Invoice date:** You can select the date that you want the invoices to be marked with in Xero. This is editable once you have the invoice in Xero, but doing it here allows you to date multiple invoices at once.
 
@@ -80,11 +80,11 @@ This report creates CSV files which can be imported into the accounting package 
 
 **Account code:** If you place a Xero account code here, all items in the invoice will be assigned to this account. This it aditable in Xero.
 
-**Download as CSV: **When you are ready to download the file for import click this box and hit the **search **button.
+**Download as CSV:** When you are ready to download the file for import click this box and hit the **search** button.
 
 ### Importing the report into Xero
 
-In Xero go to **Accounts**, **Sales **and click Import.
+In Xero go to **Accounts**, **Sales** and click Import.
 
 ![Xero Import](https://openfoodnetwork.org/wp-content/uploads/2015/05/Xero-Import.png)
 

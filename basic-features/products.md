@@ -2,7 +2,7 @@
 
 ## Adding products
 
-Click on **Products **on the horizontal blue menu, and then click **+ New Product**.
+Click on **Products** on the horizontal blue menu, and then click **+ New Product**.
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Add-new-product.png)
 
@@ -10,7 +10,7 @@ This will take you to the New Product page.
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/New-Product2.png)
 
-**Supplier **
+**Supplier** 
 
 Select the enterprise who produces and supplies the product.
 
@@ -18,9 +18,9 @@ Select the enterprise who produces and supplies the product.
 If you are a producer, this will be you. If you're a hub, remember you’ll only be able to add products to producer profiles which you have created, or if you have been granted permission to manage the products of a producer profile. See [here](create-or-connect-with-your-supplying-producers.md) for more info.
 {% endhint %}
 
-**Product name: ** Add a title. This is how the product will be displayed in the store.
+**Product name:**  Add a title. This is how the product will be displayed in the store.
 
-**Units: **Choose what unit the product is sold in? \(g, kg, L… or item \(bunch, bag, packet\)\)
+**Units:** Choose what unit the product is sold in? \(g, kg, L… or item \(bunch, bag, packet\)\)
 
 **Value:** Choose in what value the product is sold in \(ie 100g, 2L, 1 bunch\)
 
@@ -52,7 +52,7 @@ Use this field if you want to track your stock levels. As customers place orders
  We strongly recommend to use clear, accurate and beautiful images of your products. It will make the product more appealing to customers.
 {% endhint %}
 
-**Tax category:** If you would like the price of this product to include GST, select **GST **from the drop-down menu. The producer and shop enterprise must be set to charge GST in the [Enterprise Settings](enterprise-settings.md) to do this. If you leave this field blank, or select **none**, or not set the enterprise as being GST registered, the price will not include GST.
+**Tax category:** If you would like the price of this product to include GST, select **GST** from the drop-down menu. The producer and shop enterprise must be set to charge GST in the [Enterprise Settings](enterprise-settings.md) to do this. If you leave this field blank, or select **none**, or not set the enterprise as being GST registered, the price will not include GST.
 
 ### Listing similar products using 'Variants'
 
@@ -62,7 +62,7 @@ For example, if you sell lemons for 60c each, or 5 for $2.50, you can create two
 
 Once you have completed a product, click **create**, or if you’d like to add more, click **create and add another**.
 
-When you click **create**, you will be taken to your **Bulk Edit Product **page, where you will see a summary of all of your products.
+When you click **create**, you will be taken to your **Bulk Edit Product** page, where you will see a summary of all of your products.
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Bulk-Edit-Products1.png)
 

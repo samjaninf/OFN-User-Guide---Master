@@ -1,6 +1,6 @@
 # Order Cycles \(for Producers\)
 
-_\*Not a producer? Go to _[_Order Cycles for hubs_](https://github.com/ofn-user-guide/ofn-user-guide-master/tree/d5a1113e673b0e22198ca207b1db61339799868a/order-cycles.md)_._
+_\*Not a producer? Go to_ [_Order Cycles for hubs_](https://github.com/ofn-user-guide/ofn-user-guide-master/tree/d5a1113e673b0e22198ca207b1db61339799868a/order-cycles.md)_._
 
 In Open Food Network, Order Cycles are where shop managers open their shop. This involves selecting which of their products are in stock, what fees are applied and what dates the shop will open and close.
 
@@ -18,8 +18,8 @@ Note you cannot create an order cycle until you have set up [shipping ](shipping
 
 ![](../.gitbook/assets/producer-oc.png)
 
-**  
-Name: **Choose a name for this order cycle. This will only be visible to you, so it can be named anything which is meaningful for you. We recommend that you follow a consistent naming protocol e.g FoodHub\_Week27\_2014.
+  
+**Name:** Choose a name for this order cycle. This will only be visible to you, so it can be named anything which is meaningful for you. We recommend that you follow a consistent naming protocol e.g FoodHub\_Week27\_2014.
 
 **Orders Open:** This is the date at which your OFN store will be open, and start to accept orders.
 
@@ -57,8 +57,8 @@ For periodic, repetitive order cycles, you can copy an existing order cycle and 
 
 Order cycles will display as green when they are active, yellow when schedules for a future date, and grey when they have closed. When an order cycle close over one month ago, it will no longer display on this list. To view all of your past order cycles click ‘show more’ at the top of the list.
 
-**Advanced Settings    
-**These settings are relevant for multi distributor order cycles. See [Inventory ](../advanced-features/products/inventory-tool.md)for details of these settings.
+**Advanced Settings**    
+These settings are relevant for multi distributor order cycles. See [Inventory ](../advanced-features/products/inventory-tool.md)for details of these settings.
 
 ### Related advanced features:
 

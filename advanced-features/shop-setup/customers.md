@@ -1,6 +1,6 @@
 # Customers
 
-In the blue horizontal menu you'll find the **Customers **tab.
+In the blue horizontal menu you'll find the **Customers** tab.
 
 The customers tab contains a list of all of your shop's customers. Here you can maintain information about your customers such as their shipping/billing address, tags, codes and their name.
 

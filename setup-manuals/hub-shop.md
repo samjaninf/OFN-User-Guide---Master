@@ -53,11 +53,11 @@ If your supplying producer already had a profile, you may or may not need to add
 
 If your supplying producer has a profile, but hasn’t added their product range, you’ll need to first get their permission to manage their products and stock them in your shop. Then, you can [add their products](../basic-features/products.md).
 
-**Once you've setup your shipping and payment methods, and added your products, you can open your shopfront    
-**8\) Open your shop by opening an [order cycle](../basic-features/order-cycles-for-hubs.md).
+**Once you've setup your shipping and payment methods, and added your products, you can open your shopfront**    
+8\) Open your shop by opening an [order cycle](../basic-features/order-cycles-for-hubs.md).
 
-**Once you've received orders in your shop, you can see orders and use the reports.    
-**  
+**Once you've received orders in your shop, you can see orders and use the reports.**    
+  
 9\) View and edit [orders](../advanced-features/orders/).
 
 10\) [View reports](../basic-features/reports.md). You may use the reports to generate packing sheets, invoices and or mailing lists.

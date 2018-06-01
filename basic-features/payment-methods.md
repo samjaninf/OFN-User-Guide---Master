@@ -8,9 +8,9 @@
 
 1\) Go to the payment methods page.
 
-Click **Enterprises **in the blue horizontal menu, and then click **Manage **next to your enterprise. Then, click **Payment methods** in the menu on the left hand side.
+Click **Enterprises** in the blue horizontal menu, and then click **Manage** next to your enterprise. Then, click **Payment methods** in the menu on the left hand side.
 
-2\) Click on the **create new payment method **button.
+2\) Click on the **create new payment method** button.
 
 3\) Tick your enterprise, in the box on the right hand side of the page titled Hubs. This indicates which enterprise the payment method you are about to create will apply to. You can select more than one enterprise.
 
@@ -22,7 +22,7 @@ The screenshot below shows a payment methods display at checkout. The customer h
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Payment-at-checkout.png)
 
-6\) **Active: **Select whether this payment method is currently visible and available, or not.
+6\) **Active:** Select whether this payment method is currently visible and available, or not.
 
 7\) **Tags:** Use tag rules if you want to make certain payment methods available/unavailable for specific customers \(e.g. wholesale vs retail\). See [tags and tag rules](../advanced-features/shop-setup/tags-and-tag-rules.md) for more information.
 
@@ -67,13 +67,13 @@ To setup a PayPal payment method, you need a PayPal business or merchant account
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/New-Payment-Paypal-1.png)
 
-**Server: **Change the ‘server’ field to ‘live’ – this is case sensitive.
+**Server:** Change the ‘server’ field to ‘live’ – this is case sensitive.
 
-**Solution: **Solution determines whether or not a user needs a PayPal account to check out.
+**Solution:** Solution determines whether or not a user needs a PayPal account to check out.
 
 Type “Mark” if you do want users to have a paypal account, or “Sole” if they can checkout without a Paypal account \(with credit card\).
 
-**Landing Page: **You can select which page to show customers once they’re redirected to PayPal.
+**Landing Page:** You can select which page to show customers once they’re redirected to PayPal.
 
 Type “Login” to direct customer to the login form for PayPal \(if you selected “Mark” above\). Or type “Billing” to show show customers a form where they can enter their credit card data and possibly sign up for a PayPal account \(if you selected “Sole” above\).
 {% endtab %}
@@ -93,7 +93,7 @@ Stripe is simple to setup for shop owners, and is reasonably priced. The fees ch
 
 Stripe is also easy for customers to use. Unlike Paypal, when the customer checks out, they don’t need to login with Paypal to place their order, rather they just need to enter their card details and then complete their order.
 
-Stripe is the recommended payment method for shops who wish to use **subscriptions **on OFN, as Stripe allows customers to give permission to a shop to automatically bill their credit card for future subscription orders. This isn’t offered by Paypal, Pin or MIGS payment platforms.
+Stripe is the recommended payment method for shops who wish to use **subscriptions** on OFN, as Stripe allows customers to give permission to a shop to automatically bill their credit card for future subscription orders. This isn’t offered by Paypal, Pin or MIGS payment platforms.
 
 #### Setup
 
@@ -111,9 +111,9 @@ The information you’ll be asked for includes: country, a description of your b
 
 Once you’ve connected with Stripe, you can then create a payment method which will work with your connected account.
 
-Treat the **Name**, **Description**, **Active **and **Tags **fields as you would with any payment method.
+Treat the **Name**, **Description**, **Active** and **Tags** fields as you would with any payment method.
 
-**Provider: **Select Stripe.
+**Provider:** Select Stripe.
 
 Once you select Stripe, ‘Provider Settings’ will be shown.
 
@@ -161,7 +161,7 @@ _Note: Payment method fees do not include tax._
 
 #### Fee Calculators
 
-**Flat Percent: ** This fee is charged as a percentage of the total amount charged in the order.
+**Flat Percent:**  This fee is charged as a percentage of the total amount charged in the order.
 
 **Flat Rate \(per order\):** This fee is applied as standard fee to all orders, regardless of the size of the order.
 

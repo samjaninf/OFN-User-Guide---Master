@@ -40,7 +40,7 @@ If you want to change or add any details to your profile, continue to [Enterpris
 
 ### Changing Package
 
-You can change your package at any time in the future. This can be done by clicking the ‘**Change package**‘ button on the [dashboard](dashboard.md). Or you can change your producer/non producer status and package by selecting **Enterprise **on the blue horizontal banner, and then editing your enterprise’s settings \(see below\).
+You can change your package at any time in the future. This can be done by clicking the ‘**Change package**‘ button on the [dashboard](dashboard.md). Or you can change your producer/non producer status and package by selecting **Enterprise** on the blue horizontal banner, and then editing your enterprise’s settings \(see below\).
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Change-package.png)
 

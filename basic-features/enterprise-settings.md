@@ -9,17 +9,17 @@ Enterprise Setting is where you can manage details relating to your profile and/
 
 ### Primary Details
 
-**Name: **This is the name of your enterprise. It will be the title of your profile \(and store\).
+**Name:** This is the name of your enterprise. It will be the title of your profile \(and store\).
 
-**Primary Producer: **Select the producer box if you are a producer. If your organisation is involved in the local food movement in another capacity, don't select this box \(e.g. food hub, coop, farmer's market, advocacy group\).
+**Primary Producer:** Select the producer box if you are a producer. If your organisation is involved in the local food movement in another capacity, don't select this box \(e.g. food hub, coop, farmer's market, advocacy group\).
 
 \*_Note: only enterprises marked as producers can add products to OFN. Hubs only need to select this option when they sell mixed boxes which they pack, that include items from multiple producers._
 
-**Visible in Search: **If your profile is ready to go public, select visible, and it will show in the OFN's directory and map. If you’re still making adjustments, select not visible, until you are ready.
+**Visible in Search:** If your profile is ready to go public, select visible, and it will show in the OFN's directory and map. If you’re still making adjustments, select not visible, until you are ready.
 
-**Permalink: **You can customise part of the web address which will host to your shop.
+**Permalink:** You can customise part of the web address which will host to your shop.
 
-**Link to Shop Front: **This is the web address of your shop on the OFN \(if you've chosen a package with shopfront\). You can customise the URL above.
+**Link to Shop Front:** This is the web address of your shop on the OFN \(if you've chosen a package with shopfront\). You can customise the URL above.
 
 ### Address
 
@@ -27,19 +27,19 @@ This information is used to map your enterprise the OFN map. Your exact address 
 
 ### Contact
 
-**Contact Name: **We ask for a contact name for the OFN’s records. This name will not be displayed on your profile, but will be included in order confirmation emails if you're running a shop.
+**Contact Name:** We ask for a contact name for the OFN’s records. This name will not be displayed on your profile, but will be included in order confirmation emails if you're running a shop.
 
-**Email and Phone and Website: **These contact points will be listed on your OFN profile and shopfront, as a means for others to make contact with you.
+**Email and Phone and Website:** These contact points will be listed on your OFN profile and shopfront, as a means for others to make contact with you.
 
 ### Social
 
-**Facebook address, Instagram, LinkedIn, Twitter: **Links to these pages will be created on your profile and shopfront.
+**Facebook address, Instagram, LinkedIn, Twitter:** Links to these pages will be created on your profile and shopfront.
 
 ### About
 
-**Short description: **This will be displayed when your profile is viewed in the list. It should be under 1-2 sentences which briefly describe what you do.
+**Short description:** This will be displayed when your profile is viewed in the list. It should be under 1-2 sentences which briefly describe what you do.
 
-**About Us: **This is a longer description of your enterprise. It will be shown when your profile is viewed in full. It should be half to one page long.
+**About Us:** This is a longer description of your enterprise. It will be shown when your profile is viewed in full. It should be half to one page long.
 
 ### Business Details
 
@@ -51,9 +51,9 @@ This information is used to map your enterprise the OFN map. Your exact address 
 
 ### Images
 
-**Logo image: **This will be visible when your profile is viewed in brief, as a pop up window. It will also show on your profile. This image must be square, or it will be cropped/warped.
+**Logo image:** This will be visible when your profile is viewed in brief, as a pop up window. It will also show on your profile. This image must be square, or it will be cropped/warped.
 
-**Promo image: **This image will run horizontally along the top of your profile page. It should be 1200 x 260 pixels in size.
+**Promo image:** This image will run horizontally along the top of your profile page. It should be 1200 x 260 pixels in size.
 
 An example profile is shown below.
 
@@ -65,11 +65,11 @@ You can apply properties \(such as free range or certified organic\) to your ent
 
 ### Users
 
-**Owner: **This is the primary user responsible for this enterprise. They have the power to change all aspects of the profile.
+**Owner:** This is the primary user responsible for this enterprise. They have the power to change all aspects of the profile.
 
 **Notifications:** This is the email address where OFN system correspondence will be directed, i.e. order confirmations etc. If this email differs from your login email, you will need to confirm the email address. This user will have an envelope symbol next to their name in the mangers field.
 
-**Manager: **Other OFN users who have been granted permission to manage this account. Want to add a new manager? You can search for existing emails of users who have registered for an OFN account and add them as managers.
+**Manager:** Other OFN users who have been granted permission to manage this account. Want to add a new manager? You can search for existing emails of users who have registered for an OFN account and add them as managers.
 
 **Invite manager:** This is for adding a manager who is not registered with OFN. When you add them, they'll be sent an email confirmation and when they confirm their email they'll be able to set a password, and login to administer this enterprise.
 
@@ -111,5 +111,5 @@ _\* not visible to profile-only users_
 
 **Shopfront Category Ordering**: The products within your store are arranged alphabetically, within their product category. You can order the product categories as you’d like them to appear, from top to bottom in your store. E.g. you may wish to have your Meat & Fish products to appear at the top, with your less important Pickles & Preseves appearing further down the shopfront.
 
-**Sort order cycles on shopfront by: **If your shopfront will have [more than one order cycle open at the same time](../advanced-features/order-cycles/opening-more-than-one-order-cycle.md) you can select which order they appear in the shopfront. You may sorted them by closing date \(closing soonest first\) or by opening date \(opening soonest first\).
+**Sort order cycles on shopfront by:** If your shopfront will have [more than one order cycle open at the same time](../advanced-features/order-cycles/opening-more-than-one-order-cycle.md) you can select which order they appear in the shopfront. You may sorted them by closing date \(closing soonest first\) or by opening date \(opening soonest first\).
 

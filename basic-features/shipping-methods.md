@@ -8,7 +8,7 @@
 
 **1\)** Go to the shipping methods page.
 
-Click **Enterprises **in the blue horizontal menu, and then click **Manage **next to your enterprise. Then, click **Shipping Methods** in the menu on the left hand side.
+Click **Enterprises** in the blue horizontal menu, and then click **Manage** next to your enterprise. Then, click **Shipping Methods** in the menu on the left hand side.
 
 **2\)** Click the **create new shipping method** button.
 
@@ -22,23 +22,23 @@ Click **Enterprises **in the blue horizontal menu, and then click **Manage **nex
 
 ![The customer&apos;s view of a shipping method at checkout](https://openfoodnetwork.org/wp-content/uploads/2015/05/Shipping-view-at-checkout.png)
 
-**6\) Zone: **Select the appropriate zone.
+**6\) Zone:** Select the appropriate zone.
 
-**7\) Category: **Is this method a delivery or pick-up?
+**7\) Category:** Is this method a delivery or pick-up?
 
-**8\) Tags: **You can make shipping methods visible/invisible to certain customers by using [tags and tag rules](../advanced-features/shop-setup/tags-and-tag-rules.md).
+**8\) Tags:** You can make shipping methods visible/invisible to certain customers by using [tags and tag rules](../advanced-features/shop-setup/tags-and-tag-rules.md).
 
-**9\) Calculator: **Select the way that shipping fees will be applied to this shipping method. Note that a shipping fee can be zero.
+**9\) Calculator:** Select the way that shipping fees will be applied to this shipping method. Note that a shipping fee can be zero.
 
-By clicking **Create, **the shipping method will be created, and you will then be provided with new fields, to add details of the shipping method charges. The fields presented will depend upon which shipping fee calculator you have selected. As indicated, if you are changing the calculator type, you must save first before you can edit the calculator settings.
+By clicking **Create,** the shipping method will be created, and you will then be provided with new fields, to add details of the shipping method charges. The fields presented will depend upon which shipping fee calculator you have selected. As indicated, if you are changing the calculator type, you must save first before you can edit the calculator settings.
 
 ### Fee Calculators
 
-**Weight \(per kg\) **– this fee is applied to products on a per kg basis. The fee will only be applied to products which are priced at a per kg rate, not products listed as items \(e.g. A product listed as ‘1 bunch of parsley’ will not receive this fee\)
+**Weight \(per kg\)** – this fee is applied to products on a per kg basis. The fee will only be applied to products which are priced at a per kg rate, not products listed as items \(e.g. A product listed as ‘1 bunch of parsley’ will not receive this fee\)
 
-**Flat Percent **– This fee is charged as a percentage of the total amount charged in the order.
+**Flat Percent** – This fee is charged as a percentage of the total amount charged in the order.
 
-**Flat Rate \(per order\) **– This fee is applied as standard fee to all orders, regardless of the size of the order.
+**Flat Rate \(per order\)** – This fee is applied as standard fee to all orders, regardless of the size of the order.
 
 **Flexible Rate** – This calculator is typically used for promotional discounts where you charge a reduced fee as the customer makes more purchases.
 
@@ -50,7 +50,7 @@ For example: If the first cost is $2, Additional Item Cost is $1 and the maximum
 
 **Flat Rate \(per item\)** – This fee is a constant fee, applied to products listed as ‘items’. \(it will not be applied to products listed as per kg, or per L\)
 
-**Price Sack **– This fee is used to charge a discount on fees for orders which exceed a certain dollar amount.
+**Price Sack** – This fee is used to charge a discount on fees for orders which exceed a certain dollar amount.
 
 * ‘Minimum Amount’: If the order’s total is below this amount, they will be charged the ‘Normal Amount’.
 * ‘Discount Amount’: Orders which are equal to or greater than the minimum amount will be charged the ‘Discount Amount’.

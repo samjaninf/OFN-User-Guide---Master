@@ -6,14 +6,14 @@ Multi-producer pre-orders is a particular model of selling food direct from farm
 
 ## What does it do?
 
-**A single shop, with food from many producers    
-**You can stock food from lots of producers in the one place, giving customers convenience and variety.
+**A single shop, with food from many producers**    
+You can stock food from lots of producers in the one place, giving customers convenience and variety.
 
-**Minimal central administration    
-**Producers who are participating in the shop can take on some of the admin tasks of the shop, including updating their product availability and prices. This reduces the tasks for the central administrator. Alternatively, suppliers can be hands off, and a coordinator can take on these tasks.
+**Minimal central administration**    
+Producers who are participating in the shop can take on some of the admin tasks of the shop, including updating their product availability and prices. This reduces the tasks for the central administrator. Alternatively, suppliers can be hands off, and a coordinator can take on these tasks.
 
-**Easily communicate with producres    
-**Use our reports to let each producer know what's been ordered from them, and to calculate their sales total.
+**Easily communicate with producres**    
+Use our reports to let each producer know what's been ordered from them, and to calculate their sales total.
 
 ### An example of this model in action
 
@@ -47,11 +47,11 @@ Setup of the collective shop is the same as setting up a hub shop.
 
 6\) Define any [enterprise fees ](../basic-features/enterprise-fees.md)you want to apply in your shop. For example if you have a central coordinator, you may wish to take a small fee to cover their time.
 
-**7\) Producer profiles and products. **  
+**7\) Producer profiles and products.**   
 Before you can add in the shop's products, each participating producer needs to have a profile which the products can be tied to. There are different ways to setup the producer profiles, depending on how much control the central coordinator wants to maintain, and how much time they have to setup the profiles.
 
-**a\) High coordinator involvement option    
-**If you have a central coordinator taking the role of setting up the shop, they can [create profiles on behalf of the producers](../basic-features/create-or-connect-with-your-supplying-producers.md). This is more time consuming for the coordinator, but it gives them control in making sure the profiles are setup correctly and in a visually appealing way. Before doing this the coordinator should let producers know, and get their profile information from them. This option may also be necessary for producers who are not tech savvy and would struggle to be involved otherwise.
+**a\) High coordinator involvement option**    
+If you have a central coordinator taking the role of setting up the shop, they can [create profiles on behalf of the producers](../basic-features/create-or-connect-with-your-supplying-producers.md). This is more time consuming for the coordinator, but it gives them control in making sure the profiles are setup correctly and in a visually appealing way. Before doing this the coordinator should let producers know, and get their profile information from them. This option may also be necessary for producers who are not tech savvy and would struggle to be involved otherwise.
 
 If your producers already have profiles, you need to [connect with them](../basic-features/create-or-connect-with-your-supplying-producers.md). The producer can grant different levels of permission to the shop, you should let them know if you want access to stock their products in your shop, or if you also want to be able to edit their profile, and their products, or add their products to inventory.
 
@@ -70,8 +70,8 @@ Once the producers have setup their profiles, you'll need to [connect with them]
 
 11\) View [reports](../basic-features/reports.md). This page offers a broad description of OFN's reports.
 
-**Which reports are useful to multifarm shops?    
-**Generally, at the close of an order cycle the central coordinator will need to be responsible for letting each producer know how much stock has been ordered by them, and by which customer. Then each producer can pack the stock ready for delivery.
+**Which reports are useful to multifarm shops?**    
+Generally, at the close of an order cycle the central coordinator will need to be responsible for letting each producer know how much stock has been ordered by them, and by which customer. Then each producer can pack the stock ready for delivery.
 
 The order cycle customer total report lists each customer's order, with each item they ordered. The report should be filtered by producer and downloaded as a CSV. This will tell the producer which items were ordered by which customer.
 

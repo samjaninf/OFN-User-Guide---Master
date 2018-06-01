@@ -8,7 +8,7 @@ Depending on what kind of fee calculator you select, an enterprise fee is applie
 
 ### Accessing Enterprise Fees
 
-Click **Enterprises **in the blue horizontal menu, and then click **Manage **next to your enterprise. Then, click **Enterprise Fees** in the menu on the left hand side.
+Click **Enterprises** in the blue horizontal menu, and then click **Manage** next to your enterprise. Then, click **Enterprise Fees** in the menu on the left hand side.
 
 ### Adding Enterprise Fees
 
@@ -20,7 +20,7 @@ The second step is to apply the fee to an order cycle. If the fee is not applied
 
 **Enterprise:** In the first column, select the enterprise who will receive this fee.
 
-**Fee Type: **Select the service that this fee applied to.
+**Fee Type:** Select the service that this fee applied to.
 
 **Name:**Choose a name for this fee.
 
@@ -34,11 +34,11 @@ Click Update, to create the enterprise fee. Once the fee has been created you ca
 
 ![Fee calculators](https://openfoodnetwork.org/wp-content/uploads/2015/05/Fee-calculators.png)
 
-**Weight \(per kg\) **– this fee is applied to products on a per kg basis. The fee will only be applied to products which are priced at a per kg rate, not products listed as items \(e.g. A product listed as ‘1 bunch of parsley’ will not receive this fee\)
+**Weight \(per kg\)** – this fee is applied to products on a per kg basis. The fee will only be applied to products which are priced at a per kg rate, not products listed as items \(e.g. A product listed as ‘1 bunch of parsley’ will not receive this fee\)
 
-**Flat Percent **– This fee is charged as a percentage of the total amount charged in the order.
+**Flat Percent** – This fee is charged as a percentage of the total amount charged in the order.
 
-**Flat Rate \(per order\) **– This fee is applied as standard fee to all orders, regardless of the size of the order.
+**Flat Rate \(per order\)** – This fee is applied as standard fee to all orders, regardless of the size of the order.
 
 **Flexible Rate** – This calculator is typically used for promotional discounts where you charge a reduced fee as the customer makes more purchases.
 
@@ -50,7 +50,7 @@ For example: If the first cost is $2, Additional Item Cost is $1 and the maximum
 
 **Flat Rate \(per item\)** – This fee is a constant fee, applied to products listed as ‘items’. \(it will not be applied to products listed as per kg, or per L\)
 
-**Price Sack **– This fee is used to charge a discount on fees for orders which exceed a certain dollar amount.
+**Price Sack** – This fee is used to charge a discount on fees for orders which exceed a certain dollar amount.
 
 * ‘Minimum Amount’: If the order’s total is below this amount, they will be charged the ‘Normal Amount’.
 * ‘Discount Amount’: Orders which are equal to or greater than the minimum amount will be charged the ‘Discount Amount’.

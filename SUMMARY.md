@@ -41,6 +41,7 @@
     * [Tags and Tag Rules](advanced-features/shop-setup/tags-and-tag-rules.md)
     * [Embedded Shopfront](advanced-features/shop-setup/embedded-shopfront.md)
     * [Thermally printed receipts](advanced-features/shop-setup/thermally-printed-receipts.md)
+    * [Paying suppliers](advanced-features/shop-setup/paying-suppliers.md)
   * [Collaboration with other enterprises](advanced-features/collaboration-with-other-enterprises/README.md)
     * [Enterprise to Enterprise permissions \(E2Es\)](advanced-features/collaboration-with-other-enterprises/enterprise-to-enterprise-permissions-e2es.md)
     * [Permissions in multi-enterprise order cycles](advanced-features/collaboration-with-other-enterprises/permissions-in-multi-enterprise-order-cycles.md)

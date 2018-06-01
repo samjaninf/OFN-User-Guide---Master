@@ -37,7 +37,7 @@ Austraila and other: hello@openfoodnetwork.org
 
 ### Creating a producer profile:
 
-You can create a new profile for a producer by clicking on **Enterprises **in the horizontal blue banner, and then clicking **+ New Enterprise**. Remember ‘enterprise’ is a general term used for any producer or hub profile on the OFN.
+You can create a new profile for a producer by clicking on **Enterprises** in the horizontal blue banner, and then clicking **+ New Enterprise**. Remember ‘enterprise’ is a general term used for any producer or hub profile on the OFN.
 
 ![New Enterprise button](https://openfoodnetwork.org/wp-content/uploads/2015/05/New-Enterprise.png)
 

@@ -1,11 +1,11 @@
 # Order Cycles \(for Hubs\)
 
-_\*Not a Hub, but a producer? See _[_Order Cycles for producers_](order-cycles-for-producers.md)_._
+_\*Not a Hub, but a producer? See_ [_Order Cycles for producers_](order-cycles-for-producers.md)_._
 
 You open you shop by creating an Order Cycle. When you make an order cycle you select when you shop is open \(from and until\), which products will go into the shop, and any fees that you'll apply.
 
-**Why Order Cycles?    
-**Some hubs may wish to have an online store which is perpetually open, and to fulfill orders on a one by one basis, as they are received. However, many hubs operate on a periodic ordering system, which allows them to process orders in bulk, making their packing and distribution activities more efficient. Let’s use an example to illustrate a common periodic ordering cycle structure.
+**Why Order Cycles?**    
+Some hubs may wish to have an online store which is perpetually open, and to fulfill orders on a one by one basis, as they are received. However, many hubs operate on a periodic ordering system, which allows them to process orders in bulk, making their packing and distribution activities more efficient. Let’s use an example to illustrate a common periodic ordering cycle structure.
 
 **Order Cycle Example**
 
@@ -13,7 +13,7 @@ For instance, each Monday morning a hub might assess the availability of their s
 
 ### Access Order Cycles
 
-You can create an order cycle, and view previous order cycles by clicking on **Manage Order Cycles **on your dashboard.
+You can create an order cycle, and view previous order cycles by clicking on **Manage Order Cycles** on your dashboard.
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Order-Cycle.png)
 
@@ -35,7 +35,7 @@ Select the coordinator of the order cycle. The enterprise which coordinates an o
 
 **Orders Open:** This is the date at when your OFN store will be open, visible and start to accept orders from customers.
 
-**Order Close: **This is the date when your OFN store will close and stop accepting orders. If you intend to have an order cycle which is continuously open, select a close date which is well into the future.
+**Order Close:** This is the date when your OFN store will close and stop accepting orders. If you intend to have an order cycle which is continuously open, select a close date which is well into the future.
 
 **Add Coordinator Fee:**As a hub, the coordinator is most likely you. Here you can apply your Enterprise Fee which acts as the markup. The fee will be calculated according to the calculator selected in [Enterprise Fees](enterprise-fees.md). You can only apply an enterprise fee which has previously been created.
 
@@ -43,13 +43,13 @@ Select the coordinator of the order cycle. The enterprise which coordinates an o
 
 #### Incoming: select producer and produce
 
-The incoming section is where you can select the producers, and their produce, which will be available in this order cycle. In the dropdown menu you will see all producers who have granted you permission to add their produce to your order cycle \(See _Relationships with Producers_ section for details\). After selecting a supplier and clicking **Add Supplier** all of the products associated with that supplier will be visible. Check those products you wish to add to the store, or click **select all. **Note: Products which have an ‘on hand’ value of zero \(no stock available\) will still be visible, so be careful to check that you have adequate on hand inventory for the products selected.
+The incoming section is where you can select the producers, and their produce, which will be available in this order cycle. In the dropdown menu you will see all producers who have granted you permission to add their produce to your order cycle \(See _Relationships with Producers_ section for details\). After selecting a supplier and clicking **Add Supplier** all of the products associated with that supplier will be visible. Check those products you wish to add to the store, or click **select all.** Note: Products which have an ‘on hand’ value of zero \(no stock available\) will still be visible, so be careful to check that you have adequate on hand inventory for the products selected.
 
 ![Incoming](https://openfoodnetwork.org/wp-content/uploads/2015/05/Incomiing.png)
 
-The **Receival Details **fields are optional. If you wish to use the **Notify Produers **button, to send orders to your supplying producers, you should write your stock receival instructions here. \(more info in the Notify Producers section at the bottom of this page\).
+The **Receival Details** fields are optional. If you wish to use the **Notify Produers** button, to send orders to your supplying producers, you should write your stock receival instructions here. \(more info in the Notify Producers section at the bottom of this page\).
 
-The **Add Fee **button is where you can apply an enterprise fee, belonging to that supplier. Select the name of the enterprise in the first dropdown box, then click the name of the enterprise fee in the second dropdown box. In the example below, an enterprise fee named OrderAdmin is applied to the Producer of Fruit.
+The **Add Fee** button is where you can apply an enterprise fee, belonging to that supplier. Select the name of the enterprise in the first dropdown box, then click the name of the enterprise fee in the second dropdown box. In the example below, an enterprise fee named OrderAdmin is applied to the Producer of Fruit.
 
 This fee will be applied to all of the Producer of Fruit’s products which are purchased. The fee is calculated according to the fee calculator which was selected when the [Enterprise Fee](enterprise-fees.md) was created.
 
@@ -61,9 +61,9 @@ The distributor\(s\) selected in the outgoing section, will have a shopfront ope
 
 ![Outgoing Section](https://openfoodnetwork.org/wp-content/uploads/2015/05/Outoging-New.png)
 
-The **tags **column is where you can tag your order cycles to customise whether they are visible/invisible to certain customers. See [tags and tag rules](../advanced-features/shop-setup/tags-and-tag-rules.md) for more information.
+The **tags** column is where you can tag your order cycles to customise whether they are visible/invisible to certain customers. See [tags and tag rules](../advanced-features/shop-setup/tags-and-tag-rules.md) for more information.
 
-The **‘ready for \(ie Date/Time\)’ **box tells the customer when their order will be ready for either collection or delivery. If your order cycle is a perpetual one, which fulfills orders on an individual basis rather then in bulk, you should enter something like ‘Two days after order is received’. The example below shows how ‘Friday 9th’ is displayed in a store.
+The **‘ready for \(ie Date/Time\)’** box tells the customer when their order will be ready for either collection or delivery. If your order cycle is a perpetual one, which fulfills orders on an individual basis rather then in bulk, you should enter something like ‘Two days after order is received’. The example below shows how ‘Friday 9th’ is displayed in a store.
 
 ![ready for field](https://openfoodnetwork.org/wp-content/uploads/2015/05/Ready-for.png)
 
@@ -71,11 +71,11 @@ The note is also shown at check out, when the customer selects their shipping me
 
 ![Ready for info in email](https://openfoodnetwork.org/wp-content/uploads/2015/05/shipping-info.png)
 
-The **Pick-Up Instructions **message will be included in the customer’s order confirmation email, below the message that corresponds to their chosen shipping method \(see below\). This note is designed to only be visible to customers, so you can include more sensetive information like addresses, or phone numbers etc. See below for an example of the order confirmation email.
+The **Pick-Up Instructions** message will be included in the customer’s order confirmation email, below the message that corresponds to their chosen shipping method \(see below\). This note is designed to only be visible to customers, so you can include more sensetive information like addresses, or phone numbers etc. See below for an example of the order confirmation email.
 
 ![collection details message](https://openfoodnetwork.org/wp-content/uploads/2015/05/Collection-details.png)
 
-**Add Fee: **Again, a previously created enterprise fee can be assigned to this distributor.
+**Add Fee:** Again, a previously created enterprise fee can be assigned to this distributor.
 
 #### Open the shopfront
 

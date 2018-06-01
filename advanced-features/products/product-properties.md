@@ -20,7 +20,7 @@ _\*If you wish to apply a product property which is not listed here, get in touc
 
 There are two ways to assign properties to your products:
 
-1\) You can assign a property to an enterprise, so that all products belonging to that enterprise will carry this property \(unless it’s manually removed, which is covered in the **“Inherited Properties” **section below\).
+1\) You can assign a property to an enterprise, so that all products belonging to that enterprise will carry this property \(unless it’s manually removed, which is covered in the **“Inherited Properties”** section below\).
 
 2\) You can assign properties to particular products, on an individual basis.
 
@@ -38,9 +38,9 @@ You can access enterprise properties in your [Enterprise Settings](../../basic-f
 
 Next, there are 2 fields when applying an enterprise property:
 
-**Property: **You can select a pre-defined product property from the dropdown list. This is the name of the property that your products will be tagged with, and which customers will be able to filter for in your shop.
+**Property:** You can select a pre-defined product property from the dropdown list. This is the name of the property that your products will be tagged with, and which customers will be able to filter for in your shop.
 
-**Value: **You can write a description of how this product property applies to your enterprise in this field. For example, if you have selected the property ‘Organic- Certified’ in the property field, you could write the certification number in the value field. Or if you have selected the property ‘Free Range’ you could write a more detailed description of how your animals are raised in the value field.
+**Value:** You can write a description of how this product property applies to your enterprise in this field. For example, if you have selected the property ‘Organic- Certified’ in the property field, you could write the certification number in the value field. Or if you have selected the property ‘Free Range’ you could write a more detailed description of how your animals are raised in the value field.
 
 _\* You can apply multiple properties to your enterprise_
 
@@ -64,13 +64,13 @@ You can apply multiple product properties by clicking “**+ Add Product Propert
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/add-product-property.png)
 
-Remember to click **update **when you are finished.
+Remember to click **update** when you are finished.
 
 ## Inherited Properties
 
 As discussed above, when an enterprise is assigned a property, all products belonging to that enterprise will ‘inherit’ this property. However, an enterprise may not wish for all of their products to inherit this property. Thus, it is possible to remove this property from products.
 
-When editing a product’s properties you will see a checkbox titled **“Inherit properties from \(Enterprise Name\)\(Unless Overridden Above\)”. **By default, when an enterprise has a property, it this box will be checked for all products belonging to the enterprise. Unchecking this box will remove any enterprise properties that have been inherited.
+When editing a product’s properties you will see a checkbox titled **“Inherit properties from \(Enterprise Name\)\(Unless Overridden Above\)”.** By default, when an enterprise has a property, it this box will be checked for all products belonging to the enterprise. Unchecking this box will remove any enterprise properties that have been inherited.
 
 The ‘unless overridden above’ component of the checkbox means that if you have a product with the same property, both inherited and applied, the applied property ‘value’ field will override the inherited one. For example, a producer primarily stocks beef products, in addition to some cartons of eggs. They have applied the free range property to their enterprise, with a value \(description\) of ‘Stocking density of 4 cattle to an acre’. Their ‘carton of egg’ product is also ‘free range’ however the value needs to be ‘our chickens live in a mobile egg van, at a density 50 chickens to an acre’. The carton of egg property can have the ‘Inherit properties..’ checkbox ticked, but will also need a ‘free range’ property created, with the correct value field.
 

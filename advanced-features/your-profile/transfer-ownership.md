@@ -2,7 +2,7 @@
 
 There are some cases where users need to transfer ownership of a profile to other users. For instance, when a hub or group page is getting set up, producer profiles are often created by the hub or group manager, on behalf of the producer. This page outlines how, as a profile owner, you can transfer ownership of a profile to someone else.
 
-The first step is to go to the **Users **section of the [profile](../../basic-features/enterprise-settings.md#users).
+The first step is to go to the **Users** section of the [profile](../../basic-features/enterprise-settings.md#users).
 
 **If the new owner has already signed up to OFN.**
 

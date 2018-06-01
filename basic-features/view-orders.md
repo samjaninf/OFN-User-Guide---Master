@@ -10,11 +10,11 @@ The page has filters which allow you to select which orders you want to view. Yo
 
 ![Listing orders page](https://openfoodnetwork.org/wp-content/uploads/2015/05/Listing-Orders1.png)
 
-**Distributor: **This is the enterprise whose shop the order was placed through
+**Distributor:** This is the enterprise whose shop the order was placed through
 
-**Completed at: **This is the date that the order was placed.
+**Completed at:** This is the date that the order was placed.
 
-**Number: **This is an arbitrarily assigned order number. An exclamation mark symbol will show if the customer included a note with their order at checkout. Hover you mouse above the exclamation mark to view the note.
+**Number:** This is an arbitrarily assigned order number. An exclamation mark symbol will show if the customer included a note with their order at checkout. Hover you mouse above the exclamation mark to view the note.
 
 **State:**
 
@@ -68,7 +68,7 @@ After clicking the edit button on the right hand side of an order \(see image ab
 
 #### **Adding and removing products from an order**
 
-You can select a product to add to the order. To remove a product click the rubbish bin icon on the right hand side of a product. You can also change the quantity ordered. Remember to click the **update and recalculate fees **button to save changes.
+You can select a product to add to the order. To remove a product click the rubbish bin icon on the right hand side of a product. You can also change the quantity ordered. Remember to click the **update and recalculate fees** button to save changes.
 
 ![Order actions](https://openfoodnetwork.org/wp-content/uploads/2015/05/Order-actions.png)
 
@@ -130,7 +130,7 @@ Here your customers will be able to see the past orders and payments as well as 
 
 We have learned above that the L**isting View** tab shows you orders, and details about who the customer is and when the order was placed etc. On the other hand the **bulk order management** page shows you all items that were purchased in your orders. In bulk order management you can view all items ordered and make changes to the quantities of products ordered, or to delete certain products from multiple orders at the same time. This functionality is useful for adjusting orders when there are stock shortages and you need to allocate a limited amount of stock across all of your orders.
 
-Access Bulk Oder Management by clicking **Orders **in the blue horizontal menu, and **Bulk Order Management **in the horizontal green menu.
+Access Bulk Oder Management by clicking **Orders** in the blue horizontal menu, and **Bulk Order Management** in the horizontal green menu.
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Bulk-Order-Management.png)
 
@@ -142,13 +142,13 @@ Within Bulk Order Management, you can apply filters, so that only the orders tha
 
 **Producer:** You can filter for a given producer. This can narrow down the display, if you’re only interested in one product, supplied by one proudcer.
 
-**Hub: **You can filter according to the hub at which the order was placed.
+**Hub:** You can filter according to the hub at which the order was placed.
 
 **Order Cycle:** Perhaps the most useful filter, the order cycle filter, will display only those orders which were placed within a selected order cycle.
 
 **Quick Search:** Before or after applying filters, you can narrow your search down even further by searching for a key word. This could be a name, product, hub, producer, date, order number…
 
-**Actions: **You can select the checkboxes of multiple orders, to perform a function to all of them, such as delete.
+**Actions:** You can select the checkboxes of multiple orders, to perform a function to all of them, such as delete.
 
 **Columns:** You can select which fields you do or do not want to be displayed \(see below\)
 

@@ -21,14 +21,14 @@ The central managing producer of a Producer Hub shop can setup the shop accordin
 
 Before creating the additional profiles, you’ll need to email us to request permission to create more than one profile \(this is a spam prevention measure\). The coordinating producer may setup the profile and products for everyone, or the other producers may wish to do this themselves. The two options are described below
 
-**Coordinating producer sets up profiles and products for supplying producers    
-**  
+**Coordinating producer sets up profiles and products for supplying producers**    
+  
 1\) After the coordinating producer has setup their own shopfront, it is then simple to create a profile for another producer, add their products and then start selling these items in their online shop. Instructions for setting up profiles for others is covered [here](../basic-features/create-or-connect-with-your-supplying-producers.md).
 
 2\) Note also that the order cycle interface will be different when you stock items from others. The 'hub' version of the order cycle interface is explained [here](../basic-features/order-cycles-for-hubs.md).
 
-**Supplying producers set up their profiles and add in their product range    
-**  
+**Supplying producers set up their profiles and add in their product range**    
+  
 Supplying producers can create a producer profile, according to the [producer profile setup manual](producer-profile-only.md). At step 2 they should select to have a ‘producer profile’. They won’t need their own shopfront as they’ll be selling through the coordinating producer’s shopfront. Next they should follow steps 3-5. Finally they should grant the coordinating supplier permission to stock their products, instructions for doing this can be found [here](../advanced-features/collaboration-with-other-enterprises/enterprise-to-enterprise-permissions-e2es.md).
 
 ## Advanced features that are helpful for Multi-Producer shops.

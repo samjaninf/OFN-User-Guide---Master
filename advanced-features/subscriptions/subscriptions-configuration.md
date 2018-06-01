@@ -18,7 +18,7 @@ Once you have configured your shop, see the [Subscriptions - Creating and Managi
 
 ## Subscriptions Configuration
 
-To access the Subscription tool, you’ll need to first activate the feature in your enterprise’s settings. Once turned on, the additional subscription tabs and controls will become visible to you. These settings can be found in Manage your enterprise, in the **Shop Preferences **tab.
+To access the Subscription tool, you’ll need to first activate the feature in your enterprise’s settings. Once turned on, the additional subscription tabs and controls will become visible to you. These settings can be found in Manage your enterprise, in the **Shop Preferences** tab.
 
 **Subscriptions**: To activate subscriptions, select Enable.
 
@@ -60,13 +60,13 @@ Note: You must have at least one order cycle that can be added to the schedule b
 
 ![](../../.gitbook/assets/new-schedule.bin)
 
-**Name: **
+**Name:** 
 
 Give the schedule a logical name which describes this group of order cycles. E.g. ‘weekly’, ‘monthly’, ‘Tuesday Deliveries’, ‘wholesale’ or ‘retail’. This name is only visible to you in the backend, not to customers.
 
 You can add existing order cycles into the new schedule by dragging them from the ‘available’ list and dropping into the ‘selected’ list, or by clicking to add/remove.
 
-Click **create **when you are finished.
+Click **create** when you are finished.
 
 ### Edit or Delete a schedule
 
