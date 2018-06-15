@@ -53,6 +53,7 @@
     * [Subscriptions- creating and managing orders](advanced-features/subscriptions/subscriptions-creating-and-managing-orders.md)
   * [Orders](advanced-features/orders/README.md)
     * [Create orders manually](advanced-features/orders/create-orders-manually.md)
+    * [Refund Payments](advanced-features/orders/refund-payments.md)
   * [Groups](advanced-features/groups/README.md)
     * [Group Page](advanced-features/groups/group-page.md)
     * [Embed a Group Page](advanced-features/groups/embed-a-group-page.md)
