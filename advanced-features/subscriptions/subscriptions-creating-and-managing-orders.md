@@ -1,5 +1,9 @@
 # Subscriptions- creating and managing orders
 
+{% hint style="info" %}
+This feature is LAUNCHING SOON
+{% endhint %}
+
 This page describes how shops can setup unique subscriptions for individual customers, including which items are in the order, which schedule the subscription applies to and pausing and editing this subscription.
 
 > Before working your way through this page check out [Subscriptions - Configuration](https://github.com/ofn-user-guide/ofn-user-guide-master/tree/d5a1113e673b0e22198ca207b1db61339799868a/subscriptions/subscriptions%20-%20configuration.md) which covers how enterprise can activate the subscriptions feature, and setup groups of order cycles called Schedules, that the subscriptions will be applied to.

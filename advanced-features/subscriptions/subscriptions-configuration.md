@@ -1,5 +1,9 @@
 # Subscriptions - configuration
 
+{% hint style="info" %}
+This feature is LAUNCHING SOON
+{% endhint %}
+
 ## What are subscriptions?
 
 Subscriptions is a tool which lets enterprises setup recurring or standing orders for their customers. The feature is both convenient for customers and beneficial for enterprises as it can boost customer loyalty and give more predictability to order volumes.
