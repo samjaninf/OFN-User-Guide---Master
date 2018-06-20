@@ -52,9 +52,9 @@ you must have created a schedule of order cycles before you can create a subscri
 
 **Begins at:** This is the date that the customer’s subscription will start to be generated. If this date is midway through an open order cycle in their schedule there will be an order generated for that order cycle. If not the first order will apply to the next order cycle which open in their schedule.
 
-**Ends at:** After this date the customer’s standing orders will no longer be generated. This field is optional, if left blank the will continue to be generate indefinitely.
+**Ends at:** After this date the customer’s standing orders will no longer be generated. This field is optional, if left blank the will continue to be generate indefinitely. 
 
-_**\(?\) clarification about what happens if a SO is created during an open OC etc. Exact function of starting and ending dates.**_
+How precisely does the end date interact with the OC dates? If the customer's subscription end date is after the opening date of an OC in their schedule, but before the end date of the OC, there won't be an order generated. The order will only be generated if the customer's end date, is after the OCs close date.
 
 #### Address
 
@@ -78,15 +78,7 @@ Check that details are correct and then click Create Subscription or Cancel.
 
 ### Edit the base subscription
 
-From the 
-
-**Subscriptions** 
-
-page, click on the 
-
-**edit**
-
- button next to the subscription you want to edit.
+From the **Subscriptions** page, click on the **edit** button next to the subscription you want to edit.
 
 ![](../../.gitbook/assets/edit-subscription.bin)
 
