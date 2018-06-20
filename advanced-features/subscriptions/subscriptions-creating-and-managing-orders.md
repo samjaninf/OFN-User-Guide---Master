@@ -4,7 +4,7 @@
 This feature is LAUNCHING SOON
 {% endhint %}
 
-This page describes how shops can setup unique subscriptions for individual customers, including which items are in the order, which schedule the subscription applies to and pausing and editing this subscription.
+This page describes how shops can setup unique subscriptions for individual customers, including which items are in the subscription, which schedule the subscription applies to and pausing and editing the subscription.
 
 > Before working your way through this page check out [Subscriptions - Configuration](https://github.com/ofn-user-guide/ofn-user-guide-master/tree/d5a1113e673b0e22198ca207b1db61339799868a/subscriptions/subscriptions%20-%20configuration.md) which covers how enterprise can activate the subscriptions feature, and setup groups of order cycles called Schedules, that the subscriptions will be applied to.
 
@@ -14,7 +14,7 @@ Before you can create subscription orders for your customers there are a number 
 
 1. Have a shop enterprise with active [Shipping](../../basic-features/shipping-methods.md) and [Payment methods](../../basic-features/payment-methods.md)
 
-Subscriptions can only be setup to use manual payment methods \(such as cash, or bank transfer\) or Stripe. Using Stripe is recommended, as this allows you to bill your customer's credit card automatically each time their subscription is processed.
+Subscriptions can only be setup to use manual payment methods \(such as cash, or bank transfer\) or [Stripe](../../basic-features/payment-methods.md#payment-providers). Using Stripe is recommended, as this allows you to bill your customer's credit card automatically each time their subscription is processed.
 
 1. Activate subscriptions for your shop - see [Subscriptions - Configuration](https://github.com/ofn-user-guide/ofn-user-guide-master/tree/d5a1113e673b0e22198ca207b1db61339799868a/subscriptions/subscriptions%20-%20configuration.md)
 2. Setup at least one schedule of order cycles - see [Subscriptions - Configuration](https://github.com/ofn-user-guide/ofn-user-guide-master/tree/d5a1113e673b0e22198ca207b1db61339799868a/subscriptions/subscriptions%20-%20configuration.md)
@@ -38,7 +38,7 @@ Click **+ New Subscription** to setup a recurring order for your customer.
 
 Select a customer from the drop-down list.
 
-\* You can only create a subscription for a customer who is on your[Customer List](https://openfoodnetwork.org/user-guide/advanced-features/customer-accounts-and-tagging/).
+\* You can only create a subscription for a customer who is on your [Customer List](https://openfoodnetwork.org/user-guide/advanced-features/customer-accounts-and-tagging/).
 
 **Schedule:** Select the schedule, or order cycle group, that this customer wants to subscribe to.
 
@@ -46,11 +46,11 @@ Select a customer from the drop-down list.
 you must have created a schedule of order cycles before you can create a subscription. Instructions [here](subscriptions-configuration.md).
 {% endhint %}
 
-**Payment method:** Select the customer’s preferred payment method. This must be either Stripe or a manual payment method such as cash. Paypal and Pin Payments are not supported for subscriptions. \(IS THIS CORRECT?\)
+**Payment method:** Select the customer’s preferred payment method. This must be either Stripe or a manual payment method such as cash. Paypal and Pin Payments are not supported for subscriptions.
 
 **Shipping method:** Select the customer’s preferred shipping method.
 
-**Begins at:** This is the date that the customer’s subscription will start to be generated. \(WHAT IF THIS DATE FALLS MID WAY THROUGH AN OC?\)
+**Begins at:** This is the date that the customer’s subscription will start to be generated. If this date is midway through an open order cycle in their schedule there will be an order generated for that order cycle. If not the first order will apply to the next order cycle which open in their schedule.
 
 **Ends at:** After this date the customer’s standing orders will no longer be generated. This field is optional, if left blank the will continue to be generate indefinitely.
 

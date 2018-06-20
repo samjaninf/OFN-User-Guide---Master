@@ -28,7 +28,7 @@ To access the Subscription tool, you’ll need to first activate the feature in 
 
 **Guest orders**: We recommend that shops offering subscriptions also require customers to login before they can shop with you. This will ensure that any customer with a subscription will login and see their existing subscription order, and not accidentally place a duplicate order.
 
-**Change orders**: Enterprises can choose whether or not customers are allowed to edit their subscription order while the order cycle is open.
+**Change orders**: Enterprises can choose whether or not customers are allowed to edit their subscription order while the order cycle is open. If you allow customer to change their order, they can remove items from the order or cancel the order. If customers want to add something to their order they will need to place a new order.
 
 ## Schedules
 
@@ -58,7 +58,7 @@ In this case there will be two schedules, one for the Monday customers and one f
 
 Once you have activated the subscription feature \(above\), you will see the Schedule functionality in the order cycle interface. To create a schedule click on the + New Schedule button.
 
-![New Schedule](https://openfoodnetwork.org/wp-content/uploads/2017/02/New-order-cycle.png)
+![](https://openfoodnetwork.org/wp-content/uploads/2017/02/New-order-cycle.png)
 
 Note: You must have at least one order cycle that can be added to the schedule before you create it.
 
