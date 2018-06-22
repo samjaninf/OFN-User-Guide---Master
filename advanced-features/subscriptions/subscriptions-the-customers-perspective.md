@@ -4,29 +4,27 @@ This page details what a customer with a subscription order can expect. It also 
 
 ## Setting up subscription orders for customers
 
-At present, the shop manager must setup subscription orders for their customers, in the backed of OFN. There is no way for customers to setup their own subscription.
-
-To setup a subscription for a customer you'll need to get some information from them:
+At present, the shop manager must setup subscription orders for their customers, in the backed of OFN. There is no way for customers to setup their own subscription. To setup a subscription for a customer you'll need to get some information from them:
 
 **Name**, **phone number** and preferred **email address**. As mentioned, you must add your subscription customers' emails to your [Customer List](../shop-setup/customers.md) before you can create a subscription for them. 
 
 **Billing and shipping address**: You'll need this information when you setup their subscription.
 
-**Products** they want to include in their subscription. You'll need this information when you setup their subscription.
+**Products** they want to include in their subscription: You'll need this information when you setup their subscription.
 
 **Shipping method**: You need to assign their subscription order to a shipping method.
 
 **Payment method**: Customers can select from your manual payment methods \(e.g. cash, bank transfer\), or paying with their credit card through your shop's stripe account. In the case that you are offering automated direct debiting to credit cards using stripe, you will need your customers to add their credit card information into their OFN account \(see below\).
 
-**Dates:** they want their subscription to span. Remember, for a subscription order to be created for a given order cycle it must have a start date either before or after the order cycle opening date, and the subscription end date must be after the OC close date.
+**Dates** they want their subscription to span: Remember, for a subscription order to be created for a given order cycle it must have a start date either before or after the order cycle opening date, and the subscription end date must be after the OC close date.
+
+
 
 CAN A SHOP ADD AN UNCONFIRMED CUSTOMER ACCOUNT TO SUBS, AND CAN THAT CUSTOMER RECEIVE SUB ORDERS WHILE UNCONFIRMED? YES THEY CAN.
 
 ## Storing credit cards
 
-Customer who want to pay for their subscription orders by via automated direct debit onto their credit card need to save their preferred card in their OFN account.
-
-Only after they have done this will the shop be able to setup their subscription to charge their credit card.
+Customer who want to pay for their subscription orders via automated direct debit onto their credit card need to save their preferred card in their OFN account. Only after they have done this will the shop be able to setup a subscription which charges their credit card.
 
 
 
@@ -80,11 +78,15 @@ No, if product prices change after you setup your subscription order, you wil be
 
 ### How can I cancel my whole subscription?
 
-
+If a customer wants to stop their subscription, they'll need to contact the shop manager and let them know.
 
 ### How can I cancel a single order of my subscription?
 
+If a customer wants to stop their subscription, there are two ways to do this depending on the shop's settings. 
 
+If the shop __**does not** allow customers to make changes to their orders, they will need to contact the shop and let them know which order to cancel. 
+
+If the shop **does** allow customer to make changes to their orders, the customer can wait until they receive the first confirmation email \(when the OC opens\) and from there they can edit their order and cancel it.
 
 
 
