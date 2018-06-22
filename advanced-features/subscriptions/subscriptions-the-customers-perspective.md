@@ -26,11 +26,23 @@ CAN A SHOP ADD AN UNCONFIRMED CUSTOMER ACCOUNT TO SUBS, AND CAN THAT CUSTOMER RE
 
 Customer who want to pay for their subscription orders via automated direct debit onto their credit card need to save their preferred card in their OFN account. Only after they have done this will the shop be able to setup a subscription which charges their credit card.
 
+Before you ask your customers to save their credit card details, you should first add them to your [Customer List](../shop-setup/customers.md). This way when they create an account with OFN and login to save their card, they'll see your shop and be able to grant it with permission to bill their card \(e.g. below\)
 
+![](../../.gitbook/assets/image%20%2816%29.png)
 
+Your customer can add cards and save one a sdefault.
 
+![](../../.gitbook/assets/image%20%2813%29.png)
 
-![](../../.gitbook/assets/image%20%286%29.png)
+![](../../.gitbook/assets/image%20%2810%29.png)
+
+![](../../.gitbook/assets/image%20%2811%29.png)
+
+![](../../.gitbook/assets/image%20%282%29.png)
+
+![](../../.gitbook/assets/image.png)
+
+![](../../.gitbook/assets/image%20%288%29.png)
 
 
 
@@ -42,7 +54,7 @@ The subscriptions feature includes a number of automatically generated emails wh
 
 The first email is triggered the moment an order cycle in the customer's subscribed schedule opens. This email lets the customer know that their subscription order has been opened. The customer can see which items are in the order and the amount they'll be charged. The email also contains their shipping and payment information.
 
-![](../../.gitbook/assets/image.png)
+![](../../.gitbook/assets/image%20%281%29.png)
 
 Whether or not a customer can make changes to their subscription order will depend on the shop's settings in [Shop Preferences](../../basic-features/enterprise-settings.md#shop-preferences).
 
@@ -50,13 +62,13 @@ If the shop **does not all customers to change their orders,** their email will 
 
 If the shop **allows customers to change their orders**, the text in the blue text box will be slightly different to the email above and there will be a link which will take customers to their order \(see below\). 
 
-![](../../.gitbook/assets/image%20%285%29.png)
+![](../../.gitbook/assets/image%20%287%29.png)
 
 Currently customers will only be able to remove items from their order, or change the quantities of existing items. If they want to add a new item to their order they'll need to either place a new order or contact the shop and ask them to make this change for them.
 
 ### Email 2 - When the Order Cycle closes
 
-![](../../.gitbook/assets/image%20%284%29.png)
+![](../../.gitbook/assets/image%20%286%29.png)
 
 
 
@@ -66,7 +78,7 @@ Currently customers will only be able to remove items from their order, or chang
 
 If a product in a customer's subscription isn't available in a given order cycle, they'll be alerted in their email notifications \(see example below\).
 
-![](../../.gitbook/assets/image%20%288%29.png)
+![](../../.gitbook/assets/image%20%2812%29.png)
 
 ### How can I pause my subscription?
 
