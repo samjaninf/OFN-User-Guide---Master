@@ -1,32 +1,12 @@
 # Subscriptions- creating and managing orders
 
-{% hint style="info" %}
-This feature is LAUNCHING SOON
-{% endhint %}
-
 This page describes how shops can setup unique subscriptions for individual customers, including which items are in the subscription, which schedule the subscription applies to and pausing and editing the subscription.
-
-> Before working your way through this page check out [Subscriptions - Configuration](https://github.com/ofn-user-guide/ofn-user-guide-master/tree/d5a1113e673b0e22198ca207b1db61339799868a/subscriptions/subscriptions%20-%20configuration.md) which covers how enterprise can activate the subscriptions feature, and setup groups of order cycles called Schedules, that the subscriptions will be applied to.
-
-## Before you start…
-
-Before you can create subscription orders for your customers there are a number of pre-requisite steps:
-
-1. Have a shop enterprise with active [Shipping](../../basic-features/shipping-methods.md) and [Payment methods](../../basic-features/payment-methods.md)
-
-Subscriptions can only be setup to use manual payment methods \(such as cash, or bank transfer\) or [Stripe](../../basic-features/payment-methods.md#payment-providers). Using Stripe is recommended, as this allows you to bill your customer's credit card automatically each time their subscription is processed.
-
-1. Activate subscriptions for your shop - see [Subscriptions - Configuration](https://github.com/ofn-user-guide/ofn-user-guide-master/tree/d5a1113e673b0e22198ca207b1db61339799868a/subscriptions/subscriptions%20-%20configuration.md)
-2. Setup at least one schedule of order cycles - see [Subscriptions - Configuration](https://github.com/ofn-user-guide/ofn-user-guide-master/tree/d5a1113e673b0e22198ca207b1db61339799868a/subscriptions/subscriptions%20-%20configuration.md)
-3. Add any customers who will have subscriptions to your [Customer list](https://github.com/ofn-user-guide/ofn-user-guide-master/tree/d5a1113e673b0e22198ca207b1db61339799868a/customer-accounts-and-tagging.md).
-
-Once you have configured the above, you’re ready to setup individual subscriptions for your customers.
 
 {% hint style="info" %}
  In this first version of the subscriptions feature, shops must setup subscriptions on behalf of their customers. There is no customer facing place where customers can setup their own subscription.
 {% endhint %}
 
-## Create subscriptions
+## 5\) Create subscriptions
 
 Click on **Orders** in the blue horizontal menu and then select **Subscriptions** in the green sub-menu.
 
@@ -56,17 +36,13 @@ you must have created a schedule of order cycles before you can create a subscri
 
 How precisely does the end date interact with the OC dates? If the customer's subscription end date is after the opening date of an OC in their schedule, but before the end date of the OC, there won't be an order generated. The order will only be generated if the customer's end date, is after the OCs close date.
 
-#### Address
-
-Fill out the customer’s billing and shipping details. If there is saved customer shipping and billing details in your customers page, this information will load automatically.
+**Address:** Fill out the customer’s billing and shipping details. If there is saved customer shipping and billing details in your customers page, this information will load automatically.
 
 ![](../../.gitbook/assets/new-subscription-address.png)
 
-Add Products
+**Add Products**
 
-\(?\) clarification about which products an enterprise can add to SOs.
-
-\(?\) clarification about what happens if the price of an item changes.
+You can add any products that are in OCs that are within the schedule. You can't add products to a subscription if they aren't in any future order cycles within the schedule that the customer is subscribing to.
 
 ![](../../.gitbook/assets/new-subscription-add-products.bin)
 
@@ -74,7 +50,15 @@ Add Products
 
 Check that details are correct and then click Create Subscription or Cancel.
 
-## Edit a customer’s subscription
+**What happens if the price of a product changes after the subscription is made?**
+
+The prices of items within subscriptions will update and the customer will be charged according to the updated price.
+
+**What if a product in a subscription is not available in an order cycle?**
+
+When an item in a subscription is not available the customer will be alerted in their confirmation emails.
+
+## 6\) Edit a customer’s subscription
 
 ### Edit the base subscription
 
@@ -98,16 +82,6 @@ This will reveal all upcoming orders in the schedule, and you can then edit a sp
 
 ![](../../.gitbook/assets/edit-single-subscription-order.bin)
 
-### Pause a subscription
-
-From the subscriptions page, click on the **pause** button next to the subscriptions you wish to pause. This will prevent all future orders in the subscription from being generated, until it is activated again. To un-pause a subscriptions, click on the play button.
-
-{% hint style="info" %}
- If you pause a subscription while an order cycle is still open, you'll be asked whether you'd like to keep the current order or not. If you un-pause a subscription while an OC is open an order will be generated for this customer if they're subscribed to that schedule.
-{% endhint %}
-
-![](../../.gitbook/assets/pause-subscription.bin)
-
 ### Delete a subscription
 
 From the **subscription** page, click the **cross** button next to the subscription you wish to delete. This will prevent any future subscriptions from being generated and delete this subscription permanently.
@@ -117,4 +91,41 @@ From the **subscription** page, click the **cross** button next to the subscript
 {% hint style="info" %}
  If you delete a subscription while there is an open order cycle you'll be asked whether you want to keep the customer's open order, or if they want to delete the current order.
 {% endhint %}
+
+### Pause a subscription
+
+From the subscriptions page, click on the **pause** button next to the subscriptions you wish to pause. This will prevent all future orders in the subscription from being generated, until it is activated again. To un-pause a subscriptions, click on the play button.
+
+{% hint style="info" %}
+ If you pause a subscription while an order cycle is still open, you'll be asked whether you'd like to keep the current order or not. 
+{% endhint %}
+
+{% hint style="info" %}
+If you un-pause a subscription while an OC is open an order will be generated for this customer if they're subscribed to that schedule.
+{% endhint %}
+
+![](../../.gitbook/assets/pause-subscription.bin)
+
+## 7\) How subscriptions are processed
+
+So once subscriptions are setup, how are they processed each time a scheduel opens and closes?
+
+**1\) An OC within a schedule opens:**
+
+* This triggers the creation of subscription orders for your customers who are subscribed to the schedule. 
+* The stocks level will be deducted accordingly at this time
+* Each customer with a subscription order will get an email telling them that their order has been prepared.
+* The shop notification email will receive an email summarising how many subscription orders there are.
+* During the time when the OC is open the customers may be able to edit their order \(depending on you shop's settings\)
+
+**2\) The OC closes**
+
+* When the Order cycle closes the order will be confirmed.
+* If customers are paying with Stripe, their credit card will be billed
+* The customer will receive an email confirming that their order is complete.
+* The shop notification email will get an email confirming how many subscription orders were processed. It will also mention any errors - such as a credit card that couldn't be billed.
+
+
+
+
 

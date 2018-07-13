@@ -1,7 +1,7 @@
 # Payment Methods
 
 {% hint style="info" %}
- You must create a payment method before you can open your shop.
+You must create a payment method before you can open your shop.
 {% endhint %}
 
 ## Setting up a payment method
@@ -85,15 +85,15 @@ Set up of this service needs to be done through your bank. So far it has been te
 {% endtab %}
 
 {% tab title="Stripe" %}
- [Stripe](https://stripe.com/au) is an online payment platform similar to Paypal. It will allow you to accept credit card payments from your customers. Stripe is a global platform, but is only available on certain OFN instances. Contact your [local OFN team](https://openfoodnetwork.org/ofn-local/) to see whether it’s available on your OFN.
+[Stripe](https://stripe.com/au) is an online payment platform similar to Paypal. It will allow you to accept credit card payments from your customers. Stripe is a global platform, but is only available on certain OFN instances. Contact your [local OFN team](https://openfoodnetwork.org/ofn-local/) to see whether it’s available on your OFN.
 
 #### Why use Stripe?
 
-Stripe is simple to setup for shop owners, and is reasonably priced. The fees charged by Stripe vary in each country; [Australia](https://stripe.com/au/pricing), [Canada](https://stripe.com/ca/pricing), [France](https://stripe.com/fr/pricing), [UK](https://stripe.com/gb/pricing), [USA](https://stripe.com/us/pricing).
+Stripe is simple to setup for shop owners and is reasonably priced. The fees charged by Stripe vary in each country; [Australia](https://stripe.com/au/pricing), [Canada](https://stripe.com/ca/pricing), [France](https://stripe.com/fr/pricing), [UK](https://stripe.com/gb/pricing), [USA](https://stripe.com/us/pricing).
 
 Stripe is also easy for customers to use. Unlike Paypal, when the customer checks out, they don’t need to login with Paypal to place their order, rather they just need to enter their card details and then complete their order.
 
-Stripe is the recommended payment method for shops who wish to use **subscriptions** on OFN, as Stripe allows customers to give permission to a shop to automatically bill their credit card for future subscription orders. This isn’t offered by Paypal, Pin or MIGS payment platforms.
+Stripe is the recommended payment method for shops who wish to use [**subscriptions** ](../advanced-features/subscriptions/)on OFN, as Stripe allows customers to give permission to a shop to automatically bill their credit card for subscription orders. This isn’t offered by Paypal, Pin or MIGS payment platforms.
 
 #### Setup
 
@@ -134,6 +134,10 @@ Customer can also save a credit card in their Account, or delete saved ones.
 ![](https://openfoodnetwork.org/wp-content/uploads/2017/08/Add-card.png)
 
 When the customer next shops with an OFN shop offering Stripe as a payment method, they’ll be able to select from their saved credit cards.
+
+**Viewing and redeeming your payments via Stripe**
+
+When a customer pays for their order with Stripe, the funds \(minus Stripe's fees\) will go to your stripe account. Depending on your setting in Stripe the funds will be automatically transferred to your chosen bank account periodically.
 {% endtab %}
 
 {% tab title="Pin Payments" %}
