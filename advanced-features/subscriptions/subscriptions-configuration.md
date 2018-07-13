@@ -79,23 +79,11 @@ You can add and remove order cycles from schedules by either editing the schedul
 
 Order cycles may be in more than one schedule. For instance, in the Harvest Hub example above, every second order cycle will be in both the weekly schedule and the fortnightly schedule.
 
-## 3\) Add your subscribers to your customer list
+## 3\) Gather information from your customers
 
-Before you can setup a subscription order for a customer they need to be added to your Customers list.
+To setup a subscription for a customer you'll need to get some information from them, as detailed below. You may do this via email or a [google form](https://www.google.com.au/forms/about/). 
 
-See here for instructions for maintaining your [Customers list](../shop-setup/customers.md).
-
-You can add customers to your Customer list before or after they've signed up for an account with OFN. However, note that before a subscription order can be successfully setup the customer must signup with OFN and confirm their email.
-
-Also, if you want to use Stripe to take credit card payment from subscribers, you must add them to your customer list before they can grant your shop permission to bill their credit card \(see below\).
-
-While you are in the process of contacting your customer to get their email address, you'll also want to get some more information from them that will come in handy later.
-
-### Gather the required information from your subscribers
-
-To setup a subscription for a customer you'll need to get some information from them, as detailed below. You may do this via email or a [google form](https://www.google.com.au/forms/about/).
-
-**Name**, **phone number** and preferred **email address**. As mentioned, you must add your subscription customers' emails to your [Customer List](../shop-setup/customers.md) before you can create a subscription for them. 
+**Name**, **phone number** and preferred **email address**. As discussed next, you must add your subscription customers' emails to your [Customer List](../shop-setup/customers.md) before you can create a subscription for them. 
 
 **Billing and shipping address**: You'll need this information when you setup their subscription.
 
@@ -107,7 +95,21 @@ To setup a subscription for a customer you'll need to get some information from 
 
 **Dates** they want their subscription to span: Remember, for a subscription order to be created for a given order cycle it must have a start date either before or after the order cycle opening date, and the subscription end date must be after the OC close date.
 
-## 4\) Make sure you have Shipping and Payment methods setup
+## 4\) Add your subscribers to your customer list
+
+Before you can setup a subscription order for a customer they need to be added to your Customers list.
+
+See here for instructions for maintaining your [Customers list](../shop-setup/customers.md).
+
+After you've added your customers to your customer list, email them and ask them to sign up for an account on OFN. Instructions for doing this can be found [here](subscriptions-the-customers-perspective.md#signing-up-to-ofn).
+
+You can add customers to your Customer list before or after they've signed up for an account with OFN. However, note that before a subscription order can be successfully setup the customer must signup with OFN and confirm their email.
+
+Also, if you want to use Stripe to take credit card payment from subscribers, you must add them to your customer list before they can grant your shop permission to bill their credit card \(see below\).
+
+Thus we suggest that a\) contact your customers to get their required information b\) add them to your customer list c\) you email them and ask them to signup to OFN \(and grant you permission to bill their card, if your shop will use Stripe\) and then d\) you create their subscription.
+
+## 5\) Make sure you have Shipping and Payment methods setup
 
 When you get to the stage of creating the customer's subscription, you'll need to select which shipping method they'll use and which payment method they'll be billed with.
 

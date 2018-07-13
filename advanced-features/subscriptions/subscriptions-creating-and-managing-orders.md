@@ -6,7 +6,7 @@ This page describes how shops can setup unique subscriptions for individual cust
  In this first version of the subscriptions feature, shops must setup subscriptions on behalf of their customers. There is no customer facing place where customers can setup their own subscription.
 {% endhint %}
 
-## 5\) Create subscriptions
+## 6\) Create subscriptions
 
 Click on **Orders** in the blue horizontal menu and then select **Subscriptions** in the green sub-menu.
 
@@ -58,7 +58,7 @@ The prices of items within subscriptions will update and the customer will be ch
 
 When an item in a subscription is not available the customer will be alerted in their confirmation emails.
 
-## 6\) Edit a customer’s subscription
+## 7\) Edit a customer’s subscription
 
 ### Edit the base subscription
 
@@ -106,7 +106,7 @@ If you un-pause a subscription while an OC is open an order will be generated fo
 
 ![](../../.gitbook/assets/pause-subscription.bin)
 
-## 7\) How subscriptions are processed
+## 8\) How subscriptions are processed
 
 So once subscriptions are setup, how are they processed each time a scheduel opens and closes?
 
