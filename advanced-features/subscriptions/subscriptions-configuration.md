@@ -83,7 +83,7 @@ Order cycles may be in more than one schedule. For instance, in the Harvest Hub 
 
 To setup a subscription for a customer you'll need to get some information from them, as detailed below. You may do this via email or a [google form](https://www.google.com.au/forms/about/). 
 
-**Name**, **phone number** and preferred **email address**. As discussed next, you must add your subscription customers' emails to your [Customer List](../shop-setup/customers.md) before you can create a subscription for them. 
+**Name**, **phone number** and preferred **email address**. As discussed next, you must add your subscription customers' emails to your [Customer List](../shop-setup/customers.md) before you can create a subscription for them, and you'll need this info.
 
 **Billing and shipping address**: You'll need this information when you setup their subscription.
 
