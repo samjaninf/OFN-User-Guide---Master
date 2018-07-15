@@ -27,7 +27,7 @@ Click **+ New Subscription** to setup a recurring order for your customer.
 
 Select a customer from the drop-down list.
 
-\* You can only create a subscription for a customer who is on your [Customer List](https://openfoodnetwork.org/user-guide/advanced-features/customer-accounts-and-tagging/).
+\* You can only create a subscription for a customer who is on your [Customer List](../shop-setup/customers.md).
 
 **Schedule:** Select the schedule, or order cycle group, that this customer wants to subscribe to.
 
