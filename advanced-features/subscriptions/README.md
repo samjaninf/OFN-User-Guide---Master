@@ -18,23 +18,23 @@ Firstly, the [subscriptions - configuration](subscriptions-configuration.md) pag
 
 1\) [Enable Subscriptions](subscriptions-configuration.md#1-enable-subscriptions) in your Enterprise Settings.
 
-2\) Setup [Schedules](https://guide.openfoodnetwork.org/~/drafts/-LHR8WCQa2pR1PMBbqY6/primary/advanced-features/subscriptions/subscriptions-configuration#2-schedules), which will dictate how frequently subscriptions are processed.
+2\) Setup [Schedules](subscriptions-configuration.md#2-schedules), which will dictate how frequently subscriptions are processed.
 
-3\) [Gather information from your customers](https://guide.openfoodnetwork.org/~/drafts/-LHR8WCQa2pR1PMBbqY6/primary/advanced-features/subscriptions/subscriptions-configuration#3-gather-information-from-your-customers), including their contact detail, which items they'd like in their subscription and which shipping and payment methods they'll use.
+3\) [Gather information from your customers](subscriptions-configuration.md#3-gather-information-from-your-customers), including their contact detail, which items they'd like in their subscription and which shipping and payment methods they'll use.
 
-4\) [Add your subscription customers to your Customers list](https://guide.openfoodnetwork.org/~/drafts/-LHR8WCQa2pR1PMBbqY6/primary/advanced-features/subscriptions/subscriptions-configuration#4-add-your-subscribers-to-your-customer-list), and then ask them to signup to OFN.
+4\) [Add your subscription customers to your Customers list](subscriptions-configuration.md#4-add-your-subscribers-to-your-customer-list), and then ask them to signup to OFN.
 
-5\) Make sure you have [Shipping and Payment methods setup](https://guide.openfoodnetwork.org/~/drafts/-LHR8WCQa2pR1PMBbqY6/primary/advanced-features/subscriptions/subscriptions-configuration#4-make-sure-you-have-shipping-and-payment-methods-setup).
+5\) Make sure you have [Shipping and Payment methods setup](subscriptions-configuration.md#5-make-sure-you-have-shipping-and-payment-methods-setup).
 
-Secondly, once you have configured your shop see the [Subscriptions - Creating and Managing Orders](https://github.com/ofn-user-guide/ofn-user-guide-master/tree/d5a1113e673b0e22198ca207b1db61339799868a/subscriptions/subscriptions-creating-and-managing-orders.md) page for information about creating and managing your customers' subscription orders.
+Secondly, once you have configured your shop see the [Subscriptions - Creating and Managing Orders](subscriptions-creating-and-managing-orders.md) page for information about creating and managing your customers' subscription orders.
 
-6\) [Create subscriptions](https://guide.openfoodnetwork.org/~/drafts/-LHR8WCQa2pR1PMBbqY6/primary/advanced-features/subscriptions/subscriptions-creating-and-managing-orders#6-create-subscriptions) for each customer.
+6\) [Create subscriptions](subscriptions-creating-and-managing-orders.md#6-create-subscriptions) for each customer.
 
-7\) How to [edit](https://guide.openfoodnetwork.org/~/drafts/-LHR8WCQa2pR1PMBbqY6/primary/advanced-features/subscriptions/subscriptions-creating-and-managing-orders#edit-the-base-subscription), [pause](https://guide.openfoodnetwork.org/~/drafts/-LHR8WCQa2pR1PMBbqY6/primary/advanced-features/subscriptions/subscriptions-creating-and-managing-orders#pause-a-subscription) and [delete](https://guide.openfoodnetwork.org/~/drafts/-LHR8WCQa2pR1PMBbqY6/primary/advanced-features/subscriptions/subscriptions-creating-and-managing-orders#delete-a-subscription) subscriptions.
+7\) How to [edit](subscriptions-creating-and-managing-orders.md#edit-the-base-subscription), [pause](subscriptions-creating-and-managing-orders.md#pause-a-subscription) and [delete](subscriptions-creating-and-managing-orders.md#delete-a-subscription) subscriptions.
 
-8\) [How subscriptions are processed](https://guide.openfoodnetwork.org/~/drafts/-LHR8WCQa2pR1PMBbqY6/primary/advanced-features/subscriptions/subscriptions-creating-and-managing-orders#8-how-subscriptions-are-processed).
+8\) [How subscriptions are processed](subscriptions-creating-and-managing-orders.md#8-how-subscriptions-are-processed).
 
-Finally, see the [Subscriptions - the customer's perspective](https://guide.openfoodnetwork.org/~/drafts/-LHR8WCQa2pR1PMBbqY6/primary/advanced-features/subscriptions/subscriptions-the-customers-perspective) for details about what your customers need to do to have a subscription, and how they'll experience the subscription system.
+Finally, see the [Subscriptions - the customer's perspective](subscriptions-the-customers-perspective.md) for details about what your customers need to do to have a subscription, and how they'll experience the subscription system.
 
 9\) [Consider the customer experience](subscriptions-the-customers-perspective.md) of subscriptions, including FAQs customers may have.
 
