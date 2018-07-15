@@ -59,6 +59,10 @@ You can add any products that are in future Order Cycles that are within the sch
 
 Check that details are correct and then click **Create Subscription** or **Cancel**.
 
+{% hint style="info" %}
+Warning! If you have an order cycle which is open and assigned to a schedule, the moment you create a subscription for a customer to that schedule, an order will get created for them, and they'll be sent a confirmation email. If you're just setting up subscriptions, and don't want any orders to be triggered, make sure you don't have an open order cycle. See [8\) How subscriptions are processed](subscriptions-creating-and-managing-orders.md#8-how-subscriptions-are-processed) below for more details.
+{% endhint %}
+
 **What happens if the price of a product changes after the subscription is made?**
 
 The prices of items within subscriptions will update and the customer will be charged according to the updated price.
@@ -126,6 +130,10 @@ So once subscriptions are setup, how are they processed each time a scheduel ope
 * Each customer with a subscription order will get an email telling them that their order has been prepared.
 * An email will be sent to the shop's notification email summarising how many subscription orders there are, and how many had issues \(e.g. insufficient stock\).
 * During the time when the OC is open the customers may be able to edit their order \(depending on your [shop preferences](../../basic-features/enterprise-settings.md#shop-preferences)\)
+
+{% hint style="info" %}
+Note, if you create a subscription while there's an open order cycle in the schedule, an order will be immediately created for that subscriber.
+{% endhint %}
 
 **2\) The OC closes**
 
