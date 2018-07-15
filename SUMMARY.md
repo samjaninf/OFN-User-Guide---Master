@@ -49,7 +49,6 @@
     * [Opening more than one order cycle](advanced-features/order-cycles/opening-more-than-one-order-cycle.md)
     * [Display only Order Cycles](advanced-features/order-cycles/display-only-order-cycles.md)
   * [Subscriptions](advanced-features/subscriptions/README.md)
-    * [Subscriptions - introduction](advanced-features/subscriptions/subscriptions-introduction.md)
     * [Subscriptions - configuration](advanced-features/subscriptions/subscriptions-configuration.md)
     * [Subscriptions- creating and managing orders](advanced-features/subscriptions/subscriptions-creating-and-managing-orders.md)
     * [Subscriptions - the customer's perspective](advanced-features/subscriptions/subscriptions-the-customers-perspective.md)

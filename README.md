@@ -26,5 +26,5 @@ The content of this guide is separated into [Basic Features](basic-features/), a
 
 ## Feedback
 
-It's really useful for us to know what feature you want and need from the software, so please [get in touch](feedback.md) with any feedback. Further, if you have any questions that aren't answered in the guide you can always drop us a line, we're here to help.
+It's really useful for us to know what features you want and need from the software, so please [get in touch](feedback.md) with any feedback. Further, if you have any questions that aren't answered in the guide you can always drop us a line, we're here to help.
 

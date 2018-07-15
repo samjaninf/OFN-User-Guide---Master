@@ -6,6 +6,15 @@ This page describes how shops can setup unique subscriptions for individual cust
  In this first version of the subscriptions feature, shops must setup subscriptions on behalf of their customers. There is no customer facing place where customers can setup their own subscription.
 {% endhint %}
 
+**Checklist of things to do before you create subscriptions for you customers:**
+
+* Enable subscriptions in your [Enterprise Settings](../../basic-features/enterprise-settings.md#shop-preferences)
+* Created at least one [Schedule](subscriptions-configuration.md#2-schedules)
+* Have made contact with you customers to [get their details](subscriptions-configuration.md#3-gather-information-from-your-customers)
+* Added your subscription customers to your [customer list](subscriptions-configuration.md#4-add-your-subscribers-to-your-customer-list).  
+* Setup [shipping and payment methods](subscriptions-configuration.md#5-make-sure-you-have-shipping-and-payment-methods-setup)
+* Have contacted your customers to request that they [sign up for an account with OFN](subscriptions-the-customers-perspective.md#signing-up-to-ofn), and if they will be billed with stripe, to request they [save their card and authorise your shop to charge it](subscriptions-the-customers-perspective.md#saving-credit-cards-and-authourising-charges).
+
 ## 6\) Create subscriptions
 
 Click on **Orders** in the blue horizontal menu and then select **Subscriptions** in the green sub-menu.
@@ -23,7 +32,7 @@ Select a customer from the drop-down list.
 **Schedule:** Select the schedule, or order cycle group, that this customer wants to subscribe to.
 
 {% hint style="info" %}
-you must have created a schedule of order cycles before you can create a subscription. Instructions [here](subscriptions-configuration.md).
+you must have created a schedule of order cycles before you can create a subscription. Instructions [here](subscriptions-configuration.md#2-schedules).
 {% endhint %}
 
 **Payment method:** Select the customer’s preferred payment method. This must be either Stripe or a manual payment method such as cash. Paypal and Pin Payments are not supported for subscriptions.
@@ -32,9 +41,9 @@ you must have created a schedule of order cycles before you can create a subscri
 
 **Begins at:** This is the date that the customer’s subscription will start to be generated. If this date is midway through an open order cycle in their schedule there will be an order generated for that order cycle. If not the first order will apply to the next order cycle which open in their schedule.
 
-**Ends at:** After this date the customer’s standing orders will no longer be generated. This field is optional, if left blank the will continue to be generate indefinitely. 
+**Ends at:** After this date the customer’s standing orders will no longer be generated. This field is optional, if left blank the order will continue to be generate indefinitely. 
 
-How precisely does the end date interact with the OC dates? If the customer's subscription end date is after the opening date of an OC in their schedule, but before the end date of the OC, there won't be an order generated. The order will only be generated if the customer's end date, is after the OCs close date.
+How exactly does the end date interact with the OC dates? If the customer's subscription end date is after the opening date of an OC in their schedule, but before the end date of the OC, there won't be an order generated. The last order will only be generated for the last order cycle which closes before their subscription end date. 
 
 **Address:** Fill out the customer’s billing and shipping details. If there is saved customer shipping and billing details in your customers page, this information will load automatically.
 
@@ -42,13 +51,13 @@ How precisely does the end date interact with the OC dates? If the customer's su
 
 **Add Products**
 
-You can add any products that are in OCs that are within the schedule. You can't add products to a subscription if they aren't in any future order cycles within the schedule that the customer is subscribing to.
+You can add any products that are in future Order Cycles that are within the schedule. You can't add products to a subscription if they aren't in any future order cycles within the schedule that the customer is subscribing to.
 
 ![](../../.gitbook/assets/new-subscription-add-products.bin)
 
 #### Summary
 
-Check that details are correct and then click Create Subscription or Cancel.
+Check that details are correct and then click **Create Subscription** or **Cancel**.
 
 **What happens if the price of a product changes after the subscription is made?**
 
@@ -72,7 +81,7 @@ From here you can edit which products are in the subscription, the preferred shi
  You cannot change a subscription’s schedule. Instead the subscription must be recreated in the new preferred schedule.
 {% endhint %}
 
-Does changing customer details in Customer page update them in SO? \(?\)
+
 
 ### Edit one specific order
 
@@ -115,13 +124,13 @@ So once subscriptions are setup, how are they processed each time a scheduel ope
 * This triggers the creation of subscription orders for your customers who are subscribed to the schedule. 
 * The stocks level will be deducted accordingly at this time
 * Each customer with a subscription order will get an email telling them that their order has been prepared.
-* The shop notification email will receive an email summarising how many subscription orders there are.
-* During the time when the OC is open the customers may be able to edit their order \(depending on you shop's settings\)
+* An email will be sent to the shop's notification email summarising how many subscription orders there are, and how many had issues \(e.g. insufficient stock\).
+* During the time when the OC is open the customers may be able to edit their order \(depending on your [shop preferences](../../basic-features/enterprise-settings.md#shop-preferences)\)
 
 **2\) The OC closes**
 
-* When the Order cycle closes the order will be confirmed.
-* If customers are paying with Stripe, their credit card will be billed
+* When the Order cycle closes the subscription orders will be confirmed.
+* If customers are paying with Stripe, their credit card will be billed at this time
 * The customer will receive an email confirming that their order is complete.
 * The shop notification email will get an email confirming how many subscription orders were processed. It will also mention any errors - such as a credit card that couldn't be billed.
 
