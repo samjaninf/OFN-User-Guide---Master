@@ -14,7 +14,7 @@ Here are the basics of Subscriptions:
 
 We've described the subscription setup process in 9 steps across three pages in the user guide.
 
-Firstly, the [subscriptions - configuration](https://guide.openfoodnetwork.org/~/drafts/-LHR8WCQa2pR1PMBbqY6/primary/advanced-features/subscriptions/subscriptions-configuration#subscriptions-configuration) page describes how to configure your shop to enable the subscription feature, and some things to do to prepare.
+Firstly, the [subscriptions - configuration](subscriptions-configuration.md) page describes how to configure your shop to enable the subscription feature, and some things to do to prepare.
 
 1\) [Enable Subscriptions](https://guide.openfoodnetwork.org/~/drafts/-LHR8WCQa2pR1PMBbqY6/primary/advanced-features/subscriptions/subscriptions-configuration#enable-subscriptions) in your Enterprise Settings.
 
