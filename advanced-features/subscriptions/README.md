@@ -18,7 +18,7 @@ We've described the subscription setup process in 9 steps across three pages in 
 
 1\) [Enable Subscriptions](subscriptions-configuration.md#1-enable-subscriptions) in your Enterprise Settings.
 
-3\) Make sure you have [Shipping and Payment methods](subscriptions-configuration.md#2-make-sure-you-have-shipping-and-payment-methods-setup) setup.
+2\) Make sure you have [Shipping and Payment methods](subscriptions-configuration.md#2-make-sure-you-have-shipping-and-payment-methods-setup) setup.
 
 3\) [Gather information from your customers](subscriptions-configuration.md#3-gather-information-from-your-customers), including their contact detail, which items they'd like in their subscription and which shipping and payment methods they'll use.
 
