@@ -18,9 +18,9 @@ Customer who want to pay for their subscription orders via automated charges ont
 
 ### a\) Saving credit card details in the customer account
 
-The Customer Account page can be accessed at [openfoodnetwork.org.au/account](https://openfoodnetwork.org.au/#/login)
+The Customer Account page can be accessed at [https://openfoodnetwork.org.au/account\#/cards](https://openfoodnetwork.org.au/account#/cards) . 
 
-Your customer can save one or more cards in their account. 
+Your customer can save one or more cards in their account, in the **credit cards** tab.
 
 ![](../../.gitbook/assets/image%20%2813%29.png)
 
