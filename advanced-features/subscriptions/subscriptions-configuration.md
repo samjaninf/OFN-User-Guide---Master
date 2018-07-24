@@ -17,7 +17,59 @@ To enable the Subscription tool, you’ll need to activate the feature in your e
 * If you allow customers to change their order, they can remove items from their subscription order or cancel the order. If customers want to add something to their order they will need to place a new order.
 * If you don't allow customer to change their order, they'll need to contact you if they wish to remove items from their order, or cancel it. With this setting, customers can still chose to place another order.
 
-## 2\) Schedules
+## 2\) Make sure you have Shipping and Payment methods setup
+
+When you get to the stage of creating the customer's subscription, you'll need to select which shipping method they'll use and which payment method they'll be billed with.
+
+#### **Shipping methods**
+
+You can apply any shipping or payment method to a subscription. See here for [instructions for setting up shipping methods](../../basic-features/shipping-methods.md).
+
+#### **Payment methods**
+
+You can only assign two types of payment methods to subscriptions. See here for [instructions for setting up payment methods](../../basic-features/payment-methods.md).
+
+**1\) Manual payment methods**: This includes cash, or bank transfer. 
+
+**2\) Stripe:** Stripe is a payment gateway which takes payment with credit cards. When you apply a Stripe payment method to a customer's subscription, Stripe will bill their credit card automatically each time one of their subscription orders is processed. The amount they are charged will reflect any changes they've made to the subscription order, and they will not be changed if you cancel or pause their subscription.
+
+Before a shop can successfully charge the customer, the customer must signup with OFN, save a default credit card in their account _and_ grant permission to your shop to charge the credit card. Further detail about these steps are on the [subscriptions - the customer perspective](subscriptions-the-customers-perspective.md) page.
+
+Note, when you setup Stripe to be used in subscriptions it's a good to make the payment method name and description clear. 
+
+For example, rather than calling the payment method 'Credit card' you might like to call it 'automated credit card billing for subscriptions'. A possible description could be 'Your default credit card saved in your OFN account will be charged when your subscription order is confirmed on Wednesday nights'. This name and description will show on the email confirmation to subscription customers \(see example below\), so it's good to make it details so the customer knows what to expect.
+
+![](../../.gitbook/assets/image%20%288%29.png)
+
+## 3\) Gather information from your customers
+
+To setup a subscription for a customer you'll need to get some information from them, as detailed below. You may do this via email or a [google form](https://www.google.com.au/forms/about/). 
+
+**Name**, **phone number** and preferred **email address**. As discussed next, you must add your subscription customers' emails to your [Customer List](../shop-setup/customers.md) before you can create a subscription for them, and you'll need this info.
+
+**Billing and shipping address**: You'll need this information when you setup their subscription.
+
+**Products:** Which items to they want to include in their subscription. You'll need this information when you setup their subscription.
+
+**Shipping method**: You need to assign their subscription order to a shipping method.
+
+**Payment method**: Customers can select from your manual payment methods \(e.g. cash, bank transfer\), or paying with their credit card through your shop's stripe account. In the case that you are offering automated direct debiting to credit cards using stripe, you will need your customers to add their credit card information into their OFN account \(see below\).
+
+**Dates** they want their subscription to span: Remember, for a subscription order to be created for a given order cycle it must have a start date either before or after the order cycle opening date, and the subscription end date must be after the OC close date.
+
+## 4\) Add your subscribers to your customer list
+
+Before you can setup a subscription order for a customer they need to be added to your Customers list. See here for instructions for maintaining your [Customers list](../shop-setup/customers.md).
+
+**After you've added your customers to your customer list email them** and ask them to sign up for an account on OFN. Instructions for doing this can be found [here](subscriptions-the-customers-perspective.md#signing-up-to-ofn). If you plan to bill customers using Stripe, you need to also request that they [save their credit card details and authorise your shop to charge their card](subscriptions-the-customers-perspective.md#saving-credit-cards-and-authourising-charges).
+
+You can add customers to your Customer list before or after they've signed up for an account with OFN. However, note that before a subscription order can be successfully setup the customer must signup with OFN and confirm their email.
+
+Also, if you want to use Stripe to take credit card payment from subscribers, you must add them to your customer list before they can grant your shop permission to bill their credit card.
+
+Thus we suggest the following process: a\) contact your customers to get their required information b\) add them to your customer list c\) email them and ask them to signup to OFN \(and grant you permission to bill their card, if your shop will use Stripe\) and then d\) [you create their subscription](subscriptions-creating-and-managing-orders.md#6-create-subscriptions).
+
+## 5\) Schedules
 
 {% hint style="info" %}
 If you are new to OFN we encourage you to get familiar with setting up [order cycles](../order-cycles/) before setting up schedules.
@@ -82,56 +134,4 @@ You can add and remove order cycles from schedules by either editing the schedul
 ![](../../.gitbook/assets/oc-schedule.bin)
 
 Order cycles may be in more than one schedule. For instance, in the Harvest Hub example above, every second order cycle will be in both the weekly schedule and the fortnightly schedule.
-
-## 3\) Gather information from your customers
-
-To setup a subscription for a customer you'll need to get some information from them, as detailed below. You may do this via email or a [google form](https://www.google.com.au/forms/about/). 
-
-**Name**, **phone number** and preferred **email address**. As discussed next, you must add your subscription customers' emails to your [Customer List](../shop-setup/customers.md) before you can create a subscription for them, and you'll need this info.
-
-**Billing and shipping address**: You'll need this information when you setup their subscription.
-
-**Products:** Which items to they want to include in their subscription. You'll need this information when you setup their subscription.
-
-**Shipping method**: You need to assign their subscription order to a shipping method.
-
-**Payment method**: Customers can select from your manual payment methods \(e.g. cash, bank transfer\), or paying with their credit card through your shop's stripe account. In the case that you are offering automated direct debiting to credit cards using stripe, you will need your customers to add their credit card information into their OFN account \(see below\).
-
-**Dates** they want their subscription to span: Remember, for a subscription order to be created for a given order cycle it must have a start date either before or after the order cycle opening date, and the subscription end date must be after the OC close date.
-
-## 4\) Add your subscribers to your customer list
-
-Before you can setup a subscription order for a customer they need to be added to your Customers list. See here for instructions for maintaining your [Customers list](../shop-setup/customers.md).
-
-**After you've added your customers to your customer list email them** and ask them to sign up for an account on OFN. Instructions for doing this can be found [here](subscriptions-the-customers-perspective.md#signing-up-to-ofn). If you plan to bill customers using Stripe, you need to also request that they [save their credit card details and authorise your shop to charge their card](subscriptions-the-customers-perspective.md#saving-credit-cards-and-authourising-charges).
-
-You can add customers to your Customer list before or after they've signed up for an account with OFN. However, note that before a subscription order can be successfully setup the customer must signup with OFN and confirm their email.
-
-Also, if you want to use Stripe to take credit card payment from subscribers, you must add them to your customer list before they can grant your shop permission to bill their credit card \(see below\).
-
-Thus we suggest the following process: a\) contact your customers to get their required information b\) add them to your customer list c\) you email them and ask them to signup to OFN \(and grant you permission to bill their card, if your shop will use Stripe\) and then d\) you create their subscription.
-
-## 5\) Make sure you have Shipping and Payment methods setup
-
-When you get to the stage of creating the customer's subscription, you'll need to select which shipping method they'll use and which payment method they'll be billed with.
-
-#### **Shipping methods**
-
-You can apply any shipping or payment method to a subscription. See here for [instructions for setting up shipping methods](../../basic-features/shipping-methods.md).
-
-#### **Payment methods**
-
-You can only assign two types of payment methods to subscriptions. See here for [instructions for setting up payment methods](../../basic-features/payment-methods.md).
-
-**1\) Manual payment methods**: This includes cash, or bank transfer. 
-
-**2\) Stripe:** Stripe is a payment gateway which takes payment with credit cards. When you apply a Stripe payment method to a customer's subscription, Stripe will bill their credit card automatically each time one of their subscription orders is processed. The amount they are charged will reflect any changes they've made to the subscription order, and they will not be changed if you cancel or pause their subscription.
-
-Before a shop can successfully charge the customer, the customer must signup with OFN, save a default credit card in their account _and_ grant permission to your shop to charge the credit card. Further detail about these steps are on the [subscriptions - the customer perspective](subscriptions-the-customers-perspective.md) page.
-
-Note, when you setup Stripe to be used in subscriptions it's a good to make the payment method name and description clear. 
-
-For example, rather than calling the payment method 'Credit card' you might like to call it 'automated credit card billing for subscriptions'. A possible description could be 'Your default credit card saved in your OFN account will be charged when your subscription order is confirmed on Wednesday nights'. This name and description will show on the email confirmation to subscription customers \(see example below\), so it's good to make it details so the customer knows what to expect.
-
-![](../../.gitbook/assets/image%20%288%29.png)
 

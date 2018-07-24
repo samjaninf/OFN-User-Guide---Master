@@ -9,11 +9,11 @@ This page describes how shops can setup unique subscriptions for individual cust
 **Checklist of things to do before you create subscriptions for you customers:**
 
 * Enable subscriptions in your [Enterprise Settings](../../basic-features/enterprise-settings.md#shop-preferences)
-* Created at least one [Schedule](subscriptions-configuration.md#2-schedules)
+* Setup [shipping and payment methods](subscriptions-configuration.md#2-make-sure-you-have-shipping-and-payment-methods-setup)
 * Have made contact with you customers to [get their details](subscriptions-configuration.md#3-gather-information-from-your-customers)
 * Added your subscription customers to your [customer list](subscriptions-configuration.md#4-add-your-subscribers-to-your-customer-list).  
-* Setup [shipping and payment methods](subscriptions-configuration.md#5-make-sure-you-have-shipping-and-payment-methods-setup)
-* Have contacted your customers to request that they [sign up for an account with OFN](subscriptions-the-customers-perspective.md#signing-up-to-ofn), and if they will be billed with stripe, to request they [save their card and authorise your shop to charge it](subscriptions-the-customers-perspective.md#saving-credit-cards-and-authourising-charges).
+* Have contacted your customers to request that they [sign up for an account with OFN](subscriptions-the-customers-perspective.md#signing-up-to-ofn), and _if_ they will be billed with stripe, to request they [save their card and authorise your shop to charge it](subscriptions-the-customers-perspective.md#saving-credit-cards-and-authourising-charges).
+* Created at least one [Schedule](subscriptions-configuration.md#5-schedules)
 
 ## 6\) Create subscriptions
 
@@ -32,7 +32,7 @@ Select a customer from the drop-down list.
 **Schedule:** Select the schedule, or order cycle group, that this customer wants to subscribe to.
 
 {% hint style="info" %}
-you must have created a schedule of order cycles before you can create a subscription. Instructions [here](subscriptions-configuration.md#2-schedules).
+You must have created a schedule of order cycles before you can create a subscription. Instructions [here](subscriptions-configuration.md#2-schedules).
 {% endhint %}
 
 **Payment method:** Select the customer’s preferred payment method. This must be either Stripe or a manual payment method such as cash. Paypal and Pin Payments are not supported for subscriptions.

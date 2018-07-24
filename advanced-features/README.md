@@ -34,12 +34,13 @@ The [Basic Features](../basic-features/) chapter steps through the fundamental f
 * Opening more than one order cycle at the same time. [Read more](order-cycles/opening-more-than-one-order-cycle.md)
 * Create a display only order cycle so visitors can see what’s in your shop even when your order cycle is closed. [Read more](order-cycles/display-only-order-cycles.md)
 
-## Subscriptions
+### Subscriptions
 
 * Setup your enterprise confguration to enable subscriptions. [Read more](subscriptions/subscriptions-configuration.md)
 * Create and manage subscription orders for customers. [Read more](subscriptions/subscriptions-creating-and-managing-orders.md)
+* Consider how your customers will interact with their subscription. [Read more](shop-setup/customer-specific-pricing.md)
 
-## Orders
+### Orders
 
 * Create an order manually for your customer from the back end. [Read more](orders/create-orders-manually.md)
 
@@ -52,4 +53,6 @@ The [Basic Features](../basic-features/) chapter steps through the fundamental f
 
 * Put your farm on Facebook. [Read more](social/your-farm-on-facebook.md)
 * Facebook tips for producers. [Read more](social/facebook-tips.md)
+
+
 
