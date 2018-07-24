@@ -8,7 +8,7 @@ There are some other OFN tools that rely on the Customer list, including:
 
 * [Private shopfronts](private-shopfront.md) that are visible to approved customers only
 * [Tag rules](tags-and-tag-rules.md) which are used to control the visibility of certain things to certain customers \(incl. products, order cycles, shipping methods and payment methods\).
-* [Subscriptions ](https://github.com/ofn-user-guide/ofn-user-guide-master/tree/d5a1113e673b0e22198ca207b1db61339799868a/subscriptions/subscriptions%20-%20configuration.md)can be applied to customers who are on your customer list.
+* [Subscriptions ](../subscriptions/)can be applied to customers who are on your customer list.
 
 ## Maintaining your customer list
 
@@ -32,7 +32,7 @@ You can also add customer emails to your list by typing the email in the **Add N
 
 A default billing and shipping address can be saved for each customer. These details will be auto-saved by the system when the customer shops with their given email address. Or you can overwrite these details at your customers’s request.
 
-What’s the benefit of saving default address details? These details will be auto-filled for the customer when they go to checkout, making checkout quicker. These details will also auto-fill if you choose to [create an order for your customer](../orders/create-orders-manually.md) in the back end or create a [subscription](https://github.com/ofn-user-guide/ofn-user-guide-master/tree/d5a1113e673b0e22198ca207b1db61339799868a/subscriptions/subscriptions-creating-and-managing-orders.md) for the customer.
+What’s the benefit of saving default address details? These details will be auto-filled for the customer when they go to checkout, making checkout quicker. These details will also auto-fill if you choose to [create an order for your customer](../orders/create-orders-manually.md) in the back end or create a [subscription](../subscriptions/) for the customer.
 
 If a customer changes address, they can also update their default address records during checkout themselves by selecting the ‘save as default’ checkbox:
 
