@@ -121,11 +121,16 @@ If you un-pause a subscription while an OC is open an order will be generated fo
 
 ## 8\) How subscriptions are processed
 
-So once subscriptions are setup, how are they processed each time a scheduel opens and closes?
+So once subscriptions are setup, how are they processed each time an order cycle opens and closes?
 
 **1\) An OC within a schedule opens:**
 
 * This triggers the creation of subscription orders for your customers who are subscribed to the schedule. 
+
+{% hint style="info" %}
+**BEWARE! The moment you open an order cycle within a schedule, an order will be created for each of your subscribers and they'll be emailed, so make sure you're ready! Double check you've setup your OC correctly and have updated your product availability before you open an order cycle.**
+{% endhint %}
+
 * The stocks level will be deducted accordingly at this time
 * Each customer with a subscription order will get an email telling them that their order has been prepared.
 * An email will be sent to the shop's notification email summarising how many subscription orders there are, and how many had issues \(e.g. insufficient stock\).
@@ -142,7 +147,23 @@ Note, if you create a subscription while there's an open order cycle in the sche
 * The customer will receive an email confirming that their order is complete.
 * The shop notification email will get an email confirming how many subscription orders were processed. It will also mention any errors - such as a credit card that couldn't be billed.
 
+### Planning for future subscriptions
 
+There's two ways for planning the opening and closing of order cycles in your schedules. 
 
+Regardless of which option you use, remember that the frequency that you create order cycles in your schedule will dictate how often the subscription reoccurs. E.g. If you create an order cycle for each week opening on a Monday, your customers will get weekly subscriptions.
 
+**Manual option**
+
+You can create order cycles in your schedule\(s\) on a one by one basis. How this would work is that when you're ready to open and order cycle  you'll check that you've updated everything outside of order cycles, such as your product availability, and any shipping method descriptions etc.
+
+Then, you're ready you create the order cycle, either by cloning an existing one or creating a new one. You'll add in the product range and check the text fields of the order cycle \(such as the 'ready  for' date\). Also check that you've updated product availability. Then you can create the open order cycle. 
+
+**Automatic option**
+
+You can create future order cycles in advance, and set their opening and closing dates to correspond with each subscription date. To do this you can create a series of order cycles through cloning, and adjusting the opening/closing dates, and the text fields \(such as the 'ready for' dates\).
+
+Then, as time passes your order cycles will open and close, triggering the creation and confirmation of your subscriptions. 
+
+Just make sure that before the opening date of each order cycle you double check your product availability etc.
 

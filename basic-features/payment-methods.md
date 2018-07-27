@@ -138,6 +138,12 @@ When the customer next shops with an OFN shop offering Stripe as a payment metho
 **Viewing and redeeming your payments via Stripe**
 
 When a customer pays for their order with Stripe, the funds \(minus Stripe's fees\) will go to your stripe account. Depending on your setting in Stripe the funds will be automatically transferred to your chosen bank account periodically.
+
+**Taking further payment**
+
+If you need to take additional payment from a customer because they have further balance due,  you can create an invoice in Stripe. The customer will get sent an email asking for them to pay with Credit/Debit card. This won't be communicated to OFN, so you'll need to mark the payment off manually.
+
+![](../.gitbook/assets/image%20%2816%29.png)
 {% endtab %}
 
 {% tab title="Pin Payments" %}
