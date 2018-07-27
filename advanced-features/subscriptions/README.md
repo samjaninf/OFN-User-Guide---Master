@@ -1,5 +1,9 @@
 # Subscriptions
 
+{% hint style="info" %}
+Subscriptions is in 'beta' mode, meaning it's a new feature that may still have some glitches. Please contact us with any feedback about what works, what needs improving or how it could be better explained - hello@openfoodnetwork.org
+{% endhint %}
+
 ## What are subscriptions? {#what-are-subscriptions}
 
 Subscriptions is a tool which lets shops setup recurring or standing orders for their customers. Once setup, these orders will be automatically processed at defined intervals. The feature is convenient for customers, as they can know that their order will be processed without needing to remember to place their order. Subscriptions are also a good way for shops to boost customer loyalty and make their order volumes more predictable.
