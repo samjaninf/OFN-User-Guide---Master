@@ -52,6 +52,7 @@
     * [Subscriptions - configuration](advanced-features/subscriptions/subscriptions-configuration.md)
     * [Subscriptions- creating and managing orders](advanced-features/subscriptions/subscriptions-creating-and-managing-orders.md)
     * [Subscriptions - the customer's perspective](advanced-features/subscriptions/subscriptions-the-customers-perspective.md)
+    * [Subscriptions - FAQs](advanced-features/subscriptions/subscriptions-faqs.md)
   * [Orders](advanced-features/orders/README.md)
     * [Create orders manually](advanced-features/orders/create-orders-manually.md)
     * [Refund Payments](advanced-features/orders/refund-payments.md)
