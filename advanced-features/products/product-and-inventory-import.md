@@ -1,14 +1,12 @@
----
-description: THIS FEATURE IS COMING SOON
----
-
 # Product and inventory import
+
+{% hint style="info" %}
+THIS FEATURE IS COMING SOON
+{% endhint %}
 
 The product and inventory import tool lets you upload a csv file to add and update your stock.
 
 The product and inventory import tool can be found by clicking **Products** in the horizontal blue menu, and **product import** in the green menu.
-
-**Product import type**
 
 Product import can be used in relation to [products ](../../basic-features/products.md)and [inventory](inventory-tool.md). There's four ways you can use the tool.
 
@@ -18,10 +16,6 @@ Product import can be used in relation to [products ](../../basic-features/produ
 4. Update existing inventory details
 
 In all cases the process involves downloading a csv template. Filling in the fields and then uploading your csv file back into OFN.
-
-
-
-Select import type
 
 ## Import New Products
 
@@ -67,7 +61,31 @@ Note that all fields are case sensitive. E.g. you must use mL not ml , or Dairy 
 
 Here's how these products will display in the shop:???
 
+### Unit type examples {#variants}
+
+Below are some examples to show how products with different units should be uploaded.
+
+| supplier | **name** | **category** | **price** | **units** | **unit\_type** | **variant\_unit\_name** |
+| :--- | :--- | :--- | :--- | :--- | :---: | :---: |
+| Sue's Salads | Salad Bag | Salads | 3.50 | 500 | g |   |
+| Henry Orchards | Fruit Juice | Drinks | 3.50 | 300 | ml |   |
+| Fernwell Produce | Potatoes | Vegetables | 9.50 | 5 | kg |   |
+| Tom's Bakery | Wholemeal Bread | Baked goods | 3.00 | 1 |   | loaf |
+
 ## Update existing product details
 
-Use these instructions if you want to add new instr 
+The instructions below relate to updating the details of an existing product. 
+
+This tool is intended as a quick way to update product prices and stock levels.
+
+| Required fields \(you can't update\) | Fields you can update | Fields that won't update and aren't required |
+| :--- | :--- | :--- |
+| supplier | sku | variant\_unit\_name |
+| name | display\_name | tax\_category |
+| category | price | shipping\_category |
+| units | on\_hand |  |
+| unit\_type \(if applicable\) | on\_demand |  |
+| variant\_unit\_name \(if applicable\) |  |  |
+
+The process for updating product details is similar to uploading new products. The first step is to download the **Product List Template** and fill in the product names and the supplier. The system will locate the product based on the product name and the supplier?? Then, the system will look at the other fields and identify any changes, which will be updated.
 
