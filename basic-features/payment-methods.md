@@ -143,7 +143,7 @@ When a customer pays for their order with Stripe, the funds \(minus Stripe's fee
 
 If you need to take additional payment from a customer because they have further balance due,  you can create an invoice in Stripe. The customer will get sent an email asking for them to pay with Credit/Debit card. This won't be communicated to OFN, so you'll need to mark the payment off manually.
 
-![](../.gitbook/assets/image%20%2817%29.png)
+![](../.gitbook/assets/image%20%2818%29.png)
 {% endtab %}
 
 {% tab title="Pin Payments" %}

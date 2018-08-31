@@ -25,7 +25,7 @@ Firstly, download the **Product List Template CSV** file from the **Product Impo
 
 You'll see that the template gives all the column headings required to successfully import a product. Below is a description of how to fill in each column.
 
-![](../../.gitbook/assets/image%20%2815%29.png)
+![](../../.gitbook/assets/image%20%2816%29.png)
 
 {% hint style="info" %}
 Note that all fields are case sensitive. E.g. you must use mL not ml , or Dairy not dairy.
@@ -72,11 +72,15 @@ Below are some examples to show how products with different units should be uplo
 | Fernwell Produce | Potatoes | Vegetables | 9.50 | 5 | kg |   |
 | Tom's Bakery | Wholemeal Bread | Baked goods | 3.00 | 1 |   | loaf |
 
-## Update existing product details
+## Update Existing Product Details
 
 The instructions below relate to updating the details of an existing product. 
 
 This tool is intended as a quick way to update product prices and stock levels.
+
+The process for updating product details is similar to uploading new products. The first step is to download the **Product List Template** and fill in the product names and the supplier. If you have this spreadsheet on hand from a previous upload even better. 
+
+The system requires six fields, which it uses to locate the correct product to update. There are also 6 fields which can be updated. Some fields cannot be updated with the upload tool.
 
 | Required fields \(you can't update\) | Fields you can update | Fields that won't update and aren't required |
 | :--- | :--- | :--- |
@@ -87,5 +91,15 @@ This tool is intended as a quick way to update product prices and stock levels.
 | unit\_type \(if applicable\) | on\_demand |  |
 | variant\_unit\_name \(if applicable\) |  |  |
 
-The process for updating product details is similar to uploading new products. The first step is to download the **Product List Template** and fill in the product names and the supplier. The system will locate the product based on the product name and the supplier?? Then, the system will look at the other fields and identify any changes, which will be updated.
+The green columns are required, the orange are able to be updated, the white cannot be updated and aren't required.
+
+![](../../.gitbook/assets/image.png)
+
+## Import New Inventory
+
+Coming soon
+
+## Update Existing Inventory Details
+
+Coming soon
 

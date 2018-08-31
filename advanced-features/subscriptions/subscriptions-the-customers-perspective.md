@@ -22,13 +22,13 @@ The Customer Account page can be accessed at [https://openfoodnetwork.org.au/acc
 
 Your customer can save one or more cards in their account, in the **credit cards** tab.
 
-![](../../.gitbook/assets/image%20%2813%29.png)
+![](../../.gitbook/assets/image%20%2814%29.png)
 
 The card which is denoted as 'default' will be charged automatically by Stripe if they have a subscription with Stripe as the chosen payment method. If none is selected as 'default' their credit card payments won't be processed.
 
 If your customer saves credit cards in their account, they'll also be able to quickly select these when they shop in your shop at checkout.
 
-![](../../.gitbook/assets/image.png)
+![](../../.gitbook/assets/image%20%281%29.png)
 
 ### **b\) Authourising a shop to charge their default card**
 
@@ -36,15 +36,15 @@ As well as saving a card in their account the customer needs to authorise your s
 
 **You should add your customers to your** [**Customer List**](../shop-setup/customers.md) **before you ask them to save their credit card details and authorise your shop to bill their card.** If you've added a customer to your customer list, when that customer creates an account with OFN and logs in to save their card, they _will_ see your shop and be able to grant it with permission to bill their card \(e.g. below\). 
 
-![](../../.gitbook/assets/image%20%2818%29.png)
+![](../../.gitbook/assets/image%20%2819%29.png)
 
 If you haven't added them to your customer list by the time they go to save their card they _won't_ see your shop to grant the required permission \(e.g. below\). If this happens, you'll need to add them to your customer list, and then they'll need to log back in to grant the authorisation. 
 
-![](../../.gitbook/assets/image%20%2810%29.png)
+![](../../.gitbook/assets/image%20%2811%29.png)
 
 Below is an example of a customer who has granted permission for a Farm shop to charge them.
 
-![](../../.gitbook/assets/image%20%2811%29.png)
+![](../../.gitbook/assets/image%20%2812%29.png)
 
 ## Email notifications
 
@@ -54,7 +54,7 @@ The subscriptions feature includes a number of automatically generated emails wh
 
 The first email is triggered the moment an order cycle in the customer's subscribed schedule opens. This email lets the customer know that their subscription order has been opened. The customer can see which items are in the order and the amount they'll be charged. The email also contains their shipping and payment information.
 
-![](../../.gitbook/assets/image%20%281%29.png)
+![](../../.gitbook/assets/image%20%282%29.png)
 
 #### Modifying the order
 
@@ -64,19 +64,19 @@ If the shop **does not all customers to change their orders,** their email will 
 
 If the shop **allows customers to change their orders**, the text in the blue text box will be slightly different to the email above and there will be a link which will take customers to their order \(see below\). Currently customers will only be able to remove items from their order, or change the quantities of existing items. If they want to add a new item to their order they'll need to either place a new order or contact the shop and ask them to make this change for them.
 
-![](../../.gitbook/assets/image%20%287%29.png)
+![](../../.gitbook/assets/image%20%288%29.png)
 
 #### Products unavailable
 
 In the case that a product in the customer's subscription was not available, due to limited stock or the product not being in the Order Cycle, they'll be alerted in the first email \(example below\).
 
-![](../../.gitbook/assets/image%20%2812%29.png)
+![](../../.gitbook/assets/image%20%2813%29.png)
 
 #### Email 2 - When the Order Cycle closes
 
 The final email goes to the customer when the order cycle closes. This email confirms the final order, including any adjustments they made. 
 
-![](../../.gitbook/assets/image%20%286%29.png)
+![](../../.gitbook/assets/image%20%287%29.png)
 
 #### Unable to charge credit card
 
