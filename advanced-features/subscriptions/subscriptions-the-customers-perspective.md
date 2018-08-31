@@ -36,7 +36,7 @@ As well as saving a card in their account the customer needs to authorise your s
 
 **You should add your customers to your** [**Customer List**](../shop-setup/customers.md) **before you ask them to save their credit card details and authorise your shop to bill their card.** If you've added a customer to your customer list, when that customer creates an account with OFN and logs in to save their card, they _will_ see your shop and be able to grant it with permission to bill their card \(e.g. below\). 
 
-![](../../.gitbook/assets/image%20%2817%29.png)
+![](../../.gitbook/assets/image%20%2818%29.png)
 
 If you haven't added them to your customer list by the time they go to save their card they _won't_ see your shop to grant the required permission \(e.g. below\). If this happens, you'll need to add them to your customer list, and then they'll need to log back in to grant the authorisation. 
 

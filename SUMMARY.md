@@ -34,6 +34,7 @@
     * [Product properties](advanced-features/products/product-properties.md)
     * [Inventory tool](advanced-features/products/inventory-tool.md)
     * [Group Buy - for bulk ordering](advanced-features/products/group-buy-for-bulk-ordering.md)
+    * [Product and inventory import](advanced-features/products/product-and-inventory-import.md)
   * [Shop Setup](advanced-features/shop-setup/README.md)
     * [Customer specific pricing](advanced-features/shop-setup/customer-specific-pricing.md)
     * [Private shopfront](advanced-features/shop-setup/private-shopfront.md)

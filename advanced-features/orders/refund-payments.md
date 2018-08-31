@@ -22,7 +22,7 @@ Login to stripe here and click on the payments tab.
 Refunds take 5-10 days to appear on a customer's statement.
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%2815%29.png)
+![](../../.gitbook/assets/image%20%2816%29.png)
 
 Next to the relevant order, click on **refund charge**. 
 
