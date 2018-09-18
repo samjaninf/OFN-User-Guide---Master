@@ -8,14 +8,14 @@ The product and inventory import tool lets you upload a csv file to add and upda
 
 The product and inventory import tool can be found by clicking **Products** in the horizontal blue menu, and **product import** in the green menu.
 
-Product import can be used in relation to [products ](../../basic-features/products.md)and [inventory](inventory-tool.md). There's four ways you can use the tool.
+Product import can be used in relation to [products ](../../basic-features/products.md)and [inventory](inventory-tool.md). There's four ways you can use the tool:
 
 1. Import new products
 2. Update existing product details
 3. Import new inventory
 4. Update existing inventory details
 
-In all cases the process involves downloading a csv template. Filling in the fields and then uploading your csv file back into OFN.
+In all cases the process involves downloading a csv template, filling in the fields and then uploading your csv file back into OFN.
 
 ## Import New Products
 
@@ -25,7 +25,7 @@ Firstly, download the **Product List Template CSV** file from the **Product Impo
 
 You'll see that the template gives all the column headings required to successfully import a product. Below is a description of how to fill in each column.
 
-![](../../.gitbook/assets/image%20%2816%29.png)
+![](../../.gitbook/assets/image%20%2819%29.png)
 
 {% hint style="info" %}
 Note that all fields are case sensitive. E.g. you must use mL not ml , or Dairy not dairy.
@@ -59,7 +59,9 @@ Note that all fields are case sensitive. E.g. you must use mL not ml , or Dairy 
 | Yoghurt | Banana | 4 | 500 | g |
 | Yoghurt | Strawberry | 4 | 500 | g |
 
-Here's how these products will display in the shop:???
+Here's how these products will display in the shop:
+
+![](../../.gitbook/assets/image.png)
 
 ### Unit type examples {#variants}
 
@@ -93,7 +95,9 @@ The system requires six fields, which it uses to locate the correct product to u
 
 The green columns are required, the orange are able to be updated, the white cannot be updated and aren't required.
 
-![](../../.gitbook/assets/image.png)
+What if I leave an updateable field blank? Will it become zero/erase the previous content?
+
+![](../../.gitbook/assets/image%20%281%29.png)
 
 ## Import New Inventory
 
