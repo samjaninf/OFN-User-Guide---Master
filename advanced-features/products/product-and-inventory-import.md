@@ -25,7 +25,7 @@ Firstly, download the **Product List Template CSV** file from the **Product Impo
 
 You'll see that the template gives all the column headings required to successfully import a product. Below is a description of how to fill in each column.
 
-![](../../.gitbook/assets/image%20%2819%29.png)
+![](../../.gitbook/assets/image%20%2820%29.png)
 
 {% hint style="info" %}
 Note that all fields are case sensitive. E.g. you must use mL not ml , or Dairy not dairy.
