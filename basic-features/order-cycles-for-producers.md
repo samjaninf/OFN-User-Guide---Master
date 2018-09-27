@@ -19,13 +19,13 @@ Note you cannot create an order cycle until you have set up [shipping ](shipping
 ![](../.gitbook/assets/producer-oc.png)
 
   
-**Name:** Choose a name for this order cycle. This will only be visible to you, so it can be named anything which is meaningful for you. We recommend that you follow a consistent naming protocol e.g FoodHub\_Week27\_2014.
+**Name \(**_**required**_**\):** Choose a name for this order cycle. This will only be visible to you, so it can be named anything which is meaningful for you. We recommend that you follow a consistent naming protocol e.g FoodHub\_Week27\_2014.
 
 **Orders Open:** This is the date at which your OFN store will be open, and start to accept orders.
 
 **Orders Close:** This is the date when your OFN store will close, and stop accepting orders. If you intend to have an order cycle which is continuously open, select a close date which is well into the future.
 
-**Ready for \(ie Date/Time\):** This box tells the customer when their order will be ready for either collection or delivery. If your order cycle is a perpetual one, which fulfills orders on an individual basis rather then in bulk, you should enter something like ‘Two days after order is received’. You can also put information about your delivery methods in your ‘shopfront message’. The example below shows how ‘Friday 9th’ is displayed in a store.
+**Ready for \(ie Date/Time\) \(**_**required**_**\):** This box tells the customer when their order will be ready for either collection or delivery. If your order cycle is a perpetual one, which fulfills orders on an individual basis rather then in bulk, you should enter something like ‘Two days after order is received’. You can also put information about your delivery methods in your ‘shopfront message’. The example below shows how ‘Friday 9th’ is displayed in a store.
 
 ![](../.gitbook/assets/next-order-closing.png)
 
