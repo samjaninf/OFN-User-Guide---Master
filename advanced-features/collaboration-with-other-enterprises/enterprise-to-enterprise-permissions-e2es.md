@@ -30,7 +30,7 @@ There are four different kinds of E2E permissions. Applying these E2Es in differ
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/P-Profile.png)
 
-### Granting and Managing E2Es {#grantingandmanagingE2Es}
+### Granting and Managing E2Es <a id="grantingandmanagingE2Es"></a>
 
 To grant, view and delete your E2E permissions, click on **Enterprises** in the blue horizontal menu, and then **Enterprise Relationships** in the green horizontal menu \(below\). Here you can view any E2E permissions that you have established previously, grant new ones or delete them.
 

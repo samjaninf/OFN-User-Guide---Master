@@ -55,7 +55,7 @@ This will take you to the same form that we saw in the ‘Your Profile’ sectio
 
 **Images:**We strongly recommend that all profiles have both logo and promo images. These images make the online experience for customers more enjoyable and engaging, and also lend credibility to the enterprises.
 
-## 2\) Supplying producer has a pre-existing OFN profile {#supplyingproducer}
+## 2\) Supplying producer has a pre-existing OFN profile <a id="supplyingproducer"></a>
 
 If a supplying producer already has an OFN profile, you will need to get their permission to add products to their profile \(if they haven’t already\) and to stock them in your shop. You will be able to find their contact details on their OFN profile. Keep in mind that the producer profile could be managed by another hub, but this is not a problem- the OFN can accommodate two hubs stocking the same producer’s products in their separate shops.
 
