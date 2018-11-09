@@ -17,9 +17,26 @@ Product import can be used in relation to [products ](../../basic-features/produ
 
 In all cases the process involves downloading a csv template, filling in the fields and then uploading your csv file back into OFN.
 
+#### Product fields that aren't encompassed by the import tool
+
+In the first version of this tool there are a few fields that aren't captured. Unfortunately in the mean time these fields will need to be setup or updated manually. See [product](../../basic-features/products.md) for details. 
+
+* Image
+* Properties \(All uploaded products will inherit the properties of the producer profile\).
+* Product description
+* Group buy settings
+
+{% hint style="info" %}
+If you need this functionality, please let [your local OFN](https://openfoodnetwork.org/ofn-local/) know. We welcome your feedback.
+{% endhint %}
+
 ## 1\) Import New Products
 
 Use these instructions if you want to add new products to a producer's profile.
+
+{% hint style="info" %}
+You can simultaneously upload new products and update existing products with a single CSV upload. The instructions in this guide are separated for clarity but you can combine new products and updates in the same spreadsheet.
+{% endhint %}
 
 ### Prepare the CSV file for import
 
@@ -52,9 +69,9 @@ Note that all fields are case sensitive. E.g. you must use mL not ml , or Dairy 
 
 #### How to import variants
 
-[Variants ](product-variants.md)are similar products that differ on size of flavour. By uploading them as variants rather than idividual products, your shop will be less cluttered and easier for the customer to navigate. 
+[Variants ](product-variants.md)are similar products that differ on size or flavour. By uploading them as variants rather than individual products, your shop will be less cluttered and easier for the customer to navigate. 
 
-Iin the import process, variants are distinguished by the units \(such as salad sold in 2 size variants\) or display\_name fields \(such as a yoghurt sold in multiple flavours\) and grouped by product name.  As long as the product name is the same, the rows will be imported as variants
+In the import process, variants are distinguished by the units \(such as salad sold in 2 size variants\) or display\_name fields \(such as a yoghurt sold in multiple flavours\) and grouped by product name.  As long as the product name is the same, the rows will be imported as variants
 
 The example below shows a salad that comes in 500g and 750g variants, and a yoghurt that comes in multiple flavours.
 
@@ -84,32 +101,69 @@ Below are some examples to show how products with different units \(g, ml, kg an
 
 Once you have filled out the **Product List Template CSV** you are ready to upload it into OFN.
 
-Go to Product Import 
+Go to **Products** &gt;  **Product Import.**
+
+**Select import type:** Select Product List
+
+**Select a spreadsheet to upload:** Find the csv file you wish to upload.
+
+Because you are uploading new products, you can leave the '_Set stock to zero for all exiting products not present in the file_' checkbox unticked. 
+
+Click **Upload**.
+
+You'll be shown a summary of your upload, including any errors. You'll also be told how many products you are creating and how many you are updating. If you're happy with the upload results, click **save**. You can then upload another spreadsheet or go to the products page to view your new products.
+
+{% hint style="info" %}
+It's good practice to check that the products uploaded/updated as you intended.
+{% endhint %}
 
 ## 2\) Update Existing Product Details
 
-The instructions below relate to updating the details of an existing product. 
+The instructions below relate to updating the details of an existing product. This tool is intended as a quick way to update product prices and stock levels.
 
-This tool is intended as a quick way to update product prices and stock levels.
+{% hint style="info" %}
+You can simultaneously upload new products and update existing products with a single CSV upload. The instructions in this guide are separated for clarity but you can combine new products and updates in the same spreadsheet.
+{% endhint %}
+
+### Prepare the CSV file for import
 
 The process for updating product details is similar to uploading new products. The first step is to download the **Product List Template** and fill in the product names and the supplier names. If you have this spreadsheet on hand from a previous upload even better. 
 
-The system requires six fields, which it uses to identify the correct product you want to update. There are also 6 fields which can be updated. Some fields cannot be updated with the upload tool.
+The system requires seven fields, which it uses to identify the correct product you want to update. There are four fields which can be updated. Three fields cannot be updated with the import tool.
 
 | Required fields \(you can't update\) | Fields you can update | Fields that won't update and aren't required |
 | :--- | :--- | :--- |
-| supplier | sku | variant\_unit\_name |
-| name | display\_name | tax\_category |
-| category | price | shipping\_category |
-| units | on\_hand |  |
-| unit\_type \(if applicable\) | on\_demand |  |
-| variant\_unit\_name \(if applicable\) |  |  |
+| \*supplier | sku | ^variant\_unit\_name |
+| \*name | price | ^tax\_category |
+| ^category | on\_hand | ^shipping\_category |
+| \*units | on\_demand |  |
+| ^unit\_type \(if applicable\) |  |  |
+| ^variant\_unit\_name \(if applicable\) |  |  |
+| \*display\_name |  |  |
+
+_^ if you try to update these fields you'll see an error message_
+
+_\*If you try to update these fields you'll actually create new products or variants, rather than update an existing product._
 
 The green columns are required, the orange are able to be updated, the white cannot be updated and aren't required.
 
-![](../../.gitbook/assets/image%20%282%29.png)
+![](../../.gitbook/assets/image%20%2813%29.png)
 
-What if I leave an updateable field blank? Will it become zero/erase the previous content? Or can I remove the columns that I don't want to update.
+### **Import the CSV**
+
+Once you have filled out the **Product List Template CSV** you are ready to upload it into OFN.
+
+Go to **Products** &gt;  **Product Import.**
+
+**Select import type:** Select Product List
+
+**Select a spreadsheet to upload:** Find the csv file you wish to upload.
+
+**Set stock to zero for all exiting products not present in the file:** If you select this tickbox the system will set the 'On Hand' value to zero for all products already your product list. If a product was 'On Demand' it will remain 'On Demand. The Products in this import will retain the stock level you have set in the csv.
+
+Click **Upload**.
+
+You'll be shown a summary of your upload, including any errors. You'll also be told how many products you are creating and how many you are updating. If you only intended to update products but you see that a product is being created, you can see which row it is and go back and fix your spreadsheet. If you're happy with the upload results, click **save**. You can then upload another spreadsheet or go to the products page to view your new products.
 
 ## Import New Inventory
 
