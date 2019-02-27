@@ -2,9 +2,9 @@
 
 ### Refunding a Stripe Payment
 
-Depending on whether you need to do a full refund or a part refund you may need to do the refund from Stripe.
+The process will be slightly different if you refund totally an order, or partially. In both cases, you can do it within the OFN.
 
-**You can refund an entire Stripe payment from within OFN.** 
+**Total refund** 
 
 Edit the order and click on payments in the menu on the right.
 
@@ -14,7 +14,17 @@ Edit the order and click on payments in the menu on the right.
 
 Click  on the cross icon to the right of the payment to void this payment. This will result in the full payment being refunded from Stripe.
 
-**You can do a partial refund from Stripe**
+**Partial refund**
+
+Edit the order and make an adjustment, like remove a product for instance. A credit owed appears, you can see it in the same "payments" menu.
+
+![](../../.gitbook/assets/capture-du-2019-02-27-20-04-19.png)
+
+Click on "credit" and this will automatically refund the customer bank account through Stripe.
+
+#### Managing refunds from the Stripe interface
+
+Alternatively, you can manage refunds from the Stripe interface. We don't encourage it as you won't be able to capture easily the payment on the OFN interface afterward. But if you want to do it, here is the process.
 
 Login to stripe here and click on the payments tab.
 
