@@ -180,13 +180,13 @@ Note that all fields are case sensitive. E.g. you must use mL not ml , or Dairy 
 
 | Column Title | Required? | Description | Example |
 | :--- | :--- | :--- | :--- |
-| producer | Y |  |  |
-| distributor | Y |  |  |
-| name | Y |  |  |
-| display\_name | N |  |  |
-| variant\_unit\_name | Y |  |  |
-| units | Y |  |  |
-| unit\_type | Y |  |  |
+| producer | Y | This is the name of the producer profile that this inventory item will be assigned to | Four Mile Farm |
+| distributor | Y | This is the name of the hub profile the inventory item will be assigned to | Demo Hub |
+| name | Y | This is the name of the product | Yoghurt |
+| display name | N | This field applies if you are creating variants \(see instructions below\). If you're not creating a variant leave this field blank. | Rasberry Yoghurt |
+| variant\_unit\_name | Y | If the product is sold as an item \(e.g loaf, bunch, pumpkin\) write the item type here | Bunch |
+| units | Y | The weight, volume or quantity value | 500 |
+| unit\_type | Y | What unit is it sold in \(g, kg, T, mL, L\)? If sold as an item \(e.g. bunch\) leave blank | g |
 | price | Y | The price of the product. If the item carries tax, this must be the tax inclusive price. | 3.70 |
 | on\_hand | Y | Please check the rules for on\_demand below | leave blank as on\_demand is set to 1 |
 | on\_demand | Y | If blank - Read as "Use producer stock settings", so "on\_hand" should be blank.   If you set it to "1" - Read as on demand of "Yes", so "on\_hand" should be blank.     If you set it to "0" - Read as on demand of "No", so "on\_hand" is required. | 1 |
