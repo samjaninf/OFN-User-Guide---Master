@@ -166,9 +166,49 @@ You'll be shown a summary of your upload, including any errors. You'll also be t
 
 ## Import New Inventory
 
-Coming soon
+Use these instructions if you want to add or update new products to your [inventory](inventory-tool.md).
 
-## Update Existing Inventory Details
+#### Prepare the CSV file for import
 
-Coming soon
+Firstly, download the **Inventory Template CSV** file from the **Product Import** page.
+
+You'll see that the template gives all the column headings required to successfully import a product. Each row is for a new product or variant. Below is a description of how to fill in each column.
+
+{% hint style="info" %}
+Note that all fields are case sensitive. E.g. you must use mL not ml , or Dairy not dairy.
+{% endhint %}
+
+| Column Title | Required? | Description | Example |
+| :--- | :--- | :--- | :--- |
+| producer | Y |  |  |
+| distributor | Y |  |  |
+| name | Y |  |  |
+| display\_name | N |  |  |
+| variant\_unit\_name | Y |  |  |
+| units | Y |  |  |
+| unit\_type | Y |  |  |
+| price | Y | The price of the product. If the item carries tax, this must be the tax inclusive price. | 3.70 |
+| on\_hand | Y | Please check the rules for on\_demand below | leave blank as on\_demand is set to 1 |
+| on\_demand | Y | If blank - Read as "Use producer stock settings", so "on\_hand" should be blank.   If you set it to "1" - Read as on demand of "Yes", so "on\_hand" should be blank.     If you set it to "0" - Read as on demand of "No", so "on\_hand" is required. | 1 |
+| sku | N | The SKU code for this product | AD001265 |
+
+### Import the CSV <a id="import-the-csv"></a>
+
+Once you have filled out the csv you are ready to upload it into OFN.
+
+Go to **Products** &gt; **Product Import.**
+
+**Select import type:** Select Inventory
+
+**Select a spreadsheet to upload:** Find the csv file you wish to upload.
+
+Click **Upload**.
+
+You'll be shown a summary of your upload, including any errors. You'll also be told how many products you are creating and how many you are updating. If you're happy with the upload results, click **save**. You can then upload another spreadsheet or go to the inventory page to view your new products.
+
+{% hint style="info" %}
+It's good practice to check that the products uploaded/updated as you intended.
+{% endhint %}
+
+
 
