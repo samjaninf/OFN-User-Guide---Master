@@ -12,8 +12,7 @@ Product import can be used in relation to [products ](../../basic-features/produ
 
 1. Import new products
 2. Update existing product details
-3. Import new inventory
-4. Update existing inventory details
+3. Import new inventory or update your inventory
 
 In all cases the process involves downloading a csv template, filling in the fields and then uploading your csv file back into OFN.
 
@@ -64,9 +63,9 @@ Note that all fields are case sensitive. E.g. you must use mL not ml , or Dairy 
 | price | Y | The price of the product. If the item carries tax, this must be the tax inclusive price. | 3.70 |
 | on\_hand | Maybe | If you have limited stock for the product type the stock level here. If you have infinite stock available \(you can always source it\) enter 0 and use the on\_demand column | 40 |
 | available\_on | N | Leave blank |  |
-| on\_demand | Maybe | If you have infinite stock available for this product, type 1, if you're using on\_hand leave blank. If you enter a number in on\_hand _and_ 1 in on\_demand, the product will be on demand. | 1 |
+| on\_demand | Y | If you have infinite stock available for this product, type 1, if you're using on\_hand leave blank. If you enter a number in on\_hand _and_ 1 in on\_demand, the product will be on demand. | 1 |
 | shipping\_category | N | Leave blank |  |
-| tax\_category | Y | If the price of your product includes tax type GST, if not leave blank | GST |
+| tax\_category | N | If the price of your product includes tax type GST, if not leave blank | GST |
 | description | N | You can create a description, but you cannot update one. Please make sure that the text you wrote matches the current description in case of an update. | This Yoghurt is made from local raspberries  |
 
 #### How to import variants
@@ -164,11 +163,11 @@ Click **Upload**.
 
 You'll be shown a summary of your upload, including any errors. You'll also be told how many products you are creating and how many you are updating. If you only intended to update products but you see that a product is being created, you can see which row it is and go back and fix your spreadsheet. If you're happy with the upload results, click **save**. You can then upload another spreadsheet or go to the products page to view your new products.
 
-## Import New Inventory
+## 3\) Import New Inventory or update your inventory
 
 Use these instructions if you want to add or update new products to your [inventory](inventory-tool.md).
 
-#### Prepare the CSV file for import
+### Prepare the CSV file for import
 
 Firstly, download the **Inventory Template CSV** file from the **Product Import** page.
 
@@ -204,10 +203,10 @@ Go to **Products** &gt; **Product Import.**
 
 Click **Upload**.
 
-You'll be shown a summary of your upload, including any errors. You'll also be told how many products you are creating and how many you are updating. If you're happy with the upload results, click **save**. You can then upload another spreadsheet or go to the inventory page to view your new products.
+You'll be shown a summary of your upload, including any errors. You'll also be told how many inventory items you are creating and how many you are updating. If you're happy with the upload results, click **save**. You can then upload another spreadsheet or go to the inventory page to view your new products.
 
 {% hint style="info" %}
-It's good practice to check that the products uploaded/updated as you intended.
+It's good practice to check that inventory was updated as you intended.
 {% endhint %}
 
 
