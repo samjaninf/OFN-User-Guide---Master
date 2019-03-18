@@ -17,13 +17,16 @@ Product import can be used in relation to [products ](../../basic-features/produ
 
 In all cases the process involves downloading a csv template, filling in the fields and then uploading your csv file back into OFN.
 
+{% hint style="info" %}
+I**mportant note on CSV files**: Microsoft Excel does not open them directly. If you can, we suggest you download the free Libre Office suite [https://www.libreoffice.org/download/download/](https://www.libreoffice.org/download/download/) With Libre Office Calc, you will be able to open and edit CSV very easily and save them in the right encoding format UTF-8. If you can't, in order to open a CSV file in Microsoft Excel, you need to follow the following steps: [https://support.office.com/en-gb/article/import-or-export-text-txt-or-csv-files-5250ac4c-663c-47ce-937b-339e391393ba](https://support.office.com/en-gb/article/import-or-export-text-txt-or-csv-files-5250ac4c-663c-47ce-937b-339e391393ba)
+{% endhint %}
+
 #### Product fields that aren't encompassed by the import tool
 
 In the first version of this tool there are a few fields that aren't captured. Unfortunately in the mean time these fields will need to be setup or updated manually. See [product](../../basic-features/products.md) for details. 
 
 * Image
 * Properties \(All uploaded products will inherit the properties of the producer profile\).
-* Product description
 * Group buy settings
 
 {% hint style="info" %}
@@ -40,11 +43,9 @@ You can simultaneously upload new products and update existing products with a s
 
 ### Prepare the CSV file for import
 
-Firstly, download the **Product List Template CSV** file from the **Product Import** page and open it with excel \(or equivalent. [Google Sheets](https://www.google.com.au/sheets/about/) is a free option\)
+Firstly, download the **Product List Template CSV** file from the **Product Import** page.
 
 You'll see that the template gives all the column headings required to successfully import a product. Each row is for a new product or variant. Below is a description of how to fill in each column.
-
-![](../../.gitbook/assets/image.png)
 
 {% hint style="info" %}
 Note that all fields are case sensitive. E.g. you must use mL not ml , or Dairy not dairy.
@@ -66,6 +67,7 @@ Note that all fields are case sensitive. E.g. you must use mL not ml , or Dairy 
 | on\_demand | Maybe | If you have infinite stock available for this product, type 1, if you're using on\_hand leave blank. If you enter a number in on\_hand _and_ 1 in on\_demand, the product will be on demand. | 1 |
 | shipping\_category | N | Leave blank |  |
 | tax\_category | Y | If the price of your product includes tax type GST, if not leave blank | GST |
+| description | N | You can create a description, but you cannot update one. Please make sure that the text you wrote matches the current description in case of an update. | This Yoghurt is made from local raspberries  |
 
 #### How to import variants
 
@@ -133,21 +135,18 @@ The system requires seven fields, which it uses to identify the correct product 
 
 | Required fields \(you can't update\) | Fields you can update | Fields that won't update and aren't required |
 | :--- | :--- | :--- |
-| \*supplier | sku | ^variant\_unit\_name |
+| \*producer | sku | ^variant\_unit\_name |
 | \*name | price | ^tax\_category |
 | ^category | on\_hand | ^shipping\_category |
 | \*units | on\_demand |  |
 | ^unit\_type \(if applicable\) |  |  |
 | ^variant\_unit\_name \(if applicable\) |  |  |
 | \*display\_name |  |  |
+|  |  | ^description |
 
 _^ if you try to update these fields you'll see an error message_
 
 _\*If you try to update these fields you'll actually create new products or variants, rather than update an existing product._
-
-The green columns are required, the orange are able to be updated, the white cannot be updated and aren't required.
-
-![](../../.gitbook/assets/image%20%2813%29.png)
 
 ### **Import the CSV**
 
