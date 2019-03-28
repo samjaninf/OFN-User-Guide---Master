@@ -1,6 +1,6 @@
 # Basic Features
 
-The Basic Features chapter steps through the fundamental features required to setup a profile or shop on Open Food Network. Once you have familiarised yourself with these basic functionalities you can also explore the [Advanced Features](../advanced-features/).
+The Basic Features chapter steps through the fundamental features required to setup a profile or shop on Open Food Network. Once you have familiarised yourself with these basic functionalities you can also explore the [Advanced Features](../advanced-features/). 
 
 While you can browse these basic features freely, when you're first getting setup we recommend that you consult the Setup Manual that is specific to the model you operate. See the [Setup Manuals](../setup-manuals/) for more information.
 
