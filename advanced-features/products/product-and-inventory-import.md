@@ -64,7 +64,7 @@ Note that all fields are case sensitive. E.g. you must use mL not ml , or Dairy 
 | on\_hand | Maybe | If you have limited stock for the product type the stock level here. If you have infinite stock available \(you can always source it\) enter 0 and use the on\_demand column | 40 |
 | available\_on | N | Leave blank |  |
 | on\_demand | Y | If you have infinite stock available for this product, type 1, if you're using on\_hand leave blank. If you enter a number in on\_hand _and_ 1 in on\_demand, the product will be on demand. | 1 |
-| shipping\_category | N | Leave blank |  |
+| shipping\_category | Y | Which shipping category does this product sit in? The shipping categories available are listed on the Product Import page |  |
 | tax\_category | N | If the price of your product includes tax type GST, if not leave blank | GST |
 | description | N | You can create a description, but you cannot update one. Please make sure that the text you wrote matches the current description in case of an update. | This Yoghurt is made from local raspberries  |
 

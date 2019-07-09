@@ -22,7 +22,7 @@ If you are a producer, this will be you. If you're a hub, remember you’ll only
 
 **Units:** Choose what unit the product is sold in? \(g, kg, L… or item \(bunch, bag, packet\)\)
 
-**Value:** Choose in what value the product is sold in \(ie 100g, 2L, 1 bunch\)
+**Value:** Enter the value of units that this product is sold in \(ie 100g, 2L, 1 bunch\)
 
 **Display As:** This field automatically shows you how the units and value fields will display, once you have filled the units and value fields. \(i.e. units = kg, value = 2, Display as = 2kg\)
 
