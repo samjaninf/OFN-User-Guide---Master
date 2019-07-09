@@ -39,7 +39,7 @@ Note, when you setup Stripe to be used in subscriptions it's a good to make the 
 
 For example, rather than calling the payment method 'Credit card' you might like to call it 'automated credit card billing for subscriptions'. A possible description could be 'Your default credit card saved in your OFN account will be charged when your subscription order is confirmed on Wednesday nights'. This name and description will show on the email confirmation to subscription customers \(see example below\), so it's good to make it details so the customer knows what to expect.
 
-![](../../.gitbook/assets/image%20%2812%29.png)
+![](../../.gitbook/assets/image%20%2813%29.png)
 
 ## 3\) Gather information from your customers
 

@@ -54,6 +54,18 @@ Use this field if you want to track your stock levels. As customers place orders
 
 **Tax category:** If you would like the price of this product to include GST, select **GST** from the drop-down menu. The producer and shop enterprise must be set to charge GST in the [Enterprise Settings](enterprise-settings.md) to do this. If you leave this field blank, or select **none**, or not set the enterprise as being GST registered, the price will not include GST.
 
+### View all of your products 
+
+After you create your products you'll return to the Products page and see a list of your products. 
+
+![](../.gitbook/assets/image%20%2810%29.png)
+
+To see/edit the prices and stock levels you'll need to click 'Expand All', which will reveal these fields. 
+
+{% hint style="info" %}
+DO NOT USE THE INVENTORY TAB unless you have read the [Inventory ](../advanced-features/products/inventory-tool.md)page in the user guide and are _sure_ that you need to use this tab. Most users should set their stock levels and prices here on the Products page and avoid using the Inventory page. Contact us if you're unsure.
+{% endhint %}
+
 ### Listing similar products using 'Variants'
 
 If you are listing two products which are very similar, but only vary on price, or size, or flavour, it is best to create a ‘variant’ for that product, rather than creating multiple, separate products.

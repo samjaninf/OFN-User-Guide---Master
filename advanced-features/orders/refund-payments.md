@@ -8,9 +8,9 @@ The process will be slightly different if you refund totally an order, or partia
 
 Edit the order and click on payments in the menu on the right.
 
-![](../../.gitbook/assets/image%20%2814%29.png)
+![](../../.gitbook/assets/image%20%2815%29.png)
 
-![](../../.gitbook/assets/image%20%2822%29.png)
+![](../../.gitbook/assets/image%20%2823%29.png)
 
 Click  on the cross icon to the right of the payment to void this payment. This will result in the full payment being refunded from Stripe.
 
@@ -32,7 +32,7 @@ Login to stripe here and click on the payments tab.
 Refunds take 5-10 days to appear on a customer's statement.
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%2825%29.png)
+![](../../.gitbook/assets/image%20%2826%29.png)
 
 Next to the relevant order, click on **refund charge**. 
 
