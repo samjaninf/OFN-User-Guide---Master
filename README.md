@@ -8,8 +8,6 @@ Notice a change? We've updated our user guide and we think you're going to love 
 
 [_&gt;&gt;  Guia en català_](https://guia.katuma.org/)\_\_
 
-_testing..._
-
 This user guide provides information for local food enterprises and organisations who wish to use Open Food Network's tools and functionality.
 
 This short video will give you a brief introduction to how the Open Food Network works, and what it can do for your food business, or organisation.
