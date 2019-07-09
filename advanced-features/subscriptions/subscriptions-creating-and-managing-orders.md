@@ -49,6 +49,10 @@ How exactly does the end date interact with the OC dates? If the customer's subs
 
 ![](../../.gitbook/assets/new-subscription-address.png)
 
+{% hint style="info" %}
+Note: If you update the customer's address in the Customer page, this change won't automatically carry through to their subscription, so you'll need to update it here too.
+{% endhint %}
+
 **Add Products**
 
 You can add any products that are in future Order Cycles that are within the schedule. You can't add products to a subscription if they aren't in any future order cycles within the schedule that the customer is subscribing to.
