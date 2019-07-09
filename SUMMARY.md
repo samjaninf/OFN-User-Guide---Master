@@ -10,7 +10,6 @@
   * [Multi-Producer Pre-orders](setup-manuals/multi-producer-pre-orders.md)
   * [Farmer's Market \(Group Page\)](setup-manuals/farmers-market-group-page.md)
   * [Farmer's Market \(Shops\)](setup-manuals/farmers-market-shops.md)
-  * [Test merge conflicts](setup-manuals/test-merge-conflicts.md)
 * [Basic Features](basic-features/README.md)
   * [Register and create your profile](basic-features/register-and-create-your-profile.md)
   * [Package types](basic-features/package-types.md)
