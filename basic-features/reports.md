@@ -40,6 +40,22 @@ The All Products and Inventory \(on hand\) reports can be used as a paper copy o
 
 ![all products report](https://openfoodnetwork.org/wp-content/uploads/2015/05/all-products.png)
 
+## Enterprise Fee Summary
+
+Enterprises can set up [enterprise fees](enterprise-fees.md) to identify and control allocation of costs / prices for different purposes. These fees enable price transparency and are revealed to customers in the shop. The Enterprise Fee Summary report is used to summarise how much of which fees were charged to whom. 
+
+The report contains standard filtering by Hub, Producer and Order Cycle, as well as fields enabling selection of the Fee Names you want included, or which Shipping or Payment methods.
+
+![](../.gitbook/assets/image%20%2823%29.png)
+
+Example 1: a Shop includes a 2% fundraising fee on every order to donate, they can use this report to easily find the total funds raised within a particular order cycle. 
+
+Example 2: a Hub pays a transport fee to a Producer that picks up produce from other farmers and brings it into the Hub. This fee is calculated on every incoming product into an order cycle. They use this report to work out how much to pay that Producer
+
+Example 3: a Hub sets up a fee to show the amount they pay to Open Food Network to their customers \(see image below\).
+
+![](../.gitbook/assets/image%20%282%29.png)
+
 ## Packing Reports
 
 Some enterprises use their order confirmation emails as packing sheets, and others will create their own by modifying the Order Cycle Customer Totals report \(above\) to suit their desired format. These packing reports offer two additional options for packing slips.

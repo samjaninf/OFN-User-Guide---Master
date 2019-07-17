@@ -58,7 +58,7 @@ Use this field if you want to track your stock levels. As customers place orders
 
 After you create your products you'll return to the Products page and see a list of your products. 
 
-![](../.gitbook/assets/image%20%2810%29.png)
+![](../.gitbook/assets/image%20%2811%29.png)
 
 To see/edit the prices and stock levels you'll need to click 'Expand All', which will reveal these fields. 
 
