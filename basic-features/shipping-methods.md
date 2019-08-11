@@ -12,7 +12,7 @@ Click **Enterprises** in the blue horizontal menu, and then click **Manage** nex
 
 **2\)** Click the **create new shipping method** button.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/New-Shipping-Method.png)
+![](../.gitbook/assets/new-shipping-method.png)
 
 **3\)** Tick your enterprise in the box on the right hand side of the page titled Hubs. This indicates that the shipping method you are about to create will apply to your enterprise.
 
@@ -20,7 +20,7 @@ Click **Enterprises** in the blue horizontal menu, and then click **Manage** nex
 
 **5\) Description:** Here you can provide further details about the shipping method. This will be visible to the customer when they checkout. For instance, the screenshot below shows that when this customer selects ‘collection from farm’, the grey box on the right hand side shows the description ‘We are happy for you to collect direct from the farm…’
 
-![The customer&apos;s view of a shipping method at checkout](https://openfoodnetwork.org/wp-content/uploads/2015/05/Shipping-view-at-checkout.png)
+![](../.gitbook/assets/shipping-view-at-checkout.png)
 
 **6\) Zone:** Select the appropriate zone.
 
