@@ -10,11 +10,11 @@ The screenshots below show the dashboard view for different types of users.
 
 {% tabs %}
 {% tab title="Producer Profile Only" %}
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Dashboard-Profile-Only.png)
+![](../.gitbook/assets/dashboard-profile-only.png)
 {% endtab %}
 
 {% tab title="Producer Profile and Shop" %}
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Dashboard-Shop.png)
+![](../.gitbook/assets/dashboard-shop.png)
 {% endtab %}
 {% endtabs %}
 
@@ -22,11 +22,11 @@ The screenshots below show the dashboard view for different types of users.
 
 {% tabs %}
 {% tab title="Hub Profile Only" %}
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Hub-dashboard-profile-only.png)
+![](../.gitbook/assets/hub-dashboard-profile-only.png)
 {% endtab %}
 
 {% tab title="Hub Profile and Shop" %}
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Hub-dashboard-shopfront.png)
+![](../.gitbook/assets/hub-dashboard-shopfront.png)
 {% endtab %}
 {% endtabs %}
 

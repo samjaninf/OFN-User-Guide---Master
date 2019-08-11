@@ -4,11 +4,11 @@
 
 Click on **Products** on the horizontal blue menu, and then click **+ New Product**.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Add-new-product.png)
+![](../.gitbook/assets/add-new-product.png)
 
 This will take you to the New Product page.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/New-Product2.png)
+![](../.gitbook/assets/new-product2.png)
 
 **Supplier** 
 
@@ -76,7 +76,7 @@ Once you have completed a product, click **create**, or if you’d like to add m
 
 When you click **create**, you will be taken to your **Bulk Edit Product** page, where you will see a summary of all of your products.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Bulk-Edit-Products1.png)
+![](../.gitbook/assets/bulk-edit-products1.png)
 
 **Examples**
 
@@ -84,11 +84,11 @@ Some examples of how to list different types of products, and how these listing 
 
 > Note: For products usually sold by the kg, it’s best to list the product for sale in increments, of 100g or higher. The customer can't order .3 kilograms to get 300g because you can only order in whole numbers, so instead list the item in 100g increments and they can order 3. The size will depend on the product \(e.g. most customers won't purchase 1kg or garlic\). This makes it easier to list and prepare the order.
 
-![An example of a product sold in 100g units](https://openfoodnetwork.org/wp-content/uploads/2015/05/Green-Beans1.png)
+![An example of a product sold in 100g units](../.gitbook/assets/green-beans1.png)
 
-![An example of a product sold as &apos;items&apos;, in this case &apos;cobs&apos;](https://openfoodnetwork.org/wp-content/uploads/2015/05/Corn-Cobs1.png)
+![An example of a product sold as &apos;items&apos;, in this case &apos;cobs&apos;](../.gitbook/assets/corn-cobs1.png)
 
-![An example of a product sold as &apos;items&apos;, in this case &apos;cartons&apos;.](https://openfoodnetwork.org/wp-content/uploads/2015/05/Carton-of-Eggs1.png)
+![An example of a product sold as &apos;items&apos;, in this case &apos;cartons&apos;.](../.gitbook/assets/carton-of-eggs1.png)
 
 #### Related advanced features:
 

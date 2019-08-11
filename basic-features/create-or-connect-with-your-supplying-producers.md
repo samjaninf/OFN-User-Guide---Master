@@ -8,7 +8,7 @@ For such users, this step is a necessary precursor to adding your product range 
 
 All products on the OFN must ‘belong’ to an OFN producer profile. This is an important feature on the OFN, as it enables customers to trace the origin of products. An example of how this displays in the shopfront is shown below.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Source-Identified.png)
+![](../.gitbook/assets/source-identified.png)
 
 So as a hub, what do you need to do before adding your products? Well, there are two possibilities, depending on whether or not your supplying producer already has an OFN profile.
 
@@ -29,8 +29,10 @@ Before you can create a producer profile you’ll need to email us. This is a sp
 
 Contact details:  
 UK: hello@openfoodnetwork.org.uk  
-Canada: tschumilas@rogers.com  
-Austraila and other: hello@openfoodnetwork.org
+Canada: info@openfoodnetwork.ca  
+Australia: hello@openfoodnetwork.org.au
+
+Other: hello@openfoodnetwork.org
 {% endhint %}
 
 
@@ -39,7 +41,7 @@ Austraila and other: hello@openfoodnetwork.org
 
 You can create a new profile for a producer by clicking on **Enterprises** in the horizontal blue banner, and then clicking **+ New Enterprise**. Remember ‘enterprise’ is a general term used for any producer or hub profile on the OFN.
 
-![New Enterprise button](https://openfoodnetwork.org/wp-content/uploads/2015/05/New-Enterprise.png)
+![](../.gitbook/assets/new-enterprise.png)
 
 This will take you to the same form that we saw in the ‘Your Profile’ section of this guide. A few things to note:
 

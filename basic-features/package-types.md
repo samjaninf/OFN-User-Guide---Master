@@ -4,7 +4,7 @@ There are five different packages available, with each one differing according t
 
 ## For Producers
 
-![The above is an example only, fees vary between OFN instances/countries.](https://openfoodnetwork.org/wp-content/uploads/2015/05/Three-producer-types.png)
+![The above is an example only, fees vary between OFN instances/countries.](../.gitbook/assets/three-producer-types.png)
 
 {% tabs %}
 {% tab title="1\) Producer Profile" %}
@@ -22,7 +22,7 @@ There are five different packages available, with each one differing according t
 
 ## For Non-Producers \(Hubs\)
 
-![The above is an example only, fees vary between OFN instances/countries.](https://openfoodnetwork.org/wp-content/uploads/2015/05/Two-hub-types.png)
+![The above is an example only, fees vary between OFN instances/countries.](../.gitbook/assets/two-hub-types.png)
 
 {% tabs %}
 {% tab title="1\) Hub \(Profile Only\)" %}

@@ -99,17 +99,17 @@ _\* not visible to profile-only users_
 
 **Shopfront Message**: This message is optional. It will be displayed at the top of your online store, above the product listings. It’s an opportunity to provide basic information to the customer about how your store works. For example, you may explain how your order cycles are structured, or any membership requirements. It could also be a friendly greeting, or a chance to promote specials. An example is below:
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Shopfront-Message.png)
+![](../.gitbook/assets/shopfront-message.png)
 
 **Shopfront Closed Message**: This message will be displayed when your shopfront is closed \(no active order cycle\). It’s a chance to tell customers about how your ordering works, and when the shop will next be open and accepting orders.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/store-closed.png)
+![](../.gitbook/assets/store-closed.png)
 
 **Publicly visible shopfront?**: If you select ‘public’, any shopper will be able to see your shopfront. If you select ‘visible to registered customers only’, shoppers who come to your shop will be prompted to login and only those users who are on your customers list will be given access to your shop.
 
 **Guest Orders?**: If you select ‘allow guest checkout’ shoppers won’t need to login to the OFN to shop with you. If you want shoppers to login before they can place their order, select ‘require login to order’. Note the Guest Orders setting is not applicable if you have chosen ‘visible to registered customers only’ in the setting above.
 
-**Shopfront Category Ordering**: The products within your store are arranged alphabetically, within their product category. You can order the product categories as you’d like them to appear, from top to bottom in your store. E.g. you may wish to have your Meat & Fish products to appear at the top, with your less important Pickles & Preseves appearing further down the shopfront.
+**Shopfront Category Ordering**: The products within your store are arranged alphabetically, within their product category. You can order the product categories as you’d like them to appear, from top to bottom in your store. E.g. you may wish to have your Meat & Fish products to appear at the top, with your less important Pickles & Preserves appearing further down the shopfront.
 
 **Sort order cycles on shopfront by:** If your shopfront will have [more than one order cycle open at the same time](../advanced-features/order-cycles/opening-more-than-one-order-cycle.md) you can select which order they appear in the shopfront. You may sorted them by closing date \(closing soonest first\) or by opening date \(opening soonest first\).
 
