@@ -20,7 +20,7 @@ Click **Enterprises** in the blue horizontal menu, and then click **Manage** nex
 
 The screenshot below shows a payment methods display at checkout. The customer has selected ‘cash on collection/delivery’ and the ‘correct change…’ description is displayed.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Payment-at-checkout.png)
+![](../.gitbook/assets/payment-at-checkout.png)
 
 6\) **Active:** Select whether this payment method is currently visible and available, or not.
 
@@ -49,13 +49,13 @@ To setup a PayPal payment method, you need a PayPal business or merchant account
 1. Login to your PayPal Account
 2. Click Tools and then select API credentials
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Paypal-tools-API-credentials.png)
+![](../.gitbook/assets/paypal-tools-api-credentials.png)
 
 1. Click on ‘View API Signature’  and you will see the API details you’ll need to set up Paypal in OFN.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/API-Access.png)
+![](../.gitbook/assets/api-access.png)
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Api-Signature.png)
+![](../.gitbook/assets/api-signature%20%281%29.png)
 
 1. In OFN, make sure you are logged in as your Enterprise User. Go to an Enterprise and create a Payment Method. Select PayPal and fill in the details from the PayPal site.
 
@@ -65,7 +65,7 @@ To setup a PayPal payment method, you need a PayPal business or merchant account
 
 **Signature:**Type the Signature in this field.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/New-Payment-Paypal-1.png)
+![](../.gitbook/assets/new-payment-paypal-1.png)
 
 **Server:** Change the ‘server’ field to ‘live’ – this is case sensitive.
 
@@ -101,7 +101,7 @@ Stripe is the recommended payment method for shops who wish to use [**subscripti
 
 Before you can setup a payment method that uses Stripe, you’ll need to Connect with Stripe. To do this, click on the ‘Connect with Stripe’ button.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2017/08/Connect-with-Stripe.png)
+![](../.gitbook/assets/connect-with-stripe.png)
 
 You’ll be taken to a form to fill in your details. If you already have an account with Stripe, you can login, if not, fill in the form to create a Stripe account.
 
@@ -123,7 +123,7 @@ Select the enterprise that has a Stripe account connected.
 
 If you select an enterprise that is not Connected to Stripe \(see above\) , you will get the error shown below. Either click ‘Connect One’ or return to your Payment Methods tab to Connect with Stripe. See instructions above.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2017/08/Stripe-connect.png)
+![](../.gitbook/assets/stripe-connect.png)
 
 #### Stripe Payments for Customers
 
@@ -131,7 +131,7 @@ When customers checkout in a shop and pay with a Stripe payment method, they’l
 
 Customer can also save a credit card in their Account, or delete saved ones.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2017/08/Add-card.png)
+![](../.gitbook/assets/add-card.png)
 
 When the customer next shops with an OFN shop offering Stripe as a payment method, they’ll be able to select from their saved credit cards.
 
@@ -151,9 +151,9 @@ For Pin Payments you only require your API key. You need to set up an account wi
 
 **API Key:**Enter your “Live Secret API Key’ here – you can find this in your PinPayments account \(see below\). First from your account, select API Keys. Then once you have generated an API key, copy the ‘Live Secret API Key’ and paste it into the API key field in OFN.
 
-![API Keys](https://openfoodnetwork.org/wp-content/uploads/2015/05/API-Keys.png)
+![](../.gitbook/assets/api-keys.png)
 
-![API Key](https://openfoodnetwork.org/wp-content/uploads/2015/05/API-2.png)
+![](../.gitbook/assets/api-2.png)
 
 **Server:**Type ‘live’ – this is case sensitive.
 {% endtab %}
@@ -161,7 +161,7 @@ For Pin Payments you only require your API key. You need to set up an account wi
 
 ### Fees on Payment Methods
 
-![Calculator](https://openfoodnetwork.org/wp-content/uploads/2015/05/Calculator.png)
+![](../.gitbook/assets/fee-calculators.png)
 
 You can attach a fee to payment methods. Most commonly this is used to pass on a platform's fees to the customer, such as Paypal fees.  
 1. Select a fee calculator \(full descriptions below\)  

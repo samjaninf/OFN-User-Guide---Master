@@ -4,7 +4,7 @@ Enterprise fees are most relevant to producers and hubs who are working together
 
 Depending on what kind of fee calculator you select, an enterprise fee is applied either as a markup on all goods in the shop - in which case customers will be able to view what percentage of the price is attributable to enterprise fees. They can do this in the store by clicking on the pie graph icon, next to each product. See below for an example. Alternatively the fee will be applied to the total order \(for example a $5/order fee\).
 
-![An enterprsie fee in shopfront](https://openfoodnetwork.org/wp-content/uploads/2015/05/Enterprsie-fee-in-shopfront.png)
+![An enterprise fee in a shopfront](../.gitbook/assets/enterprsie-fee-in-shopfront.png)
 
 ### Accessing Enterprise Fees
 
@@ -16,7 +16,7 @@ The first step to applying fees in your shop is to create the Enterprise Fee, as
 
 The second step is to apply the fee to an order cycle. If the fee is not applied to the active order cycle, it will not apply in your shop. See the order cycles for [producers](order-cycles-for-producers.md) or [hubs ](order-cycles-for-hubs.md)for more details.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Enterprise-Fees-Screenshot.png)
+![](../.gitbook/assets/enterprise-fees-screenshot.png)
 
 **Enterprise:** In the first column, select the enterprise who will receive this fee.
 
@@ -32,7 +32,7 @@ Click Update, to create the enterprise fee. Once the fee has been created you ca
 
 ### Fee Calculators
 
-![Fee calculators](https://openfoodnetwork.org/wp-content/uploads/2015/05/Fee-calculators.png)
+![](../.gitbook/assets/fee-calculators%20%281%29.png)
 
 **Weight \(per kg\)** – this fee is applied to products on a per kg basis. The fee will only be applied to products which are priced at a per kg rate, not products listed as items \(e.g. A product listed as ‘1 bunch of parsley’ will not receive this fee\)
 
