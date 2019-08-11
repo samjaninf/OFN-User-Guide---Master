@@ -35,7 +35,7 @@ The note is also shown at check out, when the customer selects their shipping me
 
 **Customer Instructions \(Pick-Up Instructions\):** This message will be included in the customer’s order confirmation email, below the message that corresponds to their chosen shipping method \(see below\). This note is designed to only be visible to customers, so you can include more sensitive information like addresses, or phone numbers etc. See below for an example of the order confirmation email.
 
-![](../.gitbook/assets/collection-details.png)
+![](../.gitbook/assets/collection-details%20%281%29.png)
 
 **Products:** You must select the products which will be visible in your online store during this order cycle. Remember, if you add new products after an order cycle is underway, you will need to select them here.
 
