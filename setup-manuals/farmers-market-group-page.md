@@ -21,7 +21,7 @@ Setting up a Farmer's Market Group Page on the OFN is a two part process:
 
 If you manage or are involved in a farmers market and would like to create an OFN group page for it, the first thing to do is to contact us and we’ll setup the page for you. Your market group page will be a personalised directory of enterprises who participate in your markets. For an example checkout the [Melbourne Farmer’s Markets](https://openfoodnetwork.org.au/groups/melbourne-farmers-markets#/map) group page below.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2016/08/MFM-Directory.png)
+![](../.gitbook/assets/mfm-directory.png)
 
 Once we’ve created a group page for you, you can customise it with your own content, including an about us blurb, logo and photos. For more details about managing content on your group page [click here](../advanced-features/groups/group-page.md).
 
