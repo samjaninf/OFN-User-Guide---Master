@@ -18,15 +18,15 @@ A stricter, but more time consuming approach is to set your shop to be only visi
 
 You can make your shop private by going to your **Enterprise settings &gt; Shop Preferences** and select ‘**visible to registered customers only**‘.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2016/04/Registered-customers-only.png)
+![](../../.gitbook/assets/registered-customers-only.png)
 
 You'll need to maintain your [**Customer** ](customers.md)list to control which users can access your shop.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/10/Customerssssss.png)
+![](../../.gitbook/assets/customerssssss.png)
 
 Your customer list will already include all customers who have previously placed an order in your shop. You can also add customers manually before they have shopped with you by clicking **+ New Customer**. Then in future, if they come to shop with you, they can login and will be permitted.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2016/04/Add-new-customer.png)
+![](../../.gitbook/assets/add-new-customer.png)
 
 You can also delete customers who you no longer want to be able to see your shop.
 
@@ -34,7 +34,7 @@ You can also delete customers who you no longer want to be able to see your shop
 
 When visitors to your shop arrive at the shop, if they're not logged in yet, they'll see the message below.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2016/04/Demo-login-required.png)
+![](../../.gitbook/assets/demo-login-required.png)
 
 From here there's 2 pathways:
 

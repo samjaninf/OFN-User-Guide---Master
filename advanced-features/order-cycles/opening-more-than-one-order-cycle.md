@@ -4,7 +4,7 @@ It is possible to have more than one order cycle open at the same time. This has
 
 If you have two order cycles open, when the customer arrives at your shopfront, they will be prompted to select which order cycle they want to order in. An example is shown below, where the two order cycles have different delivery dates. Remember it is the ‘Ready for’ field in the order cycle set up which determines an order cycle’s name \(seen as ‘Thursday delivery’ in this case\).
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/10/Choose-when-to-order.png)
+![](../../.gitbook/assets/choose-when-to-order.png)
 
 When the customer selects an order cycle, the shopfront will load with the specific products, fees and opening and closing dates of that order cycle.
 

@@ -6,35 +6,35 @@ To create a page for your farm \(or business\) on Facebook, you’ll first need 
 
 Once you have an account and you are logged in, click on **Home** in the top menu and then click **create page** in the left hand vertical menu.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/09/create-page.png)
+![](../../.gitbook/assets/create-page.png)
 
 Next, select the **local business or place** option, and fill out your details \(see below\). The ‘business or place name’ field will be the name of your farm’s new Facebook page.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/09/Local-business-or-placeee.png)
+![](../../.gitbook/assets/local-business-or-placeee.png)
 
 Next you will be prompted to provide details about your farm \(or business\), in four stages. Each stage is illustrated in the images below, using “demo farm” as an example.
 
 ## 1\) About
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/09/1-About.png)
+![](../../.gitbook/assets/1-about.png)
 
 ## 2\) Profile Picture
 
 Select a profile picture for your farm. This is usually a logo, but you can also just use a photograph. You can change this at any time in the future.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/09/2-Profile-Picture.png)
+![](../../.gitbook/assets/2-profile-picture.png)
 
 ## 3\) Add to Favourites
 
 So that you can easily find your page, you should ‘**add to favourites**‘. A link to your farm’s page will then appear in your menu, when you are logged into your personal account.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/09/Add-to-favourites.png)
+![](../../.gitbook/assets/add-to-favourites.png)
 
 ## 4\) Preferred Page Audience
 
 Here you can tell Facebook about the kinds of people you want visiting your page. This includes their location, age, gender etc and their interests. In the interests section, select any topics that you think correlate well with your farm. When you do this, Facebook will suggest to people who are already interested in local food or organic agriculture for example, that they should visit your page.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/09/4-Prefered-Page-Audiance.png)
+![](../../.gitbook/assets/4-prefered-page-audiance.png)
 
 **Well done, you’ve created a page for your farm! But, you’re not finished yet! There are extra features on Facebook to take advantage of!**
 
@@ -42,19 +42,19 @@ Here you can tell Facebook about the kinds of people you want visiting your page
 
 Click c**reate call to action**, at the top of your page. This button can be used to direct people to your online shop. Select the **shop now** button type, and provide the URL to your shop’s website \(this can be an OFN site, or an external online shop\).
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/09/Create-a-call-to-action-button.png)
+![](../../.gitbook/assets/create-a-call-to-action-button.png)
 
 ## **Add a cover image**
 
 This large picture sits at the top of your farm’s page. A picture says a thousand words, so choose a cover image that’s engaging and tells visitors about your farm at a glance. This image can also be updated as often as you wish.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/09/Add-a-cover.png)
+![](../../.gitbook/assets/add-a-cover.png)
 
 ## Add contact details and edit your page
 
 You can edit any of the information you provided during the creation of your page by clicking on **About** and **Page Info**. Here you can also provide contact details and write a longer description of your farm.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/09/Edit-and-contact-details.png)
+![](../../.gitbook/assets/edit-and-contact-details.png)
 
 **Great! Your farm’s page is all set up, and now you’re ready to start using Facebook to connect with customers and others in your industry. To learn about using Facebook, check out our** [**Facebook Tips**](facebook-tips.md) **page.**
 

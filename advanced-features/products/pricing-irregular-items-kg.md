@@ -10,7 +10,7 @@ You can charge the average price of the product, and then reimburse or charge th
 
 When you know the real weight of your products, you can update orders in [Bulk Order Management](../orders/). Search for the Leg of Lamb so that you view all orders containing this product. Make the ‘weight/volume’ column visible. The values in this column can be edited to reflect the real weights of the legs of lamb allocated to each customer. The example below shows that when Claire’s order is adjusted to a 1.5kg leg of lamb, the price automatically recalculates. Click update to save this change.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Change-to-order-weightvolume.png)
+![](../../.gitbook/assets/change-to-order-weightvolume.png)
 
 Now, when you view Claire’s order, the correct total will display, and all reports will reflect this change. You may wish to resend the order confirmation to the customer as well.
 
@@ -22,7 +22,7 @@ This is a similar approach to above, but instead of listing the average you can 
 
 If you have the unique items on hand, you can list each individual item, with its accurate weight and price. For instance, the example below shows pre-weighed and packed frozen legs of lamb listed as unique variants, with an on hand value of 1. The image below shows how the product variants are entered, and how they will display in the shopfront.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Leg-of-lamb-example.png)
+![](../../.gitbook/assets/leg-of-lamb-example.png)
 
 ## Irregular supply
 

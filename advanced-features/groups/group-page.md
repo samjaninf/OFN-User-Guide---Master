@@ -10,7 +10,7 @@
 
 Once you’ve been designated the administrator of a group, you’ll be able to view and edit your group by clicking on **Groups** in the horizontal blue menu. Then click on the **edit** icon next to your group.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/10/Edit-group.png)
+![](../../.gitbook/assets/edit-group.png)
 
 ### **Primary Details**
 

@@ -16,19 +16,19 @@ There are four different kinds of E2E permissions. Applying these E2Es in differ
 
 **Permission to add to order cycle \(P-OC\)**
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/P-OC-table.png)
+![](../../.gitbook/assets/p-oc-table.png)
 
 **Permission to Add to Inventory \(P-I\)**
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/P-I-1.png)
+![](../../.gitbook/assets/p-i-1.png)
 
 **Permission to manage products \(P-P\)**
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/P-P.png)
+![](../../.gitbook/assets/p-p.png)
 
 **Permission to edit profile \(P-Profile\)**
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/P-Profile.png)
+![](../../.gitbook/assets/p-profile.png)
 
 ### Granting and Managing E2Es <a id="grantingandmanagingE2Es"></a>
 
@@ -40,7 +40,7 @@ If you need another enterprise to grant you an E2E permission, you must contact 
 
 In the first column, select the enterprise name you want to grant the permission \(in this menu you’ll only see enterprises you own/manage\). Then in the third column select the enterprise that you wish to give permission to \(in this menu you will see all enterprises on the OFN\). Then click on the types of permission you wish to grant in the right hand column. You can select any combination, or ‘everything’ to select all. Then hit **create.** You can also delete permissions and replace them at any time.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Granting-E2Es.png)
+![](../../.gitbook/assets/granting-e2es.png)
 
 ### Automatically generated E2Es
 

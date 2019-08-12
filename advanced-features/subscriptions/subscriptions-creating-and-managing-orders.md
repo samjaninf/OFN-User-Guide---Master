@@ -103,7 +103,7 @@ This will reveal all upcoming orders in the schedule, and you can then edit a sp
 
 From the **subscription** page, click the **cross** button next to the subscription you wish to delete. This will prevent any future subscriptions from being generated and delete this subscription permanently.
 
-![Delete standing order](https://openfoodnetwork.org/wp-content/uploads/2017/03/Delete-standing-order.png)
+![Delete Standing Order](../../.gitbook/assets/delete-standing-order.png)
 
 {% hint style="info" %}
  If you delete a subscription while there is an open order cycle you'll be asked whether you want to keep the customer's open order, or if they want to delete the current order.

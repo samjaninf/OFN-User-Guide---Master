@@ -28,7 +28,7 @@ To create a tag, type the tag in the **tag** column next to a customer and hit t
 
 You can add multiple tags to a single customer \(e.g. you might have a rule for 'wholesale' customers, and a rule for 'priority' customers\).
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/10/Customer-taggs.png)
+![](../../.gitbook/assets/customer-taggs.png)
 
 Applying tags alone will have no effect until you create a 
 
@@ -59,7 +59,7 @@ By default, all items will be visible to all customers whether they are tagged o
 
 The example below shows that my shipping methods tagged ‘wholesale’ will now be invisible by default. If I then wish to make these shipping methods available to customers tagged wholesale I’ll need to set up a Tag Rule below overriding this default.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/10/Default-tags.png)
+![](../../.gitbook/assets/default-tags.png)
 
 ### Tag Rules
 
@@ -69,26 +69,26 @@ Firstly, you’ll need to select which tag your new tag rule will apply to. To d
 
 Next you can select which condition your rule is based on.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/10/Rule-Typess.png)
+![](../../.gitbook/assets/rule-typess.png)
 
 **Show or Hide Variants in my shopfront**
 
 This rule lets you make particular variants visible/invisible to tagged customers. For this rule to operate you need to have tagged the customer and the product variant **in your inventory** with the same tag. The screenshot below shows that my 10kg apple variant is tagged ‘wholesale’ in inventory.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/10/Inventory-tagged.png)
+![](../../.gitbook/assets/inventory-tagged.png)
 
 * **Invisible:**  If by default your variants are visible, you can select to make them invisible for customers with a particular tag.
 * **Visible:**  If by default your variants are invisible, you can select to make them visible for customers with a particular tag.
 
 The example below shows that my wholesale variants are invisible by default. A rule has been created so that variants tagged wholesale are made visible just for customers tagged ‘wholesale’.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/10/Inventory-taggedd.png)
+![](../../.gitbook/assets/inventory-taggedd.png)
 
 **Show/Hide shipping methods**
 
 This rule lets you make particular shipping methods specifically available or unavailable to certain customers. For this rule to operate you need to have tagged the customer and the shipping method with the same tag. To tag a shipping method, go to **edit shipping method** and apply the relevant tag. E.g. the shipping method below has been tagged ‘wholesale’.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/10/Tagging-a-shipping-method.png)
+![](../../.gitbook/assets/tagging-a-shipping-method.png)
 
 * **Invisible:**
 
@@ -102,7 +102,7 @@ This rule lets you make particular shipping methods specifically available or un
 
 This rule lets you make particular payment methods specifically available or unavailable to particular customers. For this rule to operate you first need to have tagged the customer and the payment method with the same tag. To tag a shipping method, go to **edit payment method** and apply the relevant tag. E.g. the payment method below has been tagged ‘wholesale’.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/10/Tagged-payment.png)
+![](../../.gitbook/assets/tagged-payment.png)
 
 * **Invisible:**
 
@@ -120,7 +120,7 @@ This rule lets you make certain order cycles visible to certain customers only. 
  This tag rule is only available to hub shops currently.
 {% endhint %}
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/10/Outgoing.png)
+![](../../.gitbook/assets/outgoing.png)
 
 * **Invisible:**
 

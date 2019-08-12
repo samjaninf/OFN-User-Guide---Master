@@ -132,11 +132,11 @@ We have learned above that the L**isting View** tab shows you orders, and detail
 
 Access Bulk Oder Management by clicking **Orders** in the blue horizontal menu, and **Bulk Order Management** in the horizontal green menu.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Bulk-Order-Management.png)
+![](../.gitbook/assets/bulk-order-management.png)
 
 Within Bulk Order Management, you can apply filters, so that only the orders that you are interested in will display.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Filter-Bulk-order-man.png)
+![](../.gitbook/assets/filter-bulk-order-man.png)
 
 **Start Date and End Date:** You can filter to display all orders that were placed within a given window of time.
 
@@ -152,7 +152,7 @@ Within Bulk Order Management, you can apply filters, so that only the orders tha
 
 **Columns:** You can select which fields you do or do not want to be displayed \(see below\)
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Bulk-Order-Man-Columns.png)
+![](../.gitbook/assets/bulk-order-man-columns.png)
 
 You can also sort the rows according to the contents of a column. For example, if you click on the Order Date column title, the table will be arranged in chronological order, according to the value in this field. Clicking the Name column heading will arrange the table in alphabetical order of the customer’s name.
 
@@ -171,7 +171,7 @@ This can be done in bulk order management, as follows:
 3. Click on the product ‘Tomatoes’ in the Product:Unit column.
 4. A box will appear at the top of the page, showing the total quantity ordered \(across the date range/order cycle you’ve selected\).
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/BOM-1.png)
+![](../.gitbook/assets/bom-1.png)
 
 You can then adjust the quantity of each unique order in the Quantity column. The Total Quantitiy Ordered in the box at the top will update automatically as you adjust orders, in this case going down, as you reduce each order for the tomatoes.
 
@@ -179,13 +179,13 @@ You could also then see the emails of these customers, and send them an alert.
 
 > _An alert to customers is not automatically generated when adjustments are made in bulk order management._
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/BOM-2.png)
+![](../.gitbook/assets/bom-2.png)
 
 **The ‘Shared Resource’ checkbox**
 
 In the screenshot above you will see a checkbox called ‘shared resource’ in the top right hand corner of the blue, producer order totals box. When you select this checkbox, the total displayed will be inlcusive of all product variants that fall under the master product. By not checking it, you can see the total for a single product variant. In the example below, you can see that when the shared resource box is selected, the total includes orders for both my 1kg apple variant and my 3kg apple variant. So I know that in total, I need 5kg of apples. If I just want to know how many 3kg bags to pack, I can uncheck the shared resource box, and click on the 3kg variant in the Product:Unit column.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Shared-Resource.png)
+![](../.gitbook/assets/shared-resource.png)
 
 #### Example 2: Updating the final weight of products.
 
@@ -210,5 +210,5 @@ We’ll use an example of a leg of lamb to illustrate. In this case the producer
 4. Enter the actual weight of the leg of lamb that each customer will receive in the weight/volume column. The price will automatically recalculate based on this weight.
 5. Click update.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Meat-BOMM.png)
+![](../.gitbook/assets/meat-bomm.png)
 

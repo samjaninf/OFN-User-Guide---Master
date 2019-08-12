@@ -4,15 +4,15 @@ If you are listing two or more products which are very similar, but only vary on
 
 Using an example of Corn Cobs, let’s imagine that you want to sell individual corn cobs for 80c each, or 5 corn cobs for the discounted price of $3. Each of these products will be a product variant. Below, is the final product listing on the OFN store. The following section will describe the steps involved in creating this listing.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/CornCob-Variants.png)
+![](../../.gitbook/assets/corncob-variants.png)
 
 When you first create the product, fill out the details of one of your product variants \(one corn cob for 80c\). More detailed instructions for adding a product are [here](../../basic-features/products.md).
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Corn-cobs.png)
+![](../../.gitbook/assets/corn-cobs.png)
 
 On the **Bulk Edit Products** page, you will see the previously created product ‘corn cobs’. By clicking on the plus symbol to the left of the product, a new variant will be created below. Because we will have two variants, we’ll need to click this button twice \(the original does not count once a variant is created\). You’ll now see two additional rows appear below the original product.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Add-variant.png)
+![](../../.gitbook/assets/add-variant.png)
 
 The top row represents this collection of variants. The name in this row, Corn Cobs, will be the heading of this collection of variants. We can leave the top row as it is.
 
@@ -46,11 +46,11 @@ When finished, click **Save Changes**.
 
 The diagram below shows the completed variant form for the corn cobs, and also how this will be presented in the online store.
 
-![](../../.gitbook/assets/corn-cobs.png)
+![](../../.gitbook/assets/corn-cobs%20%281%29.png)
 
 An additional example of product variants is provided below.
 
-![jam product variants](https://openfoodnetwork.org/wp-content/uploads/2015/05/JamVariants.png)
+![Jam Product Variants](../../.gitbook/assets/jamvariants.png)
 
 {% hint style="info" %}
 You cannot currently set a stock level to apply across multiple variants. For example in the corn cob example above, I cannot indicate that I have 100 corn cobs to sell regardless of whether they are sold as single cobs or in bunches of 5. Therefore shop managers need to estimate how much stock to apply to the two variants.

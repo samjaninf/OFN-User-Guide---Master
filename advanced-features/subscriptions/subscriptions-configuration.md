@@ -101,7 +101,7 @@ In this case there will be two schedules, one for the Monday customers and one f
 
 Once you have[ enabled the subscription feature](subscriptions-configuration.md#1-enable-subscriptions), you will see the Schedule functionality in the order cycle interface. To create a schedule click on the **+ New Schedule** button.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2017/02/New-order-cycle.png)
+![](../../.gitbook/assets/new-order-cycle.png)
 
 Note: You must have at least one order cycle that can be added to the schedule before you create it.
 

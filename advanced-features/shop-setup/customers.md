@@ -22,7 +22,7 @@ You can also add customer emails to your list by typing the email in the **Add N
 
 **Tags**: Tags can be used to customise the shopping experience for certain customers. See[ tags and tag rules](tags-and-tag-rules.md) for more details.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/10/customers.png)
+![](../../.gitbook/assets/customers.png)
 
 {% hint style="info" %}
  If you are transferring an existing hub/shop onto the OFN there is no way to import your database of customers into the system. 
@@ -36,5 +36,5 @@ What’s the benefit of saving default address details? These details will be au
 
 If a customer changes address, they can also update their default address records during checkout themselves by selecting the ‘save as default’ checkbox:
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/10/save.png)
+![](../../.gitbook/assets/save.png)
 
