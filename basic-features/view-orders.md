@@ -8,7 +8,7 @@ The listing order page shows a list view of all orders placed through your shop\
 
 The page has filters which allow you to select which orders you want to view. You can filter by date, status or the email and name of the customer.
 
-![Listing orders page](https://openfoodnetwork.org/wp-content/uploads/2015/05/Listing-Orders1.png)
+![Listing orders page](../.gitbook/assets/listing-orders1.png)
 
 **Distributor:** This is the enterprise whose shop the order was placed through
 
@@ -46,31 +46,31 @@ On the right hand side of the listing view you can update the payment/shipping s
 
 Click on the tick icon to indicate that payment has been received 
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Tick.png)
+![](../.gitbook/assets/tick%20%281%29.png)
 
 Click on the road icon to indicate that the order has been shipped
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Shipped.png)
+![](../.gitbook/assets/shipped.png)
 
 Click on the edit icon \(to edit an order and view more detailed information about it\)
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Edit-order.png)
+![](../.gitbook/assets/edit-order.png)
 
 
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/tracking-orders.png)
+![](../.gitbook/assets/tracking-orders.png)
 
 ### **Editing an order**
 
 After clicking the edit button on the right hand side of an order \(see image above\) you’ll be taken to a detailed view of the order \(below\). Functionalities within this page will be discussed below.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/View-Order.png)
+![](../.gitbook/assets/view-order.png)
 
 #### **Adding and removing products from an order**
 
 You can select a product to add to the order. To remove a product click the rubbish bin icon on the right hand side of a product. You can also change the quantity ordered. Remember to click the **update and recalculate fees** button to save changes.
 
-![Order actions](https://openfoodnetwork.org/wp-content/uploads/2015/05/Order-actions.png)
+![](../.gitbook/assets/order-actions.png)
 
 **Resend confirmation email**
 
@@ -84,7 +84,7 @@ Clicking this will give you the option to print an invoice as a PDF or by sendin
 
 To send an invoice to the customer, click the ‘send invoice’ button. This will email the customer with an attached PDF file. Invoice layout shown below.
 
-![Invoice example](https://openfoodnetwork.org/wp-content/uploads/2015/05/Invoice-example.png)
+![Invoice example](../.gitbook/assets/invoice-example.png)
 
 **Cancel an order**
 
@@ -94,25 +94,25 @@ Click the cancel button to cancel an order.
 
 To mark an order as paid, click the tick icon on the listing order page. Or click on ‘Payments’ in the menu on the right and then click the tick icon 
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Tick.png)
+![](../.gitbook/assets/tick.png)
 
 **Mark an order as shipped**
 
 After payment has been received the Ship button will be visible at the top of the page. Click this to record that shipment has occurred.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Ship.png)
+![](../.gitbook/assets/shipped%20%281%29.png)
 
 ### **View customer details**
 
 Clicking on customer details in the right hand menu will take you to a complete view of the customer’s details.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Customer-details.png)
+![](../.gitbook/assets/customer-details.png)
 
 ### **Add or subtract from the order balance**
 
 Clicking on adjustments 
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Adjustments.png)
+![](../.gitbook/assets/adjustments.png)
 
 From here you can remove fees that are already on an order, or add/subtract from the order total by clicking on + New Adjustment. You also have the capacity to select the tax setting of the adjustment. Remember, for a fee to include tax, the enterprise must be set to charge tax in its profile settings.
 
@@ -120,11 +120,11 @@ From here you can remove fees that are already on an order, or add/subtract from
 
 Your customers can view a list of their orders when they login to the OFN, and click on their account \(see below\).
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Account-login.png)
+![](../.gitbook/assets/account-login.png)
 
 Here your customers will be able to see the past orders and payments as well as a running balance at your shop. This should be kept up to date so customers can view an accurate balance.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Orders.png)
+![](../.gitbook/assets/orders.png)
 
 ## Bulk order management
 
