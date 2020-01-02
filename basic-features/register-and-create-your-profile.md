@@ -44,6 +44,10 @@ Your address will be used to add your business to our map of OFN enterprises and
 
 **The next step is to** [**choose the OFN package**](enterprise-profile/package-types.md) **\(= profile type\) which best represents your** [**business model**](../your-quick-start-on-ofn-given-who-you-are.md)**.  After doing so, your enterprise will added to the OFN map!**  
 
+**A short clip of registering your enterprise on OFN:**
+
+![](../.gitbook/assets/registration.gif)
+
 ### Access your Enterprise Administration Dashboard
 
 Once you have created an Enterprise, you can manage your profile using the Dashboard. To access your Enterprise Dashboard log in to the Open Food Network and click on "Profile &gt; Administration" in the top right corner. See [Dashboard ](dashboard.md)for more information.
