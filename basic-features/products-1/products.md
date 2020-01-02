@@ -70,6 +70,10 @@ Tax will only be collected when enterprises have selected 'charges VAT = yes' un
 Don't forget to click on the "create" or "create and add new" button at the bottom of the page once all mandatory fields have been entered \(those indicated by a red asterisk\). 
 {% endhint %}
 
+A short demonstration of the steps outlined above:
+
+![](../../.gitbook/assets/productsadd.gif)
+
 When you have finished creating a product, you are redirected to the "products" page where you will find all your products:
 
 ![](../../.gitbook/assets/productspage.jpg)
