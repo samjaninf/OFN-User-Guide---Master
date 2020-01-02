@@ -7,10 +7,10 @@ description: >-
 # Product and Inventory import
 
 {% hint style="info" %}
-THIS FEATURE IS COMING SOON! [Contact us](../../local-ofn-organizations-and-contacts.md) if you would like to access the Beta feature now.
+THIS FEATURE IS COMING SOON! [Contact us](https://www.openfoodnetwork.org/find-your-local-open-food-network/) if you would like to access the Beta feature now.
 {% endhint %}
 
-The product and inventory import tool lets you upload a csv file to add and update your stock. This can be much quicker and efficient than adding or updating products one by one. For producers who already update a catalogue of their products in an Excel spreadsheet regularly, this can save a lot of time!
+The product and inventory import tool lets you upload a .csv file to add and update your stock. This can be much quicker and efficient than adding or updating products one by one. For producers who already update a catalogue of their products in an Excel spreadsheet regularly, this can save a lot of time!
 
 The product and inventory import tool can be found by clicking **Products** in the horizontal blue menu, and **product import** in the green menu.
 
