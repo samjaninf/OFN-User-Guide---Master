@@ -164,7 +164,7 @@ Rows \('Name', 'Producer', 'Product: Unit'\) can be sorted according to their co
 The **Price** column indicates price of an item including tax but excluding fees \(enterprise, shipping or payment method fees\).  Fees are recalculated each time an order is modified.
 {% endhint %}
 
-### Examples of using Bulk Order Management: LOUISE HERE
+### Examples of using Bulk Order Management:
 
 #### Example 1: You have a stock shortage, and must reduce customer order quantities for a certain product.
 

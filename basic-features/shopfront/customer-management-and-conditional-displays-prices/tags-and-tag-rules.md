@@ -106,7 +106,7 @@ You can use **customer tagging**, with tag rules to achieve this by:
 * Make certain [variants](tags-and-tag-rules.md#show-or-hide-variants-in-my-shopfront) available only to specific customer groups: for example 'bulk buys' at a reduced rate per weight available only to customers with a wholesale tag.
 * Run more than one [Order Cycle](tags-and-tag-rules.md#show-hide-order-cycles-at-my-shopfront) concurrently with only members \(or wholesale customers\) able to view and purchase from the order cycle carrying a lower enterprise fee.
 * You could use [shipping method fees](tags-and-tag-rules.md#show-hide-shipping-methods) to charge different prices to different customers. To ensure that only members select the reduced 'member rate' you would need to add a tag to this shipping method \(else anyone could 'cheat' and select the lower cost shipping rate\).
-* If you make a [payment method](../payment-methods.md) is cash on collection available to members only then you would add a mark up to all other payment methods, such that non-members are charged more for their goods.
+* If you make a [payment method](tags-and-tag-rules.md#show-hide-payment-methods) is cash on collection available to members only then you would add a mark up to all other payment methods, such that non-members are charged more for their goods.
 
 {% hint style="info" %}
 Beyond the use of tags, some enterprises opt to set up two hubs: one for wholesale customers/members only \(see Private Shop front\) and one for everyone else.

@@ -20,7 +20,7 @@ Storing a default billing and shipping address can make online purchases quicker
 
 ## Tags \(to group customers in to categories\)
 
-You can assign your customers to groups and then offer [group-specific pricing and/or product listings](tags-and-tag-rules.md).
+You can assign your customers to groups and then offer [group-specific pricing and/or product listings](tags-and-tag-rules.md#customer-specific-pricing).
 
 On the OFN platform this is achieved by assigning all customers belonging to a common group \(ie all your wholesale customers\) the same tag.  
 To add a tag, simply type its name in the 'Tags' column on the Customers page. A customer can have several tags and of course the same tag can be linked to several people. 
