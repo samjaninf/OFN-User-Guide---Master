@@ -25,6 +25,10 @@ You will then access a menu with multiple options. The exact options available v
 To save your changes, you must click "update" at the bottom of the page. It is recommended to save each page before changing pages.
 {% endhint %}
 
+This short video gives a quick insight into the steps and options detailed below:
+
+![](../../.gitbook/assets/enterprisesettings.gif)
+
 ## Primary Details
 
 **Name:** This is the name of your enterprise. It will be the title of your profile \(and shop\).
