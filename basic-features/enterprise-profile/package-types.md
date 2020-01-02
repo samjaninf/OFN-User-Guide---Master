@@ -22,7 +22,7 @@ There are three types of profiles for producers:
 {% tab title="Producer Profile" %}
 With this option not only will your enterprise will be visible on the OFN map and to customers searching our platform, but you will be able to manage a product catalog. Your products can be distributed and sold through other enterprises which are part of the OFN network. 
 
-As a 'Producer Profile' you will not be able to manage your own online shop front. For more information on the quick setup guide for this type of profile, [click here](../../your-quick-start-on-ofn-given-who-you-are.md).
+As a 'Producer Profile' you will not be able to manage your own online shop front. For more information on the quick setup guide for this type of profile, [click here](../../quick-start-guides/).
 
 {% hint style="info" %}
 If you'd like to retail your products on an existing online sales platform and just use OFN to increase your visibility then the 'Producer Profile' package is for you!
@@ -36,7 +36,7 @@ You can put the link to your online shop in your enterprise description.
 
 This option allows you to run a shopfront which retails only those products in your own catalog. Note that 'Producer Shops' can conduct sales through their own shopfront and/or act as a supplier to other shopfronts \(hubs\). 
 
-For more information on the quick setup guide for this type of profile, [click here](../../your-quick-start-on-ofn-given-who-you-are.md).
+For more information on the quick setup guide for this type of profile, click [here](../../quick-start-guides/).
 {% endtab %}
 
 {% tab title="Producer Hub \(multi-producer shop\)" %}
@@ -44,7 +44,7 @@ For more information on the quick setup guide for this type of profile, [click h
 
 This option allows you to manage a shop which retails both products made by yourself and those made by other local producers.  You can retail products from any Producer who has given you [permission](create-or-connect-with-your-supplying-producers.md) to do so. 
 
- For more information on the quick setup guide for this type of profile, [click here](../../quick-start-guides/multi-producers-shop-hub-quick-setup-guide.md).
+ For more information on the quick setup guide for this type of profile, click [here](../../quick-start-guides/).
 {% endtab %}
 {% endtabs %}
 
@@ -58,7 +58,7 @@ Two types of profiles are available to non-producers \(distributors / hubs\):
 {% tab title="Non-Producer Profile" %}
 With this option your enterprise will be visible on the OFN map and to customers searching our platform. 
 
-For more information on the quick setup guide for this type of profile, [click here](../../your-quick-start-on-ofn-given-who-you-are.md).
+For more information on the quick setup guide for this type of profile, click [here](../../quick-start-guides/).
 
 {% hint style="info" %}
 If you'd like to retail products made by a collection of producers on an existing online sales platform and just use OFN to increase your visibility then the 'Non-Producer Profile' package is for you!
@@ -78,7 +78,11 @@ This option allows you to manage a shop which retails products made by others. Y
 
 ## Changing your profile type
 
-You can change your profile type \(package\) at any time in the future. This can be done by clicking the ‘**Change package**‘ button on the [dashboard](../dashboard.md). Or you can change your producer/non producer status and package in the '**Enterprise'** menu on the blue horizontal banner, and then editing your enterprise’s settings \(see below\).
+You can change your profile type \(package\) at any time in the future. This can be done by clicking the ‘**Change package**‘ button on the [dashboard](../dashboard.md). 
+
+![](../../.gitbook/assets/dash-change.jpg)
+
+Or you can change your producer/non producer status and package in the '**Enterprise'** menu on the blue horizontal banner, and then editing your enterprise’s settings \(see below\).
 
 ![](../../.gitbook/assets/change-package.png)
 
