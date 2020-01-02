@@ -10,6 +10,10 @@ One of the many benefits to OFN customers is price transparency.  Shoppers can s
 
 ![An enterprise fee in a shopfront](../../.gitbook/assets/enterprsie-fee-in-shopfront.png)
 
+Before you move on you might like to have a look at a quick demonstration of setting up your first enterprise fee:
+
+![](../../.gitbook/assets/enterprisefeefirst.gif)
+
 ## Setting up an Enterprise Fee
 
 * Go to the Enterprise Fee page by clicking on **Enterprises** in the blue horizontal menu, and then click **Settings** next to your enterprise. The **Enterprise Fee** page is found in the menu on the left hand side.
