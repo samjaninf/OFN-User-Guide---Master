@@ -12,7 +12,7 @@ It's easy to get started on OFN, just follow the steps below:
 2. List your products.  If you are a 'Producer Hub' then [make](../basic-features/products-1/products.md) \(or [import](../basic-features/products-1/product-and-inventory-import.md#1-import-new-products)\) product listings for the goods you make yourself. For both 'Producer' and 'Non-Producer' hubs, contact local OFN enterprises who want their goods to be displayed on your shop front.  Ask them to set up [Enterprise permissions](../basic-features/enterprise-profile/enterprise-to-enterprise-permissions-e2es.md) to connect to their business to yours through OFN.
 3. Set up a choice of [payment methods](../basic-features/shopfront/payment-methods.md) available to your customers  \(cash on delivery, credit card online payment, etc.\)
 4. Set up a choice of [shipping options](../basic-features/shopfront/shipping-methods.md) available to your customers  \('click and collect' service with a pick up time and location, home delivery, etc...\)
-5. Set up an [order cycle](../basic-features/shopfront/order-cycle/order-cycles-for-producers.md) : this will open your shop at the start date you defined!  An order cycle is a period during which shoppers can place orders for collection or delivery at a particular time.  Some enterprises have a weekly order cycle.  Some have a permanently open order cycle.
+5. Set up an [order cycle](../basic-features/shopfront/order-cycle/order-cycles-for-hubs.md) : this will open your shop at the start date you defined!  An order cycle is a period during which shoppers can place orders for collection or delivery at a particular time.  Some enterprises have a weekly order cycle.  Some have a permanently open order cycle.
 
 Congrats!  Your shop is now live!
 
