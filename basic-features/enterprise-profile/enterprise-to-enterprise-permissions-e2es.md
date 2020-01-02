@@ -4,6 +4,10 @@
 
 Within the OFN Enterprise Permissions are rules which govern the trading relationships between businesses: suppliers and distributors. These rules must be set up before one company \(Producer Profile or Producer Shop\) can become a supplier of another \(Hub\), or vice versa. A permission \(or 'right'\) is granted by one company to another regarding access / modification of products and profile. This page details the different permissions and how to allocate them. 
 
+To access your enterprise permissions:
+
+![](../../.gitbook/assets/permissions.gif)
+
 Lastly, we explore this topic from the point of view of:
 
 * [a Hub](enterprise-to-enterprise-permissions-e2es.md#hub-perspective) \(the distributor\)
