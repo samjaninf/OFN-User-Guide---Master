@@ -70,7 +70,7 @@ The following common scenarios demonstrate enterprise-enterprise permissions you
 
 The system is configured so that hubs creating producer profiles will have the _correct permissions installed as default_, so that they can start adding products and trading with these producer profiles right away.
 
-> \*\*\*\*[**My supplier already has an enterprise registered with OFN**](create-or-connect-with-your-supplying-producers.md#supplyingproducer)**. I would like to add their products to my hub shopfront.**
+> **My** [**supplier already has an enterprise registered with OFN**](create-or-connect-with-your-supplying-producers.md#supplyingproducer)**. I would like to add their products to my hub shopfront.**
 
 You must contact your supplier in person. Their contact details \(phone number, address and email address\) will be located in their OFN profile.  
 
