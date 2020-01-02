@@ -34,7 +34,7 @@ Before creating a profile for your suppliers you should contact them and let the
 Be sure to ask the producer what information they would like shared on their profile. You can often take text and images from their existing websites or social media sites, however you should always ask permission before using any of their content. Once you have their information in front of you, a profile should take you no more than 10 minutes to create.
 
 {% hint style="info" %}
-By default you can create up to **5 enterprise profiles** on the platform. This is a spam prevention method, but once we know you aren’t a robot, we’ll give you permission to make extra enterprise profiles. If you need to create more [contact your local OFN entity](../../local-ofn-organizations-and-contacts.md) or email us at hello@openfoodnetwork.org.
+By default you can create up to **5 enterprise profiles** on the platform. This is a spam prevention method, but once we know you aren’t a robot, we’ll give you permission to make extra enterprise profiles. If you need to create more [contact your local OFN entity](https://www.openfoodnetwork.org/find-your-local-open-food-network/).
 {% endhint %}
 
 ### Creating a producer profile:
@@ -49,7 +49,7 @@ This will take you to this page:
 
 A few things to note:
 
-**Name:** Enter the name of the producer farm/enterprise. If you get an error message saying that this name has already been taken, it means that there is already a profile for this producer. Therefore you can jump to [Supplier has a pre-existing OFN profile](create-or-connect-with-your-supplying-producers.md).
+**Name:** Enter the name of the producer farm/enterprise. If you get an error message saying that this name has already been taken, it means that there is already a profile for this producer. Therefore you can jump to [Supplier has a pre-existing OFN profile](create-or-connect-with-your-supplying-producers.md#supplyingproducer).
 
 **Primary Producer:** Select this box, as you are adding an enterprise which makes/grows food which you will retail for them on your hub shop front.
 
