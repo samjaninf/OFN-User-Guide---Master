@@ -11,7 +11,7 @@ To access your enterprise permissions:
 Lastly, we explore this topic from the point of view of:
 
 * [a Hub](enterprise-to-enterprise-permissions-e2es.md#hub-perspective) \(the distributor\)
-* [a producer profile or shop](enterprise-to-enterprise-permissions-e2es.md#e-2-es-from-a-producers-perspective) \(the supplier\)
+* [a producer profile or shop](enterprise-to-enterprise-permissions-e2es.md#producers-perspective) \(the supplier\)
 
 ## The Four Permissions
 
