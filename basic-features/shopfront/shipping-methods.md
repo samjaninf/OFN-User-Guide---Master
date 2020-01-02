@@ -4,6 +4,10 @@
  You **must** create at least one shipping method before you can open your shop.
 {% endhint %}
 
+Before you read on, you might like to have look at a quick demonstration of how to set up your first shipping method:
+
+![](../../.gitbook/assets/shippingmethod.gif)
+
 ## Setting up a shipping method
 
 * Go to the Shipping Methods page by clicking on **Enterprises** in the blue horizontal menu, and then click **Settings** next to your enterprise. The **Shipping Methods** page is found in the menu on the left hand side.
