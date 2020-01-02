@@ -1,32 +1,28 @@
-# Basic Features
+---
+description: >-
+  In this section we explore all the features offered by the OFN software
+  platform.
+---
 
-The Basic Features chapter steps through the fundamental features required to setup a profile or shop on Open Food Network. Once you have familiarised yourself with these basic functionalities you can also explore the [Advanced Features](../advanced-features/). 
+# Features
 
-While you can browse these basic features freely, when you're first getting setup we recommend that you consult the Setup Manual that is specific to the model you operate. See the [Setup Manuals](../setup-manuals/) for more information.
+You can browse these features at any time but for those just starting out we recommend our [quick start guides](../quick-start-guides/). 
 
-[Register and create your profile](register-and-create-your-profile.md)
+{% hint style="info" %}
+To find the explanation of a specific feature that you need, please use the 'Search' field \(top right hand corner\).
+{% endhint %}
 
-[Package types](package-types.md)
+In what follows, the features of OFN are explained in a "double chronological way" with the order of sections organised based on a logical order for setting up:
 
-[Enterprise Setting](enterprise-settings.md)
+* [registration](register-and-create-your-profile.md)
+* [enterprise profile setup](enterprise-profile/)
+* [products](products-1/)
+* [shopfront](shopfront/)
+* [orders](orders/)
+* [subscriptions](subscriptions/)
+* [reports](reports.md)
+* [dashboard](dashboard.md)
+* [groups](groups/)
 
-[Dashboard](dashboard.md)
-
-[Create or connect with your supplying producers](create-or-connect-with-your-supplying-producers.md)
-
-[Products](products.md)
-
-[Payment methods](payment-methods.md)
-
-[Shipping methods](shipping-methods.md)
-
-[Enterprise Fees](enterprise-fees.md)
-
-[Order Cycles \(for Producers\)](order-cycles-for-producers.md)
-
-[Order Cycles \(for Hubs\)](order-cycles-for-hubs.md)
-
-[View Orders](../advanced-features/orders/)
-
-[Reports](reports.md)
+and the content within each presented from basic usage to more advanced.
 

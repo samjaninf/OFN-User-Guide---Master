@@ -1,10 +1,12 @@
 # Dashboard
 
-The ‘Dashboard’ is the behind the scenes control center of your account. From the dashboard you can manage your profile, and all elements of your online shop, if you have a shopfront.
+The Dashboard ****is where you can edit and manage your enterprise's features & settings on the Open Food Network platform. If you have chosen to register your enterprise as a [shop](../your-quick-start-on-ofn-given-who-you-are.md#shop) or [hub](../your-quick-start-on-ofn-given-who-you-are.md#hub) then you can also edit your products and order cycles from the Dashboard. 
 
-Access your dashboard from the homepage by first logging in and then clicking on the cog in the top right hand corner, and selecting ‘Administration’ from the dropdown menu.
+Access your dashboard from the homepage by first logging in and then clicking on the Profile Icon in the top right hand corner, and selecting **Administration** from the drop-down menu.
 
-The screenshots below show the dashboard view for different types of users.
+![](../.gitbook/assets/dash1.jpg)
+
+The options you will see on your dashboard will depend on which enterprise type you choose on [registration](register-and-create-your-profile.md). The screenshots below show the dashboard view for different types of users.
 
 ### Producers
 
