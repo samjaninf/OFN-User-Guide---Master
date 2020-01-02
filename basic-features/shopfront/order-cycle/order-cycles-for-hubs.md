@@ -13,6 +13,10 @@ Some hubs may wish to have an online store which is perpetually open, and to ful
 
 For example, an order cycle might be open for two weeks. At the end of the fortnight, all orders will be packed and delivered at the same time on the following Wednesday. Once this batch of orders has been delivered, a new order cycle may reopen.
 
+A quick demonstration of setting up a new order cycle:
+
+![](../../../.gitbook/assets/ordercyclehub.gif)
+
 ## Viewing Order Cycles
 
 You can create an order cycle, and view previous order cycles by clicking on **Manage Order Cycles** on your [dashboard](../../dashboard.md).
