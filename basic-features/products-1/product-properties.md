@@ -35,7 +35,7 @@ You can access enterprise properties in your [Enterprise Settings](../enterprise
 ![](../../.gitbook/assets/properties1.jpg)
 
 {% hint style="warning" %}
- Properties only apply to [Producer](../../your-quick-start-on-ofn-given-who-you-are.md) profiles, shops and hubs.  This option will not be available to Non Producer Hubs.
+Properties only apply to [Producer](../enterprise-profile/package-types.md#for-producers) profiles, shops and hubs.  This option will not be available to Non Producer Hubs.
 {% endhint %}
 
 Next, there are 2 fields when applying an enterprise property:
@@ -92,7 +92,7 @@ This is useful if you would like to modify only the description of a label on se
 
 ## View Product Properties in online shop
 
-By clicking on the profile of a producer, [Enterprise Properties](product-properties.md#assigning-a-property-to-an-enterprise) appear on the pop out page:
+By clicking on the profile of a producer, Enterprise Properties appear on the pop out page:
 
 ![](../../.gitbook/assets/viewproperty.jpg)
 

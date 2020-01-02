@@ -29,7 +29,7 @@ Before you read on, you might like to look at a quick demonstration of how to se
   * PayPal Express 
   * [Pin Payments](https://pinpayments.com/) \(Australia only\) 
   * Stripe
-* **Calculator:** Select how you would like any charges associated with the payment method to apply to an order. Note that payment method fees can be set to zero. See below for more information about [Payment Method Fees](payment-methods.md#fees-on-payment-methods). 
+* **Calculator:** Select how you would like any charges associated with the payment method to apply to an order. Note that payment method fees can be set to zero. See below for more information about [Payment Method Fees](payment-methods.md#fee-calculators). 
 
 By clicking Create, the payment method will be created and you will have new fields to define payment method fees. These fields visible depend on which 'Calculator' you selected. 
 

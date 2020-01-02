@@ -1,12 +1,12 @@
 # Permissions in multi-enterprise order cycles
 
-This page explains the varying rights each enterprise has in the context of complex [multiple enterprise order cycles](order-cycles-for-hubs.md).  Be it:
+This page explains the varying rights each enterprise has in the context of complex multiple enterprise order cycles.  Be it:
 
 * the producer \([profile](../../../your-quick-start-on-ofn-given-who-you-are.md#profile) or [shop](../../../your-quick-start-on-ofn-given-who-you-are.md#shop)\) who supplies the order cycle only,
 * a [hub](../../../your-quick-start-on-ofn-given-who-you-are.md#hub) which distributes goods only,
 * or a hub which [coordinates](permissions-in-multi-enterprise-order-cycles.md#the-coordinator) the order cycle \(and may or may not also supply or distribute goods\).
 
-For more details about simple order cycles involving a single producer selling their own stock only \([producer shop](../../../your-quick-start-on-ofn-given-who-you-are.md#shop)\), see [here](https://github.com/ofn-user-guide/ofn-user-guide-master/tree/d5a1113e673b0e22198ca207b1db61339799868a/order-cycles.md).
+For more details about simple order cycles involving a single producer selling their own stock only \([producer shop](../../../your-quick-start-on-ofn-given-who-you-are.md#shop)\), see [here](order-cycles-for-producers.md).
 
 _**The coordinator has the highest degree of control over an order cycle. Other enterprises can view the order cycles they are involved in, but only edit settings which affect them.**_
 
