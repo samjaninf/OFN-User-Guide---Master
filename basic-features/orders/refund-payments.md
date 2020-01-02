@@ -63,7 +63,7 @@ To issue a refund by BACS you will need to do so through your business bank acco
 An alternative to issuing a refund might be to manually deduct the customer's credit from their next order.
 
 {% hint style="info" %}
-Currently, as Shop or Hub manager, you would need to manually adjust the customers balance to take account of their credit.  In the future we would like to automate this process.  Please [contact us](../../local-ofn-organizations-and-contacts.md) if it is something which would be useful for your enterprise.
+Currently, as Shop or Hub manager, you would need to manually adjust the customers balance to take account of their credit.  In the future we would like to automate this process.  Please [contact us](https://www.openfoodnetwork.org/find-your-local-open-food-network/) if it is something which would be useful for your enterprise.
 {% endhint %}
 
 ## How to bill a customer for additional funds
