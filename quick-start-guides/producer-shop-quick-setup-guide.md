@@ -16,7 +16,7 @@ It's easy to get started on OFN, just follow the steps below:
 
 Congrats!  Your shop is now live!
 
-When you start receiving orders, you can manage them in the [orders](../basic-features/orders/view-orders.md) section.  
+When you start receiving orders, you can manage them in the[ orders](../basic-features/orders/) section.  
 
 All the data you need to prepare and deliver the groceries to your customers can be found in the [reports](../basic-features/reports.md) section.
 
@@ -31,7 +31,7 @@ All the data you need to prepare and deliver the groceries to your customers can
   * You can [import](../basic-features/products-1/product-and-inventory-import.md#1-import-new-products) your all your product listings at once if they are in an Excel spread sheet.
 * Your shopfront:
   * You can [restrict access](../basic-features/shopfront/private-shopfront.md) to your shop if want your shop to be only accessible to "members" or invited customer.   For example you may offer discounted produce to members of the community who have all contributed to your business, or if you wished to only sell to specific commercial customers.
-  * You can offer different prices, or display different goods, to specific groups of customers using [customer grouping \(through "tags"\)](../basic-features/shopfront/customer-management-and-conditional-displays-prices/tags-and-tag-rules.md) and [custom display and pricing]().
+  * You can offer different prices, or display different goods, to specific groups of customers using [customer grouping \(through "tags"\)](../basic-features/shopfront/customer-management-and-conditional-displays-prices/tags-and-tag-rules.md) and [custom display and pricing](../basic-features/shopfront/customer-management-and-conditional-displays-prices/).
   * If you would like to be visible on OFN only but not actually sell goods through the platform then you can setup a [display only shopfront](../basic-features/shopfront/display-only-order-cycles.md).
   * You would like to [embed](../basic-features/shopfront/embedded-shopfront.md) the OFN shop front in your website.
 
