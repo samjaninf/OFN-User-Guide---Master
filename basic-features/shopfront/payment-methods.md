@@ -4,6 +4,10 @@
 You **must** create at least one payment method before you can open your shop.
 {% endhint %}
 
+Before you read on, you might like to look at a quick demonstration of how to set up your first payment method:
+
+![](../../.gitbook/assets/paymentmethod.gif)
+
 ## Setting up a Payment Method
 
 * Go to the Payment Methods page by clicking on **Enterprises** in the blue horizontal menu, and then click **Settings** next to your enterprise. The **Payment Methods** page is found in the menu on the left hand side.
