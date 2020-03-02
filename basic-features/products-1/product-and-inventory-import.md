@@ -54,25 +54,125 @@ You'll see that the template gives all the column headings required to successfu
 Note that all fields are case sensitive. E.g. you must use mL not ml , or Dairy not dairy.
 {% endhint %}
 
-| Column Title | Required? | Description | Example |
-| :--- | :--- | :--- | :--- |
-| producer | Y | This is the name of the producer profile that this product will be assigned to | Four Mile Farm |
-| sku | N | The SKU code for this product | AD001265 |
-| name | Y | This is the name of the product | Yoghurt |
-| display name | N | This field applies if you are creating variants \(see instructions below\). If you're not creating a variant leave this field blank. | Rasberry Yoghurt |
-| category | Y | Which category does this product sit in? The categories available are listed on the Product Import page | Dairy |
-| units | Y | The weight, volume or quantity value | 500 |
-| unit\_type | Maybe | What unit is it sold in \(g, kg, T, mL, L\)? If sold as an item \(e.g. bunch\) leave blank | g |
-| variant\_unit\_name | Maybe | If the product is sold as an item \(e.g loaf, bunch, pumpkin\) write the item type here | Bunch |
-| price | Y | The price of the product. If the item carries tax, this must be the tax inclusive price. | 3.70 |
-| in\_stock | Maybe | If you have limited stock for the product type the stock level here. If you have infinite stock available \(you can always source it\) enter 0 and use the unlimited column | 40 |
-| available\_on | N | Leave blank |  |
-| unlimited | Y | If you have infinite stock available for this product, type 1, if you're using on\_hand leave blank. If you enter a number in in\_stock _and_ 1 in unlimited, the product will be unlimited. | 1 |
-| shipping\_category | Y | Which shipping category does this product sit in? The shipping categories available are listed on the Product Import page |  |
-| tax\_category | N | If the price of your product includes tax type GST, if not leave blank | GST |
-| description | N | You can create a description, but you cannot update one. Please make sure that the text you wrote matches the current description in case of an update. | This Yoghurt is made from local raspberries  |
-
-#### Import Product Variants
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Column Title</th>
+      <th style="text-align:left">Required?</th>
+      <th style="text-align:left">Description</th>
+      <th style="text-align:left">Example</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">producer</td>
+      <td style="text-align:left">Y</td>
+      <td style="text-align:left">This is the name of the producer profile that this product will be assigned
+        to</td>
+      <td style="text-align:left">Four Mile Farm</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">sku</td>
+      <td style="text-align:left">N</td>
+      <td style="text-align:left">The SKU code for this product</td>
+      <td style="text-align:left">AD001265</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">name</td>
+      <td style="text-align:left">Y</td>
+      <td style="text-align:left">This is the name of the product</td>
+      <td style="text-align:left">Yoghurt</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">display name</td>
+      <td style="text-align:left">N</td>
+      <td style="text-align:left">This field applies if you are creating variants (see instructions below).
+        If you&apos;re not creating a variant leave this field blank.</td>
+      <td style="text-align:left">Rasberry Yoghurt</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">category</td>
+      <td style="text-align:left">Y</td>
+      <td style="text-align:left">Which category does this product sit in? The categories available are
+        listed on the Product Import page</td>
+      <td style="text-align:left">Dairy</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">units</td>
+      <td style="text-align:left">Y</td>
+      <td style="text-align:left">The weight, volume or quantity value</td>
+      <td style="text-align:left">500</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">unit_type</td>
+      <td style="text-align:left">Maybe</td>
+      <td style="text-align:left">What unit is it sold in (g, kg, T, mL, L)? If sold as an item (e.g. bunch)
+        leave blank</td>
+      <td style="text-align:left">g</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">variant_unit_name</td>
+      <td style="text-align:left">Maybe</td>
+      <td style="text-align:left">If the product is sold as an item (e.g loaf, bunch, pumpkin) write the
+        item type here</td>
+      <td style="text-align:left">Bunch</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">price</td>
+      <td style="text-align:left">Y</td>
+      <td style="text-align:left">The price of the product. If the item carries tax, this must be the tax
+        inclusive price.</td>
+      <td style="text-align:left">3.70</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p>On_Hand</p>
+        <p>(in_stock)</p>
+      </td>
+      <td style="text-align:left">Maybe</td>
+      <td style="text-align:left">If you have limited stock for the product type the stock level here. If
+        you have infinite stock available (you can always source it) enter 0 and
+        use the unlimited column</td>
+      <td style="text-align:left">40</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">available_on</td>
+      <td style="text-align:left">N</td>
+      <td style="text-align:left">Leave blank</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">On_demand (unlimited)</td>
+      <td style="text-align:left">Y</td>
+      <td style="text-align:left">If you have infinite stock available for this product, type 1, if you&apos;re
+        using on_hand leave blank. If you enter a number in in_stock <em>and</em> 1
+        in unlimited, the product will be unlimited.</td>
+      <td style="text-align:left">1</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">shipping_category</td>
+      <td style="text-align:left">Y</td>
+      <td style="text-align:left">Which shipping category does this product sit in? The shipping categories
+        available are listed on the Product Import page</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">tax_category</td>
+      <td style="text-align:left">N</td>
+      <td style="text-align:left">If the price of your product includes tax type GST, if not leave blank</td>
+      <td
+      style="text-align:left">GST</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">description</td>
+      <td style="text-align:left">N</td>
+      <td style="text-align:left">You can create a description, but you cannot update one. Please make sure
+        that the text you wrote matches the current description in case of an update.</td>
+      <td
+      style="text-align:left">This Yoghurt is made from local raspberries</td>
+    </tr>
+  </tbody>
+</table>#### Import Product Variants
 
 In the import process, variants are distinguished by the units \(such as salad sold as 500 g and 750 g bags\) or display\_name fields \(such as a yoghurt sold in multiple flavours\).  As long as the product name is the same, the rows will be imported as variants.  The example below shows a salad that comes in 500g and 750g variants, and a yoghurt that comes in multiple flavours.
 
@@ -179,8 +279,8 @@ Note that all fields are case sensitive. E.g. you must use mL not ml , or Dairy 
 | units | Y | The weight, volume or quantity value | 500 |
 | unit\_type | Y | What unit is it sold in \(g, kg, T, mL, L\)? If sold as an item \(e.g. bunch\) leave blank | g |
 | price | Y | The price of the product. If the item carries tax, this must be the tax inclusive price. | 3.70 |
-| in\_stock | Y | Please check the rules for unlimited below | leave blank as unlimited is set to 1 |
-| unlimited | Y | If blank - Read as "Use producer stock settings", so "in\_stock" should be blank.   If you set it to "1" - Read as unlimited of "Yes", so "in\_stock" should be blank.     If you set it to "0" - Read as unlimited of "No", so "in\_stock" is required. | 1 |
+| On\_Hand  \(in\_stock\) | Y | Please check the rules for unlimited below | leave blank as unlimited is set to 1 |
+| On\_demand \(unlimited\) | Y | If blank - Read as "Use producer stock settings", so "in\_stock" should be blank.   If you set it to "1" - Read as unlimited of "Yes", so "in\_stock" should be blank.     If you set it to "0" - Read as unlimited of "No", so "in\_stock" is required. | 1 |
 | sku | N | The SKU code for this product | AD001265 |
 
 ### Import the CSV <a id="import-the-csv"></a>
