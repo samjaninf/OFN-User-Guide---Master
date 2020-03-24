@@ -1,14 +1,12 @@
 # Package / profile types
 
-When you first log in to the admin dashboard, you will need to choose the OFN profile which [best matches your business model](../../your-quick-start-on-ofn-given-who-you-are.md). **Without this step, your enterprise account will not be created and, hence, your enterprise will remain invisible on our map.** To access the admin dashboard, login and then click on "Profile &gt; Administration" at the top right:
+After completing your [enterprise registration](../register-and-create-your-profile.md) you have an option to be taken directly to the [enterprise settings page](enterprise-settings.md).
 
-![](../../.gitbook/assets/access1.jpg)
+![](../../.gitbook/assets/newregister.jpg)
 
-Once in the admin dashboard, you are prompted to choose a profile type for the enterprise you have created. Based on this choice, menus that help you refine your profile and access the features you need will be made available on your [enterprise settings page](enterprise-settings.md).
+From here you will need to choose the OFN profile which [best matches your business model](../../your-quick-start-on-ofn-given-who-you-are.md). **Without this step, your enterprise account will not be created and, hence, your enterprise will remain invisible on our map.** 
 
-{% hint style="info" %}
-Be careful, the process will be slightly different if you are creating your second, third, fourth... enterprise.  This process applies for first enterprise created by a user only!
-{% endhint %}
+![](../../.gitbook/assets/newchoose.jpg)
 
 Open Food Network offers three types of enterprise profiles that will differ depending on whether you are a producer or not, and whether or not you want to open an online shop to sell on the Open Food Network. The profiles types vary a little bit depending on if you are are a producer or not, so we describe them below under two main sections: the profiles for producers and then the profiles for distributors \(or "hubs" in the Open Food Network world :-\)\).
 
@@ -16,7 +14,7 @@ Open Food Network offers three types of enterprise profiles that will differ dep
 
 There are three types of profiles for producers:
 
-![The above is an example only, fees vary between OFN instances and countries.](../../.gitbook/assets/profileproducers.png)
+![](../../.gitbook/assets/prod_choosenew.jpg)
 
 {% tabs %}
 {% tab title="Producer Profile" %}
@@ -52,7 +50,7 @@ This option allows you to manage a shop which retails both products made by your
 
 Two types of profiles are available to non-producers \(distributors / hubs\):
 
-![The above is an example only, fees vary between OFN instances and countries.](../../.gitbook/assets/profilenonproducers.png)
+![](../../.gitbook/assets/nonprod_new.jpg)
 
 {% tabs %}
 {% tab title="Non-Producer Profile" %}
@@ -78,11 +76,11 @@ This option allows you to manage a shop which retails products made by others. Y
 
 ## Changing your profile type
 
-You can change your profile type \(package\) at any time in the future. This can be done by clicking the ‘**Change package**‘ button on the [dashboard](../dashboard.md). 
+You can change your profile type \(package\) at any time in the future.  ****First log in to your OFN admin account:
 
-![](../../.gitbook/assets/dash-change.jpg)
+![](../../.gitbook/assets/access1%20%281%29.jpg)
 
-Or you can change your producer/non producer status and package in the '**Enterprise'** menu on the blue horizontal banner, and then editing your enterprise’s settings \(see below\).
+and then visit your [Enterprise Settings menu](enterprise-settings.md). From the table, select the correct option\(s\) from the drop down menus.  \(You will need to be the '[Owner](enterprise-settings.md#users)' of the enterprise to do this.\)
 
 ![](../../.gitbook/assets/change-package.png)
 

@@ -38,11 +38,17 @@ Your address will be used to add your business to our map of OFN enterprises and
 
 * Click the ‘create profile’ button.  You'll receive an email confirming that the profile is created. You can stop here and fill in the missing information later, or continue and follow the steps to complete your profile now. 
 * Fill in your enterprise description, add images, website/social media links, business details, etc.
-* When you have finished, you will be redirected to the homepage. 
+* When you have finished, you will be redirected to the [Enterprise Profile Menu](enterprise-profile/).
+
+![](../.gitbook/assets/newregister.jpg)
 
 **Your first "enterprise" is now created and you have started to fill in your profile, but it's not finished!** 
 
-**The next step is to** [**choose the OFN package**](enterprise-profile/package-types.md) **\(= profile type\) which best represents your** [**business model**](../your-quick-start-on-ofn-given-who-you-are.md)**.  After doing so, your enterprise will added to the OFN map!**  
+**The next step is to** [**choose the OFN package**](enterprise-profile/package-types.md) **\(= profile type\) which best represents your** [**business model**](../your-quick-start-on-ofn-given-who-you-are.md)**.**  
+
+![](../.gitbook/assets/newchoose.jpg)
+
+**After doing so, your enterprise will added to the OFN map!**  
 
 **A short clip of registering your enterprise on OFN:**
 
