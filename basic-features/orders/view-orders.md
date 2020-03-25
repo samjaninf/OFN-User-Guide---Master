@@ -89,7 +89,7 @@ You can also change the quantity of each item ordered. Remember to click the **u
 * **Resend Confirmation**: If you have edited a customer's order, you may wish to resend them an updated order confirmation email.
 * **Send Invoice**: This will automatically send the customer an invoice \(in .pdf format\) by email.
 
-![Invoice example](../../.gitbook/assets/invoice-example.png)
+![](../../.gitbook/assets/invoicenew.jpg)
 
 {% hint style="danger" %}
 Please check regional regulations regarding the information legally required to be on an invoice.  Currently our invoices are not compliant to French law. Invoices for enterprises which are registered for VAT are not compliant under UK law.  
