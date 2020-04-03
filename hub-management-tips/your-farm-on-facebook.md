@@ -40,7 +40,7 @@ Here you can tell Facebook about the kinds of people you want visiting your page
 
 ## Create a call-to-action button
 
-Click c**reate call to action**, at the top of your page. This button can be used to direct people to your online shop. Select the **shop now** button type, and provide the URL to your shop’s website \(this can be an OFN site, or an external online shop\).
+Click c**reate call to action**, at the top of your page. This button can be used to direct people to your online shop. Select the **shop now** button type, and provide the URL to your shop’s website \(this can be an Harvest To Order site, or an external online shop\).
 
 ![](../.gitbook/assets/create-a-call-to-action-button.png)
 

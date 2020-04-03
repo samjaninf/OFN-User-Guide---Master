@@ -13,7 +13,7 @@ _Hence if you have a_ [_private shop_](../private-shopfront.md) _front you will 
 
 ## Customer Billing and Shipping Address
 
-Each customer can have a default billing and shipping address.  If a customer has a registered OFN account and has completed their details fully their addresses will be copied to this section automatically.  
+Each customer can have a default billing and shipping address.  If a customer has a registered Harvest To Order account and has completed their details fully their addresses will be copied to this section automatically.  
 Storing a default billing and shipping address can make online purchases quicker for the customer.
 
 ![](../../../.gitbook/assets/customeraddress.jpg)
@@ -22,7 +22,7 @@ Storing a default billing and shipping address can make online purchases quicker
 
 You can assign your customers to groups and then offer [group-specific pricing and/or product listings](tags-and-tag-rules.md#customer-specific-pricing).
 
-On the OFN platform this is achieved by assigning all customers belonging to a common group \(ie all your wholesale customers\) the same tag.  
+On the Harvest To Order platform this is achieved by assigning all customers belonging to a common group \(ie all your wholesale customers\) the same tag.  
 To add a tag, simply type its name in the 'Tags' column on the Customers page. A customer can have several tags and of course the same tag can be linked to several people. 
 
 {% hint style="info" %}

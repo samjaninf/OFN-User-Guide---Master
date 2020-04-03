@@ -92,7 +92,7 @@ If you would like to create a SIMILAR product then you can duplicate products by
 
 ## Refine product attributes 
 
-Using OFN you can add **properties or labels** to your products.  This allows customers to find your items when searching for specific criteria \(eg. certified Organic\) and highlights specific qualities your products may have. Find out more [here](product-properties.md).
+Using Harvest To Order you can add **properties or labels** to your products.  This allows customers to find your items when searching for specific criteria \(eg. certified Organic\) and highlights specific qualities your products may have. Find out more [here](product-properties.md).
 
 For tips on how to manage sales of **"irregular" products** such as meat or large vegetables sold in units but costed by weight, please read [here](pricing-irregular-items-kg.md).
 

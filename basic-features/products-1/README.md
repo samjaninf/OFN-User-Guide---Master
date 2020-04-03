@@ -14,5 +14,5 @@ If a hub wishes to change the price of a producer's products without using the E
 
 For [irregularly priced products](pricing-irregular-items-kg.md), such as a **whole chicken** with a price that varies from chicken to chicken depending on weight, there is an option to set a price 'per chicken' which can then be adjusted at the time of delivery to the specific piece of meat/vegetable.
 
-The "[Bulk Buy Option](group-buy-for-bulk-ordering.md)" page details how Buying Groups can use OFN to organise and record bulk purchases.  For example, if a group buys rice in 25 kg bags then this function can help distribute the rice between customers based on a weight range they request on purchase. 
+The "[Bulk Buy Option](group-buy-for-bulk-ordering.md)" page details how Buying Groups can use Harvest To Order to organise and record bulk purchases.  For example, if a group buys rice in 25 kg bags then this function can help distribute the rice between customers based on a weight range they request on purchase. 
 

@@ -18,10 +18,10 @@ There's four main ways you can use the tool:
 4. Update products in a shop/hub inventory
 
 {% hint style="info" %}
-If you need this functionality, please let [your local OFN](https://openfoodnetwork.org/ofn-local/) know. We welcome your feedback.
+If you need this functionality, please let [your local Harvest To Order](https://harvesttoorder.com/Harvest To Order-local/) know. We welcome your feedback.
 {% endhint %}
 
-In all cases the process involves downloading a csv template, filling in the fields and then uploading your csv file back into OFN.
+In all cases the process involves downloading a csv template, filling in the fields and then uploading your csv file back into Harvest To Order.
 
 {% hint style="warning" %}
 **Important note on CSV files**: Microsoft Excel does not open .cvs files directly.   
@@ -200,7 +200,7 @@ Below are some examples to show how products with different units \(g, ml, kg an
 
 ### Import the CSV
 
-Once you have filled out the **Product List Template CSV** you are ready to upload it into OFN. 
+Once you have filled out the **Product List Template CSV** you are ready to upload it into Harvest To Order. 
 
 1. Go to **Products** &gt;  **Product Import.**
 2. **Select import type:** Select Product List
@@ -285,7 +285,7 @@ Note that all fields are case sensitive. E.g. you must use mL not ml , or Dairy 
 
 ### Import the CSV <a id="import-the-csv"></a>
 
-Once you have filled out the **Inventory Template CSV** you are ready to upload it into OFN. 
+Once you have filled out the **Inventory Template CSV** you are ready to upload it into Harvest To Order. 
 
 1. Go to **Products** &gt;  **Product Import.**
 2. **Select import type:** Select Inventories

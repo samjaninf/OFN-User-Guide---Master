@@ -4,26 +4,26 @@
 
 Farmers’ markets are physical markets that run periodically in urban and regional areas to improve access to local food and to give producers an opportunity to market directly to consumers. It's possible to add an online element onto these markets, to increase reach.
 
-## There are 3 ways Farmer's Markets can get online with OFN:
+## There are 3 ways Farmer's Markets can get online with Harvest To Order:
 
 ### Profile only
 
-The farmer's market can create a hub profile for their market using the [Hub (profile only) guide](/hub-profile-only.md). Each farmer within the farmers market can create their own profile as well, using the[ producer (profile only) guide](/producer-profile-only.md). This gives visibility to the market, and the stallholders on the OFN directory.
+The farmer's market can create a hub profile for their market using the [Hub (profile only) guide](/hub-profile-only.md). Each farmer within the farmers market can create their own profile as well, using the[ producer (profile only) guide](/producer-profile-only.md). This gives visibility to the market, and the stallholders on the Harvest To Order directory.
 
 ### Group page
 The market may wish to create a group page, which acts as a directory of their stallholders. This mini-directory includes a map with profiles of all producers. It can be embedded into the farmer's market's website, and it lets customers learn more about the producers. An advantage is that each producer can setup and maintain their own profiles, minimising central administration.
 
 ### Independent producer shops
-A stallholder can independently setup a producer shop on OFN (see [Producer Shop guide](/producer-set-up-guide.md)). They may use this to take pre-orders for pickup at the market, or for delivery after the market. The market can encourage stallholders to expand their sales in this way, and promote their online shops.
+A stallholder can independently setup a producer shop on Harvest To Order (see [Producer Shop guide](/producer-set-up-guide.md)). They may use this to take pre-orders for pickup at the market, or for delivery after the market. The market can encourage stallholders to expand their sales in this way, and promote their online shops.
 
 ### Collective Market Shop
 Farmer’s market stallholders who are willing to cooperate and work together can establish a collective shop, or a hub shop. This hub has a single shopfront offering the entire product range of participating producers. Finding a way to coordinate the logistics of incoming and outgoing products can require some creative thinking, but using the farmer’s market days as a chance to aggregate and pack orders is one simple option. From there orders could be packed ready for quick pick up. Or they could be taken to alternative drop off points, or to hospitality/corporate customers who don't attend the market in person.
 
 ## Steps for setting up Collective Farmer's Market Shop {#steps-for-setting-up-a-producer-shop}
 
-Setting up this model on OFN is much like setting up a Hub Shop.
+Setting up this model on Harvest To Order is much like setting up a Hub Shop.
 
-1) Register a profile for your collective shop on Open Food Network (e.g. Belleview Farmer's Market Online Shop). This setup tool will ask for basic information about your enterprise to create your profile. You'll be prompted to confirm the email address.
+1) Register a profile for your collective shop on Harvest To Order (e.g. Belleview Farmer's Market Online Shop). This setup tool will ask for basic information about your enterprise to create your profile. You'll be prompted to confirm the email address.
 
 2) Select the 'hub shop' package type.
 
@@ -53,7 +53,7 @@ Once you've setup your producer profiles, shipping and payment methods, and adde
 
 10) View and edit [orders](/ordres.md).
 
-11) View reports. [This page](/get-reports.md) offers a broad description of OFN's reports.
+11) View reports. [This page](/get-reports.md) offers a broad description of Harvest To Order's reports.
 
 **Which reports are useful to farmer's market shops?
 **Generally, at the close of an order cycle the central coordinator will need to be responsible for letting each producer know how much stock has been ordered by them, and by which customer. Then each producer can pack the stock ready for delivery.
@@ -66,7 +66,7 @@ This report can also be used to calculate the total value of goods ordered from 
 
 ### Updating products each cycle
 
-Before each order cycle, the product availability and prices for each producer need to be updated. If the coordinator owns the producer profiles, they’ll need to contact each producer, get a list of any changes to product prices and availability, and update this in the OFN. If the coordinator has taken the ‘low involvement’ route, producers will need to take responsibility for updating their product information themselves.
+Before each order cycle, the product availability and prices for each producer need to be updated. If the coordinator owns the producer profiles, they’ll need to contact each producer, get a list of any changes to product prices and availability, and update this in the Harvest To Order. If the coordinator has taken the ‘low involvement’ route, producers will need to take responsibility for updating their product information themselves.
 
 Below are instructions for how producers can update products before an order cycle:
 

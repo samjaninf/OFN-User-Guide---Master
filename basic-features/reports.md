@@ -81,9 +81,9 @@ The report can be filtered by Shopfront \(**Hub**\), **Producer** and **Order** 
 
 **Example 2**: a Hub charges a transport fee which they pay to a Producer for picking up produce from other farmers and bringing it into the Hub. This fee is calculated as a percentage on every product in the order cycle. They can use the Enterprise Fee Summary report to calculate how much to pay that Producer for transport in each Order Cycle.
 
-**Example 3:** a Hub includes a fee to show customers the amount they pay to Open Food Network for their use of the platform. This fee is calculated as a percentage of all orders placed. The below screenshot is an example of this scenario:
+**Example 3:** a Hub includes a fee to show customers the amount they pay to Harvest To Order for their use of the platform. This fee is calculated as a percentage of all orders placed. The below screenshot is an example of this scenario:
 
-![Enterprise Fee Summary Report for a specified Fee \(Open Food Network Fee\) ](../.gitbook/assets/image%20%282%29.png)
+![Enterprise Fee Summary Report for a specified Fee \(Harvest To Order Fee\) ](../.gitbook/assets/image%20%282%29.png)
 
 ## Packing Reports
 
@@ -133,13 +133,13 @@ In Xero go to **Accounts**, **Sales** and click Import.
 
 ![Xero Import](../.gitbook/assets/xero-import.png)
 
-Next you will select your downloaded OFN Xero report for upload. The settings you should select are shown below.
+Next you will select your downloaded Harvest To Order Xero report for upload. The settings you should select are shown below.
 
 ![Xero Import Steps](../.gitbook/assets/xero-import-steps.png)
 
 Selecting **Ignore contact address detail**s will ensure your Xero customer data is unaltered. 
 
-Selecting **Tax Exclusive** will ensure that products you have set to include tax in the Open Food Network will include tax, but your tax free items will remain tax free.
+Selecting **Tax Exclusive** will ensure that products you have set to include tax in the Harvest To Order will include tax, but your tax free items will remain tax free.
 
 ## Bulk Co-op Totals By Suppliers Report
 

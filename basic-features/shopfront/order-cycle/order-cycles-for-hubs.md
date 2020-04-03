@@ -1,9 +1,9 @@
 # Order Cycles \(for Hubs\)
 
 {% hint style="warning" %}
-Read on if you selected the Enterprise Profile '[Producer or Non Producer Hub](../../../your-quick-start-on-ofn-given-who-you-are.md#hub)'. 
+Read on if you selected the Enterprise Profile '[Producer or Non Producer Hub](../../../your-quick-start-on-Harvest To Order-given-who-you-are.md#hub)'. 
 
-Visit this [page](order-cycles-for-producers.md), if you registered as a '[Producer Shop](../../../your-quick-start-on-ofn-given-who-you-are.md#shop)' and want to set up an order cycle for your shop front.
+Visit this [page](order-cycles-for-producers.md), if you registered as a '[Producer Shop](../../../your-quick-start-on-Harvest To Order-given-who-you-are.md#shop)' and want to set up an order cycle for your shop front.
 {% endhint %}
 
 You open you shop by creating an Order Cycle. When you make an order cycle you select when you shop is open \(from and until\), which products will go into the shop, and any fees that you'll apply.
@@ -45,11 +45,11 @@ Once the order cycle coordinator has been chosen, the process of setting up is d
 
 ![](../../../.gitbook/assets/ordercycle3%20%281%29.jpg)
 
-**Name \(**_**required**_**\):** Give the order cycle a name which is meaningful to you. We recommend that you follow a consistent naming protocol e.g FoodHub\_Week27\_2014. We also recommend that you include the name of your hub in the order cycle name, so that OFN support can identify your order cycles if you need assistance.
+**Name \(**_**required**_**\):** Give the order cycle a name which is meaningful to you. We recommend that you follow a consistent naming protocol e.g FoodHub\_Week27\_2014. We also recommend that you include the name of your hub in the order cycle name, so that Harvest To Order support can identify your order cycles if you need assistance.
 
-**Orders Open at:** This is the date and time at when your OFN store will be open, visible and start to accept orders from customers.
+**Orders Open at:** This is the date and time at when your Harvest To Order store will be open, visible and start to accept orders from customers.
 
-**Orders Close:** This is the date \(and time\) when your OFN store will close and stop accepting orders. If you intend to have an order cycle which is continuously open, select a close date which is well into the future.
+**Orders Close:** This is the date \(and time\) when your Harvest To Order store will close and stop accepting orders. If you intend to have an order cycle which is continuously open, select a close date which is well into the future.
 
 **Schedules:** Leave blank unless using [Subscriptions](../../subscriptions/).
 

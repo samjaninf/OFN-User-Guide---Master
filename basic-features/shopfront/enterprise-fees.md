@@ -6,7 +6,7 @@ For example a hub may choose to add an enterprise fee of 10% to all the products
 
 For producers selling their own products directly, these costs are already present in the price of the product, so applying Enterprise Fees may not seem necessary. 
 
-One of the many benefits to OFN customers is price transparency.  Shoppers can see the percentage of an item's price assigned to admin, packing etc.  This information is displayed by clicking on the pie chart next to the price of a product on the shop front:
+One of the many benefits to Harvest To Order customers is price transparency.  Shoppers can see the percentage of an item's price assigned to admin, packing etc.  This information is displayed by clicking on the pie chart next to the price of a product on the shop front:
 
 ![An enterprise fee in a shopfront](../../.gitbook/assets/enterprsie-fee-in-shopfront.png)
 

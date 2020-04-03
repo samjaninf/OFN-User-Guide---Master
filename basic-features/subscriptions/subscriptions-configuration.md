@@ -31,7 +31,7 @@ You can apply any [shipping/delivery method](../shopfront/shipping-methods.md) t
 
 You can only assign two types of [payment methods](../shopfront/payment-methods.md) to subscriptions.
 
-1. **Manual payment methods:** Cash, cheque, bank transfer \(ie. any method which does not involve automatic validation online by the OFN platform\).
+1. **Manual payment methods:** Cash, cheque, bank transfer \(ie. any method which does not involve automatic validation online by the Harvest To Order platform\).
 2. **Stripe:** Stripe is a payment gateway that takes payment with credit cards.  Details on how to configure Stripe payments for your enterprise can be found [here](../shopfront/payment-methods.md#integrated-payment-providers). 
 
 {% hint style="info" %}
@@ -40,13 +40,13 @@ Customers will not be charged if they cancel their subscription order.
 {% endhint %}
 
 {% hint style="warning" %}
-For the customer to be debited correctly, it is necessary for them to have an account on the Open Food Network platform.  To their OFN account they must have registered a default credit card and given their authorisation for your enterprise to debit from that card.  More information can be found [here](subscriptions-the-customers-perspective.md#saving-credit-cards-and-authorising-charges).  
+For the customer to be debited correctly, it is necessary for them to have an account on the Harvest To Order platform.  To their Harvest To Order account they must have registered a default credit card and given their authorisation for your enterprise to debit from that card.  More information can be found [here](subscriptions-the-customers-perspective.md#saving-credit-cards-and-authorising-charges).  
 {% endhint %}
 
 {% hint style="success" %}
 If you use Stripe as the payment method for subscriptions it is helpful to the customer if you add a clear, detailed explanation of how the payment will be processed, should they choose this option.  
   
-For example, rather than calling the [payment method](../shopfront/payment-methods.md) 'Credit card' you might like to call it 'automated credit card billing for subscriptions'. A possible description could be 'Your default credit card saved in your OFN account will be charged when your subscription order is confirmed on Wednesday nights'. This name and description will show on the email confirmation to subscription customers \(see example below\), so it's good to make it details so the customer knows what to expect.
+For example, rather than calling the [payment method](../shopfront/payment-methods.md) 'Credit card' you might like to call it 'automated credit card billing for subscriptions'. A possible description could be 'Your default credit card saved in your Harvest To Order account will be charged when your subscription order is confirmed on Wednesday nights'. This name and description will show on the email confirmation to subscription customers \(see example below\), so it's good to make it details so the customer knows what to expect.
 {% endhint %}
 
 ![](../../.gitbook/assets/image%20%2815%29.png)
@@ -55,7 +55,7 @@ For example, rather than calling the [payment method](../shopfront/payment-metho
 
 To setup a subscription for a customer you'll need to get some information from them, as detailed below:
 
-**Name**, **phone number** and **email address:** Remember that any customer wishing to have an automated regular order \(subscription\) with your enterprise MUST have a registered and confirmed user account on the OFN platform.  Customers with subscriptions must be on your enterprise [Customer List](../shopfront/customer-management-and-conditional-displays-prices/customers.md). See [below](subscriptions-configuration.md#add-your-subscribers-to-your-customer-list) for more details.
+**Name**, **phone number** and **email address:** Remember that any customer wishing to have an automated regular order \(subscription\) with your enterprise MUST have a registered and confirmed user account on the Harvest To Order platform.  Customers with subscriptions must be on your enterprise [Customer List](../shopfront/customer-management-and-conditional-displays-prices/customers.md). See [below](subscriptions-configuration.md#add-your-subscribers-to-your-customer-list) for more details.
 
 **Billing and shipping address**
 
@@ -71,10 +71,10 @@ To setup a subscription for a customer you'll need to get some information from 
 
 Before you can setup a subscription order for a customer they need to be added to your [Customers list](../shopfront/customer-management-and-conditional-displays-prices/customers.md). 
 
-**After you've added your customers to your customer list email them** and [ask them to sign up for an account on OFN](subscriptions-the-customers-perspective.md#signing-up-to-ofn).  If you plan to bill customers using Stripe, you need to also request that they follow the additional steps outlined [here](subscriptions-the-customers-perspective.md#saving-credit-cards-and-authorising-charges) for adding a default credit/debit card to their OFN user account and giving your enterprise authorisation to take payments.
+**After you've added your customers to your customer list email them** and [ask them to sign up for an account on Harvest To Order](subscriptions-the-customers-perspective.md#signing-up-to-Harvest To Order).  If you plan to bill customers using Stripe, you need to also request that they follow the additional steps outlined [here](subscriptions-the-customers-perspective.md#saving-credit-cards-and-authorising-charges) for adding a default credit/debit card to their Harvest To Order user account and giving your enterprise authorisation to take payments.
 
 {% hint style="info" %}
-You can add customers to your Customer list before or after they've signed up for an account with OFN. However, before a subscription order can be successfully setup the customer must have confirmed the email address to which their OFN account is registered.
+You can add customers to your Customer list before or after they've signed up for an account with Harvest To Order. However, before a subscription order can be successfully setup the customer must have confirmed the email address to which their Harvest To Order account is registered.
 {% endhint %}
 
 {% hint style="warning" %}
@@ -83,14 +83,14 @@ Hence we recommend the following procedure:
 
 1. Contact the customer and obtain all the info you require \(see [above](subscriptions-configuration.md#gather-information-from-your-customers)\)
 2. Add them to your [customer list](../shopfront/customer-management-and-conditional-displays-prices/customers.md).
-3. Email the customer, asking them to [register with OFN](subscriptions-the-customers-perspective.md#signing-up-to-ofn) for an account and [add their credit/debit card details](subscriptions-the-customers-perspective.md#saving-credit-cards-and-authorising-charges) to that account.
+3. Email the customer, asking them to [register with Harvest To Order](subscriptions-the-customers-perspective.md#signing-up-to-Harvest To Order) for an account and [add their credit/debit card details](subscriptions-the-customers-perspective.md#saving-credit-cards-and-authorising-charges) to that account.
 4. [Create the subscription](subscriptions-creating-and-managing-orders.md).
 {% endhint %}
 
 ## Schedules
 
 {% hint style="info" %}
-If you are new to OFN we encourage you to get familiar with setting up [order cycles](../shopfront/order-cycle/) before setting up schedules and subscriptions
+If you are new to Harvest To Order we encourage you to get familiar with setting up [order cycles](../shopfront/order-cycle/) before setting up schedules and subscriptions
 {% endhint %}
 
 ### About Schedules
@@ -122,7 +122,7 @@ You must have at least one open or due to open order cycle to be able to create 
 **Name:** Give the schedule a logical name which describes this group of order cycles. E.g. ‘weekly’, ‘monthly’, ‘Tuesday Deliveries’, ‘wholesale’ or ‘retail’. This name is not visible to customers.
 
 {% hint style="info" %}
-If you manage several OFN enterprises, with subscriptions being enabled in more than one, then naming your schedules clearly is essential eg. weekly\_hubA, weekly\_hubB, fortnightly\_hubA, fortnightly\_hubB.  
+If you manage several Harvest To Order enterprises, with subscriptions being enabled in more than one, then naming your schedules clearly is essential eg. weekly\_hubA, weekly\_hubB, fortnightly\_hubA, fortnightly\_hubB.  
 Each enterprise will need a different schedule but when you create a subscription for a customer the schedules for all your enterprises will be visible. Hence, the descriptive name will help you make sure the subscription is created for the correct enterprise for that particular customer.
 {% endhint %}
 

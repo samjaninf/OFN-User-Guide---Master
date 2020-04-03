@@ -11,10 +11,10 @@ In your [Enterprise Settings](../enterprise-profile/enterprise-settings.md), und
 
 ![](../../.gitbook/assets/visibleshop.jpg)
 
-When the **Visible in Search?** option is set to 'not visible' your OFN enterprise will be hidden in both all searches within the platform and in external web the search engines.   
-Your enterprise will not appear in the "shops" menu nor on the OFN map page. 
+When the **Visible in Search?** option is set to 'not visible' your Harvest To Order enterprise will be hidden in both all searches within the platform and in external web the search engines.   
+Your enterprise will not appear in the "shops" menu nor on the Harvest To Order map page. 
 
-The benefit of this method for making your OFN shop front invisible is that you can invite \(by email, perhaps\), customers by sending them the direct link to the store.  It is also a simple and effective way to manage your enterprise.
+The benefit of this method for making your Harvest To Order shop front invisible is that you can invite \(by email, perhaps\), customers by sending them the direct link to the store.  It is also a simple and effective way to manage your enterprise.
 
 {% hint style="warning" %}
 However, _**access to the store is not restricted:**_ anyone who knows the website address of your shop \(URL\) will be able to visit the shop and place an order.  
@@ -24,11 +24,11 @@ Hence, if someone on your mailing list forwards an email from you to a friend, t
 
 ## Visible to registered customers only
 
-A stricter, but potentially more time consuming approach, is to let your OFN enterprise remain visible in the enterprise settings above but change the **Publicly Visible Shopfront** option \(under Enterprises-&gt; Settings-&gt; Shop Preferences\) to **Visible to Registered Customers Only**.
+A stricter, but potentially more time consuming approach, is to let your Harvest To Order enterprise remain visible in the enterprise settings above but change the **Publicly Visible Shopfront** option \(under Enterprises-&gt; Settings-&gt; Shop Preferences\) to **Visible to Registered Customers Only**.
 
 ![](../../.gitbook/assets/registered-customers-only.png)
 
-Whilst your enterprise will be visible in a search of the OFN platform, your customers would need to log into their OFN account in order to view your shop front and the products on offer.  Other registered OFN shoppers, who are not on your customer list, will not be able to see your shop front once logged into their OFN accounts.
+Whilst your enterprise will be visible in a search of the Harvest To Order platform, your customers would need to log into their Harvest To Order account in order to view your shop front and the products on offer.  Other registered Harvest To Order shoppers, who are not on your customer list, will not be able to see your shop front once logged into their Harvest To Order accounts.
 
 You'll need to maintain your [**Customer** ](customer-management-and-conditional-displays-prices/customers.md)list and manually add all new customers, before they can place their first order.
 

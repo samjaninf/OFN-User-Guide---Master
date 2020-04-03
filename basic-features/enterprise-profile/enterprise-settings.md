@@ -36,26 +36,26 @@ This short video gives a quick insight into the steps and options detailed below
 **Primary Producer:** Select the producer box if you are a producer.
 
 {% hint style="warning" %}
-Only enterprises marked as Producers can add products to OFN. [Non-Producer Hubs](package-types.md#for-non-producers-hubs) only need to select this option if they retail mixed boxes which they pack and contain items from multiple producers.
+Only enterprises marked as Producers can add products to Harvest To Order. [Non-Producer Hubs](package-types.md#for-non-producers-hubs) only need to select this option if they retail mixed boxes which they pack and contain items from multiple producers.
 {% endhint %}
 
-**Visible in Search:** If your profile is ready to go public, select 'visible', and your business will appear in the OFN's directory and map. If you’re still making adjustments, select 'not visible', until you are ready.
+**Visible in Search:** If your profile is ready to go public, select 'visible', and your business will appear in the Harvest To Order's directory and map. If you’re still making adjustments, select 'not visible', until you are ready.
 
 **Permalink:** You can customise part of the web address which will host to your shop.
 
-**Link to Shop Front:** This is the web address of your shop on the OFN \(if you've chosen a profile type with shopfront\). You can customise part of the URL above.
+**Link to Shop Front:** This is the web address of your shop on the Harvest To Order \(if you've chosen a profile type with shopfront\). You can customise part of the URL above.
 
-**OFN ID:** This identifier makes it possible to recognize without ambiguity your enterprise even if you decide to change its name for example, and simplifies the work of the support team if necessary.
+**Harvest To Order ID:** This identifier makes it possible to recognize without ambiguity your enterprise even if you decide to change its name for example, and simplifies the work of the support team if necessary.
 
 ### Address
 
-This information is used to geolocate your enterprise the OFN map. Your exact address won't show if you are only registered as a Producer or Non-Producer Profile.  However if you are registered as a Shop or Hub your address will show in text form in your shop front's contact details tab.
+This information is used to geolocate your enterprise the Harvest To Order map. Your exact address won't show if you are only registered as a Producer or Non-Producer Profile.  However if you are registered as a Shop or Hub your address will show in text form in your shop front's contact details tab.
 
 ### Contact
 
-**Contact Name:** We ask for a contact name for the OFN’s records. This name will not be displayed on your profile, but will be included in order confirmation emails if you're running a shop.
+**Contact Name:** We ask for a contact name for the Harvest To Order’s records. This name will not be displayed on your profile, but will be included in order confirmation emails if you're running a shop.
 
-**Email, Phone & Website:** These contact points will be listed on your OFN profile and shopfront, as a means for others to make contact with you.
+**Email, Phone & Website:** These contact points will be listed on your Harvest To Order profile and shopfront, as a means for others to make contact with you.
 
 ### Social
 
@@ -201,9 +201,9 @@ Visible to Shop and Hub registered enterprises only.
 
 **Publicly visible shopfront?** If you select ‘public’, any shopper will be able to access your shopfront and place an order. If you select ‘visible to registered customers only’, shoppers who come to your shop will be prompted to login and only those users who are on your customers list will be given access to your shop. Learn more about the [private shop feature](../shopfront/private-shopfront.md).
 
-**Guest Orders?** If you select ‘allow guest checkout’ shoppers won’t need to login to the OFN to shop with you, so they don't need to sign up and have a user account. If you want the extra security of knowing your customers must have an OFN account in order to have placed an order then select "require login to order". 
+**Guest Orders?** If you select ‘allow guest checkout’ shoppers won’t need to login to the Harvest To Order to shop with you, so they don't need to sign up and have a user account. If you want the extra security of knowing your customers must have an Harvest To Order account in order to have placed an order then select "require login to order". 
 
-In order for a customer to have an OFN account they must have confirmed the email sent to them when registering with us.  Thus, by selected "require login to order" it may help limit the number of orders placed that are subsequently never collected as you know that the customer's order confirmation email will be sent to an active email account.
+In order for a customer to have an Harvest To Order account they must have confirmed the email sent to them when registering with us.  Thus, by selected "require login to order" it may help limit the number of orders placed that are subsequently never collected as you know that the customer's order confirmation email will be sent to an active email account.
 
 {% hint style="warning" %}
 The 'Guest orders' setting is not applicable if you have opted for 'visible to registered customers only'.
@@ -213,9 +213,9 @@ The 'Guest orders' setting is not applicable if you have opted for 'visible to r
 
 **Owner:** This is the email of the primary user responsible for this enterprise. They have the power to change all aspects of the profile. Only the owner can change the owner, choosing among the enterprise managers list. This user will have a star next to their name in the managers' field.
 
-**Notifications:** This is the email of the user to whom the OFN system correspondence will be directed, i.e. order confirmations etc. Only the owner can nominate the user who will receive the notifications, among the enterprise managers list. This user will have an envelope symbol next to their name in the managers' field.
+**Notifications:** This is the email of the user to whom the Harvest To Order system correspondence will be directed, i.e. order confirmations etc. Only the owner can nominate the user who will receive the notifications, among the enterprise managers list. This user will have an envelope symbol next to their name in the managers' field.
 
-**Managers:** Other OFN users who have been granted permission to manage this account. Want to add a new manager? You can search for existing emails of users who have registered for an OFN account and add them as managers. If you don't find any user for the email you are looking for, the user doesn't exist yet on the OFN, you need to invite them \(see next point\).
+**Managers:** Other Harvest To Order users who have been granted permission to manage this account. Want to add a new manager? You can search for existing emails of users who have registered for an Harvest To Order account and add them as managers. If you don't find any user for the email you are looking for, the user doesn't exist yet on the Harvest To Order, you need to invite them \(see next point\).
 
-**Invite manager:** This is for adding a manager who is not registered with OFN. When you add them, they'll be sent an email confirmation and when they confirm their email they'll be able to set a password, and login to administer this enterprise.
+**Invite manager:** This is for adding a manager who is not registered with Harvest To Order. When you add them, they'll be sent an email confirmation and when they confirm their email they'll be able to set a password, and login to administer this enterprise.
 

@@ -27,7 +27,7 @@ Stallholders wishing to setup a shop like this should refer to the [Multi-Produc
 
 ### Market run collective online shop
 
-The OFN’s high degree of flexibility makes it possible for Farmer's Markets to easily setup and pilot a great variety of collaborative sales arrangements. One possible configuration is covered below, however if you have questions regarding any other models don’t hesitate to get in touch.
+The Harvest To Order’s high degree of flexibility makes it possible for Farmer's Markets to easily setup and pilot a great variety of collaborative sales arrangements. One possible configuration is covered below, however if you have questions regarding any other models don’t hesitate to get in touch.
 
 A representative of the farmers’ market can take responsibility for coordinating an online shop, which stocks items from multiple stallholders. Each week they’ll be tasked with checking availability of stock, opening the shop, packing the orders on market day and arranging delivery. This model is great for customers who cannot attend the market, such as local workplaces, cafes and restaurants. This model can benefit from some market facilities such as a cool room or delivery van. The coordinator will also take responsibility for managing payments from customers and for paying the stallholders their share. Enterprise fees can be used to allocate a certain mark-up to the coordinator for their services.
 

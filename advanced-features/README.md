@@ -1,10 +1,10 @@
 # Advanced Features
 
-The [Basic Features](../basic-features/) chapter steps through the fundamental features required to setup a profile or shop on OFN. Once you have familiarised yourself with these basic functionalities you can explore some of the more advanced features here.
+The [Basic Features](../basic-features/) chapter steps through the fundamental features required to setup a profile or shop on Harvest To Order. Once you have familiarised yourself with these basic functionalities you can explore some of the more advanced features here.
 
 ### Your Profile
 
-* Make producer profiles searchable by product category in the OFN directories. [Read more](your-profile/making-a-producer-profile-searchable-by-product-category.md)
+* Make producer profiles searchable by product category in the Harvest To Order directories. [Read more](your-profile/making-a-producer-profile-searchable-by-product-category.md)
 * Transferring ownership of a profile from one user to another. [Read more](your-profile/transfer-ownership.md)
 
 ### Products
@@ -46,7 +46,7 @@ The [Basic Features](../basic-features/) chapter steps through the fundamental f
 
 ### Groups
 
-* Create and manage a group page, which acts as a sub directory within the OFN for regional producer groups, certification bodies, markets etc. [Read more](groups/group-page.md)
+* Create and manage a group page, which acts as a sub directory within the Harvest To Order for regional producer groups, certification bodies, markets etc. [Read more](groups/group-page.md)
 * Embed your Group Page in your own, external website. [Read more](groups/embed-a-group-page.md)
 
 ### Social

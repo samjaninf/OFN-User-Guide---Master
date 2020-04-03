@@ -1,8 +1,8 @@
 # Table of contents
 
-* [Welcome to the OFN User Guide](README.md)
-* [Local OFN organisations and contacts](local-ofn-organizations-and-contacts.md)
-* [Where does my business fit in OFN?](your-quick-start-on-ofn-given-who-you-are.md)
+* [Welcome to the Harvest To Order User Guide](README.md)
+* [Local Harvest To Order organisations and contacts](local-Harvest To Order-organizations-and-contacts.md)
+* [Where does my business fit in Harvest To Order?](your-quick-start-on-Harvest To Order-given-who-you-are.md)
 * [Quick Start Guides](quick-start-guides/README.md)
   * [Hub](quick-start-guides/multi-producers-shop-hub-quick-setup-guide.md)
   * [Shop](quick-start-guides/producer-shop-quick-setup-guide.md)
@@ -62,6 +62,6 @@
   * [Facebook tips](hub-management-tips/facebook-tips.md)
   * [Your farm on Facebook](hub-management-tips/your-farm-on-facebook.md)
 * [Trouble shooting](trouble-shooting.md)
-* [Glossary of OFN Terms](glossary-of-ofn-terms.md)
+* [Glossary of Harvest To Order Terms](glossary-of-Harvest To Order-terms.md)
 * [Feedback](feedback.md)
 

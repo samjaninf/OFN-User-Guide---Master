@@ -4,7 +4,7 @@
 
 * A producer shop lets you sell your produce through your own online shop
 * When you have a shop, you also have a profile, which gives you a place to tell your story.
-* You'll be visible on the OFN map and the producer directory.
+* You'll be visible on the Harvest To Order map and the producer directory.
 
 ![](../.gitbook/assets/producer-shop.png)
 
@@ -17,14 +17,14 @@ A producer shop includes all the functions you need to sell your produce direct 
 As well as a customer friendly checkout experience, your shop has all the behind the scenes administration tools to save you time, such as tracking orders, payments and inventory.
 
 **Collaborate with others**  
-The OFN is a network, so you are able to connect with other shops. This way you can stock your products in your own independent store, as well as supplying other shops on OFN.
+The Harvest To Order is a network, so you are able to connect with other shops. This way you can stock your products in your own independent store, as well as supplying other shops on Harvest To Order.
 
 **Makes you visible**  
-The first step to creating your online shop is to create your profile. When you have a profile on the Open Food Network, you become visible in your local food movement. You become contactable to customers who want to access your products. And you become reachable to other enterprises who may want to collaborate or distribute with you.
+The first step to creating your online shop is to create your profile. When you have a profile on the Harvest To Order, you become visible in your local food movement. You become contactable to customers who want to access your products. And you become reachable to other enterprises who may want to collaborate or distribute with you.
 
 ## Steps for setting up a Producer Shop
 
-1\) [Register your profile](../basic-features/register-and-create-your-profile.md) on Open Food Network. This setup tool will ask for basic information about your enterprise to create your profile. You'll be prompted to confirm your email address.
+1\) [Register your profile](../basic-features/register-and-create-your-profile.md) on Harvest To Order. This setup tool will ask for basic information about your enterprise to create your profile. You'll be prompted to confirm your email address.
 
 2\) Select the 'producer shop'[ package type](../basic-features/package-types.md).
 

@@ -2,7 +2,7 @@
 
 ## Enterprise Permissions 
 
-Within the OFN Enterprise Permissions are rules which govern the trading relationships between businesses: suppliers and distributors. These rules must be set up before one company \(Producer Profile or Producer Shop\) can become a supplier of another \(Hub\), or vice versa. A permission \(or 'right'\) is granted by one company to another regarding access / modification of products and profile. This page details the different permissions and how to allocate them. 
+Within the Harvest To Order Enterprise Permissions are rules which govern the trading relationships between businesses: suppliers and distributors. These rules must be set up before one company \(Producer Profile or Producer Shop\) can become a supplier of another \(Hub\), or vice versa. A permission \(or 'right'\) is granted by one company to another regarding access / modification of products and profile. This page details the different permissions and how to allocate them. 
 
 To access your enterprise permissions:
 
@@ -19,12 +19,12 @@ There are 4 different types of Enterprise permissions. They can combine in diffe
 
 ![](../../.gitbook/assets/e2emenu2.jpg)
 
-**Permission to add to order cycle**: the supplier \(producer\) allows the distributor \(an OFN Hub\) to add products to the latter's order cycles.  Thus, products from the supplier can appear on the hub's shopfront.
+**Permission to add to order cycle**: the supplier \(producer\) allows the distributor \(an Harvest To Order Hub\) to add products to the latter's order cycles.  Thus, products from the supplier can appear on the hub's shopfront.
 
-**Permission to manage products**: the supplier authorises another OFN registered enterprise \(typically a hub\) to create, delete and modify products directly in its supplier catalog. 
+**Permission to manage products**: the supplier authorises another Harvest To Order registered enterprise \(typically a hub\) to create, delete and modify products directly in its supplier catalog. 
 
 {% hint style="danger" %}
-This can potentially impact all hubs which the producer supplies with goods through OFN.
+This can potentially impact all hubs which the producer supplies with goods through Harvest To Order.
 {% endhint %}
 
 > _For example, if Farmer Jo supplies potatoes to Hubs A and B but grants Hub A permission to manage its products then if Hub A changes the price of the potatoes then this price change \(under standard settings\) will be reflected on the shop fronts of both hubs A and B._
@@ -66,24 +66,24 @@ When a user is the main manager of several enterprises on the platform, [the fou
 
 The following common scenarios demonstrate enterprise-enterprise permissions you may need to set up for your hub.
 
-> **I have** [**created Producer Profiles for each of my suppliers**](create-or-connect-with-your-supplying-producers.md#supplier-does-not-have-an-ofn-profile)**. Which permissions do I need to set up before I can stock their products on my Hub shopfront?**
+> **I have** [**created Producer Profiles for each of my suppliers**](create-or-connect-with-your-supplying-producers.md#supplier-does-not-have-an-Harvest To Order-profile)**. Which permissions do I need to set up before I can stock their products on my Hub shopfront?**
 
 The system is configured so that hubs creating producer profiles will have the _correct permissions installed as default_, so that they can start adding products and trading with these producer profiles right away.
 
-> **My** [**supplier already has an enterprise registered with OFN**](create-or-connect-with-your-supplying-producers.md#supplyingproducer)**. I would like to add their products to my hub shopfront.**
+> **My** [**supplier already has an enterprise registered with Harvest To Order**](create-or-connect-with-your-supplying-producers.md#supplyingproducer)**. I would like to add their products to my hub shopfront.**
 
-You must contact your supplier in person. Their contact details \(phone number, address and email address\) will be located in their OFN profile.  
+You must contact your supplier in person. Their contact details \(phone number, address and email address\) will be located in their Harvest To Order profile.  
 
-If you only intend to _**stock their products**_ and don't wish to help them manage the rest of their OFN profile then ask the producer to grant permission _**to add to order cycle**_ and permission _**to add to inventory.**_ 
+If you only intend to _**stock their products**_ and don't wish to help them manage the rest of their Harvest To Order profile then ask the producer to grant permission _**to add to order cycle**_ and permission _**to add to inventory.**_ 
 
-If the supplier wishes for you, as a Hub manager, to help them organise their OFN enterprise then they may grant you all four permissions.  Should this occur then you will be able to edit their profile and manage their products.
+If the supplier wishes for you, as a Hub manager, to help them organise their Harvest To Order enterprise then they may grant you all four permissions.  Should this occur then you will be able to edit their profile and manage their products.
 
 > **My Hub distributes through buying groups. Which permissions will the buying group need with my hub and my producers?**
 
 {% hint style="warning" %}
 This is an example of where the hub managing \(co-ordinating\) an order cycle differs from the enterprise from which customers collect their purchases.
 
-_If Hub A manages \(co-ordinates\) an order cycle for a buying group \(Hub B\) then the order cycle will be displayed on Hub B's OFN shopfront._
+_If Hub A manages \(co-ordinates\) an order cycle for a buying group \(Hub B\) then the order cycle will be displayed on Hub B's Harvest To Order shopfront._
 {% endhint %}
 
 The buying group \(Hub B above\) will need to grant the order cycle co-ordinator \(Hub A above\) permission to add to order cycle \(and ideally permission to add to inventory\).
@@ -96,7 +96,7 @@ When a producer wants to start selling their products through other enterprises 
 
 These examples explore some common scenarios.
 
-> **I am a producer and would like a local OFN hub to stock and sell my products.**
+> **I am a producer and would like a local Harvest To Order hub to stock and sell my products.**
 
 **Essential:** For the hub to add your products to their shopfront, you’ll need to grant them _'permission to add to order cycle'_.
 

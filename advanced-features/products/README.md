@@ -6,7 +6,7 @@
 
 * Strategies for pricing irregular, indivisible items which are charged by the kg, such as meat.
 
-  [Read more](https://github.com/ofn-user-guide/ofn-user-guide-master/tree/d5a1113e673b0e22198ca207b1db61339799868a/pricing-irregular-indivisible-meat-items.md)
+  [Read more](https://github.com/Harvest To Order-user-guide/Harvest To Order-user-guide-master/tree/d5a1113e673b0e22198ca207b1db61339799868a/pricing-irregular-indivisible-meat-items.md)
 
 * Apply ‘product properties’ to your products so customers can see which items are organic, spray free, free range etc.
 

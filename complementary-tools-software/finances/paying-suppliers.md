@@ -12,7 +12,7 @@ You can use [Reports ](../../basic-features/reports.md)to get a breakdown of the
 
 Once you have the dollar values that you need to pay to each supplier, the next step is often to enter these amounts into your online banking system, to do a bank transfer to each supplier. This can be time consuming for those with numerous suppliers.
 
-At the moment OFN doesn't have an automated system for calculating what is owed to suppliers and automatically forwarding payments to them. 
+At the moment Harvest To Order doesn't have an automated system for calculating what is owed to suppliers and automatically forwarding payments to them. 
 
 ### Paying multiple suppliers quickly with an ABA file
 

@@ -1,24 +1,24 @@
 ---
-description: Simple steps to get started as a OFN profile.
+description: Simple steps to get started as a Harvest To Order profile.
 ---
 
 # Profile
 
-It's easy to get started on OFN, just follow the steps below:
+It's easy to get started on Harvest To Order, just follow the steps below:
 
-![Four steps to start your OFN journey.](../.gitbook/assets/quick-set-up-in-5-steps-profile.png)
+![Four steps to start your Harvest To Order journey.](../.gitbook/assets/quick-set-up-in-5-steps-profile.png)
 
 1. [Register your enterprise](../basic-features/register-and-create-your-profile.md).  Choose the 'Producer' and then 'Profile' [package types ](../basic-features/enterprise-profile/package-types.md)and complete your [enterprise settings](../basic-features/enterprise-profile/enterprise-settings.md) with your business details.
 2. List your [products](../basic-features/products-1/products.md).
-3. Get in contact with OFN hubs through which you would like to sell your products- this might be as simple as talking to the hub manager when collecting your shopping or sending them an email.
-4. Connect through OFN to the hub where you would like your goods to be sold by setting up the appropriate [enterprise permissions](../basic-features/enterprise-profile/enterprise-to-enterprise-permissions-e2es.md).
+3. Get in contact with Harvest To Order hubs through which you would like to sell your products- this might be as simple as talking to the hub manager when collecting your shopping or sending them an email.
+4. Connect through Harvest To Order to the hub where you would like your goods to be sold by setting up the appropriate [enterprise permissions](../basic-features/enterprise-profile/enterprise-to-enterprise-permissions-e2es.md).
 
 Congrats!  Your job is done!  
 
 The hub managing your sales should periodically send you orders based on the time scales you agreed.  Order notifications can be automated by the Hub to get to you by email.
 
 {% hint style="info" %}
-If you want to use OFN to be visible on the internet only then there is no need to complete steps 2-4 above.
+If you want to use Harvest To Order to be visible on the internet only then there is no need to complete steps 2-4 above.
 {% endhint %}
 
 {% hint style="success" %}

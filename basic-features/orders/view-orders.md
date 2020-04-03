@@ -211,11 +211,11 @@ For the example of a 1kg fish:
 
 ## A **Customer’s view of their order**
 
-Your customers can view a list of their orders when they login to the OFN, and click on their account \(see below\).
+Your customers can view a list of their orders when they login to the Harvest To Order, and click on their account \(see below\).
 
 ![](../../.gitbook/assets/account-login.png)
 
-Here your customers will be able to see the past orders and payments as well as a running balance at your shop \(and any others on OFN where they have placed an order\). 
+Here your customers will be able to see the past orders and payments as well as a running balance at your shop \(and any others on Harvest To Order where they have placed an order\). 
 
 ![](../../.gitbook/assets/orders.png)
 

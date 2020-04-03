@@ -11,11 +11,11 @@ One of the most common tools online today is [Mailchimp](https://mailchimp.com/)
 Be sure to follow local legal guidelines when storing and processing customer contact information.  For EU regulations see [here](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/).
 {% endhint %}
 
-## Integrating MailChimp with OFN
+## Integrating MailChimp with Harvest To Order
 
-It is possible to "connect" your Open Food Network and MailChimp accounts.  In doing so every new customer who places an order in your shop will automatically have their contact address added to your enterprise's MailChimp contact list. 
+It is possible to "connect" your Harvest To Order and MailChimp accounts.  In doing so every new customer who places an order in your shop will automatically have their contact address added to your enterprise's MailChimp contact list. 
 
-If you would like us to help you facilitate this automatic link between your OFN and MailChimp accounts please contact your local support team.
+If you would like us to help you facilitate this automatic link between your Harvest To Order and MailChimp accounts please contact your local support team.
 
 ## Sending a weekly email to customers via MailChimp
 

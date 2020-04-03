@@ -1,7 +1,7 @@
 # Subscriptions
 
 {% hint style="info" %}
-Subscriptions is in 'beta' mode, meaning it's a new feature that may still have some glitches. Please [contact us](https://www.openfoodnetwork.org/find-your-local-open-food-network/) with any feedback about what works, what needs improving or how it could be better explained.
+Subscriptions is in 'beta' mode, meaning it's a new feature that may still have some glitches. Please [contact us](https://www.harvesttoorder.com/find-your-local-open-food-network/) with any feedback about what works, what needs improving or how it could be better explained.
 {% endhint %}
 
 ## What are subscriptions? <a id="what-are-subscriptions"></a>
@@ -29,7 +29,7 @@ Subscriptions are also a good way for an Enterprise to boost customer loyalty an
 * [Enable Subscriptions](subscriptions-configuration.md#activate-subscriptions) in your Enterprise Settings.
 * Make sure you have [Shipping and Payment methods](subscriptions-configuration.md#shipping-and-payment-methods-for-subscriptions) setup for customers.
 * [Gather information from your customers](subscriptions-configuration.md#gather-information-from-your-customers), including their contact details, which items they'd like in their subscription and which shipping and payment methods they'll use.
-* [Add your subscription customers to your Customers list](subscriptions-configuration.md#add-your-subscribers-to-your-customer-list), and then ask them to signup to OFN.
+* [Add your subscription customers to your Customers list](subscriptions-configuration.md#add-your-subscribers-to-your-customer-list), and then ask them to signup to Harvest To Order.
 * Setup [Schedules](subscriptions-configuration.md#schedules), which will dictate how frequently subscriptions are processed.
 
 #### \*\*\*\*[**Creating and Managing Orders**](subscriptions-creating-and-managing-orders.md)**: this page describes the steps involved in actually creating a new subscription and subsequently processing the order.**

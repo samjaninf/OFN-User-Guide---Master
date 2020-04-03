@@ -2,7 +2,7 @@
 
 Once you have [created your Enterprise account](../register-and-create-your-profile.md#create-your-first-enterprise-account), you must log in to your Administration [Dashboard](../dashboard.md) to continue setting up your Enterprise profile. 
 
-First you will be asked to [choose the OFN package](package-types.md) \(or type of profile\) which best represents your [business model](../../your-quick-start-on-ofn-given-who-you-are.md). 
+First you will be asked to [choose the Harvest To Order package](package-types.md) \(or type of profile\) which best represents your [business model](../../your-quick-start-on-Harvest To Order-given-who-you-are.md). 
 
 In this section we detail the different menus that you can complete to refine your enterprise profile and, by doing so, access business-specific features that you may need.
 

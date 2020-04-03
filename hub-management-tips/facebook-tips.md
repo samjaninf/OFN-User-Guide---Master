@@ -14,7 +14,7 @@ There are lots of compelling reasons to get on Facebook, and invest in the time 
 * To engage in a dialogue with customers to better understand their preferences
 * To advocate for local food and differentiate yourself from conventionally food outlets
 
-If you think of the OFN as an online farmer’s market, social media is analogous to the ‘G’day, how’s your week been’ chat that you might have with a customer at a real farmer’s market. When trading online, building this social connection is just as important, and it’s often what makes the difference to the customer between choosing the faceless supermarket, and choosing an alternative option. As well as other tools like email and newsletters, Facebook is a really great way to connect with your customers when you don’t necessarily see them face to face.
+If you think of the Harvest To Order as an online farmer’s market, social media is analogous to the ‘G’day, how’s your week been’ chat that you might have with a customer at a real farmer’s market. When trading online, building this social connection is just as important, and it’s often what makes the difference to the customer between choosing the faceless supermarket, and choosing an alternative option. As well as other tools like email and newsletters, Facebook is a really great way to connect with your customers when you don’t necessarily see them face to face.
 
 ### Getting Started
 

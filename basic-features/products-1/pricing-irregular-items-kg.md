@@ -4,7 +4,7 @@ Here we refer to products as _**'irregular'**_  if they are sold according to we
 
 For example joints of meat, slices of cheese, large vegetables.
 
-There are a number of different tools available on the OFN platform to help manage and organise these sales. 
+There are a number of different tools available on the Harvest To Order platform to help manage and organise these sales. 
 
 ## Option One: Set an average weight / price and reimburse
 
@@ -65,7 +65,7 @@ If an order is _**paid online before delivery**_, then you must refund or invoic
 {% hint style="danger" %}
 An alternative is to use an online payment system to temporarily store the amount "pending" until the order has been validated. 
 
-_This feature is not yet implemented in Open Food Network. We are also working on the automated implementation of "credits" allowing a hub to reimburse in the form of a credit note which could be used by the customer as part payment for their next order._ 
+_This feature is not yet implemented in Harvest To Order. We are also working on the automated implementation of "credits" allowing a hub to reimburse in the form of a credit note which could be used by the customer as part payment for their next order._ 
 {% endhint %}
 
 ## Inform the buyer about your pricing policy 

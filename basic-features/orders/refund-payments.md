@@ -19,7 +19,7 @@ Occasionally, you may have to adjust the amount a customer pays for their order.
 
 ### Refunding a Stripe Payment
 
-_If the customer made the payment for their order to your business Stripe account, then you will be able to issue a full or partial refund from the OFN admin interface._
+_If the customer made the payment for their order to your business Stripe account, then you will be able to issue a full or partial refund from the Harvest To Order admin interface._
 
 Make sure the order you wish to refund is marked as 'PAID':
 
@@ -50,7 +50,7 @@ If an order has been totally cancelled you can issue a full refund \(if the cust
 
 ### Refunding a PayPal payment
 
-Automated partial or full refunds to customers who paid for their orders by PayPal are not supported on the OFN platform at the moment. You will need to visit your business PayPal account and issue a refund through their platform.  
+Automated partial or full refunds to customers who paid for their orders by PayPal are not supported on the Harvest To Order platform at the moment. You will need to visit your business PayPal account and issue a refund through their platform.  
 This is a functionality we hope to add in the future.
 
 ### Refunding a Bank Transfer Payment
@@ -63,13 +63,13 @@ To issue a refund by BACS you will need to do so through your business bank acco
 An alternative to issuing a refund might be to manually deduct the customer's credit from their next order.
 
 {% hint style="info" %}
-Currently, as Shop or Hub manager, you would need to manually adjust the customers balance to take account of their credit.  In the future we would like to automate this process.  Please [contact us](https://www.openfoodnetwork.org/find-your-local-open-food-network/) if it is something which would be useful for your enterprise.
+Currently, as Shop or Hub manager, you would need to manually adjust the customers balance to take account of their credit.  In the future we would like to automate this process.  Please [contact us](https://www.harvesttoorder.com/find-your-local-open-food-network/) if it is something which would be useful for your enterprise.
 {% endhint %}
 
 ## How to bill a customer for additional funds
 
 For example, a customer might ask to you add an additional item to an order they have already paid for, or, you might find after receipt of meat \([or other complete items priced by weight](../products-1/pricing-irregular-items-kg.md)\) that the total invoice is increased slightly.  
-Any additional funds paid must be recorded manually. The customer will not be able to pay the excess by Stripe or PayPal through the OFN platform.
+Any additional funds paid must be recorded manually. The customer will not be able to pay the excess by Stripe or PayPal through the Harvest To Order platform.
 
 {% hint style="info" %}
 If a customer wishes to add an item they forgot originally to their basket but pays by Stripe or PayPal then it might be simpler to ask them to create another order, rather than editing their existing order.

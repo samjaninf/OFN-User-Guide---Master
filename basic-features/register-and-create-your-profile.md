@@ -16,7 +16,7 @@ If you don't receive an confirmation email from us promptly it may have gone to 
 
 ### Create your first "enterprise" account
 
-* Once logged in, click on the top grey banner "Interested in selling through the Open Food Network? **Register here**."
+* Once logged in, click on the top grey banner "Interested in selling through the Harvest To Order? **Register here**."
 
 ![](../.gitbook/assets/registerenterprise.jpg)
 
@@ -29,7 +29,7 @@ If you don't receive an confirmation email from us promptly it may have gone to 
 * Fill in your enterprise name and contact details.
 
 {% hint style="info" %}
-Your address will be used to add your business to our map of OFN enterprises and hence increase your visibility.
+Your address will be used to add your business to our map of Harvest To Order enterprises and hence increase your visibility.
 {% endhint %}
 
 * Choose between 'Producer' \(you make/bake/grow products yourself\) or 'Non Producer' \(you distribute and sell food made by others\).
@@ -44,17 +44,17 @@ Your address will be used to add your business to our map of OFN enterprises and
 
 **Your first "enterprise" is now created and you have started to fill in your profile, but it's not finished!** 
 
-**The next step is to** [**choose the OFN package**](enterprise-profile/package-types.md) **\(= profile type\) which best represents your** [**business model**](../your-quick-start-on-ofn-given-who-you-are.md)**.**  
+**The next step is to** [**choose the Harvest To Order package**](enterprise-profile/package-types.md) **\(= profile type\) which best represents your** [**business model**](../your-quick-start-on-Harvest To Order-given-who-you-are.md)**.**  
 
 ![](../.gitbook/assets/newchoose.jpg)
 
-**After doing so, your enterprise will added to the OFN map!**  
+**After doing so, your enterprise will added to the Harvest To Order map!**  
 
-**A short clip of registering your enterprise on OFN:**
+**A short clip of registering your enterprise on Harvest To Order:**
 
 ![](../.gitbook/assets/registration.gif)
 
 ### Access your Enterprise Administration Dashboard
 
-Once you have created an Enterprise, you can manage your profile using the Dashboard. To access your Enterprise Dashboard log in to the Open Food Network and click on "Profile &gt; Administration" in the top right corner. See [Dashboard ](dashboard.md)for more information.
+Once you have created an Enterprise, you can manage your profile using the Dashboard. To access your Enterprise Dashboard log in to the Harvest To Order and click on "Profile &gt; Administration" in the top right corner. See [Dashboard ](dashboard.md)for more information.
 

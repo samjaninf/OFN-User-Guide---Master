@@ -43,7 +43,7 @@ For Paypal, MasterCard, Stripe and Pin Payments \(Australia only\) additional in
 
 {% tabs %}
 {% tab title="Paypal" %}
-To setup a PayPal payment method, you need a PayPal business or merchant account. You can create one [here](https://www.paypal.com/au/webapps/mpp/merchant). Once you have that, you can set up ‘API access’ within PayPal, which will enable OFN to connect customers directly with your PayPal account.
+To setup a PayPal payment method, you need a PayPal business or merchant account. You can create one [here](https://www.paypal.com/au/webapps/mpp/merchant). Once you have that, you can set up ‘API access’ within PayPal, which will enable Harvest To Order to connect customers directly with your PayPal account.
 
 1. Login to your PayPal Account
 2. Click Tools -&gt; All Tools and then Integrate PayPal \(from the left hand menu\)
@@ -58,7 +58,7 @@ From here you will be able to access your API username, password and signature.
 
 ![](../../.gitbook/assets/paypal4.jpg)
 
-**In OFN,** make sure you are logged in as your Enterprise User. Go to an Enterprise and create a Payment Method. Select PayPal and fill in the details from the PayPal site.
+**In Harvest To Order,** make sure you are logged in as your Enterprise User. Go to an Enterprise and create a Payment Method. Select PayPal and fill in the details from the PayPal site.
 
 **Server:** Change the ‘server’ field to ‘live’ – this is case sensitive.
 
@@ -86,7 +86,7 @@ Set up of this service needs to be done through your bank. So far it has been te
 {% endtab %}
 
 {% tab title="Stripe" %}
-[Stripe](https://stripe.com/au) is an online payment platform similar to Paypal. It will allow you to accept credit card payments from your customers. Stripe is a global platform, but is only available on certain OFN instances. Contact your [local OFN team](https://openfoodnetwork.org/ofn-local/) to see whether it’s available on your OFN.
+[Stripe](https://stripe.com/au) is an online payment platform similar to Paypal. It will allow you to accept credit card payments from your customers. Stripe is a global platform, but is only available on certain Harvest To Order instances. Contact your [local Harvest To Order team](https://harvesttoorder.com/Harvest To Order-local/) to see whether it’s available on your Harvest To Order.
 
 #### Why use Stripe?
 
@@ -94,7 +94,7 @@ Stripe is simple to setup for shop owners and is reasonably priced. The fees cha
 
 Stripe is also easy for customers to use. Unlike Paypal, when the customer checks out, they don’t need to login with Paypal to place their order, rather they just need to enter their card details and then complete their order.
 
-Stripe is the recommended payment method for shops who wish to use [**subscriptions** ](../subscriptions/)on OFN, as Stripe allows customers to give permission to a shop to automatically bill their credit card for subscription orders. This isn’t offered by Paypal, Pin or MIGS payment platforms.
+Stripe is the recommended payment method for shops who wish to use [**subscriptions** ](../subscriptions/)on Harvest To Order, as Stripe allows customers to give permission to a shop to automatically bill their credit card for subscription orders. This isn’t offered by Paypal, Pin or MIGS payment platforms.
 
 #### Setup
 
@@ -134,7 +134,7 @@ Customer can also save a credit card in their Account, or delete saved ones.
 
 ![](../../.gitbook/assets/add-card.png)
 
-When the customer next shops with an OFN shop offering Stripe as a payment method, they’ll be able to select from their saved credit cards.
+When the customer next shops with an Harvest To Order shop offering Stripe as a payment method, they’ll be able to select from their saved credit cards.
 
 **Viewing and redeeming your payments via Stripe**
 
@@ -142,15 +142,15 @@ When a customer pays for their order with Stripe, the funds \(minus Stripe's fee
 
 **Taking further payment**
 
-If you need to take additional payment from a customer because they have further balance due,  you can create an invoice in Stripe. The customer will get sent an email asking for them to pay with Credit/Debit card. This won't be communicated to OFN, so you'll need to mark the payment off manually.
+If you need to take additional payment from a customer because they have further balance due,  you can create an invoice in Stripe. The customer will get sent an email asking for them to pay with Credit/Debit card. This won't be communicated to Harvest To Order, so you'll need to mark the payment off manually.
 
 ![](../../.gitbook/assets/image%20%2831%29.png)
 {% endtab %}
 
 {% tab title="Pin Payments" %}
-For Pin Payments you only require your API key. You need to set up an account with Pin Payments first, and can get a discount by signing up as an OFN member \([https://pin.net.au/partners/open-food-network/signup](https://pin.net.au/partners/open-food-network/signup)\)
+For Pin Payments you only require your API key. You need to set up an account with Pin Payments first, and can get a discount by signing up as an Harvest To Order member \([https://pin.net.au/partners/open-food-network/signup](https://pin.net.au/partners/open-food-network/signup)\)
 
-**API Key:**Enter your “Live Secret API Key’ here – you can find this in your PinPayments account \(see below\). First from your account, select API Keys. Then once you have generated an API key, copy the ‘Live Secret API Key’ and paste it into the API key field in OFN.
+**API Key:**Enter your “Live Secret API Key’ here – you can find this in your PinPayments account \(see below\). First from your account, select API Keys. Then once you have generated an API key, copy the ‘Live Secret API Key’ and paste it into the API key field in Harvest To Order.
 
 ![](../../.gitbook/assets/api-keys.png)
 

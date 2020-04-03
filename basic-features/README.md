@@ -1,6 +1,6 @@
 ---
 description: >-
-  In this section we explore all the features offered by the OFN software
+  In this section we explore all the features offered by the Harvest To Order software
   platform.
 ---
 
@@ -12,7 +12,7 @@ You can browse these features at any time but for those just starting out we rec
 To find the explanation of a specific feature that you need, please use the 'Search' field \(top right hand corner\).
 {% endhint %}
 
-In what follows, the features of OFN are explained in a "double chronological way" with the order of sections organised based on a logical order for setting up:
+In what follows, the features of Harvest To Order are explained in a "double chronological way" with the order of sections organised based on a logical order for setting up:
 
 * [registration](register-and-create-your-profile.md)
 * [enterprise profile setup](enterprise-profile/)

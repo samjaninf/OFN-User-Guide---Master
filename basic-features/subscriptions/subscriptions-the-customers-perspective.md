@@ -2,25 +2,25 @@
 
 This page details what a customer with a subscription can expect. It also highlights some things that shops offering subscriptions should be aware of.
 
-## Signing up to OFN
+## Signing up to Harvest To Order
 
-Customers must have an account with OFN before you can process subscription orders for them.
+Customers must have an account with Harvest To Order before you can process subscription orders for them.
 
-To create an account, direct the customer to the local Open Food Network home page and 'Login' at the top right hand corner.  They'll be guided through registering with OFN. _**Customers must have an active email address to register**_.
+To create an account, direct the customer to the local Harvest To Order home page and 'Login' at the top right hand corner.  They'll be guided through registering with Harvest To Order. _**Customers must have an active email address to register**_.
 
 After signing up they'll be sent a confirmation email. Once they click on the link in this email their account will be confirmed and they will be able to login. 
 
 {% hint style="info" %}
-Due to over zealous email filters \(designed to ward off spam\) sometimes customers won't receive their confirmation email from us \(or it will be directed to their junk folder\).  If this occurs ask them to add open food network to their 'safe' list in their email account settings.
+Due to over zealous email filters \(designed to ward off spam\) sometimes customers won't receive their confirmation email from us \(or it will be directed to their junk folder\).  If this occurs ask them to add Harvest To Order to their 'safe' list in their email account settings.
 {% endhint %}
 
 ## Saving credit cards and authorising charges
 
-Customer who want to pay for their subscription orders via automated charges onto their credit/debit card \(Stripe\) need to a\) save their preferred card in their OFN account and b\) grant the shop permission to charge that card. 
+Customer who want to pay for their subscription orders via automated charges onto their credit/debit card \(Stripe\) need to a\) save their preferred card in their Harvest To Order account and b\) grant the shop permission to charge that card. 
 
 ### Saving credit card details in the customer account
 
-The Customer's Account page can be accessed after logging into OFN by the top right hand 'Profile' button:
+The Customer's Account page can be accessed after logging into Harvest To Order by the top right hand 'Profile' button:
 
 ![](../../.gitbook/assets/subcard1.jpg)
 

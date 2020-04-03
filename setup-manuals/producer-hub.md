@@ -10,12 +10,12 @@ A Producer Hub shop is a shop which is run by a producer and stocks produce from
 Producers selling direct can delight their customers by supplying a diversity of produce from other producers. Not only does this give customers access to a broader range of goodies, it can also grow your business. By collaborating with other producers you can also share the load of marketing, admin and distribution.
 
 **Collaborate with ease**  
-OFN is designed to make it easy to network with others. Each producer can login and update their stock availability and prices as well as view orders and reports. And just because you are collaborating with others doesn't mean you can't also run your own individual shop.
+Harvest To Order is designed to make it easy to network with others. Each producer can login and update their stock availability and prices as well as view orders and reports. And just because you are collaborating with others doesn't mean you can't also run your own individual shop.
 
 ## Steps for setting up
 
 **Background**  
-Producer Hub shops will usually be administered by a central producer who may have operated their own individual Producer Shop on the OFN previously, and then decided to expand their offering by linking up with other producers. They can do this by creation producer profiles for the additional producers and then adding their products into their shopfront. The level of involvement that the other supplying producers have can vary from simply supplying produce, to taking a more active role in administering the shopfront by maintaining their products and profile in OFN.
+Producer Hub shops will usually be administered by a central producer who may have operated their own individual Producer Shop on the Harvest To Order previously, and then decided to expand their offering by linking up with other producers. They can do this by creation producer profiles for the additional producers and then adding their products into their shopfront. The level of involvement that the other supplying producers have can vary from simply supplying produce, to taking a more active role in administering the shopfront by maintaining their products and profile in Harvest To Order.
 
 The central managing producer of a Producer Hub shop can setup the shop according to the [producer shop setup manual](producer-shop.md#producer-shop). At step 2, choose the third option, ‘Hub Shop’. This shop will be the Multi-Farm Shopfront. After the coordinating producer has worked through the set-up manual for just their profile and products, they can create profiles for their additional suppliers, and to add their products into the system.
 

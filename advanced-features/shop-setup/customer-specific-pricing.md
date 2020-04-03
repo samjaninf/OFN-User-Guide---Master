@@ -6,5 +6,5 @@ Sometimes our users want to charge different prices for different customers, oft
 * You could use [shipping method](../../basic-features/shipping-methods.md) fees to charge different prices to different customers. You can create a ‘member shipping method’ which may have a 30% mark-up, and a ‘non-member shipping method’ which might have a 50% markup. This will require you to check that the customer has selected the correct one at checkout, and both options will be visible to all customers.
 * If your [payment method](../../basic-features/payment-methods.md) is cash upon collection, you can add the markup, or a ‘non-member’ fee after their order is placed, and add it to their invoice for when they collect their order and pay. You just need to make sure that your customers are aware of this process, which can be done in the ‘shopfront message’.
 
-> Please feel free to [get in touch with your local OFN](https://openfoodnetwork.org/contact/) to discuss the pros and cons of each option for your specific case.
+> Please feel free to [get in touch with your local Harvest To Order](https://harvesttoorder.com/contact/) to discuss the pros and cons of each option for your specific case.
 

@@ -1,13 +1,13 @@
-# Local OFN organisations and contacts
+# Local Harvest To Order organisations and contacts
 
-You can access the Open Food Network platform in various languages, and from various providers, depending on where you are located. 
+You can access the Harvest To Order platform in various languages, and from various providers, depending on where you are located. 
 
 The local entities provide you with a “Saas”’ service \(Software as a service, so you don’t have to deploy and run the code yourself\), but you can always find the source code [here](https://github.com/openfoodfoundation/openfoodnetwork#boards?repos=6257856), as it is an open source software released under the AGPL 3 licence.
 
-Usually the local entities that provide this Saas service also provide other services to support more generally the development of the local food sector, like training, consulting, incubation programs, etc. Get in touch with them through their website to learn more about them !  See [here](https://www.openfoodnetwork.org/find-your-local-open-food-network/).
+Usually the local entities that provide this Saas service also provide other services to support more generally the development of the local food sector, like training, consulting, incubation programs, etc. Get in touch with them through their website to learn more about them !  See [here](https://www.harvesttoorder.com/find-your-local-open-food-network/).
 
   
-Want to learn more about what is the Open Food Network? [Check our global website](https://www.openfoodnetwork.org/)!
+Want to learn more about what is the Harvest To Order? [Check our global website](https://www.harvesttoorder.com/)!
 
 <table>
   <thead>
@@ -28,7 +28,7 @@ Want to learn more about what is the Open Food Network? [Check our global websit
     <tr>
       <td style="text-align:left">Australia</td>
       <td style="text-align:left">Open Food Services</td>
-      <td style="text-align:left"><a href="https://openfoodnetwork.org.au/">https://openfoodnetwork.org.au/</a>
+      <td style="text-align:left"><a href="https://harvesttoorder.com/">https://harvesttoorder.com/</a>
       </td>
       <td style="text-align:left">English</td>
     </tr>
@@ -54,7 +54,7 @@ Want to learn more about what is the Open Food Network? [Check our global websit
     </tr>
     <tr>
       <td style="text-align:left">Canada</td>
-      <td style="text-align:left">Open Food Network Canada</td>
+      <td style="text-align:left">Harvest To Order Canada</td>
       <td style="text-align:left"><a href="https://openfoodnetwork.ca ">https://openfoodnetwork.ca </a>
       </td>
       <td style="text-align:left">
@@ -84,7 +84,7 @@ Want to learn more about what is the Open Food Network? [Check our global websit
       <td style="text-align:left">New Zealand</td>
       <td style="text-align:left"><a href="https://permakai.nz">Permakai Ltd</a>. (for the time being)</td>
       <td
-      style="text-align:left"><a href="https://openfoodnetwork.org.nz">https://openfoodnetwork.org.nz</a>
+      style="text-align:left"><a href="https://harvesttoorder.com.nz">https://harvesttoorder.com.nz</a>
         </td>
         <td style="text-align:left">English</td>
     </tr>
@@ -109,16 +109,16 @@ Want to learn more about what is the Open Food Network? [Check our global websit
     </tr>
     <tr>
       <td style="text-align:left">South Africa</td>
-      <td style="text-align:left">Open Food Network South Africa</td>
-      <td style="text-align:left"><a href="https://openfoodnetwork.org.za/">https://openfoodnetwork.org.za/</a>
+      <td style="text-align:left">Harvest To Order South Africa</td>
+      <td style="text-align:left"><a href="https://harvesttoorder.com.za/">https://harvesttoorder.com.za/</a>
       </td>
       <td style="text-align:left">English</td>
     </tr>
     <tr>
       <td style="text-align:left">United Kingdom</td>
-      <td style="text-align:left"><a href="https://about.openfoodnetwork.org.uk/">Open Food Network UK</a>
+      <td style="text-align:left"><a href="https://about.harvesttoorder.com/">Harvest To Order UK</a>
       </td>
-      <td style="text-align:left"><a href="https://openfoodnetwork.org.uk/ ">https://openfoodnetwork.org.uk/ </a>
+      <td style="text-align:left"><a href="https://harvesttoorder.com/ ">https://harvesttoorder.com/ </a>
       </td>
       <td style="text-align:left">English</td>
     </tr>

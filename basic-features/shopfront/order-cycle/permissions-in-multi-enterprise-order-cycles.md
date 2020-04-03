@@ -2,18 +2,18 @@
 
 This page explains the varying rights each enterprise has in the context of complex multiple enterprise order cycles.  Be it:
 
-* the producer \([profile](../../../your-quick-start-on-ofn-given-who-you-are.md#profile) or [shop](../../../your-quick-start-on-ofn-given-who-you-are.md#shop)\) who supplies the order cycle only,
-* a [hub](../../../your-quick-start-on-ofn-given-who-you-are.md#hub) which distributes goods only,
+* the producer \([profile](../../../your-quick-start-on-Harvest To Order-given-who-you-are.md#profile) or [shop](../../../your-quick-start-on-Harvest To Order-given-who-you-are.md#shop)\) who supplies the order cycle only,
+* a [hub](../../../your-quick-start-on-Harvest To Order-given-who-you-are.md#hub) which distributes goods only,
 * or a hub which [coordinates](permissions-in-multi-enterprise-order-cycles.md#the-coordinator) the order cycle \(and may or may not also supply or distribute goods\).
 
-For more details about simple order cycles involving a single producer selling their own stock only \([producer shop](../../../your-quick-start-on-ofn-given-who-you-are.md#shop)\), see [here](order-cycles-for-producers.md).
+For more details about simple order cycles involving a single producer selling their own stock only \([producer shop](../../../your-quick-start-on-Harvest To Order-given-who-you-are.md#shop)\), see [here](order-cycles-for-producers.md).
 
 _**The coordinator has the highest degree of control over an order cycle. Other enterprises can view the order cycles they are involved in, but only edit settings which affect them.**_
 
 ## The Coordinator
 
 {% hint style="info" %}
-**Full order cycle functionality** can only be obtained if an enterprise is registered as a [Hub](../../../your-quick-start-on-ofn-given-who-you-are.md#hub).  To change your enterprise type see [here](../../enterprise-profile/package-types.md#changing-your-profile-type).
+**Full order cycle functionality** can only be obtained if an enterprise is registered as a [Hub](../../../your-quick-start-on-Harvest To Order-given-who-you-are.md#hub).  To change your enterprise type see [here](../../enterprise-profile/package-types.md#changing-your-profile-type).
 {% endhint %}
 
 {% hint style="warning" %}
@@ -28,7 +28,7 @@ The Coordinator of an [Order Cycle](order-cycles-for-hubs.md) can:
 
 ### **Incoming**
 
-* The coordinator can add enterprises as suppliers. However, to do this the supplying enterprise \(registered as a [Producer](../../enterprise-profile/package-types.md#for-producers) with OFN\) must have granted the coordinating hub [permission to add their products to an order cycle](../../enterprise-profile/enterprise-to-enterprise-permissions-e2es.md#granting-and-managing-permissions).
+* The coordinator can add enterprises as suppliers. However, to do this the supplying enterprise \(registered as a [Producer](../../enterprise-profile/package-types.md#for-producers) with Harvest To Order\) must have granted the coordinating hub [permission to add their products to an order cycle](../../enterprise-profile/enterprise-to-enterprise-permissions-e2es.md#granting-and-managing-permissions).
 * The coordinator can select all or a subset of products from their suppliers that they wish include in the order cycle.
 * The coordinator can apply differential [enterprise fees](../enterprise-fees.md) to each supplier. For example, they may wish to charge a supplying butcher a higher rate \(to cover the extra cost of refrigerated transport\) than a baker.
 
@@ -40,7 +40,7 @@ The coordinator can choose which enterprises the products listed in an order cyc
 
 To do this each potential distributor must be:
 
-1. Registered as a [Hub](../../../your-quick-start-on-ofn-given-who-you-are.md#hub).
+1. Registered as a [Hub](../../../your-quick-start-on-Harvest To Order-given-who-you-are.md#hub).
 2. Have granted the coordinating hub [permission to add products](../../enterprise-profile/enterprise-to-enterprise-permissions-e2es.md#granting-and-managing-permissions) to an order cycle.
 3. Have at least one active [shipping](../shipping-methods.md) and [payment](../payment-methods.md) method. 
 

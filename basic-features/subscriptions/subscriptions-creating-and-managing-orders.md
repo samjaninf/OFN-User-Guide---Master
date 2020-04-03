@@ -12,7 +12,7 @@ This page describes how shops can setup unique subscriptions for individual cust
 * Setup [shipping and payment methods](subscriptions-configuration.md#shipping-and-payment-methods-for-subscriptions)
 * Have made contact with you customers to [get their details](subscriptions-configuration.md#gather-information-from-your-customers)
 * Added your subscription customers to your [customer list](subscriptions-configuration.md#add-your-subscribers-to-your-customer-list).  
-* Have contacted your customers to request that they [sign up for an account with OFN](subscriptions-the-customers-perspective.md#signing-up-to-ofn), and _if_ they will be billed with Stripe, to request they [save their card and authorise your shop to charge it](subscriptions-the-customers-perspective.md#saving-credit-cards-and-authorising-charges).
+* Have contacted your customers to request that they [sign up for an account with Harvest To Order](subscriptions-the-customers-perspective.md#signing-up-to-Harvest To Order), and _if_ they will be billed with Stripe, to request they [save their card and authorise your shop to charge it](subscriptions-the-customers-perspective.md#saving-credit-cards-and-authorising-charges).
 * Created at least one [Schedule](subscriptions-configuration.md#schedules)
 
 ## Create subscriptions
@@ -56,7 +56,7 @@ If the 'Ends at' date falls in the middle of a future order cycle then no subscr
 
 ### Address
 
-Fill out the customer’s billing and shipping details. Address details for customers who have placed orders on OFN previously will load automatically.
+Fill out the customer’s billing and shipping details. Address details for customers who have placed orders on Harvest To Order previously will load automatically.
 
 ![](../../.gitbook/assets/new-subscription-address.png)
 

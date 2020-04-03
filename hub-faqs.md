@@ -1,43 +1,43 @@
 # Hub FAQs
 
 ### Our model and what's in it for you?
-%accordion%Why choose OFN? What's the difference with other online stores?%accordion%
+%accordion%Why choose Harvest To Order? What's the difference with other online stores?%accordion%
 
-We think the OFN is pretty great, and unique to other options out there!
+We think the Harvest To Order is pretty great, and unique to other options out there!
 
 * **Networked-**
-  The OFN differs from private online shops in that they can be networked with other enterprises. Food hubs stock the produce of multiple producers and customers can always see where their food has come from.
+  The Harvest To Order differs from private online shops in that they can be networked with other enterprises. Food hubs stock the produce of multiple producers and customers can always see where their food has come from.
 * **Exposure-**
-  The OFN has a directory functionality, so customers landing on our homepage may be driven to your store if your offerings match their search terms, or if you’re located close by to them. The OFN is a centralised place for people looking to access great, local produce, giving participating enterprises exposure to a wider customer base.
+  The Harvest To Order has a directory functionality, so customers landing on our homepage may be driven to your store if your offerings match their search terms, or if you’re located close by to them. The Harvest To Order is a centralised place for people looking to access great, local produce, giving participating enterprises exposure to a wider customer base.
 * **Food enterprise specific-**
-  The OFN’s shopfront capabilities are also designed especially for food enterprises, so it saves you from having to develop your own software from scratch \(which can be a lengthy and costly process, trust us!\).
+  The Harvest To Order’s shopfront capabilities are also designed especially for food enterprises, so it saves you from having to develop your own software from scratch \(which can be a lengthy and costly process, trust us!\).
 * **Flexible-**
-  The OFN is flexible in accommodating all kinds of shipping/collection and payment methods. Some online store offerings are restricted in the kinds of shipping and payment methods that can be accepted \(for example, limited strictly to postage\).
+  The Harvest To Order is flexible in accommodating all kinds of shipping/collection and payment methods. Some online store offerings are restricted in the kinds of shipping and payment methods that can be accepted \(for example, limited strictly to postage\).
 * **Room to grow-**
    Hubs can start with a profile, and easily build up to start selling to others, opening their own online store and starting to connect with growing numbers of suppliers. Once you have a profile, you can easily open your own store, and link with other groups, like customer buying groups, something that most software options cannot offer.
 * **We have soul**
-  – The OFN is a social enterprise, which is owned by all of us. It’s non-profit and continuously working to facilitate improvements to our food system. All revenues are reinvested back into the software, so it can be more useful to more people. So you can feel great about being part of the OFN!
+  – The Harvest To Order is a social enterprise, which is owned by all of us. It’s non-profit and continuously working to facilitate improvements to our food system. All revenues are reinvested back into the software, so it can be more useful to more people. So you can feel great about being part of the Harvest To Order!
 
 %/accordion%
 
-%accordion%There's no OFN in our country, are we able to get involved with the OFN?%accordion%
+%accordion%There's no Harvest To Order in our country, are we able to get involved with the Harvest To Order?%accordion%
 
-The OFN is operational in Australia and the UK and we have partner organisations getting local OFN’s set-up in the France, Norway, South Africa and Canada. We’re always looking for like-minded and capable international partner organisations to help spread the OFN to more users around the world. Talk to your local food movement about the OFN to see if it could be a solution for producers and enterprises in your region.
+The Harvest To Order is operational in Australia and the UK and we have partner organisations getting local Harvest To Order’s set-up in the France, Norway, South Africa and Canada. We’re always looking for like-minded and capable international partner organisations to help spread the Harvest To Order to more users around the world. Talk to your local food movement about the Harvest To Order to see if it could be a solution for producers and enterprises in your region.
 
 %/accordion%
 
-### Is the OFN suitable for you?
+### Is the Harvest To Order suitable for you?
 %accordion%I am already selling my products directly via an online store I have created.%accordion%
 
-You can create a profile on the OFN which links to your existing store. This will raise the visibility of your enterprise and allows you to connect with the audience on the OFN.
+You can create a profile on the Harvest To Order which links to your existing store. This will raise the visibility of your enterprise and allows you to connect with the audience on the Harvest To Order.
 
-Check out our feature list page, which describes the full functionalities of an OFN shopfront. Our functions and pricing are competitive, so perhaps you’d consider switching to an OFN store, and being part of the OFN movement.
+Check out our feature list page, which describes the full functionalities of an Harvest To Order shopfront. Our functions and pricing are competitive, so perhaps you’d consider switching to an Harvest To Order store, and being part of the Harvest To Order movement.
 
 %/accordion%
 
 %accordion%I'm a wholesaler.%accordion%
 
-As a wholesaler you could certainly get set up on the OFN with a profile, and an online shopfront if that’s what you’re looking for. On the OFN we class enterprises that distribute/sell produce produced by others as “hubs”. This includes wholesalers, as well as lots of other kinds of enterprises, like buying groups, food coops and retailers.
+As a wholesaler you could certainly get set up on the Harvest To Order with a profile, and an online shopfront if that’s what you’re looking for. On the Harvest To Order we class enterprises that distribute/sell produce produced by others as “hubs”. This includes wholesalers, as well as lots of other kinds of enterprises, like buying groups, food coops and retailers.
 
 %/accordion%
 
@@ -46,7 +46,7 @@ As a wholesaler you could certainly get set up on the OFN with a profile, and an
 
 %accordion%We are a Food Collective seeking an ecommerce solution to streamline our order processing.%accordion%
 
-The OFN is designed to make the processes of taking and managing orders and stock easier.  A food collective would be established as a hub on the OFN, with its own shopfront. In contrast to taking order through email or online forms, the OFN’s checkout process is very easy to use for customers, and has the added advantage of generating order reports, which reduces the administration burden for the hub.
+The Harvest To Order is designed to make the processes of taking and managing orders and stock easier.  A food collective would be established as a hub on the Harvest To Order, with its own shopfront. In contrast to taking order through email or online forms, the Harvest To Order’s checkout process is very easy to use for customers, and has the added advantage of generating order reports, which reduces the administration burden for the hub.
 
 %/accordion%
 
@@ -74,7 +74,7 @@ Hubs choose who they source from and who they sell to. They may chose to only so
 
 %accordion%Which farmers will supply a hub?%accordion%
 
-The OFN doesn’t ‘match-make’ hubs with farmers. Rather we make connecting easier, by making it possible for groups to find one another and connect and trade. Check out the OFN map to find producers in your area, and view their profiles to find contact details.
+The Harvest To Order doesn’t ‘match-make’ hubs with farmers. Rather we make connecting easier, by making it possible for groups to find one another and connect and trade. Check out the Harvest To Order map to find producers in your area, and view their profiles to find contact details.
 
 %/accordion%
 
@@ -82,38 +82,38 @@ The OFN doesn’t ‘match-make’ hubs with farmers. Rather we make connecting 
 
 
 
-%accordion%Does the OFN operate hubs?%accordion%
+%accordion%Does the Harvest To Order operate hubs?%accordion%
 
-No the OFN doesn’t actually operate hubs, we just provide the software for enterprises such as food hubs, and producers to use. We do have lots of experience in running food hubs though, so understand the unique challenges and needs facing food distribution enterprises.
-
-%/accordion%
-
-
-### Creating a hub on OFN
-%accordion%How long does it take to set up a hub on the OFN?%accordion%
-
-Each hub is different and set up times will depend on whether they hub is new, or simply transitioning to the OFN. It will also depend on the complexity of their sourcing, sales and distribution activities. Creating profiles for your suppliers who are not on the OFN can take some time, as can adding in your product range. But these are once off tasks, and once complete, administering day to day activities on the OFN is very efficient.
+No the Harvest To Order doesn’t actually operate hubs, we just provide the software for enterprises such as food hubs, and producers to use. We do have lots of experience in running food hubs though, so understand the unique challenges and needs facing food distribution enterprises.
 
 %/accordion%
 
 
-%accordion%What is an OFN profile? What is an OFN shopfront? What's the difference?%accordion%
+### Creating a hub on Harvest To Order
+%accordion%How long does it take to set up a hub on the Harvest To Order?%accordion%
 
-The OFN functions as a directory, advertising platform, and an online marketplace. People can choose which functionalities of the OFN they want to use, according to their needs.
+Each hub is different and set up times will depend on whether they hub is new, or simply transitioning to the Harvest To Order. It will also depend on the complexity of their sourcing, sales and distribution activities. Creating profiles for your suppliers who are not on the Harvest To Order can take some time, as can adding in your product range. But these are once off tasks, and once complete, administering day to day activities on the Harvest To Order is very efficient.
+
+%/accordion%
+
+
+%accordion%What is an Harvest To Order profile? What is an Harvest To Order shopfront? What's the difference?%accordion%
+
+The Harvest To Order functions as a directory, advertising platform, and an online marketplace. People can choose which functionalities of the Harvest To Order they want to use, according to their needs.
 
 1. A Profile.
 
-A profile on the OFN is the simplest option, and offers a way for enterprises to market themselves. The profile can be used to promote your products and services, share your story and provide contact details. A profile makes you visible and contactable to customers and other enterprises who might wish to trade with you.
+A profile on the Harvest To Order is the simplest option, and offers a way for enterprises to market themselves. The profile can be used to promote your products and services, share your story and provide contact details. A profile makes you visible and contactable to customers and other enterprises who might wish to trade with you.
 
 1. A Shopfront
 
-You have the option of adding an OFN shop onto your profile, giving you all the functions needed to run an online store. This includes the online shopfront with full checkout capabilities as well as behind the scenes tools to aid in administration, such as reporting of payments and inventory. The OFN works as a network, so all hubs are connected to the profiles of their supplying producers. It’s also designed to accommodate all different hub models, from the small and simple, to the large and complex.
+You have the option of adding an Harvest To Order shop onto your profile, giving you all the functions needed to run an online store. This includes the online shopfront with full checkout capabilities as well as behind the scenes tools to aid in administration, such as reporting of payments and inventory. The Harvest To Order works as a network, so all hubs are connected to the profiles of their supplying producers. It’s also designed to accommodate all different hub models, from the small and simple, to the large and complex.
 
 %/accordion%
 
-%accordion%Can we embed the OFN in an existing website?%accordion%
+%accordion%Can we embed the Harvest To Order in an existing website?%accordion%
 
-In regards to embedding an OFN shopfront into your existing website, at the moment you can link customers to your OFN shopfront from your website, and then redirect them back to your website after checkout. With lots of features to develop, further embedding hasn’t been a top priority.
+In regards to embedding an Harvest To Order shopfront into your existing website, at the moment you can link customers to your Harvest To Order shopfront from your website, and then redirect them back to your website after checkout. With lots of features to develop, further embedding hasn’t been a top priority.
 
 %/accordion%
 
@@ -159,7 +159,7 @@ There is the option of adding a ‘shopfront message’ to your shop. This messa
 
 %accordion%Can I set a minimum spend amount in my shopfront?%accordion%
 
-OFN doesn’t currently have the option of blocking checkout until a customer’s order reaches a defined threshold. An alternative option is to add a shipping fee with the ‘price sac’ fee calculator. This calculator will apply one fee value if the total is below a given level, and another fee value \(possibly $0\) if the order is over that level.See here.
+Harvest To Order doesn’t currently have the option of blocking checkout until a customer’s order reaches a defined threshold. An alternative option is to add a shipping fee with the ‘price sac’ fee calculator. This calculator will apply one fee value if the total is below a given level, and another fee value \(possibly $0\) if the order is over that level.See here.
 
 %/accordion%
 
@@ -172,13 +172,13 @@ OFN doesn’t currently have the option of blocking checkout until a customer’
 ### Payment and delivery
 %accordion%How does payment work?%accordion%
 
-The OFN doesn’t dictate a payment method, and you can use any arrangement that works for you. Current payment options which are integrated into the checkout process include Paypal, Pin Payments and EFTPOS \(through a payment gateway\). Enterprises can also use manual methods including invoicing, cash on collection and direct deposit.
+The Harvest To Order doesn’t dictate a payment method, and you can use any arrangement that works for you. Current payment options which are integrated into the checkout process include Paypal, Pin Payments and EFTPOS \(through a payment gateway\). Enterprises can also use manual methods including invoicing, cash on collection and direct deposit.
 
 %/accordion%
 
 %accordion%Can I set a minimum spend amount in my shopfront?%accordion%
 
-OFN doesn’t currently have the option of blocking checkout until a customer’s order reaches a defined threshold. An alternative option is to add a shipping fee with the ‘price sac’ fee calculator. This calculator will apply one fee value if the total is below a given level, and another fee value \(possibly $0\) if the order is over that level.See here.
+Harvest To Order doesn’t currently have the option of blocking checkout until a customer’s order reaches a defined threshold. An alternative option is to add a shipping fee with the ‘price sac’ fee calculator. This calculator will apply one fee value if the total is below a given level, and another fee value \(possibly $0\) if the order is over that level.See here.
 
 %/accordion%
 
@@ -189,7 +189,7 @@ OFN doesn’t currently have the option of blocking checkout until a customer’
 
 %accordion%Can I get data about my shops' sales and orders%accordion%
 
-Yes, OFN store operators will receive an email each time an order is placed. Additionally, a number of different reports regarding sales will be downloadable from your store. Including stock management \(inventory, variants, descriptions\), order management and more.
+Yes, Harvest To Order store operators will receive an email each time an order is placed. Additionally, a number of different reports regarding sales will be downloadable from your store. Including stock management \(inventory, variants, descriptions\), order management and more.
 
 %/accordion%
 

@@ -1,12 +1,12 @@
 # Order Cycles \(for Shops\)
 
 {% hint style="warning" %}
-Read on if you're registered as a [Producer Shop](../../../your-quick-start-on-ofn-given-who-you-are.md#shop) and wish to open your own store.
+Read on if you're registered as a [Producer Shop](../../../your-quick-start-on-Harvest To Order-given-who-you-are.md#shop) and wish to open your own store.
 
-Visit this [page](order-cycles-for-hubs.md) if you wish to open an online store for a multi-producer shop front \([hub](../../../your-quick-start-on-ofn-given-who-you-are.md#hub)\).
+Visit this [page](order-cycles-for-hubs.md) if you wish to open an online store for a multi-producer shop front \([hub](../../../your-quick-start-on-Harvest To Order-given-who-you-are.md#hub)\).
 {% endhint %}
 
-In Open Food Network, Order Cycles are where shop managers open their shop. This involves selecting which of their products are in stock, what fees are applied and what dates the shop will open and close.
+In Harvest To Order, Order Cycles are where shop managers open their shop. This involves selecting which of their products are in stock, what fees are applied and what dates the shop will open and close.
 
 **Why use Order Cycles?**  
 Many producers, who are selling small quantities of products, may find it useful to have an order cycle that is perpetually open, and to fulfill orders individually, as they are placed.   
@@ -33,9 +33,9 @@ You will now be redirected to a new screen:
   
 **Name \(**_**required**_**\):** Choose a name for this order cycle. This will only be visible to you, so it can be named anything which is meaningful for you. We recommend that you follow a consistent naming protocol e.g FoodHub\_Week27\_2014.
 
-**Orders Open:** This is the date at which your OFN store will be open, and start to accept orders.
+**Orders Open:** This is the date at which your Harvest To Order store will be open, and start to accept orders.
 
-**Orders Close:** This is the date when your OFN store will close, and stop accepting orders. If you intend to have an order cycle which is continuously open, select a close date which is well into the future.
+**Orders Close:** This is the date when your Harvest To Order store will close, and stop accepting orders. If you intend to have an order cycle which is continuously open, select a close date which is well into the future.
 
 **Schedules:** leave blank unless implementing [Subscriptions](../../subscriptions/).
 

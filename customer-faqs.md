@@ -1,22 +1,22 @@
 # Customer FAQs
 
-%accordion%What are the OFN's transparency features?%accordion%
+%accordion%What are the Harvest To Order's transparency features?%accordion%
 
-Traditional grocery supply chains are shrouded in mystery, making it difficult for customers to know where their food is coming from, how it has been produced, and where their grocery dollar will end up. Transparency is central to the OFN, because we believe that visible supply chains are healthier than those which are hidden. On the OFN, customers can always see where their food has come from and what proportion of the price goes to the farmer.
+Traditional grocery supply chains are shrouded in mystery, making it difficult for customers to know where their food is coming from, how it has been produced, and where their grocery dollar will end up. Transparency is central to the Harvest To Order, because we believe that visible supply chains are healthier than those which are hidden. On the Harvest To Order, customers can always see where their food has come from and what proportion of the price goes to the farmer.
 
 In an online shop, the  pricing pie chart will show you how the price is allocated between the producer and other players like the hub or retailer. You can also see the product properties \(such as certified organic, free range etc\) to know more about how the food was produced.
 
 %/accordion%
 
-%accordion%How does shopping on the OFN bring benefits to farmers, the environment and my local community?%accordion%
+%accordion%How does shopping on the Harvest To Order bring benefits to farmers, the environment and my local community?%accordion%
 
-The OFN makes producers visible again, giving them recognition and a fair price, for their hard work. A food system with more direct trading between farmers and local community enterprises \(instead of multinational corporations\) keeps food dollars in the community’s hands and builds ties and understanding. Shopping local also brings benefits to the environment through lower food miles and more seasonal consumption.
+The Harvest To Order makes producers visible again, giving them recognition and a fair price, for their hard work. A food system with more direct trading between farmers and local community enterprises \(instead of multinational corporations\) keeps food dollars in the community’s hands and builds ties and understanding. Shopping local also brings benefits to the environment through lower food miles and more seasonal consumption.
 
 %/accordion%
 
-%accordion%How is the OFN different to other online food delivery services?%accordion%
+%accordion%How is the Harvest To Order different to other online food delivery services?%accordion%
 
-The OFN is not for profit and committed to building a better and fairer food system. Some online stores still source through conventional supply chains which are shrouded in mystery, but on the OFN you can always see where your food has come from.  The OFN is also contributing to something bigger. The code for the OFN software is free for others to use, so is contributing improving food systems all over the world.
+The Harvest To Order is not for profit and committed to building a better and fairer food system. Some online stores still source through conventional supply chains which are shrouded in mystery, but on the Harvest To Order you can always see where your food has come from.  The Harvest To Order is also contributing to something bigger. The code for the Harvest To Order software is free for others to use, so is contributing improving food systems all over the world.
 
 %/accordion%
 
@@ -40,7 +40,7 @@ All online shops on the ONF are independently operated and offer different shipp
 
 %accordion%What are the payment options?%accordion%
 
-All online shops on the OFN are independently operated and have different payment methods available. Visit a shop to see what options are offered. Most shops with use a mixture of credit card, paypal, Pin Payments, banks transfer or cash.
+All online shops on the Harvest To Order are independently operated and have different payment methods available. Visit a shop to see what options are offered. Most shops with use a mixture of credit card, paypal, Pin Payments, banks transfer or cash.
 
 %/accordion%
 
