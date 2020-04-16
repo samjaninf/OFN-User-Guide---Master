@@ -4,15 +4,15 @@
 
 * From homepage, click on "Login" on the top right corner, then "Sign up" 
 
-![](../.gitbook/assets/loginsetup.jpg)
+![](../../.gitbook/assets/loginsetup.jpg)
 
 * Enter your email address and choose a password.
 * You will receive an email in the next few minutes with a confirmation link. Click on it and you'll be redirected to the login page.  
 * Login
 
-{% hint style="info" %}
-If you don't receive an confirmation email from us promptly it may have gone to your spam/junk box.
-{% endhint %}
+<!--{% hint style="info" %}-->
+?> If you don't receive an confirmation email from us promptly it may have gone to your spam/junk box.
+<!--{% endhint %}-->
 
 ### Create your first "enterprise" account
 
