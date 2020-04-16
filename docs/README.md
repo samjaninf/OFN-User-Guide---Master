@@ -1,3 +1,3 @@
-# Headline
+## User guide for the Harvest To Order website
 
-> An awesome project.
+Using Docsify.js and deployed on netlify
