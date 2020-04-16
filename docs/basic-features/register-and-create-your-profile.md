@@ -4,7 +4,7 @@
 
 * From homepage, click on "Login" on the top right corner, then "Sign up" 
 
-![](../../.gitbook/assets/loginsetup.jpg)
+![](../.gitbook/assets/loginsetup.jpg)
 
 * Enter your email address and choose a password.
 * You will receive an email in the next few minutes with a confirmation link. Click on it and you'll be redirected to the login page.  
