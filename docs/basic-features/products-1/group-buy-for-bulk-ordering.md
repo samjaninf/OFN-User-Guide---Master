@@ -8,7 +8,7 @@ For such enterprises, the decision of whether to order a certain product is depe
 
 When a product is allocated to group buy it will display differently in the shopfront \(see below\), with a double column Min/Max quantity visible:
 
-![](../../.gitbook/assets/group-buy%20%281%29.png)
+![](../assets/group-buy%20%281%29.png)
 
 Customer are asked to indicate:
 
